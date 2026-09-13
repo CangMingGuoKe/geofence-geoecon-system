@@ -1,0 +1,26 @@
+﻿metro_id,metro_name,county_name,state_name,state_fips,county_fips,fips5,gid_2,hasc_2,match_method
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Dutchess County,New York,36,027,36027,USA.33.14_1,US.NY.DU,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Putnam County,New York,36,079,36079,USA.33.41_1,US.NY.PU,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Nassau County,New York,36,059,36059,USA.33.31_1,US.NY.NA,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Suffolk County,New York,36,103,36103,USA.33.53_1,US.NY.SF,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,New Jersey,34,013,34013,USA.31.7_1,US.NJ.ES,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,New Jersey,34,019,34019,USA.31.10_1,US.NJ.HN,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,New Jersey,34,027,34027,USA.31.14_1,US.NJ.MR,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,New Jersey,34,035,34035,USA.31.18_1,US.NJ.SO,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,New Jersey,34,037,34037,USA.31.19_1,US.NJ.SU,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Union County,New Jersey,34,039,34039,USA.31.20_1,US.NJ.UN,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Pike County,Pennsylvania,42,103,42103,USA.39.52_1,US.PA.PI,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,New Jersey,34,003,34003,USA.31.2_1,US.NJ.BE,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,New Jersey,34,017,34017,USA.31.9_1,US.NJ.HD,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,New Jersey,34,023,34023,USA.31.12_1,US.NJ.MI,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,New Jersey,34,025,34025,USA.31.13_1,US.NJ.MN,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,New Jersey,34,029,34029,USA.31.15_1,US.NJ.OC,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,New Jersey,34,031,34031,USA.31.16_1,US.NJ.PA,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Bronx County,New York,36,005,36005,USA.33.3_1,US.NY.BN,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Kings County,New York,36,047,36047,USA.33.24_1,US.NY.KI,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",New York County,New York,36,061,36061,USA.33.32_1,US.NY.NE,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Orange County,New York,36,071,36071,USA.33.37_1,US.NY.OE,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Queens County,New York,36,081,36081,USA.33.42_1,US.NY.QU,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Richmond County,New York,36,085,36085,USA.33.44_1,US.NY.RI,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Rockland County,New York,36,087,36087,USA.33.45_1,US.NY.RO,name_exact
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",Westchester County,New York,36,119,36119,USA.33.61_1,US.NY.WE,name_exact

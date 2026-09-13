@@ -1,0 +1,3 @@
+﻿metro_id,metro_name,cbsa_code,geo_level,state_name,state_fips,county_name,county_fips,fips5,county_name_norm,source_sheet,source_row,def_version,gid_2,hasc_2,type_2,match_method,confidence,candidates
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Baltimore city,510,24510,baltimorecity,North America,307,Global_Cities_Definitions_Oct19,,,,missing,,
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,St. Louis city,510,29510,saintlouiscity,North America,477,Global_Cities_Definitions_Oct19,,,,missing,,

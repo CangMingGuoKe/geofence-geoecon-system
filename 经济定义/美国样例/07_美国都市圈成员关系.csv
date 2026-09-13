@@ -1,0 +1,564 @@
+﻿metro_id,metro_name,cbsa_code,state_name,state_fips,county_name,county_fips,fips5,gid_2,hasc_2,match_method,confidence
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Barrow County,013,13013,USA.11.7_1,US.GA.BW,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Bartow County,015,13015,USA.11.8_1,US.GA.BT,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Butts County,035,13035,USA.11.18_1,US.GA.BU,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Carroll County,045,13045,USA.11.22_1,US.GA.CL,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Cherokee County,057,13057,USA.11.28_1,US.GA.CE,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Clayton County,063,13063,USA.11.31_1,US.GA.CN,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Cobb County,067,13067,USA.11.33_1,US.GA.CB,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Coweta County,077,13077,USA.11.38_1,US.GA.CA,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Dawson County,085,13085,USA.11.42_1,US.GA.DW,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,DeKalb County,089,13089,USA.11.44_1,US.GA.DA,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Douglas County,097,13097,USA.11.48_1,US.GA.DL,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Fayette County,113,13113,USA.11.56_1,US.GA.FY,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Forsyth County,117,13117,USA.11.58_1,US.GA.FO,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Fulton County,121,13121,USA.11.60_1,US.GA.FU,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Gwinnett County,135,13135,USA.11.67_1,US.GA.GW,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Haralson County,143,13143,USA.11.71_1,US.GA.HS,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Heard County,149,13149,USA.11.74_1,US.GA.HD,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Henry County,151,13151,USA.11.75_1,US.GA.HY,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Jasper County,159,13159,USA.11.79_1,US.GA.JS,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Lamar County,171,13171,USA.11.85_1,US.GA.LM,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Meriwether County,199,13199,USA.11.99_1,US.GA.MW,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Morgan County,211,13211,USA.11.104_1,US.GA.MO,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Newton County,217,13217,USA.11.107_1,US.GA.NE,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Paulding County,223,13223,USA.11.110_1,US.GA.PA,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Pickens County,227,13227,USA.11.112_1,US.GA.PE,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Pike County,231,13231,USA.11.114_1,US.GA.PK,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Rockdale County,247,13247,USA.11.122_1,US.GA.RO,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Spalding County,255,13255,USA.11.126_1,US.GA.SD,name_exact,high
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Georgia,13,Walton County,297,13297,USA.11.147_1,US.GA.WA,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Anne Arundel County,003,24003,USA.21.2_1,US.MD.AN,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Baltimore County,005,24005,USA.21.3_1,US.MD.BA,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Carroll County,013,24013,USA.21.6_1,US.MD.CR,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Harford County,025,24025,USA.21.12_1,US.MD.HA,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Howard County,027,24027,USA.21.13_1,US.MD.HO,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Queen Anne's County,035,24035,USA.21.17_1,US.MD.QU,name_exact,high
+USM02,"Baltimore-Columbia-Towson, MD",12580,Maryland,24,Baltimore city,510,24510,,,missing,
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Massachusetts,25,Norfolk County,021,25021,USA.22.11_1,US.MA.NO,name_exact,high
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Massachusetts,25,Plymouth County,023,25023,USA.22.12_1,US.MA.PL,name_exact,high
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Massachusetts,25,Suffolk County,025,25025,USA.22.13_1,US.MA.SU,name_exact,high
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Massachusetts,25,Essex County,009,25009,USA.22.5_1,US.MA.ES,name_exact,high
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Massachusetts,25,Middlesex County,017,25017,USA.22.9_1,US.MA.MI,name_exact,high
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,New Hampshire,33,Rockingham County,015,33015,USA.30.8_1,US.NH.RO,name_exact,high
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,New Hampshire,33,Strafford County,017,33017,USA.30.9_1,US.NH.ST,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Cabarrus County,025,37025,USA.34.13_1,US.NC.CR,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Gaston County,071,37071,USA.34.36_1,US.NC.GS,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Iredell County,097,37097,USA.34.49_1,US.NC.IR,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Lincoln County,109,37109,USA.34.55_1,US.NC.LI,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Mecklenburg County,119,37119,USA.34.60_1,US.NC.MB,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Rowan County,159,37159,USA.34.80_1,US.NC.RW,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,North Carolina,37,Union County,179,37179,USA.34.90_1,US.NC.UN,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,South Carolina,45,Chester County,023,45023,USA.41.12_1,US.SC.CR,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,South Carolina,45,Lancaster County,057,45057,USA.41.29_1,US.SC.LN,name_exact,high
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,South Carolina,45,York County,091,45091,USA.41.46_1,US.SC.YO,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,Cook County,031,17031,USA.14.16_1,US.IL.CO,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,DuPage County,043,17043,USA.14.22_1,US.IL.DU,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,Grundy County,063,17063,USA.14.32_1,US.IL.GU,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,Kendall County,093,17093,USA.14.47_1,US.IL.KA,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,McHenry County,111,17111,USA.14.64_1,US.IL.MY,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,Will County,197,17197,USA.14.100_1,US.IL.WL,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,DeKalb County,037,17037,USA.14.19_1,US.IL.DK,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,Kane County,089,17089,USA.14.45_1,US.IL.KE,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Indiana,18,Jasper County,073,18073,USA.15.37_1,US.IN.JS,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Indiana,18,Lake County,089,18089,USA.15.45_1,US.IN.LK,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Indiana,18,Newton County,111,18111,USA.15.57_1,US.IN.NE,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Indiana,18,Porter County,127,18127,USA.15.65_1,US.IN.PR,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Illinois,17,Lake County,097,17097,USA.14.50_1,US.IL.LK,name_exact,high
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Wisconsin,55,Kenosha County,059,55059,USA.50.30_1,US.WI.KN,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Collin County,085,48085,USA.44.43_1,US.TX.CI,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Dallas County,113,48113,USA.44.57_1,US.TX.DS,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Denton County,121,48121,USA.44.61_1,US.TX.DN,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Ellis County,139,48139,USA.44.71_1,US.TX.EI,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Hunt County,231,48231,USA.44.116_1,US.TX.HT,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Kaufman County,257,48257,USA.44.129_1,US.TX.KU,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Rockwall County,397,48397,USA.44.199_1,US.TX.RC,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Hood County,221,48221,USA.44.111_1,US.TX.HO,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Johnson County,251,48251,USA.44.126_1,US.TX.JH,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Parker County,367,48367,USA.44.184_1,US.TX.PR,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Somervell County,425,48425,USA.44.213_1,US.TX.SV,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Tarrant County,439,48439,USA.44.220_1,US.TX.TN,name_exact,high
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Texas,48,Wise County,497,48497,USA.44.249_1,US.TX.WE,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Adams County,001,08001,USA.6.1_1,US.CO.AD,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Arapahoe County,005,08005,USA.6.3_1,US.CO.AA,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Broomfield County,014,08014,USA.6.8_1,US.CO.BR,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Clear Creek County,019,08019,USA.6.11_1,US.CO.CL,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Denver County,031,08031,USA.6.17_1,US.CO.DN,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Douglas County,035,08035,USA.6.19_1,US.CO.DU,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Elbert County,039,08039,USA.6.22_1,US.CO.EB,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Gilpin County,047,08047,USA.6.25_1,US.CO.GI,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Jefferson County,059,08059,USA.6.31_1,US.CO.JE,name_exact,high
+USM07,"Denver-Aurora-Lakewood, CO",19740,Colorado,08,Park County,093,08093,USA.6.48_1,US.CO.PA,name_exact,high
+USM08,"Detroit-Warren-Dearborn, MI",19820,Michigan,26,Wayne County,163,26163,USA.23.86_1,US.MI.WY,name_exact,high
+USM08,"Detroit-Warren-Dearborn, MI",19820,Michigan,26,Lapeer County,087,26087,USA.23.48_1,US.MI.LP,name_exact,high
+USM08,"Detroit-Warren-Dearborn, MI",19820,Michigan,26,Livingston County,093,26093,USA.23.51_1,US.MI.LI,name_exact,high
+USM08,"Detroit-Warren-Dearborn, MI",19820,Michigan,26,Macomb County,099,26099,USA.23.54_1,US.MI.MB,name_exact,high
+USM08,"Detroit-Warren-Dearborn, MI",19820,Michigan,26,Oakland County,125,26125,USA.23.67_1,US.MI.OD,name_exact,high
+USM08,"Detroit-Warren-Dearborn, MI",19820,Michigan,26,St. Clair County,147,26147,USA.23.78_1,US.MI.SA,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Austin County,015,48015,USA.44.8_1,US.TX.AU,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Brazoria County,039,48039,USA.44.20_1,US.TX.BI,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Chambers County,071,48071,USA.44.36_1,US.TX.CH,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Fort Bend County,157,48157,USA.44.79_1,US.TX.FR,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Galveston County,167,48167,USA.44.84_1,US.TX.GV,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Harris County,201,48201,USA.44.101_1,US.TX.RR,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Liberty County,291,48291,USA.44.146_1,US.TX.LT,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Montgomery County,339,48339,USA.44.170_1,US.TX.MG,name_exact,high
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Texas,48,Waller County,473,48473,USA.44.237_1,US.TX.WR,name_exact,high
+USM10,"Los Angeles-Long Beach-Anaheim, CA",31080,California,06,Orange County,059,06059,USA.5.30_1,US.CA.OR,name_exact,high
+USM10,"Los Angeles-Long Beach-Anaheim, CA",31080,California,06,Los Angeles County,037,06037,USA.5.19_1,US.CA.LO,name_exact,high
+USM100,"Charleston-North Charleston, SC",16700,South Carolina,45,Berkeley County,015,45015,USA.41.8_1,US.SC.BK,name_exact,high
+USM100,"Charleston-North Charleston, SC",16700,South Carolina,45,Charleston County,019,45019,USA.41.10_1,US.SC.CS,name_exact,high
+USM100,"Charleston-North Charleston, SC",16700,South Carolina,45,Dorchester County,035,45035,USA.41.18_1,US.SC.DO,name_exact,high
+USM101,"Akron, OH",10420,Ohio,39,Portage County,133,39133,USA.36.68_1,US.OH.PO,name_exact,high
+USM101,"Akron, OH",10420,Ohio,39,Summit County,153,39153,USA.36.78_1,US.OH.SU,name_exact,high
+USM102,"Colorado Springs, CO",17820,Colorado,08,El Paso County,041,08041,USA.6.21_1,US.CO.EL,name_exact,high
+USM102,"Colorado Springs, CO",17820,Colorado,08,Teller County,119,08119,USA.6.61_1,US.CO.TE,name_exact,high
+USM103,"Cape Coral-Fort Myers, FL",15980,Florida,12,Lee County,071,12071,USA.10.35_1,US.FL.LE,name_exact,high
+USM104,"Boise City, ID",14260,Idaho,16,Ada County,001,16001,USA.13.1_1,US.ID.AA,name_exact,high
+USM104,"Boise City, ID",14260,Idaho,16,Boise County,015,16015,USA.13.8_1,US.ID.BS,name_exact,high
+USM104,"Boise City, ID",14260,Idaho,16,Canyon County,027,16027,USA.13.14_1,US.ID.CN,name_exact,high
+USM104,"Boise City, ID",14260,Idaho,16,Gem County,045,16045,USA.13.23_1,US.ID.GE,name_exact,high
+USM104,"Boise City, ID",14260,Idaho,16,Owyhee County,073,16073,USA.13.37_1,US.ID.OW,name_exact,high
+USM105,"Syracuse, NY",45060,New York,36,Madison County,053,36053,USA.33.28_1,US.NY.MA,name_exact,high
+USM105,"Syracuse, NY",45060,New York,36,Onondaga County,067,36067,USA.33.35_1,US.NY.OG,name_exact,high
+USM105,"Syracuse, NY",45060,New York,36,Oswego County,075,36075,USA.33.39_1,US.NY.OS,name_exact,high
+USM106,"Winston-Salem, NC",49180,North Carolina,37,Davidson County,057,37057,USA.34.29_1,US.NC.DD,name_exact,high
+USM106,"Winston-Salem, NC",49180,North Carolina,37,Davie County,059,37059,USA.34.30_1,US.NC.DV,name_exact,high
+USM106,"Winston-Salem, NC",49180,North Carolina,37,Forsyth County,067,37067,USA.34.34_1,US.NC.FO,name_exact,high
+USM106,"Winston-Salem, NC",49180,North Carolina,37,Stokes County,169,37169,USA.34.85_1,US.NC.SO,name_exact,high
+USM106,"Winston-Salem, NC",49180,North Carolina,37,Yadkin County,197,37197,USA.34.99_1,US.NC.YD,name_exact,high
+USM107,"Wichita, KS",48620,Kansas,20,Butler County,015,20015,USA.17.8_1,US.KS.BU,name_exact,high
+USM107,"Wichita, KS",48620,Kansas,20,Harvey County,079,20079,USA.17.40_1,US.KS.HV,name_exact,high
+USM107,"Wichita, KS",48620,Kansas,20,Kingman County,095,20095,USA.17.48_1,US.KS.KM,name_exact,high
+USM107,"Wichita, KS",48620,Kansas,20,Sedgwick County,173,20173,USA.17.87_1,US.KS.SG,name_exact,high
+USM107,"Wichita, KS",48620,Kansas,20,Sumner County,191,20191,USA.17.96_1,US.KS.SU,name_exact,high
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Florida,12,Broward County,011,12011,USA.10.6_1,US.FL.BO,name_exact,high
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Florida,12,Miami-Dade County,086,12086,USA.10.43_1,US.FL.DA,name_exact,high
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Florida,12,Palm Beach County,099,12099,USA.10.50_1,US.FL.PL,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Anoka County,003,27003,USA.24.2_1,US.MN.AN,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Carver County,019,27019,USA.24.10_1,US.MN.CV,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Chisago County,025,27025,USA.24.13_1,US.MN.CG,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Dakota County,037,27037,USA.24.19_1,US.MN.DA,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Hennepin County,053,27053,USA.24.27_1,US.MN.HE,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Isanti County,059,27059,USA.24.30_1,US.MN.IS,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Le Sueur County,079,27079,USA.24.41_1,US.MN.LU,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Mille Lacs County,095,27095,USA.24.49_1,US.MN.MI,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Ramsey County,123,27123,USA.24.63_1,US.MN.RA,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Scott County,139,27139,USA.24.71_1,US.MN.SC,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Sherburne County,141,27141,USA.24.72_1,US.MN.SH,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Sibley County,143,27143,USA.24.73_1,US.MN.SI,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Washington County,163,27163,USA.24.83_1,US.MN.WH,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Minnesota,27,Wright County,171,27171,USA.24.87_1,US.MN.WR,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Wisconsin,55,Pierce County,093,55093,USA.50.50_1,US.WI.PI,name_exact,high
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Wisconsin,55,St. Croix County,109,55109,USA.50.58_1,US.WI.SI,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Dutchess County,027,36027,USA.33.14_1,US.NY.DU,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Putnam County,079,36079,USA.33.41_1,US.NY.PU,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Nassau County,059,36059,USA.33.31_1,US.NY.NA,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Suffolk County,103,36103,USA.33.53_1,US.NY.SF,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Essex County,013,34013,USA.31.7_1,US.NJ.ES,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Hunterdon County,019,34019,USA.31.10_1,US.NJ.HN,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Morris County,027,34027,USA.31.14_1,US.NJ.MR,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Somerset County,035,34035,USA.31.18_1,US.NJ.SO,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Sussex County,037,34037,USA.31.19_1,US.NJ.SU,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Union County,039,34039,USA.31.20_1,US.NJ.UN,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Pennsylvania,42,Pike County,103,42103,USA.39.52_1,US.PA.PI,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Bergen County,003,34003,USA.31.2_1,US.NJ.BE,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Hudson County,017,34017,USA.31.9_1,US.NJ.HD,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Middlesex County,023,34023,USA.31.12_1,US.NJ.MI,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Monmouth County,025,34025,USA.31.13_1,US.NJ.MN,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Ocean County,029,34029,USA.31.15_1,US.NJ.OC,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New Jersey,34,Passaic County,031,34031,USA.31.16_1,US.NJ.PA,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Bronx County,005,36005,USA.33.3_1,US.NY.BN,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Kings County,047,36047,USA.33.24_1,US.NY.KI,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,New York County,061,36061,USA.33.32_1,US.NY.NE,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Orange County,071,36071,USA.33.37_1,US.NY.OE,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Queens County,081,36081,USA.33.42_1,US.NY.QU,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Richmond County,085,36085,USA.33.44_1,US.NY.RI,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Rockland County,087,36087,USA.33.45_1,US.NY.RO,name_exact,high
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,New York,36,Westchester County,119,36119,USA.33.61_1,US.NY.WE,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,New Jersey,34,Burlington County,005,34005,USA.31.3_1,US.NJ.BU,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,New Jersey,34,Camden County,007,34007,USA.31.4_1,US.NJ.CM,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,New Jersey,34,Gloucester County,015,34015,USA.31.8_1,US.NJ.GL,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Pennsylvania,42,Bucks County,017,42017,USA.39.9_1,US.PA.BC,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Pennsylvania,42,Chester County,029,42029,USA.39.15_1,US.PA.CH,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Pennsylvania,42,Montgomery County,091,42091,USA.39.46_1,US.PA.MG,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Pennsylvania,42,Delaware County,045,42045,USA.39.23_1,US.PA.DE,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Pennsylvania,42,Philadelphia County,101,42101,USA.39.51_1,US.PA.PH,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Delaware,10,New Castle County,003,10003,USA.8.2_1,US.DE.NE,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Maryland,24,Cecil County,015,24015,USA.21.7_1,US.MD.CE,name_exact,high
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,New Jersey,34,Salem County,033,34033,USA.31.17_1,US.NJ.SA,name_exact,high
+USM15,"Phoenix-Mesa-Scottsdale, AZ",38060,Arizona,04,Maricopa County,013,04013,USA.3.8_1,US.AZ.MA,name_exact,high
+USM15,"Phoenix-Mesa-Scottsdale, AZ",38060,Arizona,04,Pinal County,021,04021,USA.3.12_1,US.AZ.PN,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Allegheny County,003,42003,USA.39.2_1,US.PA.AL,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Armstrong County,005,42005,USA.39.3_1,US.PA.AR,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Beaver County,007,42007,USA.39.4_1,US.PA.BA,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Butler County,019,42019,USA.39.10_1,US.PA.BT,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Fayette County,051,42051,USA.39.26_1,US.PA.FA,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Washington County,125,42125,USA.39.63_1,US.PA.WS,name_exact,high
+USM16,"Pittsburgh, PA",38300,Pennsylvania,42,Westmoreland County,129,42129,USA.39.65_1,US.PA.WE,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Oregon,41,Clackamas County,005,41005,USA.38.3_1,US.OR.CC,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Oregon,41,Columbia County,009,41009,USA.38.5_1,US.OR.CL,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Oregon,41,Multnomah County,051,41051,USA.38.26_1,US.OR.MU,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Oregon,41,Washington County,067,41067,USA.38.34_1,US.OR.WI,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Oregon,41,Yamhill County,071,41071,USA.38.36_1,US.OR.YA,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Washington,53,Clark County,011,53011,USA.48.6_1,US.WA.CR,name_exact,high
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Washington,53,Skamania County,059,53059,USA.48.30_1,US.WA.SM,name_exact,high
+USM18,"Riverside-San Bernardino-Ontario, CA",40140,California,06,Riverside County,065,06065,USA.5.33_1,US.CA.RI,name_exact,high
+USM18,"Riverside-San Bernardino-Ontario, CA",40140,California,06,San Bernardino County,071,06071,USA.5.36_1,US.CA.SA,name_exact,high
+USM19,"San Diego-Carlsbad, CA",41740,California,06,San Diego County,073,06073,USA.5.37_1,US.CA.SD,name_exact,high
+USM20,"San Francisco-Oakland-Hayward, CA",41860,California,06,Alameda County,001,06001,USA.5.1_1,US.CA.AA,name_exact,high
+USM20,"San Francisco-Oakland-Hayward, CA",41860,California,06,Contra Costa County,013,06013,USA.5.7_1,US.CA.CN,name_exact,high
+USM20,"San Francisco-Oakland-Hayward, CA",41860,California,06,San Francisco County,075,06075,USA.5.38_1,US.CA.SF,name_exact,high
+USM20,"San Francisco-Oakland-Hayward, CA",41860,California,06,San Mateo County,081,06081,USA.5.41_1,US.CA.SM,name_exact,high
+USM20,"San Francisco-Oakland-Hayward, CA",41860,California,06,Marin County,041,06041,USA.5.21_1,US.CA.MN,name_exact,high
+USM21,"San Jose-Sunnyvale-Santa Clara, CA",41940,California,06,San Benito County,069,06069,USA.5.35_1,US.CA.SI,name_exact,high
+USM21,"San Jose-Sunnyvale-Santa Clara, CA",41940,California,06,Santa Clara County,085,06085,USA.5.43_1,US.CA.SL,name_exact,high
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,Washington,53,King County,033,53033,USA.48.17_1,US.WA.KN,name_exact,high
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,Washington,53,Snohomish County,061,53061,USA.48.31_1,US.WA.SN,name_exact,high
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,Washington,53,Pierce County,053,53053,USA.48.27_1,US.WA.PI,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Bond County,005,17005,USA.14.3_1,US.IL.BN,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Calhoun County,013,17013,USA.14.7_1,US.IL.CH,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Clinton County,027,17027,USA.14.14_1,US.IL.CN,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Jersey County,083,17083,USA.14.42_1,US.IL.JR,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Macoupin County,117,17117,USA.14.57_1,US.IL.MP,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Madison County,119,17119,USA.14.58_1,US.IL.MD,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,Monroe County,133,17133,USA.14.68_1,US.IL.MR,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Illinois,17,St. Clair County,163,17163,USA.14.83_1,US.IL.SI,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,Franklin County,071,29071,USA.26.36_1,US.MO.FR,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,Jefferson County,099,29099,USA.26.50_1,US.MO.JE,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,Lincoln County,113,29113,USA.26.57_1,US.MO.LO,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,St. Charles County,183,29183,USA.26.92_1,US.MO.SA,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,St. Louis County,189,29189,USA.26.95_1,US.MO.SL,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,Warren County,219,29219,USA.26.109_1,US.MO.WR,name_exact,high
+USM23,"St. Louis, MO-IL",41180,Missouri,29,St. Louis city,510,29510,,,missing,
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Florida,12,Hernando County,053,12053,USA.10.26_1,US.FL.HA,name_exact,high
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Florida,12,Hillsborough County,057,12057,USA.10.28_1,US.FL.HL,name_exact,high
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Florida,12,Pasco County,101,12101,USA.10.51_1,US.FL.PS,name_exact,high
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Florida,12,Pinellas County,103,12103,USA.10.52_1,US.FL.PI,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Maryland,24,Frederick County,021,24021,USA.21.10_1,US.MD.FR,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Maryland,24,Montgomery County,031,24031,USA.21.15_1,US.MD.MO,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,District of Columbia,11,District of Columbia,001,11001,USA.9.1_1,US.DC.DI,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Maryland,24,Calvert County,009,24009,USA.21.4_1,US.MD.CL,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Maryland,24,Charles County,017,24017,USA.21.8_1,US.MD.CH,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Maryland,24,Prince George's County,033,24033,USA.21.16_1,US.MD.PR,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Arlington County,013,51013,USA.47.8_1,US.VA.AR,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Clarke County,043,51043,USA.47.28_1,US.VA.CK,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Culpeper County,047,51047,USA.47.33_1,US.VA.CP,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Fairfax County,059,51059,USA.47.40_1,US.VA.FC,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Fauquier County,061,51061,USA.47.43_1,US.VA.FQ,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Loudoun County,107,51107,USA.47.72_1,US.VA.LD,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Prince William County,153,51153,USA.47.102_1,US.VA.PW,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Rappahannock County,157,51157,USA.47.105_1,US.VA.RP,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Spotsylvania County,177,51177,USA.47.117_1,US.VA.SP,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Stafford County,179,51179,USA.47.118_1,US.VA.SF,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Warren County,187,51187,USA.47.125_1,US.VA.WR,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Alexandria city,510,51510,USA.47.3_1,US.VA.AX,type_aware,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Fairfax city,600,51600,USA.47.41_1,US.VA.FC,name_exact,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Falls Church city,610,51610,USA.47.42_1,US.VA.FU,type_aware,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Fredericksburg city,630,51630,USA.47.48_1,US.VA.FB,type_aware,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Manassas city,683,51683,USA.47.77_1,US.VA.MS,type_aware,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Virginia,51,Manassas Park city,685,51685,USA.47.78_1,US.VA.MP,type_aware,high
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,West Virginia,54,Jefferson County,037,54037,USA.49.19_1,US.WV.JE,name_exact,high
+USM26,"Cleveland-Elyria, OH",17460,Ohio,39,Cuyahoga County,035,39035,USA.36.18_1,US.OH.CU,name_exact,high
+USM26,"Cleveland-Elyria, OH",17460,Ohio,39,Geauga County,055,39055,USA.36.28_1,US.OH.GE,name_exact,high
+USM26,"Cleveland-Elyria, OH",17460,Ohio,39,Lake County,085,39085,USA.36.43_1,US.OH.LK,name_exact,high
+USM26,"Cleveland-Elyria, OH",17460,Ohio,39,Lorain County,093,39093,USA.36.48_1,US.OH.LR,name_exact,high
+USM26,"Cleveland-Elyria, OH",17460,Ohio,39,Medina County,103,39103,USA.36.53_1,US.OH.MD,name_exact,high
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Florida,12,Lake County,069,12069,USA.10.34_1,US.FL.LK,name_exact,high
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Florida,12,Orange County,095,12095,USA.10.48_1,US.FL.OR,name_exact,high
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Florida,12,Osceola County,097,12097,USA.10.49_1,US.FL.OS,name_exact,high
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Florida,12,Seminole County,117,12117,USA.10.59_1,US.FL.SE,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Kansas,20,Johnson County,091,20091,USA.17.46_1,US.KS.JO,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Kansas,20,Leavenworth County,103,20103,USA.17.52_1,US.KS.LV,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Kansas,20,Linn County,107,20107,USA.17.54_1,US.KS.LN,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Kansas,20,Miami County,121,20121,USA.17.61_1,US.KS.MI,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Kansas,20,Wyandotte County,209,20209,USA.17.105_1,US.KS.WY,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Bates County,013,29013,USA.26.7_1,US.MO.BS,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Caldwell County,025,29025,USA.26.13_1,US.MO.CW,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Cass County,037,29037,USA.26.19_1,US.MO.CS,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Clay County,047,29047,USA.26.24_1,US.MO.CY,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Clinton County,049,29049,USA.26.25_1,US.MO.CO,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Jackson County,095,29095,USA.26.48_1,US.MO.JC,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Lafayette County,107,29107,USA.26.54_1,US.MO.LF,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Platte County,165,29165,USA.26.83_1,US.MO.PT,name_exact,high
+USM28,"Kansas City, MO-KS",28140,Missouri,29,Ray County,177,29177,USA.26.89_1,US.MO.RY,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Indiana,18,Dearborn County,029,18029,USA.15.16_1,US.IN.DR,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Indiana,18,Ohio County,115,18115,USA.15.59_1,US.IN.OH,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Indiana,18,Union County,161,18161,USA.15.82_1,US.IN.UN,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Boone County,015,21015,USA.18.8_1,US.KY.BO,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Bracken County,023,21023,USA.18.12_1,US.KY.BK,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Campbell County,037,21037,USA.18.19_1,US.KY.CM,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Gallatin County,077,21077,USA.18.39_1,US.KY.GL,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Grant County,081,21081,USA.18.41_1,US.KY.GT,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Kenton County,117,21117,USA.18.59_1,US.KY.KE,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Kentucky,21,Pendleton County,191,21191,USA.18.96_1,US.KY.PN,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Ohio,39,Brown County,015,39015,USA.36.8_1,US.OH.BR,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Ohio,39,Butler County,017,39017,USA.36.9_1,US.OH.BU,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Ohio,39,Clermont County,025,39025,USA.36.13_1,US.OH.CE,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Ohio,39,Hamilton County,061,39061,USA.36.31_1,US.OH.HM,name_exact,high
+USM29,"Cincinnati, OH-KY-IN",17140,Ohio,39,Warren County,165,39165,USA.36.84_1,US.OH.WR,name_exact,high
+USM30,"Las Vegas-Henderson-Paradise, NV",29820,Nevada,32,Clark County,003,32003,USA.29.3_1,US.NV.CL,name_exact,high
+USM31,"Austin-Round Rock, TX",12420,Texas,48,Bastrop County,021,48021,USA.44.11_1,US.TX.BP,name_exact,high
+USM31,"Austin-Round Rock, TX",12420,Texas,48,Caldwell County,055,48055,USA.44.28_1,US.TX.CW,name_exact,high
+USM31,"Austin-Round Rock, TX",12420,Texas,48,Hays County,209,48209,USA.44.105_1,US.TX.HY,name_exact,high
+USM31,"Austin-Round Rock, TX",12420,Texas,48,Travis County,453,48453,USA.44.227_1,US.TX.TV,name_exact,high
+USM31,"Austin-Round Rock, TX",12420,Texas,48,Williamson County,491,48491,USA.44.246_1,US.TX.WM,name_exact,high
+USM32,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,New York,36,Erie County,029,36029,USA.33.15_1,US.NY.ER,name_exact,high
+USM32,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,New York,36,Niagara County,063,36063,USA.33.33_1,US.NY.NI,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Delaware County,041,39041,USA.36.21_1,US.OH.DL,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Fairfield County,045,39045,USA.36.23_1,US.OH.FI,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Franklin County,049,39049,USA.36.25_1,US.OH.FR,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Hocking County,073,39073,USA.36.37_1,US.OH.HC,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Licking County,089,39089,USA.36.46_1,US.OH.LI,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Madison County,097,39097,USA.36.50_1,US.OH.MO,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Morrow County,117,39117,USA.36.60_1,US.OH.MW,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Perry County,127,39127,USA.36.65_1,US.OH.PE,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Pickaway County,129,39129,USA.36.66_1,US.OH.PC,name_exact,high
+USM33,"Columbus, OH",18140,Ohio,39,Union County,159,39159,USA.36.81_1,US.OH.UN,name_exact,high
+USM34,"El Paso, TX",21340,Texas,48,El Paso County,141,48141,USA.44.70_1,US.TX.EP,name_exact,high
+USM34,"El Paso, TX",21340,Texas,48,Hudspeth County,229,48229,USA.44.115_1,US.TX.HU,name_exact,high
+USM35,"Urban Honolulu, HI",46520,Hawaii,15,Honolulu County,003,15003,USA.12.2_1,US.HI.HO,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Boone County,011,18011,USA.15.6_1,US.IN.BO,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Brown County,013,18013,USA.15.7_1,US.IN.BR,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Hamilton County,057,18057,USA.15.29_1,US.IN.HM,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Hancock County,059,18059,USA.15.30_1,US.IN.HC,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Hendricks County,063,18063,USA.15.32_1,US.IN.HD,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Johnson County,081,18081,USA.15.41_1,US.IN.JO,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Madison County,095,18095,USA.15.49_1,US.IN.MD,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Marion County,097,18097,USA.15.50_1,US.IN.MO,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Morgan County,109,18109,USA.15.56_1,US.IN.MG,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Putnam County,133,18133,USA.15.68_1,US.IN.PT,name_exact,high
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Indiana,18,Shelby County,145,18145,USA.15.74_1,US.IN.SH,name_exact,high
+USM37,"Jacksonville, FL",27260,Florida,12,Baker County,003,12003,USA.10.2_1,US.FL.BK,name_exact,high
+USM37,"Jacksonville, FL",27260,Florida,12,Clay County,019,12019,USA.10.10_1,US.FL.CY,name_exact,high
+USM37,"Jacksonville, FL",27260,Florida,12,Duval County,031,12031,USA.10.15_1,US.FL.DU,name_exact,high
+USM37,"Jacksonville, FL",27260,Florida,12,Nassau County,089,12089,USA.10.45_1,US.FL.NA,name_exact,high
+USM37,"Jacksonville, FL",27260,Florida,12,St. Johns County,109,12109,USA.10.55_1,US.FL.SJ,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Indiana,18,Clark County,019,18019,USA.15.10_1,US.IN.CK,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Indiana,18,Floyd County,043,18043,USA.15.22_1,US.IN.FL,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Indiana,18,Harrison County,061,18061,USA.15.31_1,US.IN.HI,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Indiana,18,Scott County,143,18143,USA.15.73_1,US.IN.SC,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Indiana,18,Washington County,175,18175,USA.15.89_1,US.IN.WS,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Bullitt County,029,21029,USA.18.15_1,US.KY.BI,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Henry County,103,21103,USA.18.52_1,US.KY.HY,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Jefferson County,111,21111,USA.18.56_1,US.KY.JF,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Oldham County,185,21185,USA.18.93_1,US.KY.OL,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Shelby County,211,21211,USA.18.106_1,US.KY.SH,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Spencer County,215,21215,USA.18.108_1,US.KY.SP,name_exact,high
+USM38,"Louisville/Jefferson County, KY-IN",31140,Kentucky,21,Trimble County,223,21223,USA.18.112_1,US.KY.TM,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Arkansas,05,Crittenden County,035,05035,USA.4.18_1,US.AR.CD,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Mississippi,28,Benton County,009,28009,USA.25.5_1,US.MS.BE,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Mississippi,28,DeSoto County,033,28033,USA.25.17_1,US.MS.DE,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Mississippi,28,Marshall County,093,28093,USA.25.47_1,US.MS.MS,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Mississippi,28,Tate County,137,28137,USA.25.69_1,US.MS.TT,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Mississippi,28,Tunica County,143,28143,USA.25.72_1,US.MS.TU,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Tennessee,47,Fayette County,047,47047,USA.43.24_1,US.TN.FA,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Tennessee,47,Shelby County,157,47157,USA.43.79_1,US.TN.SY,name_exact,high
+USM39,"Memphis, TN-MS-AR",32820,Tennessee,47,Tipton County,167,47167,USA.43.84_1,US.TN.TI,name_exact,high
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Wisconsin,55,Milwaukee County,079,55079,USA.50.43_1,US.WI.MU,name_exact,high
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Wisconsin,55,Ozaukee County,089,55089,USA.50.48_1,US.WI.OZ,name_exact,high
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Wisconsin,55,Washington County,131,55131,USA.50.69_1,US.WI.WN,name_exact,high
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Wisconsin,55,Waukesha County,133,55133,USA.50.70_1,US.WI.WK,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Cannon County,015,47015,USA.43.8_1,US.TN.CN,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Cheatham County,021,47021,USA.43.11_1,US.TN.CA,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Davidson County,037,47037,USA.43.19_1,US.TN.DA,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Dickson County,043,47043,USA.43.22_1,US.TN.DI,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Hickman County,081,47081,USA.43.41_1,US.TN.HN,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Macon County,111,47111,USA.43.54_1,US.TN.MC,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Maury County,119,47119,USA.43.58_1,US.TN.MU,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Robertson County,147,47147,USA.43.74_1,US.TN.RB,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Rutherford County,149,47149,USA.43.75_1,US.TN.RU,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Smith County,159,47159,USA.43.80_1,US.TN.SH,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Sumner County,165,47165,USA.43.83_1,US.TN.SN,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Trousdale County,169,47169,USA.43.85_1,US.TN.TR,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Williamson County,187,47187,USA.43.94_1,US.TN.WL,name_exact,high
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Tennessee,47,Wilson County,189,47189,USA.43.95_1,US.TN.WO,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,Jefferson Parish,051,22051,USA.19.26_1,US.LA.JF,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,Orleans Parish,071,22071,USA.19.36_1,US.LA.OR,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,Plaquemines Parish,075,22075,USA.19.38_1,US.LA.PL,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,St. Bernard Parish,087,22087,USA.19.44_1,US.LA.SE,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,St. Charles Parish,089,22089,USA.19.45_1,US.LA.SC,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,St. James Parish,093,22093,USA.19.47_1,US.LA.SJ,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,St. John the Baptist Parish,095,22095,USA.19.48_1,US.LA.SO,name_exact,high
+USM42,"New Orleans-Metairie, LA",35380,Louisiana,22,St. Tammany Parish,103,22103,USA.19.52_1,US.LA.ST,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,Canadian County,017,40017,USA.37.9_1,US.OK.CN,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,Cleveland County,027,40027,USA.37.14_1,US.OK.CV,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,Grady County,051,40051,USA.37.26_1,US.OK.GD,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,Lincoln County,081,40081,USA.37.41_1,US.OK.LI,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,Logan County,083,40083,USA.37.42_1,US.OK.LG,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,McClain County,087,40087,USA.37.47_1,US.OK.ML,name_exact,high
+USM43,"Oklahoma City, OK",36420,Oklahoma,40,Oklahoma County,109,40109,USA.37.55_1,US.OK.OL,name_exact,high
+USM44,"Providence-Warwick, RI-MA",39300,Massachusetts,25,Bristol County,005,25005,USA.22.3_1,US.MA.BR,name_exact,high
+USM44,"Providence-Warwick, RI-MA",39300,Rhode Island,44,Bristol County,001,44001,USA.40.1_1,US.RI.BR,name_exact,high
+USM44,"Providence-Warwick, RI-MA",39300,Rhode Island,44,Kent County,003,44003,USA.40.2_1,US.RI.KE,name_exact,high
+USM44,"Providence-Warwick, RI-MA",39300,Rhode Island,44,Newport County,005,44005,USA.40.3_1,US.RI.NE,name_exact,high
+USM44,"Providence-Warwick, RI-MA",39300,Rhode Island,44,Providence County,007,44007,USA.40.4_1,US.RI.PR,name_exact,high
+USM44,"Providence-Warwick, RI-MA",39300,Rhode Island,44,Washington County,009,44009,USA.40.5_1,US.RI.WA,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Amelia County,007,51007,USA.47.5_1,US.VA.AI,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Caroline County,033,51033,USA.47.21_1,US.VA.CI,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Charles City County,036,51036,USA.47.23_1,US.VA.CC,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Chesterfield County,041,51041,USA.47.27_1,US.VA.CD,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Dinwiddie County,053,51053,USA.47.37_1,US.VA.DN,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Goochland County,075,51075,USA.47.52_1,US.VA.GO,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Hanover County,085,51085,USA.47.58_1,US.VA.HV,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Henrico County,087,51087,USA.47.60_1,US.VA.HC,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,King William County,101,51101,USA.47.68_1,US.VA.KW,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,New Kent County,127,51127,USA.47.85_1,US.VA.NK,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Powhatan County,145,51145,USA.47.99_1,US.VA.PH,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Prince George County,149,51149,USA.47.101_1,US.VA.PG,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Sussex County,183,51183,USA.47.122_1,US.VA.SS,name_exact,high
+USM45,"Richmond, VA",40060,Virginia,51,Colonial Heights city,570,51570,USA.47.30_1,US.VA.CH,type_aware,high
+USM45,"Richmond, VA",40060,Virginia,51,Hopewell city,670,51670,USA.47.63_1,US.VA.HW,type_aware,high
+USM45,"Richmond, VA",40060,Virginia,51,Petersburg city,730,51730,USA.47.95_1,US.VA.PB,type_aware,high
+USM45,"Richmond, VA",40060,Virginia,51,Richmond city,760,51760,USA.47.106_1,US.VA.RC,type_aware,high
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,California,06,El Dorado County,017,06017,USA.5.9_1,US.CA.EL,name_exact,high
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,California,06,Placer County,061,06061,USA.5.31_1,US.CA.PA,name_exact,high
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,California,06,Sacramento County,067,06067,USA.5.34_1,US.CA.SC,name_exact,high
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,California,06,Yolo County,113,06113,USA.5.57_1,US.CA.YO,name_exact,high
+USM47,"Salt Lake City, UT",41620,Utah,49,Salt Lake County,035,49035,USA.45.18_1,US.UT.SL,name_exact,high
+USM47,"Salt Lake City, UT",41620,Utah,49,Tooele County,045,49045,USA.45.23_1,US.UT.TE,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Atascosa County,013,48013,USA.44.7_1,US.TX.AT,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Bandera County,019,48019,USA.44.10_1,US.TX.BA,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Bexar County,029,48029,USA.44.15_1,US.TX.BX,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Comal County,091,48091,USA.44.46_1,US.TX.OM,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Guadalupe County,187,48187,USA.44.94_1,US.TX.GU,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Kendall County,259,48259,USA.44.130_1,US.TX.KD,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Medina County,325,48325,USA.44.163_1,US.TX.ME,name_exact,high
+USM48,"San Antonio-New Braunfels, TX",41700,Texas,48,Wilson County,493,48493,USA.44.247_1,US.TX.WS,name_exact,high
+USM49,"Tucson, AZ",46060,Arizona,04,Pima County,019,04019,USA.3.11_1,US.AZ.PM,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,North Carolina,37,Currituck County,053,37053,USA.34.27_1,US.NC.CI,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,North Carolina,37,Gates County,073,37073,USA.34.37_1,US.NC.GT,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Gloucester County,073,51073,USA.47.51_1,US.VA.GL,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Isle of Wight County,093,51093,USA.47.64_1,US.VA.IS,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,James City County,095,51095,USA.47.65_1,US.VA.JA,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Mathews County,115,51115,USA.47.80_1,US.VA.MT,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,York County,199,51199,USA.47.133_1,US.VA.YO,name_exact,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Chesapeake city,550,51550,USA.47.26_1,US.VA.CS,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Hampton city,650,51650,USA.47.57_1,US.VA.HM,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Newport News city,700,51700,USA.47.86_1,US.VA.NN,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Norfolk city,710,51710,USA.47.87_1,US.VA.NF,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Poquoson city,735,51735,USA.47.97_1,US.VA.PQ,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Portsmouth city,740,51740,USA.47.98_1,US.VA.PR,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Suffolk city,800,51800,USA.47.120_1,US.VA.SO,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Virginia Beach city,810,51810,USA.47.124_1,US.VA.VI,type_aware,high
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Virginia,51,Williamsburg city,830,51830,USA.47.129_1,US.VA.WL,type_aware,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,Bibb County,007,01007,USA.1.4_1,US.AL.BI,name_exact,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,Blount County,009,01009,USA.1.5_1,US.AL.BU,name_exact,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,Chilton County,021,01021,USA.1.11_1,US.AL.CI,name_exact,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,Jefferson County,073,01073,USA.1.37_1,US.AL.JE,name_exact,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,St. Clair County,115,01115,USA.1.58_1,US.AL.SA,name_exact,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,Shelby County,117,01117,USA.1.59_1,US.AL.SH,name_exact,high
+USM51,"Birmingham-Hoover, AL",13820,Alabama,01,Walker County,127,01127,USA.1.64_1,US.AL.WK,name_exact,high
+USM52,"Bridgeport-Stamford-Norwalk, CT",14860,Connecticut,09,Fairfield County,001,09001,USA.7.1_1,US.CT.FA,name_exact,high
+USM53,"Durham-Chapel Hill, NC",20500,North Carolina,37,Chatham County,037,37037,USA.34.19_1,US.NC.CH,name_exact,high
+USM53,"Durham-Chapel Hill, NC",20500,North Carolina,37,Durham County,063,37063,USA.34.32_1,US.NC.DH,name_exact,high
+USM53,"Durham-Chapel Hill, NC",20500,North Carolina,37,Orange County,135,37135,USA.34.68_1,US.NC.OR,name_exact,high
+USM53,"Durham-Chapel Hill, NC",20500,North Carolina,37,Person County,145,37145,USA.34.73_1,US.NC.PN,name_exact,high
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,Connecticut,09,Hartford County,003,09003,USA.7.2_1,US.CT.HA,name_exact,high
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,Connecticut,09,Middlesex County,007,09007,USA.7.4_1,US.CT.MI,name_exact,high
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,Connecticut,09,Tolland County,013,09013,USA.7.7_1,US.CT.TO,name_exact,high
+USM55,"Raleigh, NC",39580,North Carolina,37,Franklin County,069,37069,USA.34.35_1,US.NC.FR,name_exact,high
+USM55,"Raleigh, NC",39580,North Carolina,37,Johnston County,101,37101,USA.34.51_1,US.NC.JH,name_exact,high
+USM55,"Raleigh, NC",39580,North Carolina,37,Wake County,183,37183,USA.34.92_1,US.NC.WK,name_exact,high
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,New Jersey,34,Warren County,041,34041,USA.31.21_1,US.NJ.WA,name_exact,high
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Pennsylvania,42,Carbon County,025,42025,USA.39.13_1,US.PA.CB,name_exact,high
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Pennsylvania,42,Lehigh County,077,42077,USA.39.39_1,US.PA.LH,name_exact,high
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Pennsylvania,42,Northampton County,095,42095,USA.39.48_1,US.PA.NA,name_exact,high
+USM58,"Harrisburg-Carlisle, PA",25420,Pennsylvania,42,Cumberland County,041,42041,USA.39.21_1,US.PA.CU,name_exact,high
+USM58,"Harrisburg-Carlisle, PA",25420,Pennsylvania,42,Dauphin County,043,42043,USA.39.22_1,US.PA.DA,name_exact,high
+USM58,"Harrisburg-Carlisle, PA",25420,Pennsylvania,42,Perry County,099,42099,USA.39.50_1,US.PA.PE,name_exact,high
+USM59,"Oxnard-Thousand Oaks-Ventura, CA",37100,California,06,Ventura County,111,06111,USA.5.56_1,US.CA.VE,name_exact,high
+USM60,"Stockton-Lodi, CA",44700,California,06,San Joaquin County,077,06077,USA.5.39_1,US.CA.SJ,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Anderson County,001,47001,USA.43.1_1,US.TN.AN,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Blount County,009,47009,USA.43.5_1,US.TN.BO,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Campbell County,013,47013,USA.43.7_1,US.TN.CM,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Grainger County,057,47057,USA.43.29_1,US.TN.GA,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Knox County,093,47093,USA.43.47_1,US.TN.KN,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Loudon County,105,47105,USA.43.53_1,US.TN.LO,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Morgan County,129,47129,USA.43.65_1,US.TN.MG,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Roane County,145,47145,USA.43.73_1,US.TN.RA,name_exact,high
+USM62,"Knoxville, TN",28940,Tennessee,47,Union County,173,47173,USA.43.87_1,US.TN.UO,name_exact,high
+USM64,"Albany-Schenectady-Troy, NY",10580,New York,36,Albany County,001,36001,USA.33.1_1,US.NY.AB,name_exact,high
+USM64,"Albany-Schenectady-Troy, NY",10580,New York,36,Rensselaer County,083,36083,USA.33.43_1,US.NY.RE,name_exact,high
+USM64,"Albany-Schenectady-Troy, NY",10580,New York,36,Saratoga County,091,36091,USA.33.47_1,US.NY.SR,name_exact,high
+USM64,"Albany-Schenectady-Troy, NY",10580,New York,36,Schenectady County,093,36093,USA.33.48_1,US.NY.SN,name_exact,high
+USM64,"Albany-Schenectady-Troy, NY",10580,New York,36,Schoharie County,095,36095,USA.33.49_1,US.NY.SO,name_exact,high
+USM65,"Albuquerque, NM",10740,New Mexico,35,Bernalillo County,001,35001,USA.32.1_1,US.NM.BE,name_exact,high
+USM65,"Albuquerque, NM",10740,New Mexico,35,Sandoval County,043,35043,USA.32.26_1,US.NM.SD,name_exact,high
+USM65,"Albuquerque, NM",10740,New Mexico,35,Torrance County,057,35057,USA.32.31_1,US.NM.TO,name_exact,high
+USM65,"Albuquerque, NM",10740,New Mexico,35,Valencia County,061,35061,USA.32.33_1,US.NM.VA,name_exact,high
+USM67,"Bakersfield, CA",12540,California,06,Kern County,029,06029,USA.5.15_1,US.CA.KE,name_exact,high
+USM68,"Dayton, OH",19380,Ohio,39,Greene County,057,39057,USA.36.29_1,US.OH.GR,name_exact,high
+USM68,"Dayton, OH",19380,Ohio,39,Miami County,109,39109,USA.36.56_1,US.OH.MM,name_exact,high
+USM68,"Dayton, OH",19380,Ohio,39,Montgomery County,113,39113,USA.36.58_1,US.OH.MT,name_exact,high
+USM69,"Fresno, CA",23420,California,06,Fresno County,019,06019,USA.5.10_1,US.CA.FR,name_exact,high
+USM70,"Greensboro-High Point, NC",24660,North Carolina,37,Guilford County,081,37081,USA.34.41_1,US.NC.GU,name_exact,high
+USM70,"Greensboro-High Point, NC",24660,North Carolina,37,Randolph County,151,37151,USA.34.76_1,US.NC.RA,name_exact,high
+USM70,"Greensboro-High Point, NC",24660,North Carolina,37,Rockingham County,157,37157,USA.34.79_1,US.NC.RC,name_exact,high
+USM71,"Greenville-Anderson-Mauldin, SC",24860,South Carolina,45,Anderson County,007,45007,USA.41.4_1,US.SC.AN,name_exact,high
+USM71,"Greenville-Anderson-Mauldin, SC",24860,South Carolina,45,Greenville County,045,45045,USA.41.23_1,US.SC.GV,name_exact,high
+USM71,"Greenville-Anderson-Mauldin, SC",24860,South Carolina,45,Laurens County,059,45059,USA.41.30_1,US.SC.LU,name_exact,high
+USM71,"Greenville-Anderson-Mauldin, SC",24860,South Carolina,45,Pickens County,077,45077,USA.41.39_1,US.SC.PI,name_exact,high
+USM72,"Toledo, OH",45780,Ohio,39,Fulton County,051,39051,USA.36.26_1,US.OH.FU,name_exact,high
+USM72,"Toledo, OH",45780,Ohio,39,Lucas County,095,39095,USA.36.49_1,US.OH.LU,name_exact,high
+USM72,"Toledo, OH",45780,Ohio,39,Wood County,173,39173,USA.36.88_1,US.OH.WO,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Creek County,037,40037,USA.37.19_1,US.OK.CE,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Okmulgee County,111,40111,USA.37.56_1,US.OK.OM,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Osage County,113,40113,USA.37.57_1,US.OK.OS,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Pawnee County,117,40117,USA.37.59_1,US.OK.PW,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Rogers County,131,40131,USA.37.66_1,US.OK.RS,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Tulsa County,143,40143,USA.37.72_1,US.OK.TU,name_exact,high
+USM73,"Tulsa, OK",46140,Oklahoma,40,Wagoner County,145,40145,USA.37.73_1,US.OK.WG,name_exact,high
+USM78,"Rochester, NY",40380,New York,36,Livingston County,051,36051,USA.33.27_1,US.NY.LI,name_exact,high
+USM78,"Rochester, NY",40380,New York,36,Monroe County,055,36055,USA.33.29_1,US.NY.MR,name_exact,high
+USM78,"Rochester, NY",40380,New York,36,Ontario County,069,36069,USA.33.36_1,US.NY.OR,name_exact,high
+USM78,"Rochester, NY",40380,New York,36,Orleans County,073,36073,USA.33.38_1,US.NY.OL,name_exact,high
+USM78,"Rochester, NY",40380,New York,36,Wayne County,117,36117,USA.33.60_1,US.NY.WN,name_exact,high
+USM78,"Rochester, NY",40380,New York,36,Yates County,123,36123,USA.33.63_1,US.NY.YA,name_exact,high
+USM79,"Grand Rapids-Wyoming, MI",24340,Michigan,26,Barry County,015,26015,USA.23.8_1,US.MI.BR,name_exact,high
+USM79,"Grand Rapids-Wyoming, MI",24340,Michigan,26,Kent County,081,26081,USA.23.41_1,US.MI.KN,name_exact,high
+USM79,"Grand Rapids-Wyoming, MI",24340,Michigan,26,Montcalm County,117,26117,USA.23.63_1,US.MI.MC,name_exact,high
+USM79,"Grand Rapids-Wyoming, MI",24340,Michigan,26,Ottawa County,139,26139,USA.23.74_1,US.MI.OT,name_exact,high
+USM80,"Worcester, MA-CT",49340,Connecticut,09,Windham County,015,09015,USA.7.8_1,US.CT.WI,name_exact,high
+USM80,"Worcester, MA-CT",49340,Massachusetts,25,Worcester County,027,25027,USA.22.14_1,US.MA.WO,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Iowa,19,Harrison County,085,19085,USA.16.43_1,US.IA.HR,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Iowa,19,Mills County,129,19129,USA.16.65_1,US.IA.ML,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Iowa,19,Pottawattamie County,155,19155,USA.16.78_1,US.IA.PT,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Nebraska,31,Cass County,025,31025,USA.28.13_1,US.NE.CS,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Nebraska,31,Douglas County,055,31055,USA.28.28_1,US.NE.DG,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Nebraska,31,Sarpy County,153,31153,USA.28.77_1,US.NE.SY,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Nebraska,31,Saunders County,155,31155,USA.28.78_1,US.NE.SU,name_exact,high
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Nebraska,31,Washington County,177,31177,USA.28.89_1,US.NE.WS,name_exact,high
+USM82,"New Haven-Milford, CT",35300,Connecticut,09,New Haven County,009,09009,USA.7.5_1,US.CT.NH,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,Ascension Parish,005,22005,USA.19.3_1,US.LA.AE,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,East Baton Rouge Parish,033,22033,USA.19.17_1,US.LA.EB,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,East Feliciana Parish,037,22037,USA.19.19_1,US.LA.EF,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,Iberville Parish,047,22047,USA.19.24_1,US.LA.IV,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,Livingston Parish,063,22063,USA.19.32_1,US.LA.LV,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,Pointe Coupee Parish,077,22077,USA.19.39_1,US.LA.PO,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,St. Helena Parish,091,22091,USA.19.46_1,US.LA.SH,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,West Baton Rouge Parish,121,22121,USA.19.61_1,US.LA.WB,name_exact,high
+USM84,"Baton Rouge, LA",12940,Louisiana,22,West Feliciana Parish,125,22125,USA.19.63_1,US.LA.WF,name_exact,high
+USM85,"Columbia, SC",17900,South Carolina,45,Calhoun County,017,45017,USA.41.9_1,US.SC.CH,name_exact,high
+USM85,"Columbia, SC",17900,South Carolina,45,Fairfield County,039,45039,USA.41.20_1,US.SC.FA,name_exact,high
+USM85,"Columbia, SC",17900,South Carolina,45,Kershaw County,055,45055,USA.41.28_1,US.SC.KE,name_exact,high
+USM85,"Columbia, SC",17900,South Carolina,45,Lexington County,063,45063,USA.41.32_1,US.SC.LX,name_exact,high
+USM85,"Columbia, SC",17900,South Carolina,45,Richland County,079,45079,USA.41.40_1,US.SC.RI,name_exact,high
+USM85,"Columbia, SC",17900,South Carolina,45,Saluda County,081,45081,USA.41.41_1,US.SC.SA,name_exact,high
+USM86,"North Port-Sarasota-Bradenton, FL",35840,Florida,12,Manatee County,081,12081,USA.10.40_1,US.FL.MN,name_exact,high
+USM86,"North Port-Sarasota-Bradenton, FL",35840,Florida,12,Sarasota County,115,12115,USA.10.58_1,US.FL.SR,name_exact,high
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Arkansas,05,Faulkner County,045,05045,USA.4.23_1,US.AR.FA,name_exact,high
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Arkansas,05,Grant County,053,05053,USA.4.27_1,US.AR.GN,name_exact,high
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Arkansas,05,Lonoke County,085,05085,USA.4.43_1,US.AR.LO,name_exact,high
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Arkansas,05,Perry County,105,05105,USA.4.53_1,US.AR.PY,name_exact,high
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Arkansas,05,Pulaski County,119,05119,USA.4.60_1,US.AR.PU,name_exact,high
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Arkansas,05,Saline County,125,05125,USA.4.63_1,US.AR.SL,name_exact,high
+USM88,"Madison, WI",31540,Wisconsin,55,Columbia County,021,55021,USA.50.11_1,US.WI.CO,name_exact,high
+USM88,"Madison, WI",31540,Wisconsin,55,Dane County,025,55025,USA.50.13_1,US.WI.DA,name_exact,high
+USM88,"Madison, WI",31540,Wisconsin,55,Green County,045,55045,USA.50.23_1,US.WI.GN,name_exact,high
+USM88,"Madison, WI",31540,Wisconsin,55,Iowa County,049,55049,USA.50.25_1,US.WI.IO,name_exact,high
+USM89,"Des Moines-West Des Moines, IA",19780,Iowa,19,Dallas County,049,19049,USA.16.25_1,US.IA.DL,name_exact,high
+USM89,"Des Moines-West Des Moines, IA",19780,Iowa,19,Guthrie County,077,19077,USA.16.39_1,US.IA.GH,name_exact,high
+USM89,"Des Moines-West Des Moines, IA",19780,Iowa,19,Madison County,121,19121,USA.16.61_1,US.IA.MD,name_exact,high
+USM89,"Des Moines-West Des Moines, IA",19780,Iowa,19,Polk County,153,19153,USA.16.77_1,US.IA.PK,name_exact,high
+USM89,"Des Moines-West Des Moines, IA",19780,Iowa,19,Warren County,181,19181,USA.16.91_1,US.IA.WR,name_exact,high

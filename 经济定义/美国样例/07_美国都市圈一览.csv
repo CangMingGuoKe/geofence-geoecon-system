@@ -1,0 +1,89 @@
+﻿metro_id,metro_name,cbsa_code,n_members_total,n_matched,n_missing,involved_states,geom_type,is_valid,is_empty,area_km2_epsg5070
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,29,29,0,13,Polygon,True,False,22890.3
+USM02,"Baltimore-Columbia-Towson, MD",12580,7,6,1,24,MultiPolygon,True,False,6884.3
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,7,7,0,"25,33",MultiPolygon,True,False,9402.5
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,10,10,0,"37,45",Polygon,True,False,13404.1
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,14,14,0,"17,18,55",Polygon,True,False,18925.4
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,13,13,0,48,Polygon,True,False,24922.8
+USM07,"Denver-Aurora-Lakewood, CO",19740,10,10,0,08,MultiPolygon,True,False,21747.8
+USM08,"Detroit-Warren-Dearborn, MI",19820,6,6,0,26,MultiPolygon,True,False,10319.8
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,9,9,0,48,MultiPolygon,True,False,22175.1
+USM10,"Los Angeles-Long Beach-Anaheim, CA",31080,2,2,0,06,MultiPolygon,True,False,12651.4
+USM100,"Charleston-North Charleston, SC",16700,3,3,0,45,MultiPolygon,True,False,7189.8
+USM101,"Akron, OH",10420,2,2,0,39,Polygon,True,False,2389.5
+USM102,"Colorado Springs, CO",17820,2,2,0,08,Polygon,True,False,6990.5
+USM103,"Cape Coral-Fort Myers, FL",15980,1,1,0,12,MultiPolygon,True,False,2212.5
+USM104,"Boise City, ID",14260,5,5,0,16,Polygon,True,False,30654.5
+USM105,"Syracuse, NY",45060,3,3,0,36,Polygon,True,False,6434.6
+USM106,"Winston-Salem, NC",49180,5,5,0,37,Polygon,True,False,5276.5
+USM107,"Wichita, KS",48620,5,5,0,20,MultiPolygon,True,False,13071.9
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,3,3,0,12,MultiPolygon,True,False,14102.8
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,16,16,0,"27,55",Polygon,True,False,20992.4
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,25,25,0,"34,36,42",MultiPolygon,True,False,22279.1
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,11,11,0,"10,24,34,42",MultiPolygon,True,False,12456.7
+USM15,"Phoenix-Mesa-Scottsdale, AZ",38060,2,2,0,04,Polygon,True,False,37805.0
+USM16,"Pittsburgh, PA",38300,7,7,0,42,Polygon,True,False,13827.2
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,7,7,0,"41,53",Polygon,True,False,17780.7
+USM18,"Riverside-San Bernardino-Ontario, CA",40140,2,2,0,06,Polygon,True,False,71049.1
+USM19,"San Diego-Carlsbad, CA",41740,1,1,0,06,MultiPolygon,True,False,10992.6
+USM20,"San Francisco-Oakland-Hayward, CA",41860,5,5,0,06,MultiPolygon,True,False,6526.3
+USM21,"San Jose-Sunnyvale-Santa Clara, CA",41940,2,2,0,06,MultiPolygon,True,False,6955.8
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,3,3,0,53,MultiPolygon,True,False,15511.6
+USM23,"St. Louis, MO-IL",41180,15,14,1,"17,29",Polygon,True,False,20897.7
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,4,4,0,12,MultiPolygon,True,False,6819.1
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,24,24,0,"11,24,51,54",MultiPolygon,True,False,16403.6
+USM26,"Cleveland-Elyria, OH",17460,5,5,0,39,Polygon,True,False,5232.4
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,4,4,0,12,Polygon,True,False,10431.6
+USM28,"Kansas City, MO-KS",28140,14,14,0,"20,29",Polygon,True,False,19046.3
+USM29,"Cincinnati, OH-KY-IN",17140,15,15,0,"18,21,39",Polygon,True,False,10982.5
+USM30,"Las Vegas-Henderson-Paradise, NV",29820,1,1,0,32,Polygon,True,False,20902.4
+USM31,"Austin-Round Rock, TX",12420,5,5,0,48,Polygon,True,False,11075.3
+USM32,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,2,2,0,36,MultiPolygon,True,False,4079.1
+USM33,"Columbus, OH",18140,10,10,0,39,Polygon,True,False,12558.4
+USM34,"El Paso, TX",21340,2,2,0,48,Polygon,True,False,14469.6
+USM35,"Urban Honolulu, HI",46520,1,1,0,15,MultiPolygon,True,False,1564.8
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,11,11,0,18,Polygon,True,False,11229.5
+USM37,"Jacksonville, FL",27260,5,5,0,12,MultiPolygon,True,False,8874.4
+USM38,"Louisville/Jefferson County, KY-IN",31140,12,12,0,"18,21",Polygon,True,False,9431.4
+USM39,"Memphis, TN-MS-AR",32820,9,9,0,"05,28,47",Polygon,True,False,13182.5
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,4,4,0,55,Polygon,True,False,3855.4
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,14,14,0,47,Polygon,True,False,16541.8
+USM42,"New Orleans-Metairie, LA",35380,8,8,0,22,MultiPolygon,True,False,11473.1
+USM43,"Oklahoma City, OK",36420,7,7,0,40,Polygon,True,False,14435.0
+USM44,"Providence-Warwick, RI-MA",39300,6,6,0,"25,44",MultiPolygon,True,False,4317.6
+USM45,"Richmond, VA",40060,17,17,0,51,MultiPolygon,True,False,12629.3
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,4,4,0,06,MultiPolygon,True,False,13725.2
+USM47,"Salt Lake City, UT",41620,2,2,0,49,Polygon,True,False,20946.8
+USM48,"San Antonio-New Braunfels, TX",41700,8,8,0,48,Polygon,True,False,19142.5
+USM49,"Tucson, AZ",46060,1,1,0,04,Polygon,True,False,23862.3
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,16,16,0,"37,51",MultiPolygon,True,False,7191.0
+USM51,"Birmingham-Hoover, AL",13820,7,7,0,01,Polygon,True,False,13878.0
+USM52,"Bridgeport-Stamford-Norwalk, CT",14860,1,1,0,09,MultiPolygon,True,False,1687.1
+USM53,"Durham-Chapel Hill, NC",20500,4,4,0,37,Polygon,True,False,4708.5
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,3,3,0,09,MultiPolygon,True,False,4028.0
+USM55,"Raleigh, NC",39580,3,3,0,37,Polygon,True,False,5544.5
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,4,4,0,"34,42",Polygon,True,False,3822.2
+USM58,"Harrisburg-Carlisle, PA",25420,3,3,0,42,Polygon,True,False,4300.6
+USM59,"Oxnard-Thousand Oaks-Ventura, CA",37100,1,1,0,06,MultiPolygon,True,False,4806.7
+USM60,"Stockton-Lodi, CA",44700,1,1,0,06,Polygon,True,False,3694.9
+USM62,"Knoxville, TN",28940,9,9,0,47,Polygon,True,False,9450.6
+USM64,"Albany-Schenectady-Troy, NY",10580,5,5,0,36,Polygon,True,False,7431.7
+USM65,"Albuquerque, NM",10740,4,4,0,35,MultiPolygon,True,False,24068.0
+USM67,"Bakersfield, CA",12540,1,1,0,06,Polygon,True,False,21116.3
+USM68,"Dayton, OH",19380,3,3,0,39,Polygon,True,False,3341.8
+USM69,"Fresno, CA",23420,1,1,0,06,Polygon,True,False,15578.7
+USM70,"Greensboro-High Point, NC",24660,3,3,0,37,Polygon,True,False,5234.3
+USM71,"Greenville-Anderson-Mauldin, SC",24860,4,4,0,45,Polygon,True,False,7223.8
+USM72,"Toledo, OH",45780,3,3,0,39,Polygon,True,False,3569.1
+USM73,"Tulsa, OK",46140,7,7,0,40,Polygon,True,False,16802.0
+USM78,"Rochester, NY",40380,6,6,0,36,Polygon,True,False,8684.4
+USM79,"Grand Rapids-Wyoming, MI",24340,4,4,0,26,MultiPolygon,True,False,7117.1
+USM80,"Worcester, MA-CT",49340,2,2,0,"09,25",Polygon,True,False,5440.4
+USM81,"Omaha-Council Bluffs, NE-IA",36540,8,8,0,"19,31",Polygon,True,False,11391.8
+USM82,"New Haven-Milford, CT",35300,1,1,0,09,MultiPolygon,True,False,1604.6
+USM84,"Baton Rouge, LA",12940,9,9,0,22,Polygon,True,False,10918.0
+USM85,"Columbia, SC",17900,6,6,0,45,Polygon,True,False,9930.1
+USM86,"North Port-Sarasota-Bradenton, FL",35840,2,2,0,12,MultiPolygon,True,False,3462.2
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,6,6,0,05,Polygon,True,False,10873.3
+USM88,"Madison, WI",31540,4,4,0,55,Polygon,True,False,8779.4
+USM89,"Des Moines-West Des Moines, IA",19780,5,5,0,19,Polygon,True,False,7544.9

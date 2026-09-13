@@ -1,0 +1,647 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>地理围栏互动地图 · Geofence Explorer</title>
+<style>
+  :root{
+    --bg:#eef3f8; --card:#ffffff; --border:#e3ebf3;
+    --accent:#3b7cb8; --accent-dark:#2a5a8c;
+    --ink:#23374d; --muted:#6b7f94;
+    --map-fill:#dbe8f4; --map-stroke:#5f8db5;
+    --city:#2a6da3; --city-label:#26405c;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    font-family:'Times New Roman','SimSun',serif; background:var(--bg); color:var(--ink);
+    padding:30px 18px 44px; display:flex; flex-direction:column; align-items:center; gap:18px;
+  }
+  .wrap{width:100%;max-width:1080px;display:flex;flex-direction:column;gap:18px;}
+  header{text-align:center;}
+  header h1{font-size:26px;font-weight:700;letter-spacing:.5px;}
+  header .sub{color:var(--muted);font-size:14px;margin-top:7px;}
+  header .sub b{color:var(--accent-dark);}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;
+        padding:16px 20px;box-shadow:0 1px 4px rgba(35,55,77,.06);}
+  .controls{display:flex;flex-direction:column;gap:14px;}
+  .row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+  .row .label{font-size:13px;color:var(--muted);min-width:76px;}
+  .seg{display:inline-flex;background:#f0f5fa;border-radius:9px;padding:3px;gap:3px;flex-wrap:wrap;}
+  .seg button{font-family:inherit;font-size:14px;color:var(--ink);background:transparent;border:none;
+        padding:7px 16px;border-radius:7px;cursor:pointer;transition:all .15s ease;white-space:nowrap;}
+  .seg button:hover{background:rgba(59,124,184,.10);}
+  .seg button.active{background:var(--accent);color:#fff;font-weight:600;}
+  .seg button:disabled{opacity:.35;cursor:not-allowed;}
+  select{font-family:inherit;font-size:14px;color:var(--ink);background:#f0f5fa;border:1px solid var(--border);
+        border-radius:9px;padding:8px 12px;cursor:pointer;min-width:250px;}
+  select optgroup{font-style:normal;color:var(--accent-dark);font-weight:600;}
+  select option{color:var(--ink);font-weight:400;padding:3px 0;}
+  .switch-row{display:flex;align-items:center;gap:10px;}
+  .switch{position:relative;width:46px;height:26px;display:inline-block;}
+  .switch input{opacity:0;width:0;height:0;}
+  .slider{position:absolute;cursor:pointer;inset:0;background:#c7d6e4;border-radius:26px;transition:.2s;}
+  .slider:before{content:"";position:absolute;height:20px;width:20px;left:3px;top:3px;
+        background:#fff;border-radius:50%;transition:.2s;}
+  .switch input:checked+.slider{background:var(--accent);}
+  .switch input:checked+.slider:before{transform:translateX(20px);}
+  .map-card{padding:10px;position:relative;}
+  .map-card canvas{display:block;width:100%;height:600px;background:#f7fafd;border-radius:8px;cursor:grab;}
+  .map-card canvas:active{cursor:grabbing;}
+  .map-meta{position:absolute;top:22px;left:30px;font-size:15px;font-weight:600;color:var(--ink);
+        background:rgba(255,255,255,.92);padding:6px 13px;border-radius:8px;pointer-events:none;}
+  .map-tools{position:absolute;top:18px;right:22px;display:flex;gap:6px;}
+  .map-tools button{font-family:inherit;font-size:13px;color:var(--accent-dark);background:rgba(255,255,255,.92);
+        border:1px solid var(--border);border-radius:8px;padding:6px 12px;cursor:pointer;}
+  .map-tools button:hover{background:#fff;border-color:var(--accent);}
+  .tip{position:absolute;display:none;pointer-events:none;font-size:13px;color:#fff;background:rgba(35,55,77,.92);
+        padding:4px 10px;border-radius:6px;white-space:nowrap;z-index:5;}
+  .hint{position:absolute;bottom:16px;right:22px;font-size:12px;color:var(--muted);
+        background:rgba(255,255,255,.85);padding:4px 10px;border-radius:8px;pointer-events:none;}
+  .search-box{position:relative;flex:1;min-width:280px;}
+  .search-box input{font-family:inherit;font-size:14px;color:var(--ink);background:#f0f5fa;
+        border:1px solid var(--border);border-radius:9px;padding:8px 12px;width:100%;
+        transition:border-color .15s ease,background .15s ease;}
+  .search-box input:focus{outline:none;border-color:var(--accent);background:#fff;}
+  .search-box input::placeholder{color:#9fb2c4;}
+  .search-list{position:absolute;top:calc(100% + 6px);left:0;right:0;max-height:320px;overflow:auto;
+        background:#fff;border:1px solid var(--border);border-radius:10px;box-shadow:0 10px 28px rgba(35,55,77,.16);
+        display:none;z-index:30;}
+  .search-list.show{display:block;}
+  .search-item{display:flex;align-items:center;justify-content:space-between;gap:12px;
+        padding:9px 12px;cursor:pointer;font-size:14px;border-bottom:1px solid #f0f4f8;}
+  .search-item:last-child{border-bottom:none;}
+  .search-item:hover,.search-item.hover{background:#f2f7fc;}
+  .search-item .name{color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .search-item .name .en{color:var(--muted);}
+  .search-item .name em{color:var(--accent);font-style:normal;font-weight:700;}
+  .search-item .sub{color:var(--muted);font-size:12px;white-space:nowrap;flex-shrink:0;}
+  .search-empty{padding:12px;color:var(--muted);font-size:13px;text-align:center;}
+  footer{text-align:center;color:var(--muted);font-size:12px;line-height:1.7;}
+  footer .warn{color:#b0632a;font-weight:600;}
+  .md-sub{font-size:13px;color:var(--muted);margin-top:4px;line-height:1.6}
+  .md-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+  .md-members{max-height:260px;overflow:auto;margin-top:8px;border-top:1px solid var(--border);padding-top:6px}
+  .md-member{font-size:13px;color:var(--ink);padding:3px 0;border-bottom:1px solid #f0f4f8;
+             display:flex;justify-content:space-between;align-items:center;gap:10px}
+  .md-member:last-child{border-bottom:none}
+  .md-member .l{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .md-member .st{color:var(--muted)}
+  .tag{display:inline-block;padding:0 5px;border-radius:3px;font-size:11px;margin-left:6px;vertical-align:1px;white-space:nowrap}
+  .tag.ok{background:#e6f6ec;color:#1a7f37}
+  .tag.warn{background:#fff3e0;color:#b45309}
+  .tag.bad{background:#fdecea;color:#b42318}
+  #mdClose{background:transparent;border:none;font-size:16px;color:var(--muted);cursor:pointer;padding:2px 8px;flex-shrink:0}
+  #mdClose:hover{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>地理围栏互动地图 · Geofence Explorer</h1>
+    <div class="sub">数据源 <b>GADM 4.1</b> · 全球 GDP Top20 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县）</div>
+  </header>
+
+  <div class="card controls">
+    <div class="row">
+      <span class="label">搜索</span>
+      <div class="search-box">
+        <input id="searchInput" type="text" placeholder="输入地名（中 / 英）定位行政区，如「镰仓」「Ithaca」…" autocomplete="off">
+        <div id="searchList" class="search-list"></div>
+      </div>
+    </div>
+    <div class="row">
+      <span class="label">国家</span>
+      <select id="countrySel"></select>
+    </div>
+    <div class="row">
+      <span class="label">层级</span>
+      <div class="seg" id="levelSeg"></div>
+    </div>
+    <div class="row">
+      <span class="label">城市标注</span>
+      <div class="switch-row">
+        <label class="switch"><input type="checkbox" id="cityToggle" checked><span class="slider"></span></label>
+        <div class="seg" id="langSeg">
+          <button data-lang="zh">中文</button>
+          <button data-lang="en" class="active">English</button>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <span class="label">经济都市圈</span>
+      <div class="switch-row">
+        <label class="switch"><input type="checkbox" id="metroToggle"><span class="slider"></span></label>
+        <span style="font-size:12px;color:var(--muted)" id="metroHint">美国 88 个都市圈（MSA），仅美国可用</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="card map-card">
+    <div class="map-meta" id="meta"></div>
+    <div class="map-tools"><button id="resetBtn" title="回到全览">重置视图</button></div>
+    <div id="tip" class="tip"></div>
+    <div class="hint">滚轮缩放 · 拖拽平移 · 悬停显示区县名 · <span style="color:#1d5a8c">★ 首都</span> · <span style="color:#2a6da3">◆ 省会/副省级市</span></div>
+    <canvas id="map"></canvas>
+  </div>
+
+  <div class="card" id="metroDetail" style="display:none">
+    <div class="md-head">
+      <div>
+        <div style="font-size:16px;font-weight:700" id="mdName"></div>
+        <div class="md-sub" id="mdMeta"></div>
+      </div>
+      <button id="mdClose" title="关闭">✕</button>
+    </div>
+    <div class="md-members" id="mdMembers"></div>
+  </div>
+
+  <footer>
+    边界数据来自 GADM 4.1，仅限学术 / 非商业使用，不可再分发。<br>
+    城市标注为示意（中英文可切换），仅用于快速定位重点城市，非本数据集内容。<br>
+    <span class="warn">⚠ 中国区县（L4）已经过民政部真值全国校正（区县改名 / 区级错挂重标 / 空名补齐），但仍存在市中心区被合并、约 14% 区县缺失等问题，仅供粗略参考；中国边界以 GADM 国际口径为准，不含南海诸岛 / 九段线，中印争议区（阿克赛钦 / 班公错）已保留，不可作正式出版图。</span>
+  </footer>
+</div>
+
+<script src="map_data/_countries.js"></script>
+<script src="map_data/_search.js"></script>
+<script src="map_data/USA_metro.js"></script>
+<script>
+const LEVELS = ['1','2','3','4'];
+const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县'};
+
+let country = (window.COUNTRIES && window.COUNTRIES[0]) ? window.COUNTRIES[0].iso3 : '';
+let level = '2';
+let showCities = true;
+let lang = 'en';
+let highlight = null;  // 搜索定位的行政区 {iso3, lv, en, zh}
+let showMetro = false;      // 是否显示经济都市圈图层
+let selectedMetro = null;   // 当前选中的都市圈 id
+let metroCache = null;      // preproject 后的都市圈数据
+if(window.USA_METRO_SEARCH){ window.SEARCH = (window.SEARCH || []).concat(window.USA_METRO_SEARCH); }
+
+// 视图变换：屏幕坐标 = ox + 地图坐标 * s（缩放/平移只改这三者，矢量重绘，永不模糊）
+let view = {s:1, ox:0, oy:0, w:0, h:0};
+let dragging = false, lastX = 0, lastY = 0;
+
+function mercY(lat){ return -Math.log(Math.tan(Math.PI/4 + lat*Math.PI/360)) * 180/Math.PI; }
+
+function preproject(iso3){
+  const raw = window['GEODATA_' + iso3];
+  const out = { name_zh: raw.name_zh, name_en: raw.name_en, levels: {}, cities: [] };
+  for(const lv in raw.levels){
+    out.levels[lv] = raw.levels[lv].map(f => {
+      const polys = f.c.map(poly => poly.map(pt => [pt[0], mercY(pt[1])]));
+      let b=[Infinity,Infinity,-Infinity,-Infinity];
+      for(const poly of polys){ for(const pt of poly){
+        if(pt[0]<b[0])b[0]=pt[0]; if(pt[0]>b[2])b[2]=pt[0];
+        if(pt[1]<b[1])b[1]=pt[1]; if(pt[1]>b[3])b[3]=pt[1];
+      }}
+      return { n: f.n, zh: f.zh, gid: f.gid, c: polys, b: b, tw: !!f.tw };
+    });
+  }
+  out.cities = raw.cities.map(ct => ({ zh: ct.zh, en: ct.en, x: ct.lon, y: mercY(ct.lat), capital: !!ct.capital, kind: ct.kind || "" }));
+  return out;
+}
+
+const cache = {};
+function ensureCountry(iso3, cb){
+  if(cache[iso3]) return cb();
+  if(window['GEODATA_' + iso3]){ cache[iso3] = preproject(iso3); return cb(); }
+  const s = document.createElement('script');
+  s.src = 'map_data/' + iso3 + '.js';
+  s.onload = () => { cache[iso3] = preproject(iso3); cb(); };
+  s.onerror = () => { document.getElementById('meta').textContent = '加载失败: ' + iso3; };
+  document.head.appendChild(s);
+}
+
+function preprojectMetro(){
+  if(metroCache) return metroCache;
+  const raw = window.USA_METRO || [];
+  metroCache = raw.map(m => {
+    const polys = m.c.map(poly => poly.map(pt => [pt[0], mercY(pt[1])]));
+    let b=[Infinity,Infinity,-Infinity,-Infinity];
+    for(const poly of polys) for(const pt of poly){
+      if(pt[0]<b[0])b[0]=pt[0]; if(pt[0]>b[2])b[2]=pt[0];
+      if(pt[1]<b[1])b[1]=pt[1]; if(pt[1]>b[3])b[3]=pt[1];
+    }
+    return { n:m.n, id:m.id, cbsa:m.cbsa, nm:m.nm, nmatch:m.nmatch, nmiss:m.nmiss,
+             area:m.area, ver:m.ver, last:m.last, reviewer:m.reviewer, members:m.members,
+             c:polys, pb:b, rb:m.b };
+  });
+  return metroCache;
+}
+function hitTestMetro(px, py){
+  if(!(showMetro && country === 'USA')) return null;
+  const MS = preprojectMetro();
+  const mx = (px-view.ox)/view.s, my = (py-view.oy)/view.s;
+  for(const m of MS){
+    if(mx<m.pb[0]||mx>m.pb[2]||my<m.pb[1]||my>m.pb[3]) continue;
+    for(const poly of m.c){ if(pointInPoly([mx,my], poly)) return m; }
+  }
+  return null;
+}
+
+const canvas = document.getElementById('map');
+const ctx = canvas.getContext('2d');
+const tip = document.getElementById('tip');
+
+function buildControls(){
+  const sel = document.getElementById('countrySel');
+  const order = window.CONTINENT_ORDER || [];
+  const byContinent = {};
+  window.COUNTRIES.forEach(c => { (byContinent[c.continent_zh] = byContinent[c.continent_zh] || []).push(c); });
+  const continents = order.filter(z => byContinent[z]);
+  Object.keys(byContinent).forEach(z => { if(!continents.includes(z)) continents.push(z); });
+  continents.forEach(cz => {
+    const grp = document.createElement('optgroup');
+    grp.label = cz + ' ' + byContinent[cz][0].continent_en;
+    byContinent[cz].slice().sort((a,b)=>a.gdp_rank-b.gdp_rank).forEach(c => {
+      const o = document.createElement('option');
+      o.value = c.iso3;
+      o.textContent = c.gdp_rank + '. ' + c.name_zh + ' ' + c.name_en;
+      grp.appendChild(o);
+    });
+    sel.appendChild(grp);
+  });
+  sel.onchange = () => { country = sel.value; highlight = null; if(country !== 'USA'){ showMetro = false; selectedMetro = null; document.getElementById('metroToggle').checked = false; hideMetroDetail(); } syncActive(); ensureCountry(country, () => { fitView(); render(); }); };
+
+  const ls = document.getElementById('levelSeg');
+  LEVELS.forEach(lv => {
+    const b = document.createElement('button');
+    b.textContent = 'L' + lv + ' ' + LEVEL_LABEL[lv];
+    b.onclick = () => { level = lv; highlight = null; syncActive(); fitView(); render(); };
+    ls.appendChild(b);
+  });
+
+  document.querySelectorAll('#langSeg button').forEach(b => {
+    b.onclick = () => { lang = b.dataset.lang; syncActive(); render(); };
+  });
+
+  document.getElementById('resetBtn').onclick = () => { highlight = null; fitView(); render(); };
+}
+
+function syncActive(){
+  document.querySelectorAll('#levelSeg button').forEach((b,i)=> b.classList.toggle('active', LEVELS[i]===level));
+  document.querySelectorAll('#langSeg button').forEach(b => b.classList.toggle('active', b.dataset.lang===lang));
+  document.querySelectorAll('#langSeg button').forEach(b => b.disabled = !showCities);
+  document.getElementById('metroToggle').disabled = country !== 'USA';
+}
+
+function currentFeats(){
+  const data = cache[country];
+  if(!data) return null;
+  return data.levels[level] || null;
+}
+
+function layerBounds(feats){
+  let minX=Infinity,minY=Infinity,maxX=-Infinity,maxY=-Infinity;
+  for(const f of feats){ for(const poly of f.c){ for(const pt of poly){
+    if(pt[0]<minX)minX=pt[0]; if(pt[0]>maxX)maxX=pt[0];
+    if(pt[1]<minY)minY=pt[1]; if(pt[1]>maxY)maxY=pt[1];
+  }}}
+  return [minX,minY,maxX,maxY];
+}
+
+function fitView(){
+  const feats = currentFeats();
+  if(!feats) return;
+  const [minX,minY,maxX,maxY] = layerBounds(feats);
+  const pad = 26, w = canvas.clientWidth, h = canvas.clientHeight;
+  view.s = Math.min((w-pad*2)/(maxX-minX), (h-pad*2)/(maxY-minY));
+  view.ox = (w-(maxX-minX)*view.s)/2 - minX*view.s;
+  view.oy = (h-(maxY-minY)*view.s)/2 - minY*view.s;
+  view.w = w; view.h = h;
+}
+
+function drawStar(ctx, cx, cy, spikes, outerR, innerR){
+  let rot = -Math.PI/2; // 从正上方起笔
+  const step = Math.PI/spikes;
+  ctx.beginPath();
+  for(let i=0;i<spikes*2;i++){
+    const r = (i%2===0) ? outerR : innerR;
+    const x = cx + Math.cos(rot)*r, y = cy + Math.sin(rot)*r;
+    if(i===0) ctx.moveTo(x,y); else ctx.lineTo(x,y);
+    rot += step;
+  }
+  ctx.closePath();
+}
+
+function render(){
+  const dpr = window.devicePixelRatio || 1;
+  const w = canvas.clientWidth, h = canvas.clientHeight;
+  canvas.width = w*dpr; canvas.height = h*dpr;
+  ctx.setTransform(dpr,0,0,dpr,0,0);
+  ctx.clearRect(0,0,w,h);
+
+  const data = cache[country];
+  const feats = currentFeats();
+  if(!data){ document.getElementById('meta').textContent = '加载中…'; return; }
+  if(!feats){ document.getElementById('meta').textContent = data.name_zh + ' · 无 L' + level + ' 数据'; return; }
+
+  const s = view.s, ox = view.ox, oy = view.oy;
+  const X = x => ox + x*s, Y = y => oy + y*s;
+
+  ctx.lineJoin = 'round';
+  for(const f of feats){
+    const isHl = highlight && highlight.iso3===country && highlight.lv===level && highlight.gid===f.gid;
+    ctx.fillStyle = isHl ? '#b8d3ec' : '#dbe8f4';
+    ctx.strokeStyle = isHl ? '#1a4f7a' : '#5f8db5';
+    ctx.lineWidth = isHl ? 2.2 : (level==='1' ? 1.4 : (level==='2' ? 0.9 : 0.5));
+    ctx.beginPath();
+    for(const poly of f.c){
+      ctx.moveTo(X(poly[0][0]), Y(poly[0][1]));
+      for(let i=1;i<poly.length;i++) ctx.lineTo(X(poly[i][0]), Y(poly[i][1]));
+      ctx.closePath();
+    }
+    ctx.fill('evenodd');
+    ctx.stroke();
+  }
+
+  if(showMetro && country === 'USA' && window.USA_METRO){
+    const MS = preprojectMetro();
+    for(const m of MS){
+      const isSel = selectedMetro === m.id;
+      ctx.fillStyle = m.nmiss>0 ? 'rgba(221,107,32,0.32)' : 'rgba(59,124,184,0.26)';
+      ctx.strokeStyle = isSel ? '#1a4f7a' : (m.nmiss>0 ? '#b45309' : '#2a5a8c');
+      ctx.lineWidth = isSel ? 2.6 : 1.3;
+      ctx.beginPath();
+      for(const poly of m.c){
+        ctx.moveTo(X(poly[0][0]), Y(poly[0][1]));
+        for(let i=1;i<poly.length;i++) ctx.lineTo(X(poly[i][0]), Y(poly[i][1]));
+        ctx.closePath();
+      }
+      ctx.fill('evenodd'); ctx.stroke();
+    }
+  }
+
+  if(showCities){
+    for(const ct of data.cities){
+      const cx=X(ct.x), cy=Y(ct.y);
+      if(cx<0||cy<0||cx>w||cy>h) continue;
+      if(ct.capital){
+        drawStar(ctx, cx, cy, 5, 6.5, 2.8);
+        ctx.fillStyle = '#1d5a8c';
+        ctx.fill();
+        ctx.strokeStyle = '#ffffff';
+        ctx.lineWidth = 1.2;
+        ctx.stroke();
+      } else if(ct.kind === 'prov' || ct.kind === 'subprov'){
+        ctx.save();
+        ctx.translate(cx, cy);
+        ctx.rotate(Math.PI/4);
+        ctx.fillStyle = '#2a6da3';
+        ctx.fillRect(-2.7, -2.7, 5.4, 5.4);
+        ctx.restore();
+      } else {
+        ctx.fillStyle = '#2a6da3';
+        ctx.beginPath(); ctx.arc(cx,cy,3.4,0,Math.PI*2); ctx.fill();
+        ctx.fillStyle = '#ffffff';
+        ctx.beginPath(); ctx.arc(cx,cy,1.4,0,Math.PI*2); ctx.fill();
+      }
+      ctx.fillStyle = '#26405c';
+      ctx.font = '600 12px "Times New Roman", "SimSun", serif';
+      ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
+      ctx.fillText(lang==='zh' ? ct.zh : ct.en, cx + (ct.capital ? 10 : 7), cy);
+    }
+  }
+
+  let meta = data.name_zh + ' ' + data.name_en + ' · L' + level + ' ' + LEVEL_LABEL[level] + ' · ' + feats.length + ' 个';
+  if(country === 'CHN' && level === '4') meta += ' · 台湾无区县数据，以县市(L3)呈现';
+  if(highlight && highlight.iso3===country && highlight.lv===level) meta += ' · 已定位 ' + highlight.zh;
+  document.getElementById('meta').textContent = meta;
+}
+
+function pointInPoly(pt, poly){
+  let inside=false;
+  for(let i=0,j=poly.length-1;i<poly.length;j=i++){
+    const xi=poly[i][0],yi=poly[i][1],xj=poly[j][0],yj=poly[j][1];
+    if(((yi>pt[1])!==(yj>pt[1])) && (pt[0] < (xj-xi)*(pt[1]-yi)/(yj-yi)+xi)) inside=!inside;
+  }
+  return inside;
+}
+function hitTest(px, py){
+  const feats = currentFeats();
+  if(!feats) return null;
+  const mx = (px-view.ox)/view.s, my = (py-view.oy)/view.s;
+  for(const f of feats){
+    if(mx<f.b[0]||mx>f.b[2]||my<f.b[1]||my>f.b[3]) continue;
+    for(const poly of f.c){ if(pointInPoly([mx,my], poly)) return f; }
+  }
+  return null;
+}
+
+function mousePos(e){ const r = canvas.getBoundingClientRect(); return [e.clientX-r.left, e.clientY-r.top]; }
+
+canvas.addEventListener('wheel', e => {
+  e.preventDefault();
+  const [px,py] = mousePos(e);
+  const factor = e.deltaY < 0 ? 1.15 : 1/1.15;
+  const mx = (px-view.ox)/view.s, my = (py-view.oy)/view.s;
+  view.s = Math.max(0.02, Math.min(view.s*factor, 10000));
+  view.ox = px - mx*view.s;
+  view.oy = py - my*view.s;
+  render();
+}, {passive:false});
+
+canvas.addEventListener('mousedown', e => { dragging=true; didDrag=false; [lastX,lastY]=mousePos(e); });
+
+window.addEventListener('mousemove', e => {
+  const [px,py] = mousePos(e);
+  if(dragging){
+    if(Math.abs(px-lastX)+Math.abs(py-lastY) > 3) didDrag = true;
+    view.ox += px-lastX; view.oy += py-lastY;
+    lastX=px; lastY=py;
+    render();
+  } else {
+    const m = hitTestMetro(px, py);
+    if(m){
+      tip.textContent = m.n + ' · ' + m.nm + ' 县 · 匹配 ' + m.nmatch + ' / 缺失 ' + m.nmiss;
+      tip.style.display = 'block';
+      tip.style.left = Math.min(px+14, canvas.clientWidth-200) + 'px';
+      tip.style.top = (py+14) + 'px';
+    } else {
+      const f = hitTest(px,py);
+      if(f){
+        tip.textContent = f.zh ? (f.zh + ' · ' + f.n) : f.n;
+        tip.style.display = 'block';
+        tip.style.left = Math.min(px+14, canvas.clientWidth-120) + 'px';
+        tip.style.top = (py+14) + 'px';
+      } else tip.style.display = 'none';
+    }
+  }
+});
+window.addEventListener('mouseup', () => { dragging=false; });
+
+canvas.addEventListener('mouseleave', () => { tip.style.display='none'; dragging=false; });
+window.addEventListener('resize', () => { fitView(); render(); });
+
+document.getElementById('cityToggle').addEventListener('change', e => { showCities = e.target.checked; syncActive(); render(); });
+
+// ===== 经济都市圈图层：开关 / 点选详情 / 拖拽防误触 =====
+let didDrag = false;
+document.getElementById('metroToggle').addEventListener('change', e => {
+  showMetro = e.target.checked;
+  if(!showMetro){ selectedMetro = null; hideMetroDetail(); }
+  syncActive(); render();
+});
+canvas.addEventListener('click', e => {
+  if(didDrag) return;
+  const [px,py] = mousePos(e);
+  const m = hitTestMetro(px, py);
+  if(m){ selectedMetro = m.id; render(); renderMetroDetail(m); }
+  else { selectedMetro = null; render(); hideMetroDetail(); }
+});
+function renderMetroDetail(m){
+  const el = document.getElementById('metroDetail');
+  document.getElementById('mdName').textContent = m.n;
+  let meta = 'CBSA ' + m.cbsa + ' · ' + m.nm + ' 成员县 · 匹配 ' + m.nmatch + ' / 缺失 ' + m.nmiss;
+  meta += ' · 审核 v' + m.ver + ' · ' + (m.last || '—');
+  if(m.reviewer) meta += ' · ' + m.reviewer;
+  document.getElementById('mdMeta').textContent = meta;
+  const box = document.getElementById('mdMembers');
+  box.innerHTML = '';
+  const mems = m.members || [];
+  if(mems.length){
+    mems.forEach(mm => {
+      const d = document.createElement('div');
+      d.className = 'md-member';
+      let tag = '';
+      if(mm.rs === 'confirmed_missing') tag = '<span class="tag bad">缺失</span>';
+      else if(mm.mm === 'missing') tag = '<span class="tag warn">未匹配</span>';
+      else tag = '<span class="tag ok">' + esc(mm.mm) + '</span>';
+      d.innerHTML = '<span class="l">' + esc(mm.n) + '</span><span><span class="st">' + esc(mm.st) + '</span>' + tag + '</span>';
+      box.appendChild(d);
+    });
+  } else {
+    box.innerHTML = '<div class="md-member"><span class="l">（无成员县数据）</span></div>';
+  }
+  el.style.display = 'block';
+}
+function hideMetroDetail(){ document.getElementById('metroDetail').style.display = 'none'; }
+document.getElementById('mdClose').onclick = hideMetroDetail;
+
+// ===== 搜索定位：输入中/英地名 -> 自动提示「中文 (英文)」-> 点选跳转并高亮该行政区 =====
+const searchInput = document.getElementById('searchInput');
+const searchList = document.getElementById('searchList');
+let curResults = [];
+let activeIdx = -1;
+
+function esc(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function countryName(iso3){ const c = (window.COUNTRIES||[]).find(x=>x.iso3===iso3); return c ? c.name_zh : iso3; }
+function mark(s){
+  const q = searchInput.value.trim().toLowerCase();
+  if(!q) return esc(s);
+  const i = s.toLowerCase().indexOf(q);
+  if(i<0) return esc(s);
+  return esc(s.slice(0,i)) + '<em>' + esc(s.slice(i,i+q.length)) + '</em>' + esc(s.slice(i+q.length));
+}
+function searchMatch(q){
+  const out = [];
+  for(const e of (window.SEARCH || [])){
+    const zh = (e.zh||'').toLowerCase(), en = (e.en||'').toLowerCase(), loc = (e.loc||'').toLowerCase();
+    let score = -1;
+    if(en.startsWith(q) || loc.startsWith(q)) score = 0;
+    else if(zh.startsWith(q)) score = 1;
+    else if(en.includes(q) || loc.includes(q)) score = 2;
+    else if(zh.includes(q)) score = 3;
+    if(score >= 0) out.push([score, e]);
+  }
+  out.sort((a,b)=> a[0]-b[0] || a[1].en.localeCompare(b[1].en));
+  return out.slice(0, 20).map(x=>x[1]);
+}
+function renderSearch(){
+  const q = searchInput.value.trim();
+  if(!q){ searchList.classList.remove('show'); activeIdx=-1; curResults=[]; return; }
+  curResults = searchMatch(q.toLowerCase());
+  if(curResults.length===0){
+    searchList.innerHTML = '<div class="search-empty">无匹配结果</div>';
+  } else {
+    const frag = document.createDocumentFragment();
+    curResults.forEach((e,i)=>{
+      const div = document.createElement('div');
+      div.className = 'search-item' + (i===activeIdx ? ' hover' : '');
+      const nm = document.createElement('span');
+      nm.className = 'name';
+      const main = e.zh || e.en || e.loc;
+      const rest = [];
+      for(const v of [e.en, e.loc]) if(v && v !== main && !rest.includes(v)) rest.push(v);
+      nm.innerHTML = rest.length ? (mark(main) + ' <span class="en">(' + rest.map(v => mark(v)).join(' · ') + ')</span>') : mark(main);
+      const sub = document.createElement('span');
+      sub.className = 'sub';
+      sub.textContent = e.t===0 ? (countryName(e.iso3)+' · 城市') : (e.t===2 ? '国家' : (e.t===3 ? (countryName(e.iso3)+' · 经济都市圈') : (countryName(e.iso3)+' · L'+e.lv)));
+      div.appendChild(nm); div.appendChild(sub);
+      div.addEventListener('mousedown', ev => { ev.preventDefault(); selectSearch(e); });
+      frag.appendChild(div);
+    });
+    searchList.innerHTML = ''; searchList.appendChild(frag);
+  }
+  searchList.classList.add('show');
+}
+function fitViewToBbox(b){
+  const w = canvas.clientWidth, h = canvas.clientHeight, pad = 44;
+  const minX=b[0], maxX=b[2], minY=mercY(b[3]), maxY=mercY(b[1]);
+  const dx = (maxX-minX) || 1, dy = (maxY-minY) || 1;
+  view.s = Math.min((w-pad*2)/dx, (h-pad*2)/dy);
+  view.ox = (w-dx*view.s)/2 - minX*view.s;
+  view.oy = (h-dy*view.s)/2 - minY*view.s;
+  view.w = w; view.h = h;
+}
+function selectSearch(e){
+  searchList.classList.remove('show');
+  activeIdx = -1;
+  const parts = [];
+  for(const v of [e.zh, e.en, e.loc]) if(v && !parts.includes(v)) parts.push(v);
+  searchInput.value = parts.join(' ');
+  searchInput.blur();
+  if(e.iso3 !== country){
+    country = e.iso3;
+    document.getElementById('countrySel').value = e.iso3;
+  }
+  ensureCountry(e.iso3, () => {
+    if(e.t===0){                       // 城市/地点：居中放大
+      highlight = null;
+      const w = canvas.clientWidth, h = canvas.clientHeight;
+      view.s = Math.min(w,h)/1.5;
+      view.ox = w/2 - e.x*view.s;
+      view.oy = h/2 - mercY(e.y)*view.s;
+      view.w = w; view.h = h;
+      render();
+    } else if(e.t===2){                // 国家：切 L1 全览
+      highlight = null; level = '1'; syncActive(); fitView(); render();
+    } else if(e.t===3){                // 经济都市圈：切美国 + 开图层 + 定位 + 详情
+      level = '2'; highlight = null;
+      showMetro = true; document.getElementById('metroToggle').checked = true;
+      selectedMetro = e.mid;
+      syncActive();
+      fitViewToBbox(e.b);
+      render();
+      const m = preprojectMetro().find(x => x.id === e.mid);
+      if(m) renderMetroDetail(m);
+    } else {                           // 行政区：切层级 + 缩放 + 高亮
+      level = e.lv;
+      highlight = { iso3: e.iso3, lv: e.lv, gid: e.gid, zh: e.zh || e.en || e.loc };
+      syncActive();
+      fitViewToBbox(e.b);
+      render();
+    }
+  });
+}
+searchInput.addEventListener('input', () => { activeIdx = -1; renderSearch(); });
+searchInput.addEventListener('keydown', e => {
+  const items = searchList.querySelectorAll('.search-item');
+  if(e.key==='ArrowDown'){ e.preventDefault(); activeIdx = Math.min(activeIdx+1, items.length-1); renderSearch(); }
+  else if(e.key==='ArrowUp'){ e.preventDefault(); activeIdx = Math.max(activeIdx-1, 0); renderSearch(); }
+  else if(e.key==='Enter'){ e.preventDefault(); if(activeIdx>=0 && curResults[activeIdx]) selectSearch(curResults[activeIdx]); }
+  else if(e.key==='Escape'){ searchList.classList.remove('show'); activeIdx=-1; }
+});
+document.addEventListener('mousedown', ev => {
+  if(!ev.target.closest('.search-box')){ searchList.classList.remove('show'); activeIdx=-1; }
+});
+
+buildControls();
+syncActive();
+ensureCountry(country, () => { fitView(); render(); });
+</script>
+</body>
+</html>

@@ -1,0 +1,564 @@
+﻿metro_id,metro_name,cbsa_code,geo_level,state_name,state_fips,county_name,county_fips,fips5,county_name_norm,source_sheet,source_row,def_version
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Barrow County,013,13013,barrow,North America,272,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Bartow County,015,13015,bartow,North America,273,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Butts County,035,13035,butts,North America,274,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Carroll County,045,13045,carroll,North America,275,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Cherokee County,057,13057,cherokee,North America,276,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Clayton County,063,13063,clayton,North America,277,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Cobb County,067,13067,cobb,North America,278,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Coweta County,077,13077,coweta,North America,279,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Dawson County,085,13085,dawson,North America,280,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,DeKalb County,089,13089,dekalb,North America,281,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Douglas County,097,13097,douglas,North America,282,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Fayette County,113,13113,fayette,North America,283,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Forsyth County,117,13117,forsyth,North America,284,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Fulton County,121,13121,fulton,North America,285,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Gwinnett County,135,13135,gwinnett,North America,286,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Haralson County,143,13143,haralson,North America,287,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Heard County,149,13149,heard,North America,288,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Henry County,151,13151,henry,North America,289,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Jasper County,159,13159,jasper,North America,290,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Lamar County,171,13171,lamar,North America,291,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Meriwether County,199,13199,meriwether,North America,292,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Morgan County,211,13211,morgan,North America,293,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Newton County,217,13217,newton,North America,294,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Paulding County,223,13223,paulding,North America,295,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Pickens County,227,13227,pickens,North America,296,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Pike County,231,13231,pike,North America,297,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Rockdale County,247,13247,rockdale,North America,298,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Spalding County,255,13255,spalding,North America,299,Global_Cities_Definitions_Oct19
+USM01,"Atlanta-Sandy Springs-Roswell, GA",12060,Metropolitan Statistical Area,Georgia,13,Walton County,297,13297,walton,North America,300,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Anne Arundel County,003,24003,annearundel,North America,301,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Baltimore County,005,24005,baltimore,North America,302,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Carroll County,013,24013,carroll,North America,303,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Harford County,025,24025,harford,North America,304,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Howard County,027,24027,howard,North America,305,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Queen Anne's County,035,24035,queenannes,North America,306,Global_Cities_Definitions_Oct19
+USM02,"Baltimore-Columbia-Towson, MD",12580,Metropolitan Statistical Area,Maryland,24,Baltimore city,510,24510,baltimorecity,North America,307,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,Massachusetts,25,Norfolk County,021,25021,norfolk,North America,308,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,Massachusetts,25,Plymouth County,023,25023,plymouth,North America,309,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,Massachusetts,25,Suffolk County,025,25025,suffolk,North America,310,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,Massachusetts,25,Essex County,009,25009,essex,North America,311,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,Massachusetts,25,Middlesex County,017,25017,middlesex,North America,312,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,New Hampshire,33,Rockingham County,015,33015,rockingham,North America,313,Global_Cities_Definitions_Oct19
+USM03,"Boston-Cambridge-Newton, MA-NH",14460,Metropolitan Statistical Area,New Hampshire,33,Strafford County,017,33017,strafford,North America,314,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Cabarrus County,025,37025,cabarrus,North America,315,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Gaston County,071,37071,gaston,North America,316,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Iredell County,097,37097,iredell,North America,317,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Lincoln County,109,37109,lincoln,North America,318,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Mecklenburg County,119,37119,mecklenburg,North America,319,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Rowan County,159,37159,rowan,North America,320,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,North Carolina,37,Union County,179,37179,union,North America,321,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,South Carolina,45,Chester County,023,45023,chester,North America,322,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,South Carolina,45,Lancaster County,057,45057,lancaster,North America,323,Global_Cities_Definitions_Oct19
+USM04,"Charlotte-Concord-Gastonia, NC-SC",16740,Metropolitan Statistical Area,South Carolina,45,York County,091,45091,york,North America,324,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,Cook County,031,17031,cook,North America,325,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,DuPage County,043,17043,dupage,North America,326,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,Grundy County,063,17063,grundy,North America,327,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,Kendall County,093,17093,kendall,North America,328,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,McHenry County,111,17111,mchenry,North America,329,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,Will County,197,17197,will,North America,330,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,DeKalb County,037,17037,dekalb,North America,331,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,Kane County,089,17089,kane,North America,332,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Indiana,18,Jasper County,073,18073,jasper,North America,333,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Indiana,18,Lake County,089,18089,lake,North America,334,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Indiana,18,Newton County,111,18111,newton,North America,335,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Indiana,18,Porter County,127,18127,porter,North America,336,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Illinois,17,Lake County,097,17097,lake,North America,337,Global_Cities_Definitions_Oct19
+USM05,"Chicago-Naperville-Elgin, IL-IN-WI",16980,Metropolitan Statistical Area,Wisconsin,55,Kenosha County,059,55059,kenosha,North America,338,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Collin County,085,48085,collin,North America,339,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Dallas County,113,48113,dallas,North America,340,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Denton County,121,48121,denton,North America,341,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Ellis County,139,48139,ellis,North America,342,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Hunt County,231,48231,hunt,North America,343,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Kaufman County,257,48257,kaufman,North America,344,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Rockwall County,397,48397,rockwall,North America,345,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Hood County,221,48221,hood,North America,346,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Johnson County,251,48251,johnson,North America,347,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Parker County,367,48367,parker,North America,348,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Somervell County,425,48425,somervell,North America,349,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Tarrant County,439,48439,tarrant,North America,350,Global_Cities_Definitions_Oct19
+USM06,"Dallas-Fort Worth-Arlington, TX",19100,Metropolitan Statistical Area,Texas,48,Wise County,497,48497,wise,North America,351,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Adams County,001,08001,adams,North America,352,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Arapahoe County,005,08005,arapahoe,North America,353,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Broomfield County,014,08014,broomfield,North America,354,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Clear Creek County,019,08019,clearcreek,North America,355,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Denver County,031,08031,denver,North America,356,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Douglas County,035,08035,douglas,North America,357,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Elbert County,039,08039,elbert,North America,358,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Gilpin County,047,08047,gilpin,North America,359,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Jefferson County,059,08059,jefferson,North America,360,Global_Cities_Definitions_Oct19
+USM07,"Denver-Aurora-Lakewood, CO",19740,Metropolitan Statistical Area,Colorado,08,Park County,093,08093,park,North America,361,Global_Cities_Definitions_Oct19
+USM08,"Detroit-Warren-Dearborn, MI",19820,Metropolitan Statistical Area,Michigan,26,Wayne County,163,26163,wayne,North America,362,Global_Cities_Definitions_Oct19
+USM08,"Detroit-Warren-Dearborn, MI",19820,Metropolitan Statistical Area,Michigan,26,Lapeer County,087,26087,lapeer,North America,363,Global_Cities_Definitions_Oct19
+USM08,"Detroit-Warren-Dearborn, MI",19820,Metropolitan Statistical Area,Michigan,26,Livingston County,093,26093,livingston,North America,364,Global_Cities_Definitions_Oct19
+USM08,"Detroit-Warren-Dearborn, MI",19820,Metropolitan Statistical Area,Michigan,26,Macomb County,099,26099,macomb,North America,365,Global_Cities_Definitions_Oct19
+USM08,"Detroit-Warren-Dearborn, MI",19820,Metropolitan Statistical Area,Michigan,26,Oakland County,125,26125,oakland,North America,366,Global_Cities_Definitions_Oct19
+USM08,"Detroit-Warren-Dearborn, MI",19820,Metropolitan Statistical Area,Michigan,26,St. Clair County,147,26147,saintclair,North America,367,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Austin County,015,48015,austin,North America,368,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Brazoria County,039,48039,brazoria,North America,369,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Chambers County,071,48071,chambers,North America,370,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Fort Bend County,157,48157,fortbend,North America,371,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Galveston County,167,48167,galveston,North America,372,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Harris County,201,48201,harris,North America,373,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Liberty County,291,48291,liberty,North America,374,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Montgomery County,339,48339,montgomery,North America,375,Global_Cities_Definitions_Oct19
+USM09,"Houston-The Woodlands-Sugar Land, TX",26420,Metropolitan Statistical Area,Texas,48,Waller County,473,48473,waller,North America,376,Global_Cities_Definitions_Oct19
+USM10,"Los Angeles-Long Beach-Anaheim, CA",31080,Metropolitan Statistical Area,California,06,Orange County,059,06059,orange,North America,377,Global_Cities_Definitions_Oct19
+USM10,"Los Angeles-Long Beach-Anaheim, CA",31080,Metropolitan Statistical Area,California,06,Los Angeles County,037,06037,losangeles,North America,378,Global_Cities_Definitions_Oct19
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Metropolitan Statistical Area,Florida,12,Broward County,011,12011,broward,North America,379,Global_Cities_Definitions_Oct19
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Metropolitan Statistical Area,Florida,12,Miami-Dade County,086,12086,miamidade,North America,380,Global_Cities_Definitions_Oct19
+USM11,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,Metropolitan Statistical Area,Florida,12,Palm Beach County,099,12099,palmbeach,North America,381,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Anoka County,003,27003,anoka,North America,382,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Carver County,019,27019,carver,North America,383,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Chisago County,025,27025,chisago,North America,384,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Dakota County,037,27037,dakota,North America,385,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Hennepin County,053,27053,hennepin,North America,386,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Isanti County,059,27059,isanti,North America,387,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Le Sueur County,079,27079,lesueur,North America,388,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Mille Lacs County,095,27095,millelacs,North America,389,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Ramsey County,123,27123,ramsey,North America,390,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Scott County,139,27139,scott,North America,391,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Sherburne County,141,27141,sherburne,North America,392,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Sibley County,143,27143,sibley,North America,393,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Washington County,163,27163,washington,North America,394,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Minnesota,27,Wright County,171,27171,wright,North America,395,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Wisconsin,55,Pierce County,093,55093,pierce,North America,396,Global_Cities_Definitions_Oct19
+USM12,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,Metropolitan Statistical Area,Wisconsin,55,St. Croix County,109,55109,saintcroix,North America,397,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Dutchess County,027,36027,dutchess,North America,398,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Putnam County,079,36079,putnam,North America,399,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Nassau County,059,36059,nassau,North America,400,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Suffolk County,103,36103,suffolk,North America,401,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Essex County,013,34013,essex,North America,402,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Hunterdon County,019,34019,hunterdon,North America,403,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Morris County,027,34027,morris,North America,404,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Somerset County,035,34035,somerset,North America,405,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Sussex County,037,34037,sussex,North America,406,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Union County,039,34039,union,North America,407,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,Pennsylvania,42,Pike County,103,42103,pike,North America,408,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Bergen County,003,34003,bergen,North America,409,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Hudson County,017,34017,hudson,North America,410,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Middlesex County,023,34023,middlesex,North America,411,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Monmouth County,025,34025,monmouth,North America,412,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Ocean County,029,34029,ocean,North America,413,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New Jersey,34,Passaic County,031,34031,passaic,North America,414,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Bronx County,005,36005,bronx,North America,415,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Kings County,047,36047,kings,North America,416,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,New York County,061,36061,newyork,North America,417,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Orange County,071,36071,orange,North America,418,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Queens County,081,36081,queens,North America,419,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Richmond County,085,36085,richmond,North America,420,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Rockland County,087,36087,rockland,North America,421,Global_Cities_Definitions_Oct19
+USM13,"New York-Newark-Jersey City, NY-NJ-PA",35620,Metropolitan Statistical Area,New York,36,Westchester County,119,36119,westchester,North America,422,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,New Jersey,34,Burlington County,005,34005,burlington,North America,423,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,New Jersey,34,Camden County,007,34007,camden,North America,424,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,New Jersey,34,Gloucester County,015,34015,gloucester,North America,425,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Pennsylvania,42,Bucks County,017,42017,bucks,North America,426,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Pennsylvania,42,Chester County,029,42029,chester,North America,427,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Pennsylvania,42,Montgomery County,091,42091,montgomery,North America,428,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Pennsylvania,42,Delaware County,045,42045,delaware,North America,429,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Pennsylvania,42,Philadelphia County,101,42101,philadelphia,North America,430,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Delaware,10,New Castle County,003,10003,newcastle,North America,431,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,Maryland,24,Cecil County,015,24015,cecil,North America,432,Global_Cities_Definitions_Oct19
+USM14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,Metropolitan Statistical Area,New Jersey,34,Salem County,033,34033,salem,North America,433,Global_Cities_Definitions_Oct19
+USM15,"Phoenix-Mesa-Scottsdale, AZ",38060,Metropolitan Statistical Area,Arizona,04,Maricopa County,013,04013,maricopa,North America,434,Global_Cities_Definitions_Oct19
+USM15,"Phoenix-Mesa-Scottsdale, AZ",38060,Metropolitan Statistical Area,Arizona,04,Pinal County,021,04021,pinal,North America,435,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Allegheny County,003,42003,allegheny,North America,436,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Armstrong County,005,42005,armstrong,North America,437,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Beaver County,007,42007,beaver,North America,438,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Butler County,019,42019,butler,North America,439,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Fayette County,051,42051,fayette,North America,440,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Washington County,125,42125,washington,North America,441,Global_Cities_Definitions_Oct19
+USM16,"Pittsburgh, PA",38300,Metropolitan Statistical Area,Pennsylvania,42,Westmoreland County,129,42129,westmoreland,North America,442,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Oregon,41,Clackamas County,005,41005,clackamas,North America,443,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Oregon,41,Columbia County,009,41009,columbia,North America,444,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Oregon,41,Multnomah County,051,41051,multnomah,North America,445,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Oregon,41,Washington County,067,41067,washington,North America,446,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Oregon,41,Yamhill County,071,41071,yamhill,North America,447,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Washington,53,Clark County,011,53011,clark,North America,448,Global_Cities_Definitions_Oct19
+USM17,"Portland-Vancouver-Hillsboro, OR-WA",38900,Metropolitan Statistical Area,Washington,53,Skamania County,059,53059,skamania,North America,449,Global_Cities_Definitions_Oct19
+USM18,"Riverside-San Bernardino-Ontario, CA",40140,Metropolitan Statistical Area,California,06,Riverside County,065,06065,riverside,North America,450,Global_Cities_Definitions_Oct19
+USM18,"Riverside-San Bernardino-Ontario, CA",40140,Metropolitan Statistical Area,California,06,San Bernardino County,071,06071,sanbernardino,North America,451,Global_Cities_Definitions_Oct19
+USM19,"San Diego-Carlsbad, CA",41740,Metropolitan Statistical Area,California,06,San Diego County,073,06073,sandiego,North America,452,Global_Cities_Definitions_Oct19
+USM20,"San Francisco-Oakland-Hayward, CA",41860,Metropolitan Statistical Area,California,06,Alameda County,001,06001,alameda,North America,453,Global_Cities_Definitions_Oct19
+USM20,"San Francisco-Oakland-Hayward, CA",41860,Metropolitan Statistical Area,California,06,Contra Costa County,013,06013,contracosta,North America,454,Global_Cities_Definitions_Oct19
+USM20,"San Francisco-Oakland-Hayward, CA",41860,Metropolitan Statistical Area,California,06,San Francisco County,075,06075,sanfrancisco,North America,455,Global_Cities_Definitions_Oct19
+USM20,"San Francisco-Oakland-Hayward, CA",41860,Metropolitan Statistical Area,California,06,San Mateo County,081,06081,sanmateo,North America,456,Global_Cities_Definitions_Oct19
+USM20,"San Francisco-Oakland-Hayward, CA",41860,Metropolitan Statistical Area,California,06,Marin County,041,06041,marin,North America,457,Global_Cities_Definitions_Oct19
+USM21,"San Jose-Sunnyvale-Santa Clara, CA",41940,Metropolitan Statistical Area,California,06,San Benito County,069,06069,sanbenito,North America,458,Global_Cities_Definitions_Oct19
+USM21,"San Jose-Sunnyvale-Santa Clara, CA",41940,Metropolitan Statistical Area,California,06,Santa Clara County,085,06085,santaclara,North America,459,Global_Cities_Definitions_Oct19
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,Metropolitan Statistical Area,Washington,53,King County,033,53033,king,North America,460,Global_Cities_Definitions_Oct19
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,Metropolitan Statistical Area,Washington,53,Snohomish County,061,53061,snohomish,North America,461,Global_Cities_Definitions_Oct19
+USM22,"Seattle-Tacoma-Bellevue, WA",42660,Metropolitan Statistical Area,Washington,53,Pierce County,053,53053,pierce,North America,462,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Bond County,005,17005,bond,North America,463,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Calhoun County,013,17013,calhoun,North America,464,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Clinton County,027,17027,clinton,North America,465,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Jersey County,083,17083,jersey,North America,466,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Macoupin County,117,17117,macoupin,North America,467,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Madison County,119,17119,madison,North America,468,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,Monroe County,133,17133,monroe,North America,469,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Illinois,17,St. Clair County,163,17163,saintclair,North America,470,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,Franklin County,071,29071,franklin,North America,471,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,Jefferson County,099,29099,jefferson,North America,472,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,Lincoln County,113,29113,lincoln,North America,473,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,St. Charles County,183,29183,saintcharles,North America,474,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,St. Louis County,189,29189,saintlouis,North America,475,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,Warren County,219,29219,warren,North America,476,Global_Cities_Definitions_Oct19
+USM23,"St. Louis, MO-IL",41180,Metropolitan Statistical Area,Missouri,29,St. Louis city,510,29510,saintlouiscity,North America,477,Global_Cities_Definitions_Oct19
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Metropolitan Statistical Area,Florida,12,Hernando County,053,12053,hernando,North America,478,Global_Cities_Definitions_Oct19
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Metropolitan Statistical Area,Florida,12,Hillsborough County,057,12057,hills,North America,479,Global_Cities_Definitions_Oct19
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Metropolitan Statistical Area,Florida,12,Pasco County,101,12101,pasco,North America,480,Global_Cities_Definitions_Oct19
+USM24,"Tampa-St. Petersburg-Clearwater, FL",45300,Metropolitan Statistical Area,Florida,12,Pinellas County,103,12103,pinellas,North America,481,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Maryland,24,Frederick County,021,24021,frederick,North America,482,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Maryland,24,Montgomery County,031,24031,montgomery,North America,483,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,District of Columbia,11,District of Columbia,001,11001,districtofcolumbia,North America,484,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Maryland,24,Calvert County,009,24009,calvert,North America,485,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Maryland,24,Charles County,017,24017,charles,North America,486,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Maryland,24,Prince George's County,033,24033,princegeorges,North America,487,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Arlington County,013,51013,arlington,North America,488,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Clarke County,043,51043,clarke,North America,489,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Culpeper County,047,51047,culpeper,North America,490,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Fairfax County,059,51059,fairfax,North America,491,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Fauquier County,061,51061,fauquier,North America,492,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Loudoun County,107,51107,loudoun,North America,493,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Prince William County,153,51153,princewilliam,North America,494,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Rappahannock County,157,51157,rappahannock,North America,495,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Spotsylvania County,177,51177,spotsylvania,North America,496,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Stafford County,179,51179,stafford,North America,497,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Warren County,187,51187,warren,North America,498,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Alexandria city,510,51510,alexandriacity,North America,499,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Fairfax city,600,51600,fairfaxcity,North America,500,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Falls Church city,610,51610,fallschurchcity,North America,501,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Fredericksburg city,630,51630,fredericksburgcity,North America,502,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Manassas city,683,51683,manassascity,North America,503,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,Virginia,51,Manassas Park city,685,51685,manassasparkcity,North America,504,Global_Cities_Definitions_Oct19
+USM25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,Metropolitan Statistical Area,West Virginia,54,Jefferson County,037,54037,jefferson,North America,505,Global_Cities_Definitions_Oct19
+USM26,"Cleveland-Elyria, OH",17460,Metropolitan Statistical Area,Ohio,39,Cuyahoga County,035,39035,cuyahoga,North America,506,Global_Cities_Definitions_Oct19
+USM26,"Cleveland-Elyria, OH",17460,Metropolitan Statistical Area,Ohio,39,Geauga County,055,39055,geauga,North America,507,Global_Cities_Definitions_Oct19
+USM26,"Cleveland-Elyria, OH",17460,Metropolitan Statistical Area,Ohio,39,Lake County,085,39085,lake,North America,508,Global_Cities_Definitions_Oct19
+USM26,"Cleveland-Elyria, OH",17460,Metropolitan Statistical Area,Ohio,39,Lorain County,093,39093,lorain,North America,509,Global_Cities_Definitions_Oct19
+USM26,"Cleveland-Elyria, OH",17460,Metropolitan Statistical Area,Ohio,39,Medina County,103,39103,medina,North America,510,Global_Cities_Definitions_Oct19
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Metropolitan Statistical Area,Florida,12,Lake County,069,12069,lake,North America,511,Global_Cities_Definitions_Oct19
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Metropolitan Statistical Area,Florida,12,Orange County,095,12095,orange,North America,512,Global_Cities_Definitions_Oct19
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Metropolitan Statistical Area,Florida,12,Osceola County,097,12097,osceola,North America,513,Global_Cities_Definitions_Oct19
+USM27,"Orlando-Kissimmee-Sanford, FL",36740,Metropolitan Statistical Area,Florida,12,Seminole County,117,12117,seminole,North America,514,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Kansas,20,Johnson County,091,20091,johnson,North America,515,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Kansas,20,Leavenworth County,103,20103,leavenworth,North America,516,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Kansas,20,Linn County,107,20107,linn,North America,517,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Kansas,20,Miami County,121,20121,miami,North America,518,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Kansas,20,Wyandotte County,209,20209,wyandotte,North America,519,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Bates County,013,29013,bates,North America,520,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Caldwell County,025,29025,caldwell,North America,521,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Cass County,037,29037,cass,North America,522,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Clay County,047,29047,clay,North America,523,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Clinton County,049,29049,clinton,North America,524,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Jackson County,095,29095,jackson,North America,525,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Lafayette County,107,29107,lafayette,North America,526,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Platte County,165,29165,platte,North America,527,Global_Cities_Definitions_Oct19
+USM28,"Kansas City, MO-KS",28140,Metropolitan Statistical Area,Missouri,29,Ray County,177,29177,ray,North America,528,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Indiana,18,Dearborn County,029,18029,dearborn,North America,529,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Indiana,18,Ohio County,115,18115,ohio,North America,530,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Indiana,18,Union County,161,18161,union,North America,531,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Boone County,015,21015,boone,North America,532,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Bracken County,023,21023,bracken,North America,533,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Campbell County,037,21037,campbell,North America,534,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Gallatin County,077,21077,gallatin,North America,535,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Grant County,081,21081,grant,North America,536,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Kenton County,117,21117,kenton,North America,537,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Kentucky,21,Pendleton County,191,21191,pendleton,North America,538,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Ohio,39,Brown County,015,39015,brown,North America,539,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Ohio,39,Butler County,017,39017,butler,North America,540,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Ohio,39,Clermont County,025,39025,clermont,North America,541,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Ohio,39,Hamilton County,061,39061,hamilton,North America,542,Global_Cities_Definitions_Oct19
+USM29,"Cincinnati, OH-KY-IN",17140,Metropolitan Statistical Area,Ohio,39,Warren County,165,39165,warren,North America,543,Global_Cities_Definitions_Oct19
+USM30,"Las Vegas-Henderson-Paradise, NV",29820,Metropolitan Statistical Area,Nevada,32,Clark County,003,32003,clark,North America,544,Global_Cities_Definitions_Oct19
+USM31,"Austin-Round Rock, TX",12420,Metropolitan Statistical Area,Texas,48,Bastrop County,021,48021,bastrop,North America,545,Global_Cities_Definitions_Oct19
+USM31,"Austin-Round Rock, TX",12420,Metropolitan Statistical Area,Texas,48,Caldwell County,055,48055,caldwell,North America,546,Global_Cities_Definitions_Oct19
+USM31,"Austin-Round Rock, TX",12420,Metropolitan Statistical Area,Texas,48,Hays County,209,48209,hays,North America,547,Global_Cities_Definitions_Oct19
+USM31,"Austin-Round Rock, TX",12420,Metropolitan Statistical Area,Texas,48,Travis County,453,48453,travis,North America,548,Global_Cities_Definitions_Oct19
+USM31,"Austin-Round Rock, TX",12420,Metropolitan Statistical Area,Texas,48,Williamson County,491,48491,williamson,North America,549,Global_Cities_Definitions_Oct19
+USM32,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,Metropolitan Statistical Area,New York,36,Erie County,029,36029,erie,North America,550,Global_Cities_Definitions_Oct19
+USM32,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,Metropolitan Statistical Area,New York,36,Niagara County,063,36063,niagara,North America,551,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Delaware County,041,39041,delaware,North America,552,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Fairfield County,045,39045,fairfield,North America,553,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Franklin County,049,39049,franklin,North America,554,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Hocking County,073,39073,hocking,North America,555,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Licking County,089,39089,licking,North America,556,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Madison County,097,39097,madison,North America,557,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Morrow County,117,39117,morrow,North America,558,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Perry County,127,39127,perry,North America,559,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Pickaway County,129,39129,pickaway,North America,560,Global_Cities_Definitions_Oct19
+USM33,"Columbus, OH",18140,Metropolitan Statistical Area,Ohio,39,Union County,159,39159,union,North America,561,Global_Cities_Definitions_Oct19
+USM34,"El Paso, TX",21340,Metropolitan Statistical Area,Texas,48,El Paso County,141,48141,elpaso,North America,562,Global_Cities_Definitions_Oct19
+USM34,"El Paso, TX",21340,Metropolitan Statistical Area,Texas,48,Hudspeth County,229,48229,hudspeth,North America,563,Global_Cities_Definitions_Oct19
+USM35,"Urban Honolulu, HI",46520,Metropolitan Statistical Area,Hawaii,15,Honolulu County,003,15003,honolulu,North America,564,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Boone County,011,18011,boone,North America,565,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Brown County,013,18013,brown,North America,566,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Hamilton County,057,18057,hamilton,North America,567,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Hancock County,059,18059,hancock,North America,568,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Hendricks County,063,18063,hendricks,North America,569,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Johnson County,081,18081,johnson,North America,570,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Madison County,095,18095,madison,North America,571,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Marion County,097,18097,marion,North America,572,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Morgan County,109,18109,morgan,North America,573,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Putnam County,133,18133,putnam,North America,574,Global_Cities_Definitions_Oct19
+USM36,"Indianapolis-Carmel-Anderson, IN",26900,Metropolitan Statistical Area,Indiana,18,Shelby County,145,18145,shelby,North America,575,Global_Cities_Definitions_Oct19
+USM37,"Jacksonville, FL",27260,Metropolitan Statistical Area,Florida,12,Baker County,003,12003,baker,North America,576,Global_Cities_Definitions_Oct19
+USM37,"Jacksonville, FL",27260,Metropolitan Statistical Area,Florida,12,Clay County,019,12019,clay,North America,577,Global_Cities_Definitions_Oct19
+USM37,"Jacksonville, FL",27260,Metropolitan Statistical Area,Florida,12,Duval County,031,12031,duval,North America,578,Global_Cities_Definitions_Oct19
+USM37,"Jacksonville, FL",27260,Metropolitan Statistical Area,Florida,12,Nassau County,089,12089,nassau,North America,579,Global_Cities_Definitions_Oct19
+USM37,"Jacksonville, FL",27260,Metropolitan Statistical Area,Florida,12,St. Johns County,109,12109,saintjohns,North America,580,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Indiana,18,Clark County,019,18019,clark,North America,581,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Indiana,18,Floyd County,043,18043,floyd,North America,582,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Indiana,18,Harrison County,061,18061,harrison,North America,583,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Indiana,18,Scott County,143,18143,scott,North America,584,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Indiana,18,Washington County,175,18175,washington,North America,585,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Bullitt County,029,21029,bullitt,North America,586,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Henry County,103,21103,henry,North America,587,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Jefferson County,111,21111,jefferson,North America,588,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Oldham County,185,21185,oldham,North America,589,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Shelby County,211,21211,shelby,North America,590,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Spencer County,215,21215,spencer,North America,591,Global_Cities_Definitions_Oct19
+USM38,"Louisville/Jefferson County, KY-IN",31140,Metropolitan Statistical Area,Kentucky,21,Trimble County,223,21223,trimble,North America,592,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Arkansas,05,Crittenden County,035,05035,crittenden,North America,593,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Mississippi,28,Benton County,009,28009,benton,North America,594,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Mississippi,28,DeSoto County,033,28033,desoto,North America,595,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Mississippi,28,Marshall County,093,28093,marshall,North America,596,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Mississippi,28,Tate County,137,28137,tate,North America,597,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Mississippi,28,Tunica County,143,28143,tunica,North America,598,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Tennessee,47,Fayette County,047,47047,fayette,North America,599,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Tennessee,47,Shelby County,157,47157,shelby,North America,600,Global_Cities_Definitions_Oct19
+USM39,"Memphis, TN-MS-AR",32820,Metropolitan Statistical Area,Tennessee,47,Tipton County,167,47167,tipton,North America,601,Global_Cities_Definitions_Oct19
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Metropolitan Statistical Area,Wisconsin,55,Milwaukee County,079,55079,milwaukee,North America,602,Global_Cities_Definitions_Oct19
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Metropolitan Statistical Area,Wisconsin,55,Ozaukee County,089,55089,ozaukee,North America,603,Global_Cities_Definitions_Oct19
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Metropolitan Statistical Area,Wisconsin,55,Washington County,131,55131,washington,North America,604,Global_Cities_Definitions_Oct19
+USM40,"Milwaukee-Waukesha-West Allis, WI",33340,Metropolitan Statistical Area,Wisconsin,55,Waukesha County,133,55133,waukesha,North America,605,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Cannon County,015,47015,cannon,North America,606,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Cheatham County,021,47021,cheatham,North America,607,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Davidson County,037,47037,davidson,North America,608,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Dickson County,043,47043,dickson,North America,609,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Hickman County,081,47081,hickman,North America,610,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Macon County,111,47111,macon,North America,611,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Maury County,119,47119,maury,North America,612,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Robertson County,147,47147,robertson,North America,613,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Rutherford County,149,47149,rutherford,North America,614,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Smith County,159,47159,smith,North America,615,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Sumner County,165,47165,sumner,North America,616,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Trousdale County,169,47169,trousdale,North America,617,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Williamson County,187,47187,williamson,North America,618,Global_Cities_Definitions_Oct19
+USM41,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,Metropolitan Statistical Area,Tennessee,47,Wilson County,189,47189,wilson,North America,619,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,Jefferson Parish,051,22051,jefferson,North America,620,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,Orleans Parish,071,22071,orleans,North America,621,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,Plaquemines Parish,075,22075,plaquemines,North America,622,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,St. Bernard Parish,087,22087,saintbernard,North America,623,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,St. Charles Parish,089,22089,saintcharles,North America,624,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,St. James Parish,093,22093,saintjames,North America,625,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,St. John the Baptist Parish,095,22095,saintjohnthebaptist,North America,626,Global_Cities_Definitions_Oct19
+USM42,"New Orleans-Metairie, LA",35380,Metropolitan Statistical Area,Louisiana,22,St. Tammany Parish,103,22103,sainttammany,North America,627,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,Canadian County,017,40017,canadian,North America,628,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,Cleveland County,027,40027,cleveland,North America,629,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,Grady County,051,40051,grady,North America,630,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,Lincoln County,081,40081,lincoln,North America,631,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,Logan County,083,40083,logan,North America,632,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,McClain County,087,40087,mcclain,North America,633,Global_Cities_Definitions_Oct19
+USM43,"Oklahoma City, OK",36420,Metropolitan Statistical Area,Oklahoma,40,Oklahoma County,109,40109,oklahoma,North America,634,Global_Cities_Definitions_Oct19
+USM44,"Providence-Warwick, RI-MA",39300,Metropolitan Statistical Area,Massachusetts,25,Bristol County,005,25005,bristol,North America,635,Global_Cities_Definitions_Oct19
+USM44,"Providence-Warwick, RI-MA",39300,Metropolitan Statistical Area,Rhode Island,44,Bristol County,001,44001,bristol,North America,636,Global_Cities_Definitions_Oct19
+USM44,"Providence-Warwick, RI-MA",39300,Metropolitan Statistical Area,Rhode Island,44,Kent County,003,44003,kent,North America,637,Global_Cities_Definitions_Oct19
+USM44,"Providence-Warwick, RI-MA",39300,Metropolitan Statistical Area,Rhode Island,44,Newport County,005,44005,newport,North America,638,Global_Cities_Definitions_Oct19
+USM44,"Providence-Warwick, RI-MA",39300,Metropolitan Statistical Area,Rhode Island,44,Providence County,007,44007,providence,North America,639,Global_Cities_Definitions_Oct19
+USM44,"Providence-Warwick, RI-MA",39300,Metropolitan Statistical Area,Rhode Island,44,Washington County,009,44009,washington,North America,640,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Amelia County,007,51007,amelia,North America,641,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Caroline County,033,51033,caroline,North America,642,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Charles City County,036,51036,charlescity,North America,643,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Chesterfield County,041,51041,chesterfield,North America,644,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Dinwiddie County,053,51053,dinwiddie,North America,645,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Goochland County,075,51075,goochland,North America,646,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Hanover County,085,51085,hanover,North America,647,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Henrico County,087,51087,henrico,North America,648,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,King William County,101,51101,kingwilliam,North America,649,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,New Kent County,127,51127,newkent,North America,650,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Powhatan County,145,51145,powhatan,North America,651,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Prince George County,149,51149,princegeorge,North America,652,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Sussex County,183,51183,sussex,North America,653,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Colonial Heights city,570,51570,colonialheightscity,North America,654,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Hopewell city,670,51670,hopewellcity,North America,655,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Petersburg city,730,51730,petersburgcity,North America,656,Global_Cities_Definitions_Oct19
+USM45,"Richmond, VA",40060,Metropolitan Statistical Area,Virginia,51,Richmond city,760,51760,richmondcity,North America,657,Global_Cities_Definitions_Oct19
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,Metropolitan Statistical Area,California,06,El Dorado County,017,06017,eldorado,North America,658,Global_Cities_Definitions_Oct19
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,Metropolitan Statistical Area,California,06,Placer County,061,06061,placer,North America,659,Global_Cities_Definitions_Oct19
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,Metropolitan Statistical Area,California,06,Sacramento County,067,06067,sacramento,North America,660,Global_Cities_Definitions_Oct19
+USM46,"Sacramento--Roseville--Arden-Arcade, CA",40900,Metropolitan Statistical Area,California,06,Yolo County,113,06113,yolo,North America,661,Global_Cities_Definitions_Oct19
+USM47,"Salt Lake City, UT",41620,Metropolitan Statistical Area,Utah,49,Salt Lake County,035,49035,saltlake,North America,662,Global_Cities_Definitions_Oct19
+USM47,"Salt Lake City, UT",41620,Metropolitan Statistical Area,Utah,49,Tooele County,045,49045,tooele,North America,663,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Atascosa County,013,48013,atascosa,North America,664,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Bandera County,019,48019,bandera,North America,665,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Bexar County,029,48029,bexar,North America,666,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Comal County,091,48091,comal,North America,667,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Guadalupe County,187,48187,guadalupe,North America,668,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Kendall County,259,48259,kendall,North America,669,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Medina County,325,48325,medina,North America,670,Global_Cities_Definitions_Oct19
+USM48,"San Antonio-New Braunfels, TX",41700,Metropolitan Statistical Area,Texas,48,Wilson County,493,48493,wilson,North America,671,Global_Cities_Definitions_Oct19
+USM49,"Tucson, AZ",46060,Metropolitan Statistical Area,Arizona,04,Pima County,019,04019,pima,North America,672,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,North Carolina,37,Currituck County,053,37053,currituck,North America,673,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,North Carolina,37,Gates County,073,37073,gates,North America,674,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Gloucester County,073,51073,gloucester,North America,675,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Isle of Wight County,093,51093,isleofwight,North America,676,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,James City County,095,51095,jamescity,North America,677,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Mathews County,115,51115,mathews,North America,678,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,York County,199,51199,york,North America,679,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Chesapeake city,550,51550,chesapeakecity,North America,680,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Hampton city,650,51650,hamptoncity,North America,681,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Newport News city,700,51700,newportnewscity,North America,682,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Norfolk city,710,51710,norfolkcity,North America,683,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Poquoson city,735,51735,poquosoncity,North America,684,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Portsmouth city,740,51740,portsmouthcity,North America,685,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Suffolk city,800,51800,suffolkcity,North America,686,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Virginia Beach city,810,51810,virginiabeachcity,North America,687,Global_Cities_Definitions_Oct19
+USM50,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,Metropolitan Statistical Area,Virginia,51,Williamsburg city,830,51830,williamsburgcity,North America,688,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,Bibb County,007,01007,bibb,North America,689,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,Blount County,009,01009,blount,North America,690,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,Chilton County,021,01021,chilton,North America,691,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,Jefferson County,073,01073,jefferson,North America,692,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,St. Clair County,115,01115,saintclair,North America,693,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,Shelby County,117,01117,shelby,North America,694,Global_Cities_Definitions_Oct19
+USM51,"Birmingham-Hoover, AL",13820,Metropolitan Statistical Area,Alabama,01,Walker County,127,01127,walker,North America,695,Global_Cities_Definitions_Oct19
+USM52,"Bridgeport-Stamford-Norwalk, CT",14860,Metropolitan Statistical Area,Connecticut,09,Fairfield County,001,09001,fairfield,North America,696,Global_Cities_Definitions_Oct19
+USM53,"Durham-Chapel Hill, NC",20500,Metropolitan Statistical Area,North Carolina,37,Chatham County,037,37037,chatham,North America,697,Global_Cities_Definitions_Oct19
+USM53,"Durham-Chapel Hill, NC",20500,Metropolitan Statistical Area,North Carolina,37,Durham County,063,37063,durham,North America,698,Global_Cities_Definitions_Oct19
+USM53,"Durham-Chapel Hill, NC",20500,Metropolitan Statistical Area,North Carolina,37,Orange County,135,37135,orange,North America,699,Global_Cities_Definitions_Oct19
+USM53,"Durham-Chapel Hill, NC",20500,Metropolitan Statistical Area,North Carolina,37,Person County,145,37145,person,North America,700,Global_Cities_Definitions_Oct19
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,Metropolitan Statistical Area,Connecticut,09,Hartford County,003,09003,hartford,North America,701,Global_Cities_Definitions_Oct19
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,Metropolitan Statistical Area,Connecticut,09,Middlesex County,007,09007,middlesex,North America,702,Global_Cities_Definitions_Oct19
+USM54,"Hartford-West Hartford-East Hartford, CT",25540,Metropolitan Statistical Area,Connecticut,09,Tolland County,013,09013,tolland,North America,703,Global_Cities_Definitions_Oct19
+USM55,"Raleigh, NC",39580,Metropolitan Statistical Area,North Carolina,37,Franklin County,069,37069,franklin,North America,704,Global_Cities_Definitions_Oct19
+USM55,"Raleigh, NC",39580,Metropolitan Statistical Area,North Carolina,37,Johnston County,101,37101,johnston,North America,705,Global_Cities_Definitions_Oct19
+USM55,"Raleigh, NC",39580,Metropolitan Statistical Area,North Carolina,37,Wake County,183,37183,wake,North America,706,Global_Cities_Definitions_Oct19
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Metropolitan Statistical Area,New Jersey,34,Warren County,041,34041,warren,North America,707,Global_Cities_Definitions_Oct19
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Metropolitan Statistical Area,Pennsylvania,42,Carbon County,025,42025,carbon,North America,708,Global_Cities_Definitions_Oct19
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Metropolitan Statistical Area,Pennsylvania,42,Lehigh County,077,42077,lehigh,North America,709,Global_Cities_Definitions_Oct19
+USM57,"Allentown-Bethlehem-Easton, PA-NJ",10900,Metropolitan Statistical Area,Pennsylvania,42,Northampton County,095,42095,northampton,North America,710,Global_Cities_Definitions_Oct19
+USM58,"Harrisburg-Carlisle, PA",25420,Metropolitan Statistical Area,Pennsylvania,42,Cumberland County,041,42041,cumberland,North America,711,Global_Cities_Definitions_Oct19
+USM58,"Harrisburg-Carlisle, PA",25420,Metropolitan Statistical Area,Pennsylvania,42,Dauphin County,043,42043,dauphin,North America,712,Global_Cities_Definitions_Oct19
+USM58,"Harrisburg-Carlisle, PA",25420,Metropolitan Statistical Area,Pennsylvania,42,Perry County,099,42099,perry,North America,713,Global_Cities_Definitions_Oct19
+USM59,"Oxnard-Thousand Oaks-Ventura, CA",37100,Metropolitan Statistical Area,California,06,Ventura County,111,06111,ventura,North America,714,Global_Cities_Definitions_Oct19
+USM60,"Stockton-Lodi, CA",44700,Metropolitan Statistical Area,California,06,San Joaquin County,077,06077,sanjoaquin,North America,715,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Anderson County,001,47001,anderson,North America,716,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Blount County,009,47009,blount,North America,717,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Campbell County,013,47013,campbell,North America,718,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Grainger County,057,47057,grainger,North America,719,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Knox County,093,47093,knox,North America,720,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Loudon County,105,47105,loudon,North America,721,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Morgan County,129,47129,morgan,North America,722,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Roane County,145,47145,roane,North America,723,Global_Cities_Definitions_Oct19
+USM62,"Knoxville, TN",28940,Metropolitan Statistical Area,Tennessee,47,Union County,173,47173,union,North America,724,Global_Cities_Definitions_Oct19
+USM64,"Albany-Schenectady-Troy, NY",10580,Metropolitan Statistical Area,New York,36,Albany County,001,36001,albany,North America,725,Global_Cities_Definitions_Oct19
+USM64,"Albany-Schenectady-Troy, NY",10580,Metropolitan Statistical Area,New York,36,Rensselaer County,083,36083,rensselaer,North America,726,Global_Cities_Definitions_Oct19
+USM64,"Albany-Schenectady-Troy, NY",10580,Metropolitan Statistical Area,New York,36,Saratoga County,091,36091,saratoga,North America,727,Global_Cities_Definitions_Oct19
+USM64,"Albany-Schenectady-Troy, NY",10580,Metropolitan Statistical Area,New York,36,Schenectady County,093,36093,schenectady,North America,728,Global_Cities_Definitions_Oct19
+USM64,"Albany-Schenectady-Troy, NY",10580,Metropolitan Statistical Area,New York,36,Schoharie County,095,36095,schoharie,North America,729,Global_Cities_Definitions_Oct19
+USM65,"Albuquerque, NM",10740,Metropolitan Statistical Area,New Mexico,35,Bernalillo County,001,35001,bernalillo,North America,730,Global_Cities_Definitions_Oct19
+USM65,"Albuquerque, NM",10740,Metropolitan Statistical Area,New Mexico,35,Sandoval County,043,35043,sandoval,North America,731,Global_Cities_Definitions_Oct19
+USM65,"Albuquerque, NM",10740,Metropolitan Statistical Area,New Mexico,35,Torrance County,057,35057,torrance,North America,732,Global_Cities_Definitions_Oct19
+USM65,"Albuquerque, NM",10740,Metropolitan Statistical Area,New Mexico,35,Valencia County,061,35061,valencia,North America,733,Global_Cities_Definitions_Oct19
+USM67,"Bakersfield, CA",12540,Metropolitan Statistical Area,California,06,Kern County,029,06029,kern,North America,734,Global_Cities_Definitions_Oct19
+USM68,"Dayton, OH",19380,Metropolitan Statistical Area,Ohio,39,Greene County,057,39057,greene,North America,735,Global_Cities_Definitions_Oct19
+USM68,"Dayton, OH",19380,Metropolitan Statistical Area,Ohio,39,Miami County,109,39109,miami,North America,736,Global_Cities_Definitions_Oct19
+USM68,"Dayton, OH",19380,Metropolitan Statistical Area,Ohio,39,Montgomery County,113,39113,montgomery,North America,737,Global_Cities_Definitions_Oct19
+USM69,"Fresno, CA",23420,Metropolitan Statistical Area,California,06,Fresno County,019,06019,fresno,North America,738,Global_Cities_Definitions_Oct19
+USM70,"Greensboro-High Point, NC",24660,Metropolitan Statistical Area,North Carolina,37,Guilford County,081,37081,guilford,North America,739,Global_Cities_Definitions_Oct19
+USM70,"Greensboro-High Point, NC",24660,Metropolitan Statistical Area,North Carolina,37,Randolph County,151,37151,randolph,North America,740,Global_Cities_Definitions_Oct19
+USM70,"Greensboro-High Point, NC",24660,Metropolitan Statistical Area,North Carolina,37,Rockingham County,157,37157,rockingham,North America,741,Global_Cities_Definitions_Oct19
+USM71,"Greenville-Anderson-Mauldin, SC",24860,Metropolitan Statistical Area,South Carolina,45,Anderson County,007,45007,anderson,North America,742,Global_Cities_Definitions_Oct19
+USM71,"Greenville-Anderson-Mauldin, SC",24860,Metropolitan Statistical Area,South Carolina,45,Greenville County,045,45045,greenville,North America,743,Global_Cities_Definitions_Oct19
+USM71,"Greenville-Anderson-Mauldin, SC",24860,Metropolitan Statistical Area,South Carolina,45,Laurens County,059,45059,laurens,North America,744,Global_Cities_Definitions_Oct19
+USM71,"Greenville-Anderson-Mauldin, SC",24860,Metropolitan Statistical Area,South Carolina,45,Pickens County,077,45077,pickens,North America,745,Global_Cities_Definitions_Oct19
+USM72,"Toledo, OH",45780,Metropolitan Statistical Area,Ohio,39,Fulton County,051,39051,fulton,North America,746,Global_Cities_Definitions_Oct19
+USM72,"Toledo, OH",45780,Metropolitan Statistical Area,Ohio,39,Lucas County,095,39095,lucas,North America,747,Global_Cities_Definitions_Oct19
+USM72,"Toledo, OH",45780,Metropolitan Statistical Area,Ohio,39,Wood County,173,39173,wood,North America,748,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Creek County,037,40037,creek,North America,749,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Okmulgee County,111,40111,okmulgee,North America,750,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Osage County,113,40113,osage,North America,751,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Pawnee County,117,40117,pawnee,North America,752,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Rogers County,131,40131,rogers,North America,753,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Tulsa County,143,40143,tulsa,North America,754,Global_Cities_Definitions_Oct19
+USM73,"Tulsa, OK",46140,Metropolitan Statistical Area,Oklahoma,40,Wagoner County,145,40145,wagoner,North America,755,Global_Cities_Definitions_Oct19
+USM78,"Rochester, NY",40380,Metropolitan Statistical Area,New York,36,Livingston County,051,36051,livingston,North America,756,Global_Cities_Definitions_Oct19
+USM78,"Rochester, NY",40380,Metropolitan Statistical Area,New York,36,Monroe County,055,36055,monroe,North America,757,Global_Cities_Definitions_Oct19
+USM78,"Rochester, NY",40380,Metropolitan Statistical Area,New York,36,Ontario County,069,36069,ontario,North America,758,Global_Cities_Definitions_Oct19
+USM78,"Rochester, NY",40380,Metropolitan Statistical Area,New York,36,Orleans County,073,36073,orleans,North America,759,Global_Cities_Definitions_Oct19
+USM78,"Rochester, NY",40380,Metropolitan Statistical Area,New York,36,Wayne County,117,36117,wayne,North America,760,Global_Cities_Definitions_Oct19
+USM78,"Rochester, NY",40380,Metropolitan Statistical Area,New York,36,Yates County,123,36123,yates,North America,761,Global_Cities_Definitions_Oct19
+USM79,"Grand Rapids-Wyoming, MI",24340,Metropolitan Statistical Area,Michigan,26,Barry County,015,26015,barry,North America,762,Global_Cities_Definitions_Oct19
+USM79,"Grand Rapids-Wyoming, MI",24340,Metropolitan Statistical Area,Michigan,26,Kent County,081,26081,kent,North America,763,Global_Cities_Definitions_Oct19
+USM79,"Grand Rapids-Wyoming, MI",24340,Metropolitan Statistical Area,Michigan,26,Montcalm County,117,26117,montcalm,North America,764,Global_Cities_Definitions_Oct19
+USM79,"Grand Rapids-Wyoming, MI",24340,Metropolitan Statistical Area,Michigan,26,Ottawa County,139,26139,ottawa,North America,765,Global_Cities_Definitions_Oct19
+USM80,"Worcester, MA-CT",49340,Metropolitan Statistical Area,Connecticut,09,Windham County,015,09015,windham,North America,766,Global_Cities_Definitions_Oct19
+USM80,"Worcester, MA-CT",49340,Metropolitan Statistical Area,Massachusetts,25,Worcester County,027,25027,worcester,North America,767,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Iowa,19,Harrison County,085,19085,harrison,North America,768,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Iowa,19,Mills County,129,19129,mills,North America,769,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Iowa,19,Pottawattamie County,155,19155,pottawattamie,North America,770,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Nebraska,31,Cass County,025,31025,cass,North America,771,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Nebraska,31,Douglas County,055,31055,douglas,North America,772,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Nebraska,31,Sarpy County,153,31153,sarpy,North America,773,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Nebraska,31,Saunders County,155,31155,saunders,North America,774,Global_Cities_Definitions_Oct19
+USM81,"Omaha-Council Bluffs, NE-IA",36540,Metropolitan Statistical Area,Nebraska,31,Washington County,177,31177,washington,North America,775,Global_Cities_Definitions_Oct19
+USM82,"New Haven-Milford, CT",35300,Metropolitan Statistical Area,Connecticut,09,New Haven County,009,09009,newhaven,North America,776,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,Ascension Parish,005,22005,ascension,North America,777,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,East Baton Rouge Parish,033,22033,eastbatonrouge,North America,778,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,East Feliciana Parish,037,22037,eastfeliciana,North America,779,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,Iberville Parish,047,22047,iberville,North America,780,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,Livingston Parish,063,22063,livingston,North America,781,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,Pointe Coupee Parish,077,22077,pointecoupee,North America,782,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,St. Helena Parish,091,22091,sainthelena,North America,783,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,West Baton Rouge Parish,121,22121,westbatonrouge,North America,784,Global_Cities_Definitions_Oct19
+USM84,"Baton Rouge, LA",12940,Metropolitan Statistical Area,Louisiana,22,West Feliciana Parish,125,22125,westfeliciana,North America,785,Global_Cities_Definitions_Oct19
+USM85,"Columbia, SC",17900,Metropolitan Statistical Area,South Carolina,45,Calhoun County,017,45017,calhoun,North America,786,Global_Cities_Definitions_Oct19
+USM85,"Columbia, SC",17900,Metropolitan Statistical Area,South Carolina,45,Fairfield County,039,45039,fairfield,North America,787,Global_Cities_Definitions_Oct19
+USM85,"Columbia, SC",17900,Metropolitan Statistical Area,South Carolina,45,Kershaw County,055,45055,kershaw,North America,788,Global_Cities_Definitions_Oct19
+USM85,"Columbia, SC",17900,Metropolitan Statistical Area,South Carolina,45,Lexington County,063,45063,lexington,North America,789,Global_Cities_Definitions_Oct19
+USM85,"Columbia, SC",17900,Metropolitan Statistical Area,South Carolina,45,Richland County,079,45079,richland,North America,790,Global_Cities_Definitions_Oct19
+USM85,"Columbia, SC",17900,Metropolitan Statistical Area,South Carolina,45,Saluda County,081,45081,saluda,North America,791,Global_Cities_Definitions_Oct19
+USM86,"North Port-Sarasota-Bradenton, FL",35840,Metropolitan Statistical Area,Florida,12,Manatee County,081,12081,manatee,North America,792,Global_Cities_Definitions_Oct19
+USM86,"North Port-Sarasota-Bradenton, FL",35840,Metropolitan Statistical Area,Florida,12,Sarasota County,115,12115,sarasota,North America,793,Global_Cities_Definitions_Oct19
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Metropolitan Statistical Area,Arkansas,05,Faulkner County,045,05045,faulkner,North America,794,Global_Cities_Definitions_Oct19
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Metropolitan Statistical Area,Arkansas,05,Grant County,053,05053,grant,North America,795,Global_Cities_Definitions_Oct19
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Metropolitan Statistical Area,Arkansas,05,Lonoke County,085,05085,lonoke,North America,796,Global_Cities_Definitions_Oct19
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Metropolitan Statistical Area,Arkansas,05,Perry County,105,05105,perry,North America,797,Global_Cities_Definitions_Oct19
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Metropolitan Statistical Area,Arkansas,05,Pulaski County,119,05119,pulaski,North America,798,Global_Cities_Definitions_Oct19
+USM87,"Little Rock-North Little Rock-Conway, AR",30780,Metropolitan Statistical Area,Arkansas,05,Saline County,125,05125,saline,North America,799,Global_Cities_Definitions_Oct19
+USM88,"Madison, WI",31540,Metropolitan Statistical Area,Wisconsin,55,Columbia County,021,55021,columbia,North America,800,Global_Cities_Definitions_Oct19
+USM88,"Madison, WI",31540,Metropolitan Statistical Area,Wisconsin,55,Dane County,025,55025,dane,North America,801,Global_Cities_Definitions_Oct19
+USM88,"Madison, WI",31540,Metropolitan Statistical Area,Wisconsin,55,Green County,045,55045,green,North America,802,Global_Cities_Definitions_Oct19
+USM88,"Madison, WI",31540,Metropolitan Statistical Area,Wisconsin,55,Iowa County,049,55049,iowa,North America,803,Global_Cities_Definitions_Oct19
+USM89,"Des Moines-West Des Moines, IA",19780,Metropolitan Statistical Area,Iowa,19,Dallas County,049,19049,dallas,North America,804,Global_Cities_Definitions_Oct19
+USM89,"Des Moines-West Des Moines, IA",19780,Metropolitan Statistical Area,Iowa,19,Guthrie County,077,19077,guthrie,North America,805,Global_Cities_Definitions_Oct19
+USM89,"Des Moines-West Des Moines, IA",19780,Metropolitan Statistical Area,Iowa,19,Madison County,121,19121,madison,North America,806,Global_Cities_Definitions_Oct19
+USM89,"Des Moines-West Des Moines, IA",19780,Metropolitan Statistical Area,Iowa,19,Polk County,153,19153,polk,North America,807,Global_Cities_Definitions_Oct19
+USM89,"Des Moines-West Des Moines, IA",19780,Metropolitan Statistical Area,Iowa,19,Warren County,181,19181,warren,North America,808,Global_Cities_Definitions_Oct19
+USM100,"Charleston-North Charleston, SC",16700,Metropolitan Statistical Area,South Carolina,45,Berkeley County,015,45015,berkeley,North America,809,Global_Cities_Definitions_Oct19
+USM100,"Charleston-North Charleston, SC",16700,Metropolitan Statistical Area,South Carolina,45,Charleston County,019,45019,charleston,North America,810,Global_Cities_Definitions_Oct19
+USM100,"Charleston-North Charleston, SC",16700,Metropolitan Statistical Area,South Carolina,45,Dorchester County,035,45035,dorchester,North America,811,Global_Cities_Definitions_Oct19
+USM101,"Akron, OH",10420,Metropolitan Statistical Area,Ohio,39,Portage County,133,39133,portage,North America,812,Global_Cities_Definitions_Oct19
+USM101,"Akron, OH",10420,Metropolitan Statistical Area,Ohio,39,Summit County,153,39153,summit,North America,813,Global_Cities_Definitions_Oct19
+USM102,"Colorado Springs, CO",17820,Metropolitan Statistical Area,Colorado,08,El Paso County,041,08041,elpaso,North America,814,Global_Cities_Definitions_Oct19
+USM102,"Colorado Springs, CO",17820,Metropolitan Statistical Area,Colorado,08,Teller County,119,08119,teller,North America,815,Global_Cities_Definitions_Oct19
+USM103,"Cape Coral-Fort Myers, FL",15980,Metropolitan Statistical Area,Florida,12,Lee County,071,12071,lee,North America,816,Global_Cities_Definitions_Oct19
+USM104,"Boise City, ID",14260,Metropolitan Statistical Area,Idaho,16,Ada County,001,16001,ada,North America,817,Global_Cities_Definitions_Oct19
+USM104,"Boise City, ID",14260,Metropolitan Statistical Area,Idaho,16,Boise County,015,16015,boise,North America,818,Global_Cities_Definitions_Oct19
+USM104,"Boise City, ID",14260,Metropolitan Statistical Area,Idaho,16,Canyon County,027,16027,canyon,North America,819,Global_Cities_Definitions_Oct19
+USM104,"Boise City, ID",14260,Metropolitan Statistical Area,Idaho,16,Gem County,045,16045,gem,North America,820,Global_Cities_Definitions_Oct19
+USM104,"Boise City, ID",14260,Metropolitan Statistical Area,Idaho,16,Owyhee County,073,16073,owyhee,North America,821,Global_Cities_Definitions_Oct19
+USM105,"Syracuse, NY",45060,Metropolitan Statistical Area,New York,36,Madison County,053,36053,madison,North America,822,Global_Cities_Definitions_Oct19
+USM105,"Syracuse, NY",45060,Metropolitan Statistical Area,New York,36,Onondaga County,067,36067,onondaga,North America,823,Global_Cities_Definitions_Oct19
+USM105,"Syracuse, NY",45060,Metropolitan Statistical Area,New York,36,Oswego County,075,36075,oswego,North America,824,Global_Cities_Definitions_Oct19
+USM106,"Winston-Salem, NC",49180,Metropolitan Statistical Area,North Carolina,37,Davidson County,057,37057,davidson,North America,825,Global_Cities_Definitions_Oct19
+USM106,"Winston-Salem, NC",49180,Metropolitan Statistical Area,North Carolina,37,Davie County,059,37059,davie,North America,826,Global_Cities_Definitions_Oct19
+USM106,"Winston-Salem, NC",49180,Metropolitan Statistical Area,North Carolina,37,Forsyth County,067,37067,forsyth,North America,827,Global_Cities_Definitions_Oct19
+USM106,"Winston-Salem, NC",49180,Metropolitan Statistical Area,North Carolina,37,Stokes County,169,37169,stokes,North America,828,Global_Cities_Definitions_Oct19
+USM106,"Winston-Salem, NC",49180,Metropolitan Statistical Area,North Carolina,37,Yadkin County,197,37197,yadkin,North America,829,Global_Cities_Definitions_Oct19
+USM107,"Wichita, KS",48620,Metropolitan Statistical Area,Kansas,20,Butler County,015,20015,butler,North America,830,Global_Cities_Definitions_Oct19
+USM107,"Wichita, KS",48620,Metropolitan Statistical Area,Kansas,20,Harvey County,079,20079,harvey,North America,831,Global_Cities_Definitions_Oct19
+USM107,"Wichita, KS",48620,Metropolitan Statistical Area,Kansas,20,Kingman County,095,20095,kingman,North America,832,Global_Cities_Definitions_Oct19
+USM107,"Wichita, KS",48620,Metropolitan Statistical Area,Kansas,20,Sedgwick County,173,20173,sedgwick,North America,833,Global_Cities_Definitions_Oct19
+USM107,"Wichita, KS",48620,Metropolitan Statistical Area,Kansas,20,Sumner County,191,20191,sumner,North America,834,Global_Cities_Definitions_Oct19

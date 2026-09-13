@@ -1,0 +1,23 @@
+# —— 网站部署仓库：只发布交互地图（interactive_map.html + map_data/），
+# 数据源与构建脚本保留在本地，不上传到公网（GADM 许可禁止再分发原始边界数据）。
+
+# 数据源 / 构建产物
+geojson/
+gpkg/
+raw/
+scripts/
+docs/
+
+# 内部元数据（含 europe/pilot/deeper_dropped 等内部列，公开用精简版 countries.csv）
+country_list.csv
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时 / 系统文件
+_diag.json
+_verify.json
+.DS_Store
+Thumbs.db
+*~

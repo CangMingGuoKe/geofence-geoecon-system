@@ -1,0 +1,10 @@
+# 备份目录
+_metro_备份*/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
