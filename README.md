@@ -47,6 +47,10 @@
   - [3.3 经济定义层的匹配键与名称归一](#33-经济定义层的匹配键与名称归一)
   - [3.4 各大洲的「城市」口径](#34-各大洲的城市口径)
   - [3.5 目录组织与大洲归集](#35-目录组织与大洲归集)
+- [数据模型：有哪些表、主键与外键是什么](#数据模型有哪些表主键与外键是什么)
+  - [行政围栏层：四张表，靠外键串成层级](#行政围栏层四张表靠外键串成层级)
+  - [经济定义层：源表、对照表、都市圈表](#经济定义层源表对照表都市圈表)
+  - [全部表一览](#全部表一览)
 - [术语与缩写](#术语与缩写)
 - [数据来源（Tier-1）](#数据来源tier-1)
 - [许可](#许可)
@@ -381,6 +385,147 @@ flowchart TD
 - **地图端已按大洲分组**：国家清单见本仓库的 `GADM/countries.csv`（排名 / 国家 / 大洲 / 各层要素数，20 行），地图按大洲分组显示，洲间按「洲内最靠前 GDP 排名」排序（北美洲 USA=1 → 亚洲 CHN=2 → 欧洲 DEU=3 → 南美洲 → 大洋洲）。更全的元数据（ISO 码、层级可用性、舍弃的更深层级）在院内本地的 `GADM/country_list.csv`。
 - **静态交付物目前按国家平铺**：`GADM/geojson/` 与 `GADM/gpkg/` 下是 20 个 `ISO3_中文名` 目录，**未按大洲建子目录**。定位函数 `locate_country_dir` / `locate_geojson_dir` 已同时兼容「平铺 / 大洲子目录」两种布局，改布局不需要动下游脚本。
 - **大洲归属的约定**：俄罗斯归欧洲、土耳其归亚洲（二者跨洲）。
+
+---
+
+## 数据模型：有哪些表、主键与外键是什么
+
+数据分三层：**行政围栏**（GADM 四层）、**经济定义**（OE 源表加派生表）、**展示层**（地图用的瘦身副本）。下面是各层的主键与外键，主键唯一性已逐表核验。
+
+### 行政围栏层：四张表，靠外键串成层级
+
+```mermaid
+erDiagram
+    GADM_L1 ||--o{ GADM_L2 : "1 国 对 N 省州"
+    GADM_L2 ||--o{ GADM_L3 : "1 省州 对 N 市郡"
+    GADM_L3 ||--o{ GADM_L4 : "1 市郡 对 N 区县"
+    GADM_L1 {
+        string GID_0 PK
+        string COUNTRY
+    }
+    GADM_L2 {
+        string GID_1 PK
+        string GID_0 FK
+        string NAME_1
+        string HASC_1
+    }
+    GADM_L3 {
+        string GID_2 PK
+        string GID_1 FK
+        string NAME_2
+        string HASC_2
+        string CC_2
+    }
+    GADM_L4 {
+        string GID_3 PK
+        string GID_2 FK
+        string NAME_3
+        string HASC_3
+        string GB_CODE
+    }
+```
+
+子表的 `GID` 是「父表 GID + 一个序号」，所以看编号就知道归属，例如 `USA.47.40_1` 属于 `USA.47_1`（弗吉尼亚州）。
+
+三个字段容易误当主键，其实都不是：
+
+| 字段 | 是什么 | 为什么不能当主键 |
+|---|---|---|
+| `HASC_N` | 简称代码，如 `US.VA.FC` | 按名字缩写生成，同名就同码，美国 L3 层有 8 组撞码 |
+| `CC_N` | 各国本地编号 | 美国县层整列为空 |
+| `NAME_N` | 名称 | 重名严重，美国 L3 层 442 个名字被重复使用 |
+
+### 经济定义层：源表、对照表、都市圈表
+
+```mermaid
+erDiagram
+    OE_CITY ||--o{ OE_MEMBER : "1 城市 对 N 成员"
+    OE_MEMBER ||--o| BRIDGE : "用县代码对接"
+    BRIDGE ||--|| GADM_L3 : "一个县代码 对一个 GID"
+    METRO ||--o{ METRO_MEMBER : "1 都市圈 对 N 条成员"
+    METRO ||--|| METRO_BOUNDARY : "1 都市圈 对 1 块边界"
+    METRO ||--|| METRO_VERSION : "1 都市圈 对 1 条版本"
+    METRO ||--o{ AUDIT_LOG : "1 都市圈 对 N 条审核动作"
+    METRO_MEMBER ||--o| MEMBER_STATUS : "每条成员 对 1 条审核状态"
+    OE_CITY {
+        string oe_city_code PK
+        string city_name
+        string geo_level
+    }
+    OE_MEMBER {
+        string metro_code PK
+        string county_fips PK
+        string local_region_name
+    }
+    BRIDGE {
+        string fips5 PK
+        string gid_2 FK
+        string hasc_2
+    }
+    METRO {
+        string metro_id PK
+        string metro_name
+        string cbsa_code
+    }
+    METRO_MEMBER {
+        string metro_id PK
+        string fips5 PK
+        string gid_2 FK
+        string match_method
+    }
+    METRO_BOUNDARY {
+        string metro_id PK
+        string metro_name
+        int n_members
+        int n_missing
+    }
+    MEMBER_STATUS {
+        string metro_id PK
+        string fips5 PK
+        string review_status
+        string reviewer
+    }
+    METRO_VERSION {
+        string metro_id PK
+        int version
+        string last_action
+    }
+    AUDIT_LOG {
+        int audit_id PK
+        string metro_id FK
+        string action
+        string reason
+    }
+```
+
+关键在 `BRIDGE` 这张对照表：OE 的县带 FIPS 码但 GADM 的县没有，两边没有共同字段，所以专门建一张 `fips5 ↔ gid_2` 的桥。桥是 1 比 1 的，561 条零碰撞。
+
+### 全部表一览
+
+| 表 | 主键 | 外键 | 行数 |
+|---|---|---|---|
+| L1 国家（ADM0） | `GID_0` | 无 | 21 |
+| L2 省州（ADM1） | `GID_1` | `GID_0` → L1 | 598 |
+| L3 市郡（ADM2） | `GID_2` | `GID_1` → L2 | 20,532 |
+| L4 区县（ADM3） | `GID_3` | `GID_2` → L3 | 37,359 |
+| `01_美国经济定义_都市圈成员表.csv` | `metro_id` + `fips5` | `metro_id` → 都市圈 | 563 |
+| `02_GADM美国_州底表.csv` | `gid_1` | 无 | 51 |
+| `03_GADM美国_县底表.csv` | `gid_2` | `gid_1` → 州底表 | 3,148 |
+| `04_FIPS_GADM县代码桥.csv` | `fips5` | `gid_2` → 县底表 | 561 |
+| `04_匹配异常队列.csv` | `metro_id` | 无（未匹配项） | 2 |
+| `04_匹配结果_全量563.csv` | `metro_id` + `fips5` | `gid_2` → 县底表（可空） | 563 |
+| `05_USM01_成员表.csv` | `metro_id` + `fips5` | `gid_2` → 县底表 | 29 |
+| `05_USM13_成员表.csv` | `metro_id` + `fips5` | `gid_2` → 县底表 | 25 |
+| `07_美国都市圈成员关系.csv` | `metro_id` + `fips5` | `gid_2` → 县底表 | 563 |
+| `07_美国都市圈一览.csv` | `metro_id` | 无 | 88 |
+| `07_美国都市圈边界.geojson` / `.gpkg` | `metro_id` | 无（几何表） | 88 |
+| `08_审核状态.csv` | `metro_id` + `fips5` | 同上 | 563 |
+| `08_版本记录.csv` | `metro_id` | 无 | 88 |
+| `08_审核日志.csv` | `audit_id` | `metro_id` → 都市圈 | 90 |
+| `map_data/{ISO3}.js`（展示层） | `gid` | 无（由 L1 至 L4 瘦身而来） | 58,510 |
+| `map_data/USA_metro.js`（展示层） | `id`（即 `metro_id`） | 成员条含名称与状态 | 88 |
+
+两点说明：展示层的 L4 会多出 22 条，是把台湾的县市复制到 L4 视图显示，避免那一层留白。`map_data/_search.js` 是检索索引不是表，同一个 `gid` 可能对应多条（一个地名有多种中文写法，如不来梅），所以它的 `gid` 不唯一。
 
 ---
 
