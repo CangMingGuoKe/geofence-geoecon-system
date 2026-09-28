@@ -44,11 +44,19 @@ def bbox_of(rings):
 
 
 summary = {r['metro_id']: r for r in rd('07_日本都市圈一览.csv')}
+# 步骤 8 的审核结果（若已跑过）：状态按成员、版本按都市圈
+review, version = {}, {}
+if os.path.exists(os.path.join(HERE, '08_审核状态.csv')):
+    review = {(r['metro_id'], r['member_jis']): r for r in rd('08_审核状态.csv')}
+if os.path.exists(os.path.join(HERE, '08_版本记录.csv')):
+    version = {r['metro_id']: r for r in rd('08_版本记录.csv')}
 members = {}
 for r in rd('07_日本都市圈成员关系.csv'):
+    rv = review.get((r['metro_id'], r['member_jis']), {})
     members.setdefault(r['metro_id'], []).append({
         'n': r['member_name'], 'st': r['pref_name'] or '未匹配',
-        'mm': r['match_method'], 'rs': 'missing' if not r['gid_2'] else 'matched',
+        'mm': r['match_method'],
+        'rs': rv.get('review_status') or ('missing' if not r['gid_2'] else 'matched'),
         'jis': r['member_jis'], 'gid': r['gid_2'], 'type': r['type_2'],
     })
 
@@ -72,7 +80,9 @@ for _, row in gdf.iterrows():
         'nmatch': int(s.get('n_matched', 0)),
         'nmiss': int(s.get('n_missing', 0)),
         'area': int(round(float(s.get('area_km2_epsg6933', 0) or 0))),
-        'ver': 1, 'last': '机器结果（未人工审核）', 'reviewer': '',
+        'ver': int(version.get(mid, {}).get('version', 0) or 0),
+        'last': version.get(mid, {}).get('last_action', '') or '机器结果（未人工审核）',
+        'reviewer': version.get(mid, {}).get('last_reviewer', ''),
         'prefs': s.get('prefs', ''),
         'members': members.get(mid, []),
         'c': rings, 'b': bbox_of(rings),

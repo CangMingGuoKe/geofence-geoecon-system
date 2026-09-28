@@ -1,0 +1,18 @@
+﻿audit_id,timestamp,action,metro_id,metro_name,member_jis,member_name,gid_before,gid_after,reviewer,reason,evidence_source,econ_def_version,gadm_version
+1,2026-09-29 01:03:38,approve_metro,JPM01,Tokyo (Kanto MMA),,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+2,2026-09-29 01:03:38,approve_metro,JPM02,Osaka-Kyoto (Keihanshin MMA),,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+3,2026-09-29 01:03:38,approve_metro,JPM03,Nagoya (Chukyo MMA),,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+4,2026-09-29 01:03:38,approve_metro,JPM04,Kitakyushu-Fukuoka MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+5,2026-09-29 01:03:38,approve_metro,JPM05,Sendai MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+6,2026-09-29 01:03:38,approve_metro,JPM06,Sapporo MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+7,2026-09-29 01:03:38,approve_metro,JPM07,Hiroshima MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+8,2026-09-29 01:03:38,approve_metro,JPM08,Okayama MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+9,2026-09-29 01:03:38,approve_metro,JPM09,Shizuoka-Hamamatsu MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+10,2026-09-29 01:03:38,approve_metro,JPM10,Niigata MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+11,2026-09-29 01:03:38,approve_metro,JPM11,Kumamoto MMA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+12,2026-09-29 01:03:38,approve_metro,JPM12,Kagoshima MA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+13,2026-09-29 01:03:38,approve_metro,JPM13,Matsuyama MA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+14,2026-09-29 01:03:38,approve_metro,JPM14,Utsunomiya MA,,,,,科研助理(演示),机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审,,Global_Cities_Definitions_Oct19,GADM 4.1
+15,2026-09-29 01:03:39,mark_missing,JPM03,Nagoya (Chukyo MMA),23237,Aichi-ken Ama-shi,,,科研助理(演示),GADM 版本偏旧：あま市 2010 年设立，GADM 仍是合并前单元,GADM 该位置为 Shippō/Kanie/Jimokuji/Miwa,Global_Cities_Definitions_Oct19,GADM 4.1
+16,2026-09-29 01:03:40,mark_missing,JPM03,Nagoya (Chukyo MMA),24303,Mie-ken Kisosaki-cho,,,科研助理(演示),GADM 把木曽岬町错记在 Aichi 县下,GADM JPN.1.23_1 的 NAME_1=Aichi,Global_Cities_Definitions_Oct19,GADM 4.1
+17,2026-09-29 01:03:41,mark_missing,JPM04,Kitakyushu-Fukuoka MMA,40230,Fukuoka-ken Itoshima-shi,,,科研助理(演示),GADM 无糸島市：2010 年设立，GADM 仍是合并前单元,GADM 中检索 itoshima 无结果,Global_Cities_Definitions_Oct19,GADM 4.1
