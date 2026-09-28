@@ -72,10 +72,10 @@
         padding:9px 12px;cursor:pointer;font-size:14px;border-bottom:1px solid #f0f4f8;}
   .search-item:last-child{border-bottom:none;}
   .search-item:hover,.search-item.hover{background:#f2f7fc;}
-  .search-item .name{color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .search-item .name{color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1 1 auto;min-width:0;}
   .search-item .name .en{color:var(--muted);}
   .search-item .name em{color:var(--accent);font-style:normal;font-weight:700;}
-  .search-item .sub{color:var(--muted);font-size:12px;white-space:nowrap;flex-shrink:0;}
+  .search-item .sub{color:var(--muted);font-size:12px;white-space:nowrap;flex-shrink:0;overflow:hidden;text-overflow:ellipsis;max-width:56%;}
   .search-empty{padding:12px;color:var(--muted);font-size:13px;text-align:center;}
   footer{text-align:center;color:var(--muted);font-size:12px;line-height:1.7;}
   footer .warn{color:#b0632a;font-weight:600;}
@@ -547,7 +547,7 @@ function searchMatch(q){
     else if(zh.includes(q)) score = 3;
     if(score >= 0) out.push([score, e]);
   }
-  out.sort((a,b)=> a[0]-b[0] || a[1].en.localeCompare(b[1].en));
+  out.sort((a,b)=> a[0]-b[0] || a[1].en.localeCompare(b[1].en) || String(a[1].p||'').localeCompare(String(b[1].p||'')));
   return out.slice(0, 20).map(x=>x[1]);
 }
 function renderSearch(){
@@ -569,7 +569,13 @@ function renderSearch(){
       nm.innerHTML = rest.length ? (mark(main) + ' <span class="en">(' + rest.map(v => mark(v)).join(' · ') + ')</span>') : mark(main);
       const sub = document.createElement('span');
       sub.className = 'sub';
-      sub.textContent = e.t===0 ? (countryName(e.iso3)+' · 城市') : (e.t===2 ? '国家' : (e.t===3 ? (countryName(e.iso3)+' · 经济都市圈') : (countryName(e.iso3)+' · L'+e.lv)));
+      let subTxt;
+      if(e.t===0) subTxt = countryName(e.iso3) + ' · 城市';
+      else if(e.t===2) subTxt = '国家';
+      else if(e.t===3) subTxt = countryName(e.iso3) + ' · 经济都市圈';
+      // 行政区：带上「上级」（省 / 市）以区分同名条目，如 31 个 Washington 县会各自显示所属州
+      else subTxt = countryName(e.iso3) + (e.p ? (' · ' + e.p) : '') + ' · L' + e.lv;
+      sub.textContent = subTxt;
       div.appendChild(nm); div.appendChild(sub);
       div.addEventListener('mousedown', ev => { ev.preventDefault(); selectSearch(e); });
       frag.appendChild(div);
