@@ -166,6 +166,7 @@
 <script src="map_data/_countries.js"></script>
 <script src="map_data/_search.js"></script>
 <script src="map_data/USA_metro.js"></script>
+<script src="map_data/JPN_metro.js"></script>
 <script>
 const LEVELS = ['1','2','3','4'];
 const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县'};
@@ -177,8 +178,14 @@ let lang = 'en';
 let highlight = null;  // 搜索定位的行政区 {iso3, lv, en, zh}
 let showMetro = false;      // 是否显示经济都市圈图层
 let selectedMetro = null;   // 当前选中的都市圈 id
-let metroCache = null;      // preproject 后的都市圈数据
-if(window.USA_METRO_SEARCH){ window.SEARCH = (window.SEARCH || []).concat(window.USA_METRO_SEARCH); }
+let metroCache = {};        // preproject 后的都市圈数据，按国家分别缓存
+// 经济图层按国家挂载：有对应 <ISO3>_METRO 的国家才启用（目前是美国、日本）
+function metroData(iso3){ return window[iso3 + '_METRO'] || null; }
+function hasMetro(iso3){ return !!metroData(iso3); }
+for(const _iso of ['USA','JPN']){
+  const _ms = window[_iso + '_METRO_SEARCH'];
+  if(_ms) window.SEARCH = (window.SEARCH || []).concat(_ms);
+}
 
 // 视图变换：屏幕坐标 = ox + 地图坐标 * s（缩放/平移只改这三者，矢量重绘，永不模糊）
 let view = {s:1, ox:0, oy:0, w:0, h:0};
@@ -215,10 +222,11 @@ function ensureCountry(iso3, cb){
   document.head.appendChild(s);
 }
 
-function preprojectMetro(){
-  if(metroCache) return metroCache;
-  const raw = window.USA_METRO || [];
-  metroCache = raw.map(m => {
+function preprojectMetro(iso3){
+  const iso = iso3 || country;
+  if(metroCache[iso]) return metroCache[iso];
+  const raw = metroData(iso) || [];
+  metroCache[iso] = raw.map(m => {
     const polys = m.c.map(poly => poly.map(pt => [pt[0], mercY(pt[1])]));
     let b=[Infinity,Infinity,-Infinity,-Infinity];
     for(const poly of polys) for(const pt of poly){
@@ -229,11 +237,11 @@ function preprojectMetro(){
              area:m.area, ver:m.ver, last:m.last, reviewer:m.reviewer, members:m.members,
              c:polys, pb:b, rb:m.b };
   });
-  return metroCache;
+  return metroCache[iso];
 }
 function hitTestMetro(px, py){
-  if(!(showMetro && country === 'USA')) return null;
-  const MS = preprojectMetro();
+  if(!(showMetro && hasMetro(country))) return null;
+  const MS = preprojectMetro(country);
   const mx = (px-view.ox)/view.s, my = (py-view.oy)/view.s;
   for(const m of MS){
     if(mx<m.pb[0]||mx>m.pb[2]||my<m.pb[1]||my>m.pb[3]) continue;
@@ -264,7 +272,7 @@ function buildControls(){
     });
     sel.appendChild(grp);
   });
-  sel.onchange = () => { country = sel.value; highlight = null; if(country !== 'USA'){ showMetro = false; selectedMetro = null; document.getElementById('metroToggle').checked = false; hideMetroDetail(); } syncActive(); ensureCountry(country, () => { fitView(); render(); }); };
+  sel.onchange = () => { country = sel.value; highlight = null; if(!hasMetro(country)){ showMetro = false; selectedMetro = null; document.getElementById('metroToggle').checked = false; hideMetroDetail(); } syncActive(); ensureCountry(country, () => { fitView(); render(); }); };
 
   const ls = document.getElementById('levelSeg');
   LEVELS.forEach(lv => {
@@ -285,7 +293,7 @@ function syncActive(){
   document.querySelectorAll('#levelSeg button').forEach((b,i)=> b.classList.toggle('active', LEVELS[i]===level));
   document.querySelectorAll('#langSeg button').forEach(b => b.classList.toggle('active', b.dataset.lang===lang));
   document.querySelectorAll('#langSeg button').forEach(b => b.disabled = !showCities);
-  document.getElementById('metroToggle').disabled = country !== 'USA';
+  document.getElementById('metroToggle').disabled = !hasMetro(country);
 }
 
 function currentFeats(){
@@ -358,8 +366,8 @@ function render(){
     ctx.stroke();
   }
 
-  if(showMetro && country === 'USA' && window.USA_METRO){
-    const MS = preprojectMetro();
+  if(showMetro && hasMetro(country)){
+    const MS = preprojectMetro(country);
     for(const m of MS){
       const isSel = selectedMetro === m.id;
       ctx.fillStyle = m.nmiss>0 ? 'rgba(221,107,32,0.32)' : 'rgba(59,124,184,0.26)';
@@ -495,7 +503,7 @@ canvas.addEventListener('click', e => {
 function renderMetroDetail(m){
   const el = document.getElementById('metroDetail');
   document.getElementById('mdName').textContent = m.n;
-  let meta = 'CBSA ' + m.cbsa + ' · ' + m.nm + ' 成员县 · 匹配 ' + m.nmatch + ' / 缺失 ' + m.nmiss;
+  let meta = (m.cbsa ? 'CBSA ' + m.cbsa + ' · ' : '') + m.nm + ' 个成员 · 匹配 ' + m.nmatch + ' / 缺失 ' + m.nmiss;
   meta += ' · 审核 v' + m.ver + ' · ' + (m.last || '—');
   if(m.reviewer) meta += ' · ' + m.reviewer;
   document.getElementById('mdMeta').textContent = meta;
@@ -615,15 +623,18 @@ function selectSearch(e){
       render();
     } else if(e.t===2){                // 国家：切 L1 全览
       highlight = null; level = '1'; syncActive(); fitView(); render();
-    } else if(e.t===3){                // 经济都市圈：切美国 + 开图层 + 定位 + 详情
+    } else if(e.t===3){                // 经济都市圈：切到它所属的国家 + 开图层 + 定位 + 详情
       level = '2'; highlight = null;
       showMetro = true; document.getElementById('metroToggle').checked = true;
       selectedMetro = e.mid;
+      if(e.iso3 && e.iso3 !== country){ country = e.iso3; document.getElementById('countrySel').value = country; }
       syncActive();
-      fitViewToBbox(e.b);
-      render();
-      const m = preprojectMetro().find(x => x.id === e.mid);
-      if(m) renderMetroDetail(m);
+      ensureCountry(country, () => {
+        fitViewToBbox(e.b);
+        render();
+        const m = preprojectMetro(country).find(x => x.id === e.mid);
+        if(m) renderMetroDetail(m);
+      });
     } else {                           // 行政区：切层级 + 缩放 + 高亮
       level = e.lv;
       highlight = { iso3: e.iso3, lv: e.lv, gid: e.gid, zh: e.zh || e.en || e.loc };

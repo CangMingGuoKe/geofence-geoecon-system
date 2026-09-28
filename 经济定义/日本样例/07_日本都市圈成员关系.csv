@@ -1,0 +1,662 @@
+﻿metro_id,metro_name,member_name,member_jis,pref_name,muni_name,gid_2,type_2,match_method,confidence
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Koga-shi,08204,Ibaraki,Koga,JPN.14.22_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Ryugasaki-shi,08208,Ibaraki,Ryūgasaki,JPN.14.30_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Joso-shi,08211,Ibaraki,Jōsō,JPN.14.15_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Toride-shi,08217,Ibaraki,Toride,JPN.14.38_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Ushiku-shi,08219,Ibaraki,Ushiku,JPN.14.42_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Tsukuba-shi,08220,Ibaraki,Tsukuba,JPN.14.40_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Moriya-shi,08224,Ibaraki,Moriya,JPN.14.25_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Kasumigaura-shi,08230,Ibaraki,Kasumigaura,JPN.14.19_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Tsukubamirai-shi,08235,Ibaraki,Tsukubamirai,JPN.14.41_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Miho-mura,08442,Ibaraki,Miho,JPN.14.23_1,Mura,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Ami-machi,08443,Ibaraki,Ami,JPN.14.1_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Kawachi-machi,08447,Ibaraki,Kawachi,JPN.14.20_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Goka-machi,08542,Ibaraki,Goka,JPN.14.5_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Sakai-machi,08546,Ibaraki,Sakai,JPN.14.31_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Tone-machi,08564,Ibaraki,Tone,JPN.14.37_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tochigi-ken Oyama-shi,09208,Tochigi,Oyama,JPN.39.22_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tochigi-ken Shimotsuke-shi,09216,Tochigi,Shimotsuke,JPN.39.25_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tochigi-ken Nogi-machi,09364,Tochigi,Nogi,JPN.39.19_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Gumma-ken Tatebayashi-shi,10207,Gunma,Tatebayashi,JPN.10.33_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Gumma-ken Itakura-machi,10521,Gunma,Itakura,JPN.10.7_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Gumma-ken Meiwa-machi,10522,Gunma,Meiwa,JPN.10.16_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Saitama-shi,11100,Saitama,Saitama,JPN.35.50_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kawagoe-shi,11201,Saitama,Kawagoe,JPN.35.22_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kumagaya-shi,11202,Saitama,Kumagaya,JPN.35.32_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kawaguchi-shi,11203,Saitama,Kawaguchi,JPN.35.23_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Gyoda-shi,11206,Saitama,Gyōda,JPN.35.7_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Tokorozawa-shi,11208,Saitama,Tokorozawa,JPN.35.61_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Hanno-shi,11209,Saitama,Hannō,JPN.35.8_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kazo-shi,11210,Saitama,Kazo,JPN.35.25_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Honjo-shi,11211,Saitama,Honjō,JPN.35.16_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Higashimatsuyama-shi,11212,Saitama,Higashimatsuyama,JPN.35.15_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kasukabe-shi,11214,Saitama,Kasukabe,JPN.35.21_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Sayama-shi,11215,Saitama,Sayama,JPN.35.53_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Hanyu-shi,11216,Saitama,Hanyū,JPN.35.9_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Konosu-shi,11217,Saitama,Kōnosu,JPN.35.29_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Fukaya-shi,11218,Saitama,Fukaya,JPN.35.6_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Ageo-shi,11219,Saitama,Ageo,JPN.35.1_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Soka-shi,11221,Saitama,Sōka,JPN.35.57_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Koshigaya-shi,11222,Saitama,Koshigaya,JPN.35.30_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Warabi-shi,11223,Saitama,Warabi,JPN.35.64_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Toda-shi,11224,Saitama,Toda,JPN.35.59_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Iruma-shi,11225,Saitama,Iruma,JPN.35.18_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Asaka-shi,11227,Saitama,Asaka,JPN.35.2_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Shiki-shi,11228,Saitama,Shiki,JPN.35.54_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Wako-shi,11229,Saitama,Wakō,JPN.35.63_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Niiza-shi,11230,Saitama,Niiza,JPN.35.43_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Okegawa-shi,11231,Saitama,Okegawa,JPN.35.47_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kuki-shi,11232,Saitama,Kuki,JPN.35.31_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kitamoto-shi,11233,Saitama,Kitamoto,JPN.35.28_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Yashio-shi,11234,Saitama,Yashio,JPN.35.66_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Fujimi-shi,11235,Saitama,Fujimi,JPN.35.4_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Misato-shi,11237,Saitama,MisatoCity,JPN.35.37_1,Shi,type_aware,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Hasuda-shi,11238,Saitama,Hasuda,JPN.35.10_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Sakado-shi,11239,Saitama,Sakado,JPN.35.51_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Satte-shi,11240,Saitama,Satte,JPN.35.52_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Tsurugashima-shi,11241,Saitama,Tsurugashima,JPN.35.62_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Hidaka-shi,11242,Saitama,Hidaka,JPN.35.13_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Yoshikawa-shi,11243,Saitama,Yoshikawa,JPN.35.69_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Fujimino-shi,11245,Saitama,Fujimino,JPN.35.5_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Shiraoka-shi,11246,Saitama,Shiraoka,JPN.35.55_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Ina-machi,11301,Saitama,Ina,JPN.35.17_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Miyoshi-machi,11324,Saitama,Miyoshi,JPN.35.39_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Moroyama-machi,11326,Saitama,Moroyama,JPN.35.40_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Ogose-machi,11327,Saitama,Ogose,JPN.35.46_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Namegawa-machi,11341,Saitama,Namegawa,JPN.35.42_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Ranzan-machi,11342,Saitama,Ranzan,JPN.35.49_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Ogawa-machi,11343,Saitama,Ogawa,JPN.35.45_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kawajima-machi,11346,Saitama,Kawajima,JPN.35.24_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Yoshimi-machi,11347,Saitama,Yoshimi,JPN.35.70_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Hatoyama-machi,11348,Saitama,Hatoyama,JPN.35.12_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Tokigawa-machi,11349,Saitama,Tokigawa,JPN.35.60_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Yokoze-machi,11361,Saitama,Yokoze,JPN.35.67_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Higashichichibu-mura,11369,Saitama,Higashichichibu,JPN.35.14_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Misato-machi,11381,Saitama,Misato,JPN.35.36_1,Machi,type_aware,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Kamisato-machi,11385,Saitama,Kamisato,JPN.35.20_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Yorii-machi,11408,Saitama,Yorii,JPN.35.68_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Miyashiro-machi,11442,Saitama,Miyashiro,JPN.35.38_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Sugito-machi,11464,Saitama,Sugito,JPN.35.58_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Saitama-ken Matsubushi-machi,11465,Saitama,Matsubushi,JPN.35.34_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Chiba-shi,12100,Chiba,Chiba,JPN.4.3_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Ichikawa-shi,12203,Chiba,Ichikawa,JPN.4.10_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Funabashi-shi,12204,Chiba,Funabashi,JPN.4.7_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kisarazu-shi,12206,Chiba,Kisarazu,JPN.4.21_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Matsudo-shi,12207,Chiba,Matsudo,JPN.4.25_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Noda-shi,12208,Chiba,Noda,JPN.4.34_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Mobara-shi,12210,Chiba,Mobara,JPN.4.27_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Narita-shi,12211,Chiba,Narita,JPN.4.33_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Sakura-shi,12212,Chiba,Sakura,JPN.4.39_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Togane-shi,12213,Chiba,Tōgane,JPN.4.49_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Narashino-shi,12216,Chiba,Narashino,JPN.4.32_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kashiwa-shi,12217,Chiba,Kashiwa,JPN.4.17_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Katsuura-shi,12218,Chiba,Katsuura,JPN.4.19_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Ichihara-shi,12219,Chiba,Ichihara,JPN.4.9_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Nagareyama-shi,12220,Chiba,Nagareyama,JPN.4.31_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Yachiyo-shi,12221,Chiba,Yachiyo,JPN.4.54_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Abiko-shi,12222,Chiba,Abiko,JPN.4.1_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kamagaya-shi,12224,Chiba,Kamagaya,JPN.4.15_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kimitsu-shi,12225,Chiba,Kimitsu,JPN.4.20_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Futtsu-shi,12226,Chiba,Futtsu,JPN.4.8_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Urayasu-shi,12227,Chiba,Urayasu,JPN.4.52_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Yotsukaido-shi,12228,Chiba,Yotsukaido,JPN.4.56_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Sodegaura-shi,12229,Chiba,Sodegaura,JPN.4.45_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Yachimata-shi,12230,Chiba,Yachimata,JPN.4.53_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Inzai-shi,12231,Chiba,Inzai,JPN.4.13_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Shiroi-shi,12232,Chiba,Shiroi,JPN.4.43_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Tomisato-shi,12233,Chiba,Tomisato,JPN.4.50_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Sosa-shi,12235,Chiba,Sōsa,JPN.4.46_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Katori-shi,12236,Chiba,Katori,JPN.4.18_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Sammu-shi,12237,Chiba,Sanmu,JPN.4.40_1,Shi,name_fuzzy,medium
+JPM01,Tokyo (Kanto MMA),Chiba-ken Isumi-shi,12238,Chiba,Isumi,JPN.4.14_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Oamishirasato-shi,12239,Chiba,Ōamishirasato,JPN.4.35_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Shisui-machi,12322,Chiba,Shisui,JPN.4.44_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Sakae-machi,12329,Chiba,Sakae,JPN.4.38_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kozaki-machi,12342,Chiba,Kōzaki,JPN.4.22_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Tako-machi,12347,Chiba,Tako,JPN.4.47_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kujukuri-machi,12403,Chiba,Kujūkuri,JPN.4.23_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Shibayama-machi,12409,Chiba,Shibayama,JPN.4.41_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Yokoshibahikari-machi,12410,Chiba,Yokoshibahikari,JPN.4.55_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Ichinomiya-machi,12421,Chiba,Ichinomiya,JPN.4.11_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Mutsuzawa-machi,12422,Chiba,Mutsuzawa,JPN.4.29_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Chosei-mura,12423,Chiba,Chōsei,JPN.4.5_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Shirako-machi,12424,Chiba,Shirako,JPN.4.42_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Nagara-machi,12426,Chiba,Nagara,JPN.4.30_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Chonan-machi,12427,Chiba,Chōnan,JPN.4.4_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Otaki-machi,12441,Chiba,Ōtaki,JPN.4.37_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Onjuku-machi,12443,Chiba,Onjuku,JPN.4.36_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Chiba-ken Kyonan-machi,12463,Chiba,Kyonan,JPN.4.24_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Chiyoda-ku,13101,Tokyo,Chiyoda,JPN.41.6_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Chuo-ku,13102,Tokyo,Chūō,JPN.41.8_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Minato-ku,13103,Tokyo,Minato,JPN.41.33_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Shinjuku-ku,13104,Tokyo,Shinjuku,JPN.41.47_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Bunkyo-ku,13105,Tokyo,Bunkyō,JPN.41.5_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Taito-ku,13106,Tokyo,Taitō,JPN.41.51_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Sumida-ku,13107,Tokyo,Sumida,JPN.41.49_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Koto-ku,13108,Tokyo,Kōtō,JPN.41.29_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Shinagawa-ku,13109,Tokyo,Shinagawa,JPN.41.46_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Meguro-ku,13110,Tokyo,Meguro,JPN.41.32_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Ota-ku,13111,Tokyo,Ōta,JPN.41.43_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Setagaya-ku,13112,Tokyo,Setagaya,JPN.41.44_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Shibuya-ku,13113,Tokyo,Shibuya,JPN.41.45_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Nakano-ku,13114,Tokyo,Nakano,JPN.41.38_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Suginami-ku,13115,Tokyo,Suginami,JPN.41.48_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Toshima-ku,13116,Tokyo,Toshima,JPN.41.53_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Kita-ku,13117,Tokyo,Kita,JPN.41.23_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Arakawa-ku,13118,Tokyo,Arakawa,JPN.41.4_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Itabashi-ku,13119,Tokyo,Itabashi,JPN.41.21_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Nerima-ku,13120,Tokyo,Nerima,JPN.41.39_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Adachi-ku,13121,Tokyo,Adachi,JPN.41.1_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Katsushika-ku,13122,Tokyo,Katsushika,JPN.41.22_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Edogawa-ku,13123,Tokyo,Edogawa,JPN.41.9_1,SpecialWard,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Hachioji-shi,13201,Tokyo,Hachiōji,JPN.41.12_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Tachikawa-shi,13202,Tokyo,Tachikawa,JPN.41.50_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Musashino-shi,13203,Tokyo,Musashino,JPN.41.37_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Mitaka-shi,13204,Tokyo,Mitaka,JPN.41.34_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Ome-shi,13205,Tokyo,Ōme,JPN.41.42_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Fuchu-shi,13206,Tokyo,Fuchū,JPN.41.10_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Akishima-shi,13207,Tokyo,Akishima,JPN.41.3_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Chofu-shi,13208,Tokyo,Chōfu,JPN.41.7_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Machida-shi,13209,Tokyo,Machida,JPN.41.31_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Koganei-shi,13210,Tokyo,Koganei,JPN.41.26_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Kodaira-shi,13211,Tokyo,Kodaira,JPN.41.25_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Hino-shi,13212,Tokyo,Hino,JPN.41.17_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Higashimurayama-shi,13213,Tokyo,Higashimurayama,JPN.41.15_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Kokubunji-shi,13214,Tokyo,Kokubunji,JPN.41.27_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Kunitachi-shi,13215,Tokyo,Kunitachi,JPN.41.30_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Fussa-shi,13218,Tokyo,Fussa,JPN.41.11_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Komae-shi,13219,Tokyo,Komae,JPN.41.28_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Higashiyamato-shi,13220,Tokyo,Higashiyamato,JPN.41.16_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Kiyose-shi,13221,Tokyo,Kiyose,JPN.41.24_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Higashikurume-shi,13222,Tokyo,Higashikurume,JPN.41.14_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Musashimurayama-shi,13223,Tokyo,Musashimurayama,JPN.41.36_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Tama-shi,13224,Tokyo,Tama,JPN.41.52_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Inagi-shi,13225,Tokyo,Inagi,JPN.41.20_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Hamura-shi,13227,Tokyo,Hamura,JPN.41.13_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Akiruno-shi,13228,Tokyo,Akiruno,JPN.41.2_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Nishitokyo-shi,13229,Tokyo,Nishitōkyō,JPN.41.40_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Mizuho-machi,13303,Tokyo,Mizuho,JPN.41.35_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Tokyo-to Hinode-machi,13305,Tokyo,Hinode,JPN.41.18_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Yokohama-shi,14100,Kanagawa,Yokohama,JPN.19.29_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Kawasaki-shi,14130,Kanagawa,Kawasaki,JPN.19.14_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Sagamihara-shi,14150,Kanagawa,Sagamihara,JPN.19.25_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Yokosuka-shi,14201,Kanagawa,Yokosuka,JPN.19.30_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Hiratsuka-shi,14203,Kanagawa,Hiratsuka,JPN.19.10_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Kamakura-shi,14204,Kanagawa,Kamakura,JPN.19.13_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Fujisawa-shi,14205,Kanagawa,Fujisawa,JPN.19.6_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Odawara-shi,14206,Kanagawa,Odawara,JPN.19.22_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Chigasaki-shi,14207,Kanagawa,Chigasaki,JPN.19.4_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Zushi-shi,14208,Kanagawa,Zushi,JPN.19.33_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Miura-shi,14210,Kanagawa,Miura,JPN.19.19_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Hadano-shi,14211,Kanagawa,Hadano,JPN.19.7_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Atsugi-shi,14212,Kanagawa,Atsugi,JPN.19.2_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Yamato-shi,14213,Kanagawa,Yamato,JPN.19.28_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Isehara-shi,14214,Kanagawa,Isehara,JPN.19.11_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Ebina-shi,14215,Kanagawa,Ebina,JPN.19.5_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Zama-shi,14216,Kanagawa,Zama,JPN.19.32_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Minamiashigara-shi,14217,Kanagawa,Minamiashigara,JPN.19.18_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Ayase-shi,14218,Kanagawa,Ayase,JPN.19.3_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Hayama-machi,14301,Kanagawa,Hayama,JPN.19.9_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Samukawa-machi,14321,Kanagawa,Samukawa,JPN.19.26_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Oiso-machi,14341,Kanagawa,Ōiso,JPN.19.24_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Ninomiya-machi,14342,Kanagawa,Ninomiya,JPN.19.21_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Nakai-machi,14361,Kanagawa,Nakai,JPN.19.20_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Oi-machi,14362,Kanagawa,Ōi,JPN.19.23_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Matsuda-machi,14363,Kanagawa,Matsuda,JPN.19.17_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Yamakita-machi,14364,Kanagawa,Yamakita,JPN.19.27_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Kaisei-machi,14366,Kanagawa,Kaisei,JPN.19.12_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Manazuru-machi,14383,Kanagawa,Manazuru,JPN.19.16_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Yugawara-machi,14384,Kanagawa,Yugawara,JPN.19.31_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Aikawa-machi,14401,Kanagawa,Aikawa,JPN.19.1_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Kanagawa-ken Kiyokawa-mura,14402,Kanagawa,Kiyokawa,JPN.19.15_1,Machi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Yamanashi-ken Otsuki-shi,19206,Yamanashi,Ōtsuki,JPN.47.22_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Yamanashi-ken Uenohara-shi,19212,Yamanashi,Uenohara,JPN.47.26_1,Shi,name_exact,high
+JPM01,Tokyo (Kanto MMA),Yamanashi-ken Doshi-mura,19422,Yamanashi,Dōshi,JPN.47.2_1,Mura,name_exact,high
+JPM01,Tokyo (Kanto MMA),Shizuoka-ken Atami-shi,22205,Shizuoka,Atami,JPN.38.2_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Otsu-shi,25201,Shiga,Ōtsu,JPN.36.18_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Hikone-shi,25202,Shiga,Hikone,JPN.36.4_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Omihachiman-shi,25204,Shiga,Ōmihachiman,JPN.36.17_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Kusatsu-shi,25206,Shiga,Kusatsu,JPN.36.11_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Moriyama-shi,25207,Shiga,Moriyama,JPN.36.14_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Ritto-shi,25208,Shiga,Rittō,JPN.36.19_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Koka-shi,25209,Shiga,Kōka,JPN.36.8_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Yasu-shi,25210,Shiga,Yasu,JPN.36.26_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Konan-shi,25211,Shiga,Konan,JPN.36.9_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Takashima-shi,25212,Shiga,Takashima,JPN.36.22_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Higashiomi-shi,25213,Shiga,Higashiōmi,JPN.36.3_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Hino-cho,25383,Shiga,Hino,JPN.36.5_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Ryuo-cho,25384,Shiga,Ryūō,JPN.36.20_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kyoto-shi,26100,Kyoto,Kyoto,JPN.22.13_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Uji-shi,26204,Kyoto,Uji,JPN.22.22_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kameoka-shi,26206,Kyoto,Kameoka,JPN.22.6_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Joyo-shi,26207,Kyoto,Jōyō,JPN.22.5_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Muko-shi,26208,Kyoto,Mukō,JPN.22.17_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Nagaokakyo-shi,26209,Kyoto,Nagaokakyō,JPN.22.18_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Yawata-shi,26210,Kyoto,Yawata,JPN.22.25_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kyotanabe-shi,26211,Kyoto,Kyōtanabe,JPN.22.11_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Nantan-shi,26213,Kyoto,Nantan,JPN.22.19_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kizugawa-shi,26214,Kyoto,Kizugawa,JPN.22.8_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Oyamazaki-cho,26303,Kyoto,Ōyamazaki,JPN.22.20_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kumiyama-cho,26322,Kyoto,Kumiyama,JPN.22.9_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Ide-cho,26343,Kyoto,Ide,JPN.22.3_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Ujitawara-cho,26344,Kyoto,Ujitawara,JPN.22.23_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kasagi-cho,26364,Kyoto,Kasagi,JPN.22.7_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Wazuka-cho,26365,Kyoto,Wazuka,JPN.22.24_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Seika-cho,26366,Kyoto,Seika,JPN.22.21_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Minamiyamashiro-mura,26367,Kyoto,Minamiyamashiro,JPN.22.15_1,Mura,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Kyoto-fu Kyotamba-cho,26407,Kyoto,Kyōtamba,JPN.22.10_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Osaka-shi,27100,Osaka,Osaka,JPN.33.27_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Sakai-shi,27140,Osaka,Sakai,JPN.33.29_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kishiwada-shi,27202,Osaka,Kishiwada,JPN.33.19_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Toyonaka-shi,27203,Osaka,Toyonaka,JPN.33.41_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Ikeda-shi,27204,Osaka,Ikeda,JPN.33.9_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Suita-shi,27205,Osaka,Suita,JPN.33.34_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Izumiotsu-shi,27206,Osaka,Izumiōtsu,JPN.33.11_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Takatsuki-shi,27207,Osaka,Takatsuki,JPN.33.39_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kaizuka-shi,27208,Osaka,Kaizuka,JPN.33.14_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Moriguchi-shi,27209,Osaka,Moriguchi,JPN.33.24_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Hirakata-shi,27210,Osaka,Hirakata,JPN.33.7_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Ibaraki-shi,27211,Osaka,Ibaraki,JPN.33.8_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Yao-shi,27212,Osaka,Yao,JPN.33.43_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Izumisano-shi,27213,Osaka,Izumisano,JPN.33.12_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Tondabayashi-shi,27214,Osaka,Tondabayashi,JPN.33.40_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Neyagawa-shi,27215,Osaka,Neyagawa,JPN.33.25_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kawachinagano-shi,27216,Osaka,Kawachinagano,JPN.33.18_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Matsubara-shi,27217,Osaka,Matsubara,JPN.33.21_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Daito-shi,27218,Osaka,Daitō,JPN.33.2_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Izumi-shi,27219,Osaka,Izumi,JPN.33.10_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Minoh-shi,27220,Osaka,Minoo,JPN.33.22_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kashiwara-shi,27221,Osaka,Kashiwara,JPN.33.16_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Habikino-shi,27222,Osaka,Habikino,JPN.33.4_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kadoma-shi,27223,Osaka,Kadoma,JPN.33.13_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Settsu-shi,27224,Osaka,Settsu,JPN.33.31_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Takaishi-shi,27225,Osaka,Takaishi,JPN.33.38_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Fujiidera-shi,27226,Osaka,Fujiidera,JPN.33.3_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Higashiosaka-shi,27227,Osaka,Higashiōsaka,JPN.33.6_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Sennan-shi,27228,Osaka,Sennan,JPN.33.30_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Shijonawate-shi,27229,Osaka,Shijōnawate,JPN.33.32_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Katano-shi,27230,Osaka,Katano,JPN.33.17_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Osakasayama-shi,27231,Osaka,Ōsakasayama,JPN.33.28_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Hannan-shi,27232,Osaka,Hannan,JPN.33.5_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Shimamoto-cho,27301,Osaka,Shimamoto,JPN.33.33_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Toyono-cho,27321,Osaka,Toyono,JPN.33.42_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Nose-cho,27322,Osaka,Nose,JPN.33.26_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Tadaoka-cho,27341,Osaka,Tadaoka,JPN.33.35_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kumatori-cho,27361,Osaka,Kumatori,JPN.33.20_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Tajiri-cho,27362,Osaka,Tajiri,JPN.33.37_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Misaki-cho,27366,Osaka,Misaki,JPN.33.23_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Taishi-cho,27381,Osaka,Taishi,JPN.33.36_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Kanan-cho,27382,Osaka,Kanan,JPN.33.15_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Osaka-fu Chihayaakasaka-mura,27383,Osaka,Chihayaakasaka,JPN.33.1_1,Mura,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Kobe-shi,28100,Hyōgo,Kobe,JPN.13.22_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Himeji-shi,28201,Hyōgo,Himeji,JPN.13.10_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Amagasaki-shi,28202,Hyōgo,Amagasaki,JPN.13.4_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Akashi-shi,28203,Hyōgo,Akashi,JPN.13.2_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Nishinomiya-shi,28204,Hyōgo,Nishinomiya,JPN.13.25_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Ashiya-shi,28206,Hyōgo,Ashiya,JPN.13.6_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Itami-shi,28207,Hyōgo,Itami,JPN.13.14_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Aioi-shi,28208,Hyōgo,Aioi,JPN.13.1_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Kakogawa-shi,28210,Hyōgo,Kakogawa,JPN.13.15_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Takarazuka-shi,28214,Hyōgo,Takarazuka,JPN.13.36_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Miki-shi,28215,Hyōgo,Miki,JPN.13.23_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Takasago-shi,28216,Hyōgo,Takasago,JPN.13.37_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Kawanishi-shi,28217,Hyōgo,Kawanishi,JPN.13.21_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Ono-shi,28218,Hyōgo,Ono,JPN.13.27_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Sanda-shi,28219,Hyōgo,Sanda,JPN.13.28_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Kasai-shi,28220,Hyōgo,Kasai,JPN.13.19_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Sasayama-shi,28221,Hyōgo,Sasayama,JPN.13.29_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Awaji-shi,28226,Hyōgo,Awaji,JPN.13.7_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Kato-shi,28228,Hyōgo,Katō,JPN.13.20_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Tatsuno-shi,28229,Hyōgo,Tatsuno,JPN.13.39_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Inagawa-cho,28301,Hyōgo,Inagawa,JPN.13.12_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Inami-cho,28381,Hyōgo,Inami,JPN.13.13_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Harima-cho,28382,Hyōgo,Harima,JPN.13.9_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Fukusaki-cho,28443,Hyōgo,Fukusaki,JPN.13.8_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Hyogo-ken Taishi-cho,28464,Hyōgo,Taishi,JPN.13.34_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Nara-shi,29201,Nara,Nara,JPN.28.21_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Yamatotakada-shi,29202,Nara,Yamatotakada,JPN.28.37_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Yamatokoriyama-shi,29203,Nara,Yamatokōriyama,JPN.28.36_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Tenri-shi,29204,Nara,Tenri,JPN.28.33_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Kashihara-shi,29205,Nara,Kashihara,JPN.28.12_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Sakurai-shi,29206,Nara,Sakurai,JPN.28.25_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Gojo-shi,29207,Nara,Gojō,JPN.28.3_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Gose-shi,29208,Nara,Gose,JPN.28.4_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Ikoma-shi,29209,Nara,Ikoma,JPN.28.8_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Kashiba-shi,29210,Nara,Kashiba,JPN.28.11_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Katsuragi-shi,29211,Nara,Katsuragi,JPN.28.13_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Uda-shi,29212,Nara,Uda,JPN.28.35_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Heguri-cho,29342,Nara,Heguri,JPN.28.5_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Sango-cho,29343,Nara,Sangō,JPN.28.26_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Ikaruga-cho,29344,Nara,Ikaruga,JPN.28.7_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Ando-cho,29345,Nara,Ando,JPN.28.1_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Kawanishi-cho,29361,Nara,KawanishiTown,JPN.28.16_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Miyake-cho,29362,Nara,Miyake,JPN.28.20_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Tawaramoto-cho,29363,Nara,Tawaramoto,JPN.28.31_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Soni-mura,29385,Nara,Soni,JPN.28.29_1,Mura,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Takatori-cho,29401,Nara,Takatori,JPN.28.30_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Asuka-mura,29402,Nara,Asuka,JPN.28.2_1,Mura,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Kammaki-cho,29424,Nara,Kanmaki,JPN.28.10_1,Machi,name_fuzzy,medium
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Oji-cho,29425,Nara,Ōji,JPN.28.23_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Koryo-cho,29426,Nara,Kōryō,JPN.28.17_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Kawai-cho,29427,Nara,Kawai,JPN.28.14_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Yoshino-cho,29441,Nara,Yoshino,JPN.28.39_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Oyodo-cho,29442,Nara,Ōyodo,JPN.28.24_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Nara-ken Shimoichi-cho,29443,Nara,Shimoichi,JPN.28.27_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Wakayama-shi,30201,Wakayama,Wakayama,JPN.44.27_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Hashimoto-shi,30203,Wakayama,Hashimoto,JPN.44.4_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Iwade-shi,30209,Wakayama,Iwade,JPN.44.9_1,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Katsuragi-cho,30341,Wakayama,Katsuragi,JPN.44.12_1,Machi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Kudoyama-cho,30343,Wakayama,Kudoyama,JPN.44.17_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Ogaki-shi,21202,Gifu,Ōgaki,JPN.9.27_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Tajimi-shi,21204,Gifu,Tajimi,JPN.9.34_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Mizunami-shi,21208,Gifu,Mizunami,JPN.9.24_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Hashima-shi,21209,Gifu,Hashima,JPN.9.8_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Ena-shi,21210,Gifu,Ena,JPN.9.2_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Minokamo-shi,21211,Gifu,Minokamo,JPN.9.21_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Toki-shi,21212,Gifu,Toki,JPN.9.37_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Kakamigahara-shi,21213,Gifu,Kakamigahara,JPN.9.15_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Kani-shi,21214,Gifu,Kani,JPN.9.16_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Mizuho-shi,21216,Gifu,Mizuho,JPN.9.23_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Motosu-shi,21218,Gifu,Motosu,JPN.9.25_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Kaizu-shi,21221,Gifu,Kaizu,JPN.9.14_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Ginan-cho,21302,Gifu,Ginan,JPN.9.5_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Kasamatsu-cho,21303,Gifu,Kasamatsu,JPN.9.17_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Yoro-cho,21341,Gifu,Yōrō,JPN.9.43_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Tarui-cho,21361,Gifu,Tarui,JPN.9.36_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Sekigahara-cho,21362,Gifu,Sekigahara,JPN.9.31_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Godo-cho,21381,Gifu,Godo,JPN.9.6_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Wanouchi-cho,21382,Gifu,Wanouchi,JPN.9.40_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Anpachi-cho,21383,Gifu,Anpachi,JPN.9.1_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Ono-cho,21403,Gifu,Ono,JPN.9.28_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Ikeda-cho,21404,Gifu,IkedaTown,JPN.9.13_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Kitagata-cho,21421,Gifu,Kitagata,JPN.9.19_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Sakahogi-cho,21501,Gifu,Sakahogi,JPN.9.29_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Kawabe-cho,21503,Gifu,Kawabe,JPN.9.18_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Yaotsu-cho,21505,Gifu,Yaotsu,JPN.9.42_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Mitake-cho,21521,Gifu,Mitake,JPN.9.22_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Nagoya-shi,23100,Aichi,Nagoya,JPN.1.36_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Okazaki-shi,23202,Aichi,Okazaki,JPN.1.42_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Ichinomiya-shi,23203,Aichi,Ichinomiya/Owari-ichinomiya,JPN.1.13_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Seto-shi,23204,Aichi,Seto,JPN.1.45_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Handa-shi,23205,Aichi,Handa,JPN.1.8_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Kasugai-shi,23206,Aichi,Kasugai,JPN.1.21_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Toyokawa-shi,23207,Aichi,Toyokawa,JPN.1.59_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Tsushima-shi,23208,Aichi,Tsushima,JPN.1.63_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Hekinan-shi,23209,Aichi,Hekinan,JPN.1.11_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Kariya-shi,23210,Aichi,Kariya,JPN.1.20_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Toyota-shi,23211,Aichi,Toyota,JPN.1.61_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Anjo-shi,23212,Aichi,Anjō,JPN.1.3_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Nishio-shi,23213,Aichi,Nishio,JPN.1.37_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Gamagori-shi,23214,Aichi,Gamagōri,JPN.1.7_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Inuyama-shi,23215,Aichi,Inuyama,JPN.1.15_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Tokoname-shi,23216,Aichi,Tokoname,JPN.1.56_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Konan-shi,23217,Aichi,Kōnan,JPN.1.27_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Komaki-shi,23219,Aichi,Komaki,JPN.1.26_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Inazawa-shi,23220,Aichi,Inazawa,JPN.1.14_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Tokai-shi,23222,Aichi,Tōkai,JPN.1.55_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Obu-shi,23223,Aichi,Ōbu,JPN.1.39_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Chita-shi,23224,Aichi,Chita,JPN.1.5_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Chiryu-shi,23225,Aichi,Chiryū,JPN.1.4_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Owariasahi-shi,23226,Aichi,Owariasahi,JPN.1.44_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Takahama-shi,23227,Aichi,Takahama,JPN.1.50_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Iwakura-shi,23228,Aichi,Iwakura,JPN.1.17_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Toyoake-shi,23229,Aichi,Toyoake,JPN.1.57_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Nisshin-shi,23230,Aichi,Nisshin,JPN.1.38_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Aisai-shi,23232,Aichi,Aisai,JPN.1.2_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Kiyosu-shi,23233,Aichi,Kiyosu,JPN.1.25_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Kitanagoya-shi,23234,Aichi,Kitanagoya,JPN.1.24_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Yatomi-shi,23235,Aichi,Yatomi,JPN.1.64_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Miyoshi-shi,23236,Aichi,Miyoshi,JPN.1.34_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Ama-shi,23237,,,,,missing,
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Nagakute-shi,23238,Aichi,Nagakute,JPN.1.35_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Togo-cho,23302,Aichi,Tōgō,JPN.1.54_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Toyoyama-cho,23342,Aichi,Toyoyama,JPN.1.62_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Oguchi-cho,23361,Aichi,Ōguchi,JPN.1.40_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Fuso-cho,23362,Aichi,Fusō,JPN.1.6_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Oharu-cho,23424,Aichi,Ōharu,JPN.1.41_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Kanie-cho,23425,Aichi,Kanie,JPN.1.19_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Tobishima-mura,23427,Aichi,Tobishima,JPN.1.52_1,Mura,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Agui-cho,23441,Aichi,Agui,JPN.1.1_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Higashiura-cho,23442,Aichi,Higashiura,JPN.1.12_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Minamichita-cho,23445,Aichi,Minamichita,JPN.1.31_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Mihama-cho,23446,Aichi,Mihama,JPN.1.30_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Taketoyo-cho,23447,Aichi,Taketoyo,JPN.1.51_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Aichi-ken Kota-cho,23501,Aichi,Kōta,JPN.1.28_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Yokkaichi-shi,24202,Mie,Yokkaichi,JPN.23.28_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Kuwana-shi,24205,Mie,Kuwana,JPN.23.11_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Suzuka-shi,24207,Mie,Suzuka,JPN.23.20_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Inabe-shi,24214,Mie,Inabe,JPN.23.3_1,Shi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Kisosaki-cho,24303,,,,,missing,
+JPM03,Nagoya (Chukyo MMA),Mie-ken Toin-cho,24324,Mie,Tōin,JPN.23.25_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Komono-cho,24341,Mie,Komono,JPN.23.9_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Asahi-cho,24343,Mie,Asahi,JPN.23.1_1,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Mie-ken Kawagoe-cho,24344,Mie,Kawagoe,JPN.23.6_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kitakyushu-shi,40100,Fukuoka,Kitakyūshū,JPN.7.25_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Fukuoka-shi,40130,Fukuoka,Fukuoka,JPN.7.11_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Omuta-shi,40202,Fukuoka,Ōmuta,JPN.7.46_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kurume-shi,40203,Fukuoka,Kurume,JPN.7.31_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Nogata-shi,40204,Fukuoka,Nōgata,JPN.7.41_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Iizuka-shi,40205,Fukuoka,Iizuka,JPN.7.16_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Tagawa-shi,40206,Fukuoka,Tagawa,JPN.7.58_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Yanagawa-shi,40207,Fukuoka,Yanagawa,JPN.7.64_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Chikugo-shi,40211,Fukuoka,Chikugo,JPN.7.5_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Okawa-shi,40212,Fukuoka,Ōkawa,JPN.7.44_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Yukuhashi-shi,40213,Fukuoka,Yukuhashi,JPN.7.66_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Buzen-shi,40214,Fukuoka,Buzen,JPN.7.4_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Nakama-shi,40215,Fukuoka,Nakama,JPN.7.39_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Ogori-shi,40216,Fukuoka,Ogōri,JPN.7.42_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Chikushino-shi,40217,Fukuoka,Chikushino,JPN.7.7_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kasuga-shi,40218,Fukuoka,Kasuga,JPN.7.20_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Onojo-shi,40219,Fukuoka,Ōnojō,JPN.7.48_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Munakata-shi,40220,Fukuoka,Munakata,JPN.7.37_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Dazaifu-shi,40221,Fukuoka,Dazaifu,JPN.7.9_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Koga-shi,40223,Fukuoka,Koga,JPN.7.26_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Fukutsu-shi,40224,Fukuoka,Fukutsu,JPN.7.12_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Miyawaka-shi,40226,Fukuoka,Miyawaka,JPN.7.35_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kama-shi,40227,Fukuoka,Kama,JPN.7.18_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Asakura-shi,40228,Fukuoka,Asakura,JPN.7.2_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Miyama-shi,40229,Fukuoka,Miyama,JPN.7.34_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Itoshima-shi,40230,,,,,missing,
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Nakagawa-machi,40305,Fukuoka,Nakagawa,JPN.7.38_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Umi-machi,40341,Fukuoka,Umi,JPN.7.61_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Sasaguri-machi,40342,Fukuoka,Sasaguri,JPN.7.50_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Shime-machi,40343,Fukuoka,Shime,JPN.7.52_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Sue-machi,40344,Fukuoka,Sue,JPN.7.55_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Shingu-machi,40345,Fukuoka,Shingū,JPN.7.53_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Hisayama-machi,40348,Fukuoka,Hisayama,JPN.7.14_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kasuya-machi,40349,Fukuoka,Kasuya,JPN.7.21_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Ashiya-machi,40381,Fukuoka,Ashiya,JPN.7.3_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Mizumaki-machi,40382,Fukuoka,Mizumaki,JPN.7.36_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Okagaki-machi,40383,Fukuoka,Okagaki,JPN.7.43_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Onga-cho,40384,Fukuoka,Onga,JPN.7.47_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kotake-machi,40401,Fukuoka,Kotake,JPN.7.28_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kurate-machi,40402,Fukuoka,Kurate,JPN.7.29_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Keisen-machi,40421,Fukuoka,Keisen,JPN.7.24_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Chikuzen-machi,40447,Fukuoka,Chikuzen,JPN.7.8_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Tachiarai-machi,40503,Fukuoka,Tachiarai,JPN.7.56_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Oki-machi,40522,Fukuoka,Ōki,JPN.7.45_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Hirokawa-machi,40544,Fukuoka,Hirokawa,JPN.7.13_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kawara-machi,40601,Fukuoka,Kawara,JPN.7.22_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Soeda-machi,40602,Fukuoka,Soeda,JPN.7.54_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Itoda-machi,40604,Fukuoka,Itoda,JPN.7.17_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kawasaki-machi,40605,Fukuoka,Kawasaki,JPN.7.23_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Oto-machi,40608,Fukuoka,Ōtō,JPN.7.49_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Aka-mura,40609,Fukuoka,Aka,JPN.7.1_1,Mura,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Fukuchi-machi,40610,Fukuoka,Fukuchi,JPN.7.10_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kanda-machi,40621,Fukuoka,Kanda,JPN.7.19_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Miyako-machi,40625,Fukuoka,Miyako,JPN.7.33_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Yoshitomi-machi,40642,Fukuoka,Yoshitomi,JPN.7.65_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Koge-machi,40646,Fukuoka,Kōge,JPN.7.27_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Chikujo-machi,40647,Fukuoka,Chikujō,JPN.7.6_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Karatsu-shi,41202,Saga,Karatsu,JPN.34.6_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Tosu-shi,41203,Saga,Tosu,JPN.34.18_1,Shi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Yoshinogari-cho,41327,Saga,Yoshinogari,JPN.34.20_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Kiyama-cho,41341,Saga,Kiyama,JPN.34.8_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Kamimine-cho,41345,Saga,Kamimine,JPN.34.4_1,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Miyaki-cho,41346,Saga,Miyaki,JPN.34.10_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Ishinomaki-shi,04202,Miyagi,Ishinomaki,JPN.24.2_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Shiogama-shi,04203,Miyagi,Shiogama,JPN.24.27_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Shiroishi-shi,04206,Miyagi,Shiroishi,JPN.24.28_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Natori-shi,04207,Miyagi,Natori,JPN.24.15_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Kakuda-shi,04208,Miyagi,Kakuda,JPN.24.4_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Tagajo-shi,04209,Miyagi,Tagajō,JPN.24.29_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Iwanuma-shi,04211,Miyagi,Iwanuma,JPN.24.3_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Tome-shi,04212,Miyagi,Tome,JPN.24.31_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Kurihara-shi,04213,Miyagi,Kurihara,JPN.24.8_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Higashimatsushima-shi,04214,Miyagi,Higashimatsushima,JPN.24.1_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Osaki-shi,04215,Miyagi,Ōsaki,JPN.24.19_1,Shi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Zao-machi,04301,Miyagi,Zaō,JPN.24.36_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Ogawara-machi,04321,Miyagi,Ōgawara,JPN.24.16_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Murata-machi,04322,Miyagi,Murata,JPN.24.14_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Shibata-machi,04323,Miyagi,Shibata,JPN.24.23_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Kawasaki-machi,04324,Miyagi,Kawasaki,JPN.24.6_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Marumori-machi,04341,Miyagi,Marumori,JPN.24.9_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Watari-cho,04361,Miyagi,Watari,JPN.24.34_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Yamamoto-cho,04362,Miyagi,Yamamoto,JPN.24.35_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Matsushima-machi,04401,Miyagi,Matsushima,JPN.24.10_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Shichigahama-machi,04404,Miyagi,Shichigahama,JPN.24.24_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Rifu-cho,04406,Miyagi,Rifu,JPN.24.21_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Taiwa-cho,04421,Miyagi,Taiwa,JPN.24.30_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Osato-cho,04422,Miyagi,Ōsato,JPN.24.20_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Tomiya-machi,04423,Miyagi,Tomiya,JPN.24.32_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Ohira-mura,04424,Miyagi,Ōhira,JPN.24.17_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Shikama-cho,04444,Miyagi,Shikama,JPN.24.26_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Kami-machi,04445,Miyagi,KamiTown,JPN.24.5_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Wakuya-cho,04501,Miyagi,Wakuya,JPN.24.33_1,Machi,name_exact,high
+JPM05,Sendai MMA,Miyagi-ken Misato-machi,04505,Miyagi,Misato,JPN.24.12_1,Machi,name_exact,high
+JPM05,Sendai MMA,Fukushima-ken Shinchi-machi,07561,Fukushima,Shinchi,JPN.8.46_1,Machi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Otaru-shi,01203,Hokkaido,Otaru,JPN.12.108_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Iwamizawa-shi,01210,Hokkaido,Iwamizawa,JPN.12.48_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Bibai-shi,01215,Hokkaido,Bibai,JPN.12.13_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Ebetsu-shi,01217,Hokkaido,Ebetsu,JPN.12.21_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Chitose-shi,01224,Hokkaido,Chitose,JPN.12.19_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Eniwa-shi,01231,Hokkaido,Eniwa,JPN.12.24_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Kitahiroshima-shi,01234,Hokkaido,Kitahiroshima,JPN.12.60_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Ishikari-shi,01235,Hokkaido,Ishikari,JPN.12.47_1,Shi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Tobetsu-cho,01303,Hokkaido,Tōbetsu,JPN.12.157_1,Machi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Shinshinotsu-mura,01304,Hokkaido,Shinshinotsu,JPN.12.141_1,Mura,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Nanporo-cho,01423,Hokkaido,Nanporo,JPN.12.92_1,Machi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Naganuma-cho,01428,Hokkaido,Naganuma,JPN.12.84_1,Machi,name_exact,high
+JPM06,Sapporo MMA,Hokkaido Kuriyama-cho,01429,Hokkaido,Kuriyama,JPN.12.65_1,Machi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Kure-shi,34202,Hiroshima,Kure,JPN.11.14_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Otake-shi,34211,Hiroshima,Ōtake,JPN.11.19_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Higashihiroshima-shi,34212,Hiroshima,Higashihiroshima,JPN.11.8_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Hatsukaichi-shi,34213,Hiroshima,Hatsukaichi,JPN.11.7_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Akitakata-shi,34214,Hiroshima,Akitakata,JPN.11.2_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Etajima-shi,34215,Hiroshima,Etajima,JPN.11.3_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Fuchu-cho,34302,Hiroshima,Fuchū,JPN.11.4_1,Machi,type_aware,high
+JPM07,Hiroshima MMA,Hiroshima-ken Kaita-cho,34304,Hiroshima,Kaita,JPN.11.11_1,Machi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Kumano-cho,34307,Hiroshima,Kumano,JPN.11.13_1,Machi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Saka-cho,34309,Hiroshima,Saka,JPN.11.20_1,Machi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Akiota-cho,34368,Hiroshima,Akiōta,JPN.11.1_1,Machi,name_exact,high
+JPM07,Hiroshima MMA,Hiroshima-ken Kitahiroshima-cho,34369,Hiroshima,Kitahiroshima,JPN.11.12_1,Machi,name_exact,high
+JPM07,Hiroshima MMA,Yamaguchi-ken Iwakuni-shi,35208,Yamaguchi,Iwakuni,JPN.46.7_1,Shi,name_exact,high
+JPM07,Hiroshima MMA,Yamaguchi-ken Waki-cho,35321,Yamaguchi,Waki,JPN.46.18_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Kurashiki-shi,33202,Okayama,Kurashiki,JPN.31.10_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Tamano-shi,33204,Okayama,Tamano,JPN.31.26_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Kasaoka-shi,33205,Okayama,Kasaoka,JPN.31.7_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Soja-shi,33208,Okayama,Sōja,JPN.31.24_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Takahashi-shi,33209,Okayama,Takahashi,JPN.31.25_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Bizen-shi,33211,Okayama,Bizen,JPN.31.3_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Setouchi-shi,33212,Okayama,Setouchi,JPN.31.20_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Akaiwa-shi,33213,Okayama,Akaiwa,JPN.31.1_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Asakuchi-shi,33216,Okayama,Asakuchi,JPN.31.2_1,Shi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Wake-cho,33346,Okayama,Wake,JPN.31.29_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Hayashima-cho,33423,Okayama,Hayashima,JPN.31.4_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Satosho-cho,33445,Okayama,Satoshō,JPN.31.19_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Yakage-cho,33461,Okayama,Yakage,JPN.31.30_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Kumenan-cho,33663,Okayama,Kumenan,JPN.31.9_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Misaki-cho,33666,Okayama,Misaki,JPN.31.13_1,Machi,name_exact,high
+JPM08,Okayama MMA,Okayama-ken Kibichuo-cho,33681,Okayama,Kibichūō,JPN.31.8_1,Machi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Shizuoka-shi,22100,Shizuoka,Shizuoka,JPN.38.38_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Hamamatsu-shi,22130,Shizuoka,Hamamatsu,JPN.38.9_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Fujinomiya-shi,22207,Shizuoka,Fujinomiya,JPN.38.6_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Shimada-shi,22209,Shizuoka,Shimada,JPN.38.35_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Fuji-shi,22210,Shizuoka,Fuji,JPN.38.3_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Iwata-shi,22211,Shizuoka,Iwata,JPN.38.12_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Yaizu-shi,22212,Shizuoka,Yaizu,JPN.38.41_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Kakegawa-shi,22213,Shizuoka,Kakegawa,JPN.38.15_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Fujieda-shi,22214,Shizuoka,Fujieda,JPN.38.4_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Fukuroi-shi,22216,Shizuoka,Fukuroi,JPN.38.7_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Kosai-shi,22221,Shizuoka,Kosai,JPN.38.21_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Kikugawa-shi,22224,Shizuoka,Kikugawa,JPN.38.20_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Makinohara-shi,22226,Shizuoka,Makinohara,JPN.38.22_1,Shi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Yoshida-cho,22424,Shizuoka,Yoshida,JPN.38.42_1,Machi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Mori-machi,22461,Shizuoka,Mori,JPN.38.26_1,Machi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Aichi-ken Toei-cho,23562,Aichi,Tōei,JPN.1.53_1,Machi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Sanjo-shi,15204,Niigata,Sanjō,JPN.29.20_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Shibata-shi,15206,Niigata,Shibata,JPN.29.23_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Kamo-shi,15209,Niigata,Kamo,JPN.29.8_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Mitsuke-shi,15211,Niigata,Mitsuke,JPN.29.13_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Murakami-shi,15212,Niigata,Murakami,JPN.29.14_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Tsubame-shi,15213,Niigata,Tsubame,JPN.29.27_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Gosen-shi,15218,Niigata,Gosen,JPN.29.4_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Agano-shi,15223,Niigata,Agano,JPN.29.2_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Tainai-shi,15227,Niigata,Tainai,JPN.29.25_1,Shi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Seiro-machi,15307,Niigata,Seirō,JPN.29.21_1,Machi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Yahiko-mura,15342,Niigata,Yahiko,JPN.29.30_1,Mura,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Tagami-machi,15361,Niigata,Tagami,JPN.29.24_1,Machi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Aga-machi,15385,Niigata,Aga,JPN.29.1_1,Machi,name_exact,high
+JPM10,Niigata MMA,Niigata-ken Sekikawa-mura,15581,Niigata,Sekikawa,JPN.29.22_1,Mura,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Yatsushiro-shi,43202,Kumamoto,Yatsushiro,JPN.21.47_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Tamana-shi,43206,Kumamoto,Tamana,JPN.21.35_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Yamaga-shi,43208,Kumamoto,Yamaga,JPN.21.45_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Kikuchi-shi,43210,Kumamoto,Kikuchi,JPN.21.12_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Uto-shi,43211,Kumamoto,Uto,JPN.21.43_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Kamiamakusa-shi,43212,Kumamoto,Kami-Amakusa,JPN.21.10_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Uki-shi,43213,Kumamoto,Uki,JPN.21.41_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Aso-shi,43214,Kumamoto,Aso,JPN.21.4_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Koshi-shi,43216,Kumamoto,Kōshi,JPN.21.15_1,Shi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Misato-machi,43348,Kumamoto,Misato,JPN.21.23_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Gyokuto-machi,43364,Kumamoto,Gyokutō,JPN.21.5_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Nankan-machi,43367,Kumamoto,Nankan,JPN.21.27_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Nagasu-machi,43368,Kumamoto,Nagasu,JPN.21.25_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Nagomi-machi,43369,Kumamoto,Nagomi,JPN.21.26_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Ozu-machi,43403,Kumamoto,Ōzu,JPN.21.31_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Kikuyo-machi,43404,Kumamoto,Kikuyō,JPN.21.13_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Takamori-machi,43428,Kumamoto,Takamori,JPN.21.34_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Nishihara-mura,43432,Kumamoto,Nishihara,JPN.21.28_1,Mura,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Minamiaso-mura,43433,Kumamoto,Minamiaso,JPN.21.21_1,Mura,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Mifune-machi,43441,Kumamoto,Mifune,JPN.21.19_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Kashima-machi,43442,Kumamoto,Kashima,JPN.21.11_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Mashiki-machi,43443,Kumamoto,Mashiki,JPN.21.18_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Kosa-machi,43444,Kumamoto,Kōsa,JPN.21.14_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Yamato-cho,43447,Kumamoto,Yamato,JPN.21.46_1,Machi,name_exact,high
+JPM11,Kumamoto MMA,Kumamoto-ken Hikawa-cho,43468,Kumamoto,Hikawa,JPN.21.6_1,Machi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Makurazaki-shi,46204,Kagoshima,Makurazaki,JPN.18.21_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Ibusuki-shi,46210,Kagoshima,Ibusuki,JPN.18.9_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Tarumizu-shi,46214,Kagoshima,Tarumizu,JPN.18.37_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Satsumasendai-shi,46215,Kagoshima,Satsumasendai,JPN.18.33_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Hioki-shi,46216,Kagoshima,Hioki,JPN.18.7_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Kirishima-shi,46218,Kagoshima,Kirishima,JPN.18.20_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Ichikikushikino-shi,46219,Kagoshima,Ichikikushikino,JPN.18.10_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Minamisatsuma-shi,46220,Kagoshima,Minamisatsuma,JPN.18.24_1,Shi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Minamikyusyu-shi,46223,Kagoshima,Minamikyūshū,JPN.18.22_1,Machi,name_exact,high
+JPM12,Kagoshima MA,Kagoshima-ken Aira-shi,46225,Kagoshima,Aira,JPN.18.1_1,Machi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Ozu-shi,38207,Ehime,Ōzu,JPN.5.12_1,Shi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Iyo-shi,38210,Ehime,Iyo,JPN.5.4_1,Shi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Toon-shi,38215,Ehime,Tōon,JPN.5.17_1,Shi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Kumakogen-cho,38386,Ehime,Kumakōgen,JPN.5.7_1,Machi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Masaki-cho,38401,Ehime,Masaki,JPN.5.8_1,Machi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Tobe-cho,38402,Ehime,Tobe,JPN.5.16_1,Machi,name_exact,high
+JPM13,Matsuyama MA,Ehime-ken Uchiko-cho,38422,Ehime,Uchiko,JPN.5.18_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Tochigi-shi,09203,Tochigi,Tochigi,JPN.39.28_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Kanuma-shi,09205,Tochigi,Kanuma,JPN.39.7_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Nikko-shi,09206,Tochigi,Nikkō,JPN.39.16_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Oyama-shi,09208,Tochigi,Oyama,JPN.39.22_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Moka-shi,09209,Tochigi,Mōka,JPN.39.10_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Ohtawara-shi,09210,Tochigi,Otawara,JPN.39.21_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Yaita-shi,09211,Tochigi,Yaita,JPN.39.31_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Nasushiobara-shi,09213,Tochigi,Nasushiobara,JPN.39.15_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Sakura-shi,09214,Tochigi,Sakura,JPN.39.23_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Nasukarasuyama-shi,09215,Tochigi,Nasukarasuyama,JPN.39.14_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Shimotsuke-shi,09216,Tochigi,Shimotsuke,JPN.39.25_1,Shi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Kaminokawa-machi,09301,Tochigi,Kaminokawa,JPN.39.6_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Mashiko-machi,09342,Tochigi,Mashiko,JPN.39.8_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Motegi-machi,09343,Tochigi,Motegi,JPN.39.11_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Ichikai-machi,09344,Tochigi,Ichikai,JPN.39.4_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Haga-machi,09345,Tochigi,Haga,JPN.39.3_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Mibu-machi,09361,Tochigi,Mibu,JPN.39.9_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Shioya-machi,09384,Tochigi,Shioya,JPN.39.26_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Takanezawa-machi,09386,Tochigi,Takanezawa,JPN.39.27_1,Machi,name_exact,high
+JPM14,Utsunomiya MA,Tochigi-ken Nakagawa-machi,09411,Tochigi,Nakagawa,JPN.39.12_1,Machi,name_exact,high

@@ -1,0 +1,4 @@
+﻿metro_id,metro_name,geo_level,oe_city_code,member_level,member_jis,member_name,source_sheet,source_row,def_version,gid_2,gadm_name,type_2,match_method,confidence
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23237,Aichi-ken Ama-shi,Asia,1638,Global_Cities_Definitions_Oct19,,,,missing,
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24303,Mie-ken Kisosaki-cho,Asia,1657,Global_Cities_Definitions_Oct19,,,,missing,
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40230,Fukuoka-ken Itoshima-shi,Asia,1688,Global_Cities_Definitions_Oct19,,,,missing,

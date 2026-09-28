@@ -1,0 +1,15 @@
+﻿metro_id,metro_name,n_members,n_matched,n_missing,n_prefs,prefs,geom_type,n_parts,n_holes,hole_area_km2,is_valid,is_empty,area_km2_epsg6933,dup_gid
+JPM01,Tokyo (Kanto MMA),214,214,0,9,Chiba、Gunma、Ibaraki、Kanagawa、Saitama、Shizuoka、Tochigi、Tokyo、Yamanashi,MultiPolygon,34,662,155.9,True,False,12891.7,0
+JPM02,Osaka-Kyoto (Keihanshin MMA),134,134,0,6,Hyōgo、Kyoto、Nara、Osaka、Shiga、Wakayama,MultiPolygon,42,360,9.7,True,False,12506.1,0
+JPM03,Nagoya (Chukyo MMA),84,82,2,3,Aichi、Gifu、Mie,MultiPolygon,15,188,35.1,True,False,6796.7,0
+JPM04,Kitakyushu-Fukuoka MMA,63,62,1,2,Fukuoka、Saga,MultiPolygon,30,127,4.3,True,False,4813.2,0
+JPM05,Sendai MMA,31,31,0,2,Fukushima、Miyagi,MultiPolygon,41,81,2.8,True,False,5671.5,0
+JPM06,Sapporo MMA,13,13,0,1,Hokkaido,Polygon,1,26,0.7,True,False,3933.0,0
+JPM07,Hiroshima MMA,14,14,0,2,Hiroshima、Yamaguchi,MultiPolygon,51,35,0.9,True,False,4133.1,0
+JPM08,Okayama MMA,16,16,0,1,Okayama,MultiPolygon,60,63,1.7,True,False,2845.7,0
+JPM09,Shizuoka-Hamamatsu MMA,16,16,0,2,Aichi、Shizuoka,MultiPolygon,7,33,53.2,True,False,4812.5,0
+JPM10,Niigata MMA,14,14,0,1,Niigata,Polygon,1,50,2.2,True,False,4584.6,0
+JPM11,Kumamoto MMA,25,25,0,1,Kumamoto,MultiPolygon,29,62,1.8,True,False,3904.2,0
+JPM12,Kagoshima MA,10,10,0,1,Kagoshima,MultiPolygon,26,7,0.3,True,False,2859.5,0
+JPM13,Matsuyama MA,7,7,0,1,Ehime,Polygon,1,29,0.6,True,False,1845.4,0
+JPM14,Utsunomiya MA,20,20,0,1,Tochigi,Polygon,1,87,486.4,True,False,4773.6,0

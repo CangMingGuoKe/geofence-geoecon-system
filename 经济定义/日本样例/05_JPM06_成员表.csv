@@ -1,0 +1,14 @@
+﻿metro_id,metro_name,member_name,member_jis,gadm_name,gid_2,type_2,match_method
+JPM06,Sapporo MMA,Hokkaido Otaru-shi,01203,Otaru,JPN.12.108_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Iwamizawa-shi,01210,Iwamizawa,JPN.12.48_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Bibai-shi,01215,Bibai,JPN.12.13_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Ebetsu-shi,01217,Ebetsu,JPN.12.21_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Chitose-shi,01224,Chitose,JPN.12.19_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Eniwa-shi,01231,Eniwa,JPN.12.24_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Kitahiroshima-shi,01234,Kitahiroshima,JPN.12.60_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Ishikari-shi,01235,Ishikari,JPN.12.47_1,Shi,name_exact
+JPM06,Sapporo MMA,Hokkaido Tobetsu-cho,01303,Tōbetsu,JPN.12.157_1,Machi,name_exact
+JPM06,Sapporo MMA,Hokkaido Shinshinotsu-mura,01304,Shinshinotsu,JPN.12.141_1,Mura,name_exact
+JPM06,Sapporo MMA,Hokkaido Nanporo-cho,01423,Nanporo,JPN.12.92_1,Machi,name_exact
+JPM06,Sapporo MMA,Hokkaido Naganuma-cho,01428,Naganuma,JPN.12.84_1,Machi,name_exact
+JPM06,Sapporo MMA,Hokkaido Kuriyama-cho,01429,Kuriyama,JPN.12.65_1,Machi,name_exact

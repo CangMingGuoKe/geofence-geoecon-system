@@ -1,0 +1,662 @@
+﻿metro_id,metro_name,geo_level,oe_city_code,member_level,member_jis,member_name,source_sheet,source_row,def_version
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08204,Ibaraki-ken Koga-shi,Asia,1228,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08208,Ibaraki-ken Ryugasaki-shi,Asia,1229,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08211,Ibaraki-ken Joso-shi,Asia,1230,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08217,Ibaraki-ken Toride-shi,Asia,1231,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08219,Ibaraki-ken Ushiku-shi,Asia,1232,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08220,Ibaraki-ken Tsukuba-shi,Asia,1233,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08224,Ibaraki-ken Moriya-shi,Asia,1234,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08230,Ibaraki-ken Kasumigaura-shi,Asia,1235,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08235,Ibaraki-ken Tsukubamirai-shi,Asia,1236,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Village (mura),08442,Ibaraki-ken Miho-mura,Asia,1237,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),08443,Ibaraki-ken Ami-machi,Asia,1238,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),08447,Ibaraki-ken Kawachi-machi,Asia,1239,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),08542,Ibaraki-ken Goka-machi,Asia,1240,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),08546,Ibaraki-ken Sakai-machi,Asia,1241,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),08564,Ibaraki-ken Tone-machi,Asia,1242,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),09208,Tochigi-ken Oyama-shi,Asia,1243,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),09216,Tochigi-ken Shimotsuke-shi,Asia,1244,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),09364,Tochigi-ken Nogi-machi,Asia,1245,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),10207,Gumma-ken Tatebayashi-shi,Asia,1246,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),10521,Gumma-ken Itakura-machi,Asia,1247,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),10522,Gumma-ken Meiwa-machi,Asia,1248,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11100,Saitama-ken Saitama-shi,Asia,1249,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11201,Saitama-ken Kawagoe-shi,Asia,1250,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11202,Saitama-ken Kumagaya-shi,Asia,1251,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11203,Saitama-ken Kawaguchi-shi,Asia,1252,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11206,Saitama-ken Gyoda-shi,Asia,1253,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11208,Saitama-ken Tokorozawa-shi,Asia,1254,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11209,Saitama-ken Hanno-shi,Asia,1255,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11210,Saitama-ken Kazo-shi,Asia,1256,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11211,Saitama-ken Honjo-shi,Asia,1257,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11212,Saitama-ken Higashimatsuyama-shi,Asia,1258,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11214,Saitama-ken Kasukabe-shi,Asia,1259,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11215,Saitama-ken Sayama-shi,Asia,1260,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11216,Saitama-ken Hanyu-shi,Asia,1261,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11217,Saitama-ken Konosu-shi,Asia,1262,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11218,Saitama-ken Fukaya-shi,Asia,1263,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11219,Saitama-ken Ageo-shi,Asia,1264,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11221,Saitama-ken Soka-shi,Asia,1265,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11222,Saitama-ken Koshigaya-shi,Asia,1266,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11223,Saitama-ken Warabi-shi,Asia,1267,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11224,Saitama-ken Toda-shi,Asia,1268,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11225,Saitama-ken Iruma-shi,Asia,1269,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11227,Saitama-ken Asaka-shi,Asia,1270,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11228,Saitama-ken Shiki-shi,Asia,1271,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11229,Saitama-ken Wako-shi,Asia,1272,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11230,Saitama-ken Niiza-shi,Asia,1273,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11231,Saitama-ken Okegawa-shi,Asia,1274,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11232,Saitama-ken Kuki-shi,Asia,1275,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11233,Saitama-ken Kitamoto-shi,Asia,1276,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11234,Saitama-ken Yashio-shi,Asia,1277,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11235,Saitama-ken Fujimi-shi,Asia,1278,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11237,Saitama-ken Misato-shi,Asia,1279,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11238,Saitama-ken Hasuda-shi,Asia,1280,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11239,Saitama-ken Sakado-shi,Asia,1281,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11240,Saitama-ken Satte-shi,Asia,1282,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11241,Saitama-ken Tsurugashima-shi,Asia,1283,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11242,Saitama-ken Hidaka-shi,Asia,1284,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11243,Saitama-ken Yoshikawa-shi,Asia,1285,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11245,Saitama-ken Fujimino-shi,Asia,1286,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),11246,Saitama-ken Shiraoka-shi,Asia,1287,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11301,Saitama-ken Ina-machi,Asia,1288,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11324,Saitama-ken Miyoshi-machi,Asia,1289,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11326,Saitama-ken Moroyama-machi,Asia,1290,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11327,Saitama-ken Ogose-machi,Asia,1291,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11341,Saitama-ken Namegawa-machi,Asia,1292,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11342,Saitama-ken Ranzan-machi,Asia,1293,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11343,Saitama-ken Ogawa-machi,Asia,1294,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11346,Saitama-ken Kawajima-machi,Asia,1295,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11347,Saitama-ken Yoshimi-machi,Asia,1296,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11348,Saitama-ken Hatoyama-machi,Asia,1297,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11349,Saitama-ken Tokigawa-machi,Asia,1298,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11361,Saitama-ken Yokoze-machi,Asia,1299,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Village (mura),11369,Saitama-ken Higashichichibu-mura,Asia,1300,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11381,Saitama-ken Misato-machi,Asia,1301,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11385,Saitama-ken Kamisato-machi,Asia,1302,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11408,Saitama-ken Yorii-machi,Asia,1303,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11442,Saitama-ken Miyashiro-machi,Asia,1304,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11464,Saitama-ken Sugito-machi,Asia,1305,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),11465,Saitama-ken Matsubushi-machi,Asia,1306,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12100,Chiba-ken Chiba-shi,Asia,1307,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12203,Chiba-ken Ichikawa-shi,Asia,1308,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12204,Chiba-ken Funabashi-shi,Asia,1309,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12206,Chiba-ken Kisarazu-shi,Asia,1310,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12207,Chiba-ken Matsudo-shi,Asia,1311,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12208,Chiba-ken Noda-shi,Asia,1312,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12210,Chiba-ken Mobara-shi,Asia,1313,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12211,Chiba-ken Narita-shi,Asia,1314,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12212,Chiba-ken Sakura-shi,Asia,1315,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12213,Chiba-ken Togane-shi,Asia,1316,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12216,Chiba-ken Narashino-shi,Asia,1317,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12217,Chiba-ken Kashiwa-shi,Asia,1318,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12218,Chiba-ken Katsuura-shi,Asia,1319,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12219,Chiba-ken Ichihara-shi,Asia,1320,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12220,Chiba-ken Nagareyama-shi,Asia,1321,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12221,Chiba-ken Yachiyo-shi,Asia,1322,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12222,Chiba-ken Abiko-shi,Asia,1323,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12224,Chiba-ken Kamagaya-shi,Asia,1324,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12225,Chiba-ken Kimitsu-shi,Asia,1325,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12226,Chiba-ken Futtsu-shi,Asia,1326,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12227,Chiba-ken Urayasu-shi,Asia,1327,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12228,Chiba-ken Yotsukaido-shi,Asia,1328,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12229,Chiba-ken Sodegaura-shi,Asia,1329,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12230,Chiba-ken Yachimata-shi,Asia,1330,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12231,Chiba-ken Inzai-shi,Asia,1331,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12232,Chiba-ken Shiroi-shi,Asia,1332,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12233,Chiba-ken Tomisato-shi,Asia,1333,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12235,Chiba-ken Sosa-shi,Asia,1334,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12236,Chiba-ken Katori-shi,Asia,1335,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12237,Chiba-ken Sammu-shi,Asia,1336,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12238,Chiba-ken Isumi-shi,Asia,1337,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),12239,Chiba-ken Oamishirasato-shi,Asia,1338,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12322,Chiba-ken Shisui-machi,Asia,1339,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12329,Chiba-ken Sakae-machi,Asia,1340,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12342,Chiba-ken Kozaki-machi,Asia,1341,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12347,Chiba-ken Tako-machi,Asia,1342,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12403,Chiba-ken Kujukuri-machi,Asia,1343,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12409,Chiba-ken Shibayama-machi,Asia,1344,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12410,Chiba-ken Yokoshibahikari-machi,Asia,1345,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12421,Chiba-ken Ichinomiya-machi,Asia,1346,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12422,Chiba-ken Mutsuzawa-machi,Asia,1347,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Village (mura),12423,Chiba-ken Chosei-mura,Asia,1348,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12424,Chiba-ken Shirako-machi,Asia,1349,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12426,Chiba-ken Nagara-machi,Asia,1350,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12427,Chiba-ken Chonan-machi,Asia,1351,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12441,Chiba-ken Otaki-machi,Asia,1352,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12443,Chiba-ken Onjuku-machi,Asia,1353,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),12463,Chiba-ken Kyonan-machi,Asia,1354,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13101,Tokyo-to Chiyoda-ku,Asia,1355,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13102,Tokyo-to Chuo-ku,Asia,1356,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13103,Tokyo-to Minato-ku,Asia,1357,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13104,Tokyo-to Shinjuku-ku,Asia,1358,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13105,Tokyo-to Bunkyo-ku,Asia,1359,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13106,Tokyo-to Taito-ku,Asia,1360,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13107,Tokyo-to Sumida-ku,Asia,1361,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13108,Tokyo-to Koto-ku,Asia,1362,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13109,Tokyo-to Shinagawa-ku,Asia,1363,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13110,Tokyo-to Meguro-ku,Asia,1364,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13111,Tokyo-to Ota-ku,Asia,1365,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13112,Tokyo-to Setagaya-ku,Asia,1366,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13113,Tokyo-to Shibuya-ku,Asia,1367,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13114,Tokyo-to Nakano-ku,Asia,1368,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13115,Tokyo-to Suginami-ku,Asia,1369,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13116,Tokyo-to Toshima-ku,Asia,1370,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13117,Tokyo-to Kita-ku,Asia,1371,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13118,Tokyo-to Arakawa-ku,Asia,1372,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13119,Tokyo-to Itabashi-ku,Asia,1373,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13120,Tokyo-to Nerima-ku,Asia,1374,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13121,Tokyo-to Adachi-ku,Asia,1375,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13122,Tokyo-to Katsushika-ku,Asia,1376,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Ward (ku),13123,Tokyo-to Edogawa-ku,Asia,1377,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13201,Tokyo-to Hachioji-shi,Asia,1378,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13202,Tokyo-to Tachikawa-shi,Asia,1379,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13203,Tokyo-to Musashino-shi,Asia,1380,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13204,Tokyo-to Mitaka-shi,Asia,1381,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13205,Tokyo-to Ome-shi,Asia,1382,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13206,Tokyo-to Fuchu-shi,Asia,1383,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13207,Tokyo-to Akishima-shi,Asia,1384,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13208,Tokyo-to Chofu-shi,Asia,1385,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13209,Tokyo-to Machida-shi,Asia,1386,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13210,Tokyo-to Koganei-shi,Asia,1387,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13211,Tokyo-to Kodaira-shi,Asia,1388,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13212,Tokyo-to Hino-shi,Asia,1389,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13213,Tokyo-to Higashimurayama-shi,Asia,1390,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13214,Tokyo-to Kokubunji-shi,Asia,1391,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13215,Tokyo-to Kunitachi-shi,Asia,1392,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13218,Tokyo-to Fussa-shi,Asia,1393,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13219,Tokyo-to Komae-shi,Asia,1394,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13220,Tokyo-to Higashiyamato-shi,Asia,1395,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13221,Tokyo-to Kiyose-shi,Asia,1396,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13222,Tokyo-to Higashikurume-shi,Asia,1397,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13223,Tokyo-to Musashimurayama-shi,Asia,1398,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13224,Tokyo-to Tama-shi,Asia,1399,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13225,Tokyo-to Inagi-shi,Asia,1400,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13227,Tokyo-to Hamura-shi,Asia,1401,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13228,Tokyo-to Akiruno-shi,Asia,1402,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),13229,Tokyo-to Nishitokyo-shi,Asia,1403,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),13303,Tokyo-to Mizuho-machi,Asia,1404,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),13305,Tokyo-to Hinode-machi,Asia,1405,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14100,Kanagawa-ken Yokohama-shi,Asia,1406,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14130,Kanagawa-ken Kawasaki-shi,Asia,1407,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14150,Kanagawa-ken Sagamihara-shi,Asia,1408,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14201,Kanagawa-ken Yokosuka-shi,Asia,1409,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14203,Kanagawa-ken Hiratsuka-shi,Asia,1410,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14204,Kanagawa-ken Kamakura-shi,Asia,1411,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14205,Kanagawa-ken Fujisawa-shi,Asia,1412,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14206,Kanagawa-ken Odawara-shi,Asia,1413,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14207,Kanagawa-ken Chigasaki-shi,Asia,1414,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14208,Kanagawa-ken Zushi-shi,Asia,1415,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14210,Kanagawa-ken Miura-shi,Asia,1416,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14211,Kanagawa-ken Hadano-shi,Asia,1417,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14212,Kanagawa-ken Atsugi-shi,Asia,1418,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14213,Kanagawa-ken Yamato-shi,Asia,1419,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14214,Kanagawa-ken Isehara-shi,Asia,1420,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14215,Kanagawa-ken Ebina-shi,Asia,1421,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14216,Kanagawa-ken Zama-shi,Asia,1422,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14217,Kanagawa-ken Minamiashigara-shi,Asia,1423,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),14218,Kanagawa-ken Ayase-shi,Asia,1424,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14301,Kanagawa-ken Hayama-machi,Asia,1425,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14321,Kanagawa-ken Samukawa-machi,Asia,1426,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14341,Kanagawa-ken Oiso-machi,Asia,1427,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14342,Kanagawa-ken Ninomiya-machi,Asia,1428,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14361,Kanagawa-ken Nakai-machi,Asia,1429,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14362,Kanagawa-ken Oi-machi,Asia,1430,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14363,Kanagawa-ken Matsuda-machi,Asia,1431,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14364,Kanagawa-ken Yamakita-machi,Asia,1432,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14366,Kanagawa-ken Kaisei-machi,Asia,1433,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14383,Kanagawa-ken Manazuru-machi,Asia,1434,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14384,Kanagawa-ken Yugawara-machi,Asia,1435,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Town (machi),14401,Kanagawa-ken Aikawa-machi,Asia,1436,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Village (mura),14402,Kanagawa-ken Kiyokawa-mura,Asia,1437,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),19206,Yamanashi-ken Otsuki-shi,Asia,1438,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),19212,Yamanashi-ken Uenohara-shi,Asia,1439,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Village (mura),19422,Yamanashi-ken Doshi-mura,Asia,1440,Global_Cities_Definitions_Oct19
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),22205,Shizuoka-ken Atami-shi,Asia,1441,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25201,Shiga-ken Otsu-shi,Asia,1443,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25202,Shiga-ken Hikone-shi,Asia,1444,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25204,Shiga-ken Omihachiman-shi,Asia,1445,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25206,Shiga-ken Kusatsu-shi,Asia,1446,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25207,Shiga-ken Moriyama-shi,Asia,1447,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25208,Shiga-ken Ritto-shi,Asia,1448,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25209,Shiga-ken Koka-shi,Asia,1449,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25210,Shiga-ken Yasu-shi,Asia,1450,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25211,Shiga-ken Konan-shi,Asia,1451,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25212,Shiga-ken Takashima-shi,Asia,1452,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25213,Shiga-ken Higashiomi-shi,Asia,1453,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),25383,Shiga-ken Hino-cho,Asia,1454,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),25384,Shiga-ken Ryuo-cho,Asia,1455,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26100,Kyoto-fu Kyoto-shi,Asia,1456,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26204,Kyoto-fu Uji-shi,Asia,1457,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26206,Kyoto-fu Kameoka-shi,Asia,1458,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26207,Kyoto-fu Joyo-shi,Asia,1459,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26208,Kyoto-fu Muko-shi,Asia,1460,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26209,Kyoto-fu Nagaokakyo-shi,Asia,1461,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26210,Kyoto-fu Yawata-shi,Asia,1462,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26211,Kyoto-fu Kyotanabe-shi,Asia,1463,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26213,Kyoto-fu Nantan-shi,Asia,1464,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),26214,Kyoto-fu Kizugawa-shi,Asia,1465,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26303,Kyoto-fu Oyamazaki-cho,Asia,1466,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26322,Kyoto-fu Kumiyama-cho,Asia,1467,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26343,Kyoto-fu Ide-cho,Asia,1468,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26344,Kyoto-fu Ujitawara-cho,Asia,1469,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26364,Kyoto-fu Kasagi-cho,Asia,1470,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26365,Kyoto-fu Wazuka-cho,Asia,1471,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26366,Kyoto-fu Seika-cho,Asia,1472,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Village (mura),26367,Kyoto-fu Minamiyamashiro-mura,Asia,1473,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),26407,Kyoto-fu Kyotamba-cho,Asia,1474,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27100,Osaka-fu Osaka-shi,Asia,1475,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27140,Osaka-fu Sakai-shi,Asia,1476,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27202,Osaka-fu Kishiwada-shi,Asia,1477,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27203,Osaka-fu Toyonaka-shi,Asia,1478,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27204,Osaka-fu Ikeda-shi,Asia,1479,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27205,Osaka-fu Suita-shi,Asia,1480,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27206,Osaka-fu Izumiotsu-shi,Asia,1481,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27207,Osaka-fu Takatsuki-shi,Asia,1482,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27208,Osaka-fu Kaizuka-shi,Asia,1483,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27209,Osaka-fu Moriguchi-shi,Asia,1484,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27210,Osaka-fu Hirakata-shi,Asia,1485,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27211,Osaka-fu Ibaraki-shi,Asia,1486,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27212,Osaka-fu Yao-shi,Asia,1487,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27213,Osaka-fu Izumisano-shi,Asia,1488,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27214,Osaka-fu Tondabayashi-shi,Asia,1489,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27215,Osaka-fu Neyagawa-shi,Asia,1490,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27216,Osaka-fu Kawachinagano-shi,Asia,1491,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27217,Osaka-fu Matsubara-shi,Asia,1492,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27218,Osaka-fu Daito-shi,Asia,1493,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27219,Osaka-fu Izumi-shi,Asia,1494,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27220,Osaka-fu Minoh-shi,Asia,1495,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27221,Osaka-fu Kashiwara-shi,Asia,1496,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27222,Osaka-fu Habikino-shi,Asia,1497,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27223,Osaka-fu Kadoma-shi,Asia,1498,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27224,Osaka-fu Settsu-shi,Asia,1499,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27225,Osaka-fu Takaishi-shi,Asia,1500,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27226,Osaka-fu Fujiidera-shi,Asia,1501,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27227,Osaka-fu Higashiosaka-shi,Asia,1502,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27228,Osaka-fu Sennan-shi,Asia,1503,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27229,Osaka-fu Shijonawate-shi,Asia,1504,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27230,Osaka-fu Katano-shi,Asia,1505,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27231,Osaka-fu Osakasayama-shi,Asia,1506,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),27232,Osaka-fu Hannan-shi,Asia,1507,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27301,Osaka-fu Shimamoto-cho,Asia,1508,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27321,Osaka-fu Toyono-cho,Asia,1509,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27322,Osaka-fu Nose-cho,Asia,1510,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27341,Osaka-fu Tadaoka-cho,Asia,1511,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27361,Osaka-fu Kumatori-cho,Asia,1512,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27362,Osaka-fu Tajiri-cho,Asia,1513,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27366,Osaka-fu Misaki-cho,Asia,1514,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27381,Osaka-fu Taishi-cho,Asia,1515,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),27382,Osaka-fu Kanan-cho,Asia,1516,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Village (mura),27383,Osaka-fu Chihayaakasaka-mura,Asia,1517,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28100,Hyogo-ken Kobe-shi,Asia,1518,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28201,Hyogo-ken Himeji-shi,Asia,1519,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28202,Hyogo-ken Amagasaki-shi,Asia,1520,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28203,Hyogo-ken Akashi-shi,Asia,1521,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28204,Hyogo-ken Nishinomiya-shi,Asia,1522,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28206,Hyogo-ken Ashiya-shi,Asia,1523,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28207,Hyogo-ken Itami-shi,Asia,1524,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28208,Hyogo-ken Aioi-shi,Asia,1525,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28210,Hyogo-ken Kakogawa-shi,Asia,1526,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28214,Hyogo-ken Takarazuka-shi,Asia,1527,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28215,Hyogo-ken Miki-shi,Asia,1528,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28216,Hyogo-ken Takasago-shi,Asia,1529,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28217,Hyogo-ken Kawanishi-shi,Asia,1530,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28218,Hyogo-ken Ono-shi,Asia,1531,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28219,Hyogo-ken Sanda-shi,Asia,1532,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28220,Hyogo-ken Kasai-shi,Asia,1533,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28221,Hyogo-ken Sasayama-shi,Asia,1534,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28226,Hyogo-ken Awaji-shi,Asia,1535,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28228,Hyogo-ken Kato-shi,Asia,1536,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),28229,Hyogo-ken Tatsuno-shi,Asia,1537,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),28301,Hyogo-ken Inagawa-cho,Asia,1538,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),28381,Hyogo-ken Inami-cho,Asia,1539,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),28382,Hyogo-ken Harima-cho,Asia,1540,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),28443,Hyogo-ken Fukusaki-cho,Asia,1541,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),28464,Hyogo-ken Taishi-cho,Asia,1542,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29201,Nara-ken Nara-shi,Asia,1543,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29202,Nara-ken Yamatotakada-shi,Asia,1544,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29203,Nara-ken Yamatokoriyama-shi,Asia,1545,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29204,Nara-ken Tenri-shi,Asia,1546,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29205,Nara-ken Kashihara-shi,Asia,1547,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29206,Nara-ken Sakurai-shi,Asia,1548,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29207,Nara-ken Gojo-shi,Asia,1549,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29208,Nara-ken Gose-shi,Asia,1550,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29209,Nara-ken Ikoma-shi,Asia,1551,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29210,Nara-ken Kashiba-shi,Asia,1552,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29211,Nara-ken Katsuragi-shi,Asia,1553,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),29212,Nara-ken Uda-shi,Asia,1554,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29342,Nara-ken Heguri-cho,Asia,1555,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29343,Nara-ken Sango-cho,Asia,1556,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29344,Nara-ken Ikaruga-cho,Asia,1557,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29345,Nara-ken Ando-cho,Asia,1558,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29361,Nara-ken Kawanishi-cho,Asia,1559,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29362,Nara-ken Miyake-cho,Asia,1560,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29363,Nara-ken Tawaramoto-cho,Asia,1561,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Village (mura),29385,Nara-ken Soni-mura,Asia,1562,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29401,Nara-ken Takatori-cho,Asia,1563,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Village (mura),29402,Nara-ken Asuka-mura,Asia,1564,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29424,Nara-ken Kammaki-cho,Asia,1565,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29425,Nara-ken Oji-cho,Asia,1566,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29426,Nara-ken Koryo-cho,Asia,1567,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29427,Nara-ken Kawai-cho,Asia,1568,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29441,Nara-ken Yoshino-cho,Asia,1569,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29442,Nara-ken Oyodo-cho,Asia,1570,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),29443,Nara-ken Shimoichi-cho,Asia,1571,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),30201,Wakayama-ken Wakayama-shi,Asia,1572,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),30203,Wakayama-ken Hashimoto-shi,Asia,1573,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),30209,Wakayama-ken Iwade-shi,Asia,1574,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),30341,Wakayama-ken Katsuragi-cho,Asia,1575,Global_Cities_Definitions_Oct19
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),30343,Wakayama-ken Kudoyama-cho,Asia,1576,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21202,Gifu-ken Ogaki-shi,Asia,1578,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21204,Gifu-ken Tajimi-shi,Asia,1579,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21208,Gifu-ken Mizunami-shi,Asia,1580,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21209,Gifu-ken Hashima-shi,Asia,1581,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21210,Gifu-ken Ena-shi,Asia,1582,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21211,Gifu-ken Minokamo-shi,Asia,1583,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21212,Gifu-ken Toki-shi,Asia,1584,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21213,Gifu-ken Kakamigahara-shi,Asia,1585,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21214,Gifu-ken Kani-shi,Asia,1586,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21216,Gifu-ken Mizuho-shi,Asia,1587,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21218,Gifu-ken Motosu-shi,Asia,1588,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21221,Gifu-ken Kaizu-shi,Asia,1589,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21302,Gifu-ken Ginan-cho,Asia,1590,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21303,Gifu-ken Kasamatsu-cho,Asia,1591,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21341,Gifu-ken Yoro-cho,Asia,1592,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21361,Gifu-ken Tarui-cho,Asia,1593,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21362,Gifu-ken Sekigahara-cho,Asia,1594,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21381,Gifu-ken Godo-cho,Asia,1595,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21382,Gifu-ken Wanouchi-cho,Asia,1596,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21383,Gifu-ken Anpachi-cho,Asia,1597,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21403,Gifu-ken Ono-cho,Asia,1598,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21404,Gifu-ken Ikeda-cho,Asia,1599,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21421,Gifu-ken Kitagata-cho,Asia,1600,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21501,Gifu-ken Sakahogi-cho,Asia,1601,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21503,Gifu-ken Kawabe-cho,Asia,1602,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21505,Gifu-ken Yaotsu-cho,Asia,1603,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),21521,Gifu-ken Mitake-cho,Asia,1604,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23100,Aichi-ken Nagoya-shi,Asia,1605,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23202,Aichi-ken Okazaki-shi,Asia,1606,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23203,Aichi-ken Ichinomiya-shi,Asia,1607,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23204,Aichi-ken Seto-shi,Asia,1608,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23205,Aichi-ken Handa-shi,Asia,1609,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23206,Aichi-ken Kasugai-shi,Asia,1610,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23207,Aichi-ken Toyokawa-shi,Asia,1611,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23208,Aichi-ken Tsushima-shi,Asia,1612,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23209,Aichi-ken Hekinan-shi,Asia,1613,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23210,Aichi-ken Kariya-shi,Asia,1614,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23211,Aichi-ken Toyota-shi,Asia,1615,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23212,Aichi-ken Anjo-shi,Asia,1616,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23213,Aichi-ken Nishio-shi,Asia,1617,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23214,Aichi-ken Gamagori-shi,Asia,1618,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23215,Aichi-ken Inuyama-shi,Asia,1619,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23216,Aichi-ken Tokoname-shi,Asia,1620,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23217,Aichi-ken Konan-shi,Asia,1621,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23219,Aichi-ken Komaki-shi,Asia,1622,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23220,Aichi-ken Inazawa-shi,Asia,1623,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23222,Aichi-ken Tokai-shi,Asia,1624,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23223,Aichi-ken Obu-shi,Asia,1625,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23224,Aichi-ken Chita-shi,Asia,1626,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23225,Aichi-ken Chiryu-shi,Asia,1627,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23226,Aichi-ken Owariasahi-shi,Asia,1628,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23227,Aichi-ken Takahama-shi,Asia,1629,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23228,Aichi-ken Iwakura-shi,Asia,1630,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23229,Aichi-ken Toyoake-shi,Asia,1631,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23230,Aichi-ken Nisshin-shi,Asia,1632,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23232,Aichi-ken Aisai-shi,Asia,1633,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23233,Aichi-ken Kiyosu-shi,Asia,1634,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23234,Aichi-ken Kitanagoya-shi,Asia,1635,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23235,Aichi-ken Yatomi-shi,Asia,1636,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23236,Aichi-ken Miyoshi-shi,Asia,1637,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23237,Aichi-ken Ama-shi,Asia,1638,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),23238,Aichi-ken Nagakute-shi,Asia,1639,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23302,Aichi-ken Togo-cho,Asia,1640,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23342,Aichi-ken Toyoyama-cho,Asia,1641,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23361,Aichi-ken Oguchi-cho,Asia,1642,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23362,Aichi-ken Fuso-cho,Asia,1643,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23424,Aichi-ken Oharu-cho,Asia,1644,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23425,Aichi-ken Kanie-cho,Asia,1645,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Village (mura),23427,Aichi-ken Tobishima-mura,Asia,1646,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23441,Aichi-ken Agui-cho,Asia,1647,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23442,Aichi-ken Higashiura-cho,Asia,1648,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23445,Aichi-ken Minamichita-cho,Asia,1649,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23446,Aichi-ken Mihama-cho,Asia,1650,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23447,Aichi-ken Taketoyo-cho,Asia,1651,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),23501,Aichi-ken Kota-cho,Asia,1652,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),24202,Mie-ken Yokkaichi-shi,Asia,1653,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),24205,Mie-ken Kuwana-shi,Asia,1654,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),24207,Mie-ken Suzuka-shi,Asia,1655,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),24214,Mie-ken Inabe-shi,Asia,1656,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24303,Mie-ken Kisosaki-cho,Asia,1657,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24324,Mie-ken Toin-cho,Asia,1658,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24341,Mie-ken Komono-cho,Asia,1659,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24343,Mie-ken Asahi-cho,Asia,1660,Global_Cities_Definitions_Oct19
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24344,Mie-ken Kawagoe-cho,Asia,1661,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40100,Fukuoka-ken Kitakyushu-shi,Asia,1663,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40130,Fukuoka-ken Fukuoka-shi,Asia,1664,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40202,Fukuoka-ken Omuta-shi,Asia,1665,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40203,Fukuoka-ken Kurume-shi,Asia,1666,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40204,Fukuoka-ken Nogata-shi,Asia,1667,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40205,Fukuoka-ken Iizuka-shi,Asia,1668,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40206,Fukuoka-ken Tagawa-shi,Asia,1669,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40207,Fukuoka-ken Yanagawa-shi,Asia,1670,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40211,Fukuoka-ken Chikugo-shi,Asia,1671,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40212,Fukuoka-ken Okawa-shi,Asia,1672,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40213,Fukuoka-ken Yukuhashi-shi,Asia,1673,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40214,Fukuoka-ken Buzen-shi,Asia,1674,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40215,Fukuoka-ken Nakama-shi,Asia,1675,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40216,Fukuoka-ken Ogori-shi,Asia,1676,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40217,Fukuoka-ken Chikushino-shi,Asia,1677,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40218,Fukuoka-ken Kasuga-shi,Asia,1678,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40219,Fukuoka-ken Onojo-shi,Asia,1679,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40220,Fukuoka-ken Munakata-shi,Asia,1680,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40221,Fukuoka-ken Dazaifu-shi,Asia,1681,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40223,Fukuoka-ken Koga-shi,Asia,1682,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40224,Fukuoka-ken Fukutsu-shi,Asia,1683,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40226,Fukuoka-ken Miyawaka-shi,Asia,1684,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40227,Fukuoka-ken Kama-shi,Asia,1685,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40228,Fukuoka-ken Asakura-shi,Asia,1686,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40229,Fukuoka-ken Miyama-shi,Asia,1687,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40230,Fukuoka-ken Itoshima-shi,Asia,1688,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40305,Fukuoka-ken Nakagawa-machi,Asia,1689,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40341,Fukuoka-ken Umi-machi,Asia,1690,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40342,Fukuoka-ken Sasaguri-machi,Asia,1691,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40343,Fukuoka-ken Shime-machi,Asia,1692,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40344,Fukuoka-ken Sue-machi,Asia,1693,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40345,Fukuoka-ken Shingu-machi,Asia,1694,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40348,Fukuoka-ken Hisayama-machi,Asia,1695,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40349,Fukuoka-ken Kasuya-machi,Asia,1696,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40381,Fukuoka-ken Ashiya-machi,Asia,1697,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40382,Fukuoka-ken Mizumaki-machi,Asia,1698,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40383,Fukuoka-ken Okagaki-machi,Asia,1699,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),40384,Fukuoka-ken Onga-cho,Asia,1700,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40401,Fukuoka-ken Kotake-machi,Asia,1701,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40402,Fukuoka-ken Kurate-machi,Asia,1702,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40421,Fukuoka-ken Keisen-machi,Asia,1703,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40447,Fukuoka-ken Chikuzen-machi,Asia,1704,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40503,Fukuoka-ken Tachiarai-machi,Asia,1705,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40522,Fukuoka-ken Oki-machi,Asia,1706,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40544,Fukuoka-ken Hirokawa-machi,Asia,1707,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40601,Fukuoka-ken Kawara-machi,Asia,1708,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40602,Fukuoka-ken Soeda-machi,Asia,1709,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40604,Fukuoka-ken Itoda-machi,Asia,1710,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40605,Fukuoka-ken Kawasaki-machi,Asia,1711,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40608,Fukuoka-ken Oto-machi,Asia,1712,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Village (mura),40609,Fukuoka-ken Aka-mura,Asia,1713,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40610,Fukuoka-ken Fukuchi-machi,Asia,1714,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40621,Fukuoka-ken Kanda-machi,Asia,1715,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40625,Fukuoka-ken Miyako-machi,Asia,1716,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40642,Fukuoka-ken Yoshitomi-machi,Asia,1717,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40646,Fukuoka-ken Koge-machi,Asia,1718,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (machi),40647,Fukuoka-ken Chikujo-machi,Asia,1719,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),41202,Saga-ken Karatsu-shi,Asia,1720,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),41203,Saga-ken Tosu-shi,Asia,1721,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41327,Saga-ken Yoshinogari-cho,Asia,1722,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41341,Saga-ken Kiyama-cho,Asia,1723,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41345,Saga-ken Kamimine-cho,Asia,1724,Global_Cities_Definitions_Oct19
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41346,Saga-ken Miyaki-cho,Asia,1725,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04202,Miyagi-ken Ishinomaki-shi,Asia,1727,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04203,Miyagi-ken Shiogama-shi,Asia,1728,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04206,Miyagi-ken Shiroishi-shi,Asia,1729,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04207,Miyagi-ken Natori-shi,Asia,1730,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04208,Miyagi-ken Kakuda-shi,Asia,1731,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04209,Miyagi-ken Tagajo-shi,Asia,1732,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04211,Miyagi-ken Iwanuma-shi,Asia,1733,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04212,Miyagi-ken Tome-shi,Asia,1734,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04213,Miyagi-ken Kurihara-shi,Asia,1735,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04214,Miyagi-ken Higashimatsushima-shi,Asia,1736,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04215,Miyagi-ken Osaki-shi,Asia,1737,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04301,Miyagi-ken Zao-machi,Asia,1738,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04321,Miyagi-ken Ogawara-machi,Asia,1739,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04322,Miyagi-ken Murata-machi,Asia,1740,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04323,Miyagi-ken Shibata-machi,Asia,1741,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04324,Miyagi-ken Kawasaki-machi,Asia,1742,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04341,Miyagi-ken Marumori-machi,Asia,1743,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04361,Miyagi-ken Watari-cho,Asia,1744,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04362,Miyagi-ken Yamamoto-cho,Asia,1745,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04401,Miyagi-ken Matsushima-machi,Asia,1746,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04404,Miyagi-ken Shichigahama-machi,Asia,1747,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04406,Miyagi-ken Rifu-cho,Asia,1748,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04421,Miyagi-ken Taiwa-cho,Asia,1749,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04422,Miyagi-ken Osato-cho,Asia,1750,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04423,Miyagi-ken Tomiya-machi,Asia,1751,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Village (mura),04424,Miyagi-ken Ohira-mura,Asia,1752,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04444,Miyagi-ken Shikama-cho,Asia,1753,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04445,Miyagi-ken Kami-machi,Asia,1754,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04501,Miyagi-ken Wakuya-cho,Asia,1755,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04505,Miyagi-ken Misato-machi,Asia,1756,Global_Cities_Definitions_Oct19
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),07561,Fukushima-ken Shinchi-machi,Asia,1757,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01203,Hokkaido Otaru-shi,Asia,1759,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01210,Hokkaido Iwamizawa-shi,Asia,1760,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01215,Hokkaido Bibai-shi,Asia,1761,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01217,Hokkaido Ebetsu-shi,Asia,1762,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01224,Hokkaido Chitose-shi,Asia,1763,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01231,Hokkaido Eniwa-shi,Asia,1764,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01234,Hokkaido Kitahiroshima-shi,Asia,1765,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01235,Hokkaido Ishikari-shi,Asia,1766,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01303,Hokkaido Tobetsu-cho,Asia,1767,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Village (mura),01304,Hokkaido Shinshinotsu-mura,Asia,1768,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01423,Hokkaido Nanporo-cho,Asia,1769,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01428,Hokkaido Naganuma-cho,Asia,1770,Global_Cities_Definitions_Oct19
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01429,Hokkaido Kuriyama-cho,Asia,1771,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34202,Hiroshima-ken Kure-shi,Asia,1773,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34211,Hiroshima-ken Otake-shi,Asia,1774,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34212,Hiroshima-ken Higashihiroshima-shi,Asia,1775,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34213,Hiroshima-ken Hatsukaichi-shi,Asia,1776,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34214,Hiroshima-ken Akitakata-shi,Asia,1777,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34215,Hiroshima-ken Etajima-shi,Asia,1778,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34302,Hiroshima-ken Fuchu-cho,Asia,1779,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34304,Hiroshima-ken Kaita-cho,Asia,1780,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34307,Hiroshima-ken Kumano-cho,Asia,1781,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34309,Hiroshima-ken Saka-cho,Asia,1782,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34368,Hiroshima-ken Akiota-cho,Asia,1783,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34369,Hiroshima-ken Kitahiroshima-cho,Asia,1784,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),35208,Yamaguchi-ken Iwakuni-shi,Asia,1785,Global_Cities_Definitions_Oct19
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),35321,Yamaguchi-ken Waki-cho,Asia,1786,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33202,Okayama-ken Kurashiki-shi,Asia,1788,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33204,Okayama-ken Tamano-shi,Asia,1789,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33205,Okayama-ken Kasaoka-shi,Asia,1790,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33208,Okayama-ken Soja-shi,Asia,1791,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33209,Okayama-ken Takahashi-shi,Asia,1792,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33211,Okayama-ken Bizen-shi,Asia,1793,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33212,Okayama-ken Setouchi-shi,Asia,1794,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33213,Okayama-ken Akaiwa-shi,Asia,1795,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33216,Okayama-ken Asakuchi-shi,Asia,1796,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33346,Okayama-ken Wake-cho,Asia,1797,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33423,Okayama-ken Hayashima-cho,Asia,1798,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33445,Okayama-ken Satosho-cho,Asia,1799,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33461,Okayama-ken Yakage-cho,Asia,1800,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33663,Okayama-ken Kumenan-cho,Asia,1801,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33666,Okayama-ken Misaki-cho,Asia,1802,Global_Cities_Definitions_Oct19
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33681,Okayama-ken Kibichuo-cho,Asia,1803,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22100,Shizuoka-ken Shizuoka-shi,Asia,1805,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22130,Shizuoka-ken Hamamatsu-shi,Asia,1806,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22207,Shizuoka-ken Fujinomiya-shi,Asia,1807,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22209,Shizuoka-ken Shimada-shi,Asia,1808,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22210,Shizuoka-ken Fuji-shi,Asia,1809,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22211,Shizuoka-ken Iwata-shi,Asia,1810,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22212,Shizuoka-ken Yaizu-shi,Asia,1811,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22213,Shizuoka-ken Kakegawa-shi,Asia,1812,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22214,Shizuoka-ken Fujieda-shi,Asia,1813,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22216,Shizuoka-ken Fukuroi-shi,Asia,1814,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22221,Shizuoka-ken Kosai-shi,Asia,1815,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22224,Shizuoka-ken Kikugawa-shi,Asia,1816,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22226,Shizuoka-ken Makinohara-shi,Asia,1817,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (cho),22424,Shizuoka-ken Yoshida-cho,Asia,1818,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (machi),22461,Shizuoka-ken Mori-machi,Asia,1819,Global_Cities_Definitions_Oct19
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (cho),23562,Aichi-ken Toei-cho,Asia,1820,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15204,Niigata-ken Sanjo-shi,Asia,1822,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15206,Niigata-ken Shibata-shi,Asia,1823,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15209,Niigata-ken Kamo-shi,Asia,1824,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15211,Niigata-ken Mitsuke-shi,Asia,1825,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15212,Niigata-ken Murakami-shi,Asia,1826,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15213,Niigata-ken Tsubame-shi,Asia,1827,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15218,Niigata-ken Gosen-shi,Asia,1828,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15223,Niigata-ken Agano-shi,Asia,1829,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15227,Niigata-ken Tainai-shi,Asia,1830,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Town (machi),15307,Niigata-ken Seiro-machi,Asia,1831,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Village (mura),15342,Niigata-ken Yahiko-mura,Asia,1832,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Town (machi),15361,Niigata-ken Tagami-machi,Asia,1833,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Town (machi),15385,Niigata-ken Aga-machi,Asia,1834,Global_Cities_Definitions_Oct19
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Village (mura),15581,Niigata-ken Sekikawa-mura,Asia,1835,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43202,Kumamoto-ken Yatsushiro-shi,Asia,1837,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43206,Kumamoto-ken Tamana-shi,Asia,1838,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43208,Kumamoto-ken Yamaga-shi,Asia,1839,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43210,Kumamoto-ken Kikuchi-shi,Asia,1840,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43211,Kumamoto-ken Uto-shi,Asia,1841,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43212,Kumamoto-ken Kamiamakusa-shi,Asia,1842,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43213,Kumamoto-ken Uki-shi,Asia,1843,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43214,Kumamoto-ken Aso-shi,Asia,1844,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43216,Kumamoto-ken Koshi-shi,Asia,1845,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43348,Kumamoto-ken Misato-machi,Asia,1846,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43364,Kumamoto-ken Gyokuto-machi,Asia,1847,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43367,Kumamoto-ken Nankan-machi,Asia,1848,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43368,Kumamoto-ken Nagasu-machi,Asia,1849,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43369,Kumamoto-ken Nagomi-machi,Asia,1850,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43403,Kumamoto-ken Ozu-machi,Asia,1851,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43404,Kumamoto-ken Kikuyo-machi,Asia,1852,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43428,Kumamoto-ken Takamori-machi,Asia,1853,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Village (mura),43432,Kumamoto-ken Nishihara-mura,Asia,1854,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Village (mura),43433,Kumamoto-ken Minamiaso-mura,Asia,1855,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43441,Kumamoto-ken Mifune-machi,Asia,1856,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43442,Kumamoto-ken Kashima-machi,Asia,1857,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43443,Kumamoto-ken Mashiki-machi,Asia,1858,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43444,Kumamoto-ken Kosa-machi,Asia,1859,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (cho),43447,Kumamoto-ken Yamato-cho,Asia,1860,Global_Cities_Definitions_Oct19
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (cho),43468,Kumamoto-ken Hikawa-cho,Asia,1861,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46204,Kagoshima-ken Makurazaki-shi,Asia,1863,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46210,Kagoshima-ken Ibusuki-shi,Asia,1864,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46214,Kagoshima-ken Tarumizu-shi,Asia,1865,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46215,Kagoshima-ken Satsumasendai-shi,Asia,1866,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46216,Kagoshima-ken Hioki-shi,Asia,1867,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46218,Kagoshima-ken Kirishima-shi,Asia,1868,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46219,Kagoshima-ken Ichikikushikino-shi,Asia,1869,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46220,Kagoshima-ken Minamisatsuma-shi,Asia,1870,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46223,Kagoshima-ken Minamikyusyu-shi,Asia,1871,Global_Cities_Definitions_Oct19
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46225,Kagoshima-ken Aira-shi,Asia,1872,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38207,Ehime-ken Ozu-shi,Asia,1874,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38210,Ehime-ken Iyo-shi,Asia,1875,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38215,Ehime-ken Toon-shi,Asia,1876,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38386,Ehime-ken Kumakogen-cho,Asia,1877,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38401,Ehime-ken Masaki-cho,Asia,1878,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38402,Ehime-ken Tobe-cho,Asia,1879,Global_Cities_Definitions_Oct19
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38422,Ehime-ken Uchiko-cho,Asia,1880,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09203,Tochigi-ken Tochigi-shi,Asia,1882,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09205,Tochigi-ken Kanuma-shi,Asia,1883,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09206,Tochigi-ken Nikko-shi,Asia,1884,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09208,Tochigi-ken Oyama-shi,Asia,1885,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09209,Tochigi-ken Moka-shi,Asia,1886,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09210,Tochigi-ken Ohtawara-shi,Asia,1887,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09211,Tochigi-ken Yaita-shi,Asia,1888,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09213,Tochigi-ken Nasushiobara-shi,Asia,1889,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09214,Tochigi-ken Sakura-shi,Asia,1890,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09215,Tochigi-ken Nasukarasuyama-shi,Asia,1891,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09216,Tochigi-ken Shimotsuke-shi,Asia,1892,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09301,Tochigi-ken Kaminokawa-machi,Asia,1893,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09342,Tochigi-ken Mashiko-machi,Asia,1894,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09343,Tochigi-ken Motegi-machi,Asia,1895,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09344,Tochigi-ken Ichikai-machi,Asia,1896,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09345,Tochigi-ken Haga-machi,Asia,1897,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09361,Tochigi-ken Mibu-machi,Asia,1898,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09384,Tochigi-ken Shioya-machi,Asia,1899,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09386,Tochigi-ken Takanezawa-machi,Asia,1900,Global_Cities_Definitions_Oct19
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,Town (machi),09411,Tochigi-ken Nakagawa-machi,Asia,1901,Global_Cities_Definitions_Oct19
