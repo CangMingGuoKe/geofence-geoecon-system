@@ -315,6 +315,8 @@ GADM 的 `HASC_N` 由名称推导，**同名即同码**，因此不能当主键�
 
 改动只落在 `GADM/scripts/build_interactive_map.py` 一个文件，`GADM/interactive_map.html` / `GADM/index.html` / 脚本内 HTML 模板三者字节一致，重跑构建后各国 `GADM/map_data/{ISO3}.js` 字节不变，只有 `_search.js` 与两份 HTML 变化。
 
+完整的实现细节与校验方式见 `GADM/README.md` 的「检索与标注的消歧实现」一节。
+
 ### 3.3 经济定义层的匹配键与名称归一
 
 #### 匹配键：为什么用「州 FIPS + 归一县名」而不是名称或 HASC
