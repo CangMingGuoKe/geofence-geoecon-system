@@ -1,0 +1,6 @@
+﻿metro_id,metro_name,version,n_approved,n_replaced,n_added,n_deleted,n_confirmed_missing,last_action,last_reviewer,last_time
+SAUM01,Dammam,2,2,0,0,0,1,mark_missing,黄丰,2026-09-29 14:02:17
+SAUM02,Jeddah,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 14:02:16
+SAUM03,Mecca,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 14:02:16
+SAUM04,Medina,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 14:02:16
+SAUM05,Riyadh,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 14:02:16

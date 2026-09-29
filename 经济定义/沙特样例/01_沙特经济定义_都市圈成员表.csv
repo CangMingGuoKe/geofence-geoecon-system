@@ -1,0 +1,8 @@
+﻿metro_id,metro_name,geo_level,oe_city_code,member_level,member_name,member_role,region_oe,source_sheet,source_row,def_version
+SAUM01,Dammam,Governorate,SAU004,Governorate,Dammam,self,,Middle East,27,Global_Cities_Definitions_Oct19
+SAUM01,Dammam,Governorate,SAU004,Governorate,Khobar,member,,Middle East,28,Global_Cities_Definitions_Oct19
+SAUM01,Dammam,Governorate,SAU004,Governorate,Qatif,member,,Middle East,29,Global_Cities_Definitions_Oct19
+SAUM02,Jeddah,Governorate,SAU005,Governorate,Jeddah,self,,Middle East,30,Global_Cities_Definitions_Oct19
+SAUM03,Mecca,Governorate,SAU006,Governorate,Mecca,self,,Middle East,31,Global_Cities_Definitions_Oct19
+SAUM04,Medina,Governorate,SAU002,Governorate,Medina,self,,Middle East,32,Global_Cities_Definitions_Oct19
+SAUM05,Riyadh,Governorate,SAU003,Governorate,Riyadh,self,,Middle East,33,Global_Cities_Definitions_Oct19

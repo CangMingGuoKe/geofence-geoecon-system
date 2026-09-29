@@ -1,0 +1,8 @@
+﻿metro_id,metro_name,member_name,member_role,region_name,province_name,gid_2,type_2,match_method,confidence
+SAUM01,Dammam,Dammam,self,,,,,missing,
+SAUM01,Dammam,Khobar,member,Ash-Sharqīyah,AlKhubar,SAU.8.5_1,Muhafazah,name_alias,medium
+SAUM01,Dammam,Qatif,member,Ash-Sharqīyah,AlQatif,SAU.8.7_1,Muhafazah,name_strip_article,high
+SAUM02,Jeddah,Jeddah,self,Makkah,Jiddah,SAU.11.11_1,Muhafazah,name_alias,medium
+SAUM03,Mecca,Mecca,self,Makkah,MakkahAlMukarramah,SAU.11.13_1,Muhafazah,name_alias,medium
+SAUM04,Medina,Medina,self,AlMadinah,AlMadinah,SAU.5.3_1,Muhafazah,name_alias,medium
+SAUM05,Riyadh,Riyadh,self,ArRiyad,Riyadh,SAU.7.20_1,Muhafazah,name_exact,high

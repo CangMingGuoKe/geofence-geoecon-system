@@ -1,0 +1,6 @@
+﻿metro_id,metro_name,n_members,n_matched,n_missing,n_regions,regions,geom_type,n_parts,n_holes,hole_area_km2,is_valid,is_empty,area_km2_epsg6933,dup_gid
+SAUM01,Dammam,3,2,1,1,Ash-Sharqīyah,MultiPolygon,10,0,0.0,True,False,837.6,0
+SAUM02,Jeddah,1,1,0,1,Makkah,MultiPolygon,120,1,0.0,True,False,3336.4,0
+SAUM03,Mecca,1,1,0,1,Makkah,Polygon,1,0,0.0,True,False,3852.1,0
+SAUM04,Medina,1,1,0,1,AlMadinah,Polygon,1,0,0.0,True,False,22937.7,0
+SAUM05,Riyadh,1,1,0,1,ArRiyad,Polygon,1,0,0.0,True,False,8516.7,0

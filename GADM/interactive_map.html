@@ -167,6 +167,7 @@
 <script src="map_data/USA_metro.js"></script>
 <script src="map_data/JPN_metro.js"></script>
 <script src="map_data/BRA_metro.js"></script>
+<script src="map_data/SAU_metro.js"></script>
 <script>
 const LEVELS = ['1','2','3','4'];
 const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县'};
@@ -179,10 +180,10 @@ let highlight = null;  // 搜索定位的行政区 {iso3, lv, en, zh}
 let showMetro = false;      // 是否显示经济都市圈图层
 let selectedMetro = null;   // 当前选中的都市圈 id
 let metroCache = {};        // preproject 后的都市圈数据，按国家分别缓存
-// 经济图层按国家挂载：有对应 <ISO3>_METRO 的国家才启用（目前是美国、日本、巴西）
+// 经济图层按国家挂载：有对应 <ISO3>_METRO 的国家才启用（目前是美国、日本、巴西、沙特）
 function metroData(iso3){ return window[iso3 + '_METRO'] || null; }
 function hasMetro(iso3){ return !!metroData(iso3); }
-for(const _iso of ['USA','JPN','BRA']){
+for(const _iso of ['USA','JPN','BRA','SAU']){
   const _ms = window[_iso + '_METRO_SEARCH'];
   if(_ms) window.SEARCH = (window.SEARCH || []).concat(_ms);
 }

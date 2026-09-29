@@ -1,0 +1,4 @@
+﻿metro_id,metro_name,member_name,member_role,region_name,gadm_name,gid_2,type_2,match_method
+SAUM01,Dammam,Dammam,self,,,,,missing
+SAUM01,Dammam,Khobar,member,Ash-Sharqīyah,AlKhubar,SAU.8.5_1,Muhafazah,name_alias
+SAUM01,Dammam,Qatif,member,Ash-Sharqīyah,AlQatif,SAU.8.7_1,Muhafazah,name_strip_article

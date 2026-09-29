@@ -1,0 +1,8 @@
+﻿metro_id,metro_name,member_name,member_role,region_name,province_name,gid_2,type_2,match_method,confidence,review_status,reviewer,review_time,review_reason
+SAUM01,Dammam,Dammam,self,,,,,missing,,confirmed_missing,黄丰,2026-09-29 14:02:17,GADM 沙特无 Dammam 省，确认缺失
+SAUM01,Dammam,Khobar,member,Ash-Sharqīyah,AlKhubar,SAU.8.5_1,Muhafazah,name_alias,medium,approved,黄丰,2026-09-29 14:02:16,机器匹配通过，待人工复核
+SAUM01,Dammam,Qatif,member,Ash-Sharqīyah,AlQatif,SAU.8.7_1,Muhafazah,name_strip_article,high,approved,黄丰,2026-09-29 14:02:16,机器匹配通过，待人工复核
+SAUM02,Jeddah,Jeddah,self,Makkah,Jiddah,SAU.11.11_1,Muhafazah,name_alias,medium,approved,黄丰,2026-09-29 14:02:16,机器匹配通过，待人工复核
+SAUM03,Mecca,Mecca,self,Makkah,MakkahAlMukarramah,SAU.11.13_1,Muhafazah,name_alias,medium,approved,黄丰,2026-09-29 14:02:16,机器匹配通过，待人工复核
+SAUM04,Medina,Medina,self,AlMadinah,AlMadinah,SAU.5.3_1,Muhafazah,name_alias,medium,approved,黄丰,2026-09-29 14:02:16,机器匹配通过，待人工复核
+SAUM05,Riyadh,Riyadh,self,ArRiyad,Riyadh,SAU.7.20_1,Muhafazah,name_exact,high,approved,黄丰,2026-09-29 14:02:16,机器匹配通过，待人工复核

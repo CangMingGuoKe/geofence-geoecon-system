@@ -1,0 +1,7 @@
+﻿audit_id,timestamp,action,metro_id,metro_name,member_name,gid_before,gid_after,reviewer,reason,evidence_source,econ_def_version,gadm_version
+1,2026-09-29 14:02:16,approve_metro,SAUM01,Dammam,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+2,2026-09-29 14:02:16,approve_metro,SAUM02,Jeddah,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+3,2026-09-29 14:02:16,approve_metro,SAUM03,Mecca,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+4,2026-09-29 14:02:16,approve_metro,SAUM04,Medina,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+5,2026-09-29 14:02:16,approve_metro,SAUM05,Riyadh,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+6,2026-09-29 14:02:17,mark_missing,SAUM01,Dammam,Dammam,,,黄丰,GADM 沙特无 Dammam 省，确认缺失,GADM 沙特 L3 全部 147 个 Muhafazah，在 NAME_2/VARNAME_2/NL_NAME_2 等五个字段搜 damm/damam/damman 与阿拉伯语 دمام 命中 0；东区 11 个省的别名字段与本地名字段整列为 NA，无法从别名字段救回，故确认缺失,Global_Cities_Definitions_Oct19,GADM 4.1
