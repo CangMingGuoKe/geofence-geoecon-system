@@ -32,6 +32,11 @@
 - [项目背景与用途](#项目背景与用途)
 - [数据获取](#数据获取)
 - [目录结构](#目录结构)
+- [数据模型：有哪些表、主键与外键是什么](#数据模型有哪些表主键与外键是什么)
+  - [行政围栏层：四张表，靠外键串成层级](#行政围栏层四张表靠外键串成层级)
+  - [经济定义层：源表、对照表、都市圈表](#经济定义层源表对照表都市圈表)
+  - [全部表一览](#全部表一览)
+- [术语与缩写](#术语与缩写)
 - [一、GADM 交互地图](#一gadm-交互地图)
 - [二、经济定义层（美国、日本、巴西与沙特四国样例）](#二经济定义层美国日本巴西与沙特四国样例)
   - [2.1 定位与整体框架](#21-定位与整体框架)
@@ -51,11 +56,6 @@
   - [3.4 各大洲的「城市」口径](#34-各大洲的城市口径)
   - [3.5 欧洲为什么普遍拼不了，以及怎么办](#35-欧洲为什么普遍拼不了以及怎么办)
   - [3.6 目录组织与大洲归集](#36-目录组织与大洲归集)
-- [数据模型：有哪些表、主键与外键是什么](#数据模型有哪些表主键与外键是什么)
-  - [行政围栏层：四张表，靠外键串成层级](#行政围栏层四张表靠外键串成层级)
-  - [经济定义层：源表、对照表、都市圈表](#经济定义层源表对照表都市圈表)
-  - [全部表一览](#全部表一览)
-- [术语与缩写](#术语与缩写)
 - [数据来源（Tier-1）](#数据来源tier-1)
 - [许可](#许可)
 - [团队](#团队)
@@ -110,6 +110,180 @@ flowchart LR
 | `GADM/` | 全球四层行政区划交互地图（近五年名义 GDP 前 20 国），含 `GADM/map_data/` 各国边界几何 |
 | `经济定义/美国样例/` | 美国经济都市圈定义管线（01-09 全流程产物） |
 | `经济定义/日本样例/` | 日本经济都市圈定义层（01-09 全流程产物，含质量检查报告与审核记录），说明见本 README 第 2.6 节 |
+
+---
+
+## 数据模型：有哪些表、主键与外键是什么
+
+数据分三层：**行政围栏**（GADM 四层）、**经济定义**（OE 源表加派生表）、**展示层**（地图用的瘦身副本）。下面是各层的主键与外键，主键唯一性已逐表核验。
+
+### 行政围栏层：四张表，靠外键串成层级
+
+```mermaid
+erDiagram
+    GADM_L1 ||--o{ GADM_L2 : "1 国 对 N 省州"
+    GADM_L2 ||--o{ GADM_L3 : "1 省州 对 N 市郡"
+    GADM_L3 ||--o{ GADM_L4 : "1 市郡 对 N 区县"
+    GADM_L1 {
+        string GID_0 PK
+        string COUNTRY
+    }
+    GADM_L2 {
+        string GID_1 PK
+        string GID_0 FK
+        string NAME_1
+        string HASC_1
+    }
+    GADM_L3 {
+        string GID_2 PK
+        string GID_1 FK
+        string NAME_2
+        string HASC_2
+        string CC_2
+    }
+    GADM_L4 {
+        string GID_3 PK
+        string GID_2 FK
+        string NAME_3
+        string HASC_3
+        string GB_CODE
+    }
+```
+
+子表的 `GID` 是「父表 GID + 一个序号」，所以看编号就知道归属，例如 `USA.47.40_1` 属于 `USA.47_1`（弗吉尼亚州）。
+
+三个字段容易误当主键，其实都不是：
+
+| 字段 | 是什么 | 为什么不能当主键 |
+|---|---|---|
+| `HASC_N` | 简称代码，如 `US.VA.FC` | 按名字缩写生成，同名就同码，美国 L3 层有 8 组撞码 |
+| `CC_N` | 各国本地编号 | 美国县层整列为空 |
+| `NAME_N` | 名称 | 重名严重，美国 L3 层 442 个名字被重复使用 |
+
+### 经济定义层：源表、对照表、都市圈表
+
+```mermaid
+erDiagram
+    OE_CITY ||--o{ OE_MEMBER : "1 城市 对 N 成员"
+    OE_MEMBER ||--o| BRIDGE : "用县代码对接"
+    BRIDGE ||--|| GADM_L3 : "一个县代码 对一个 GID"
+    METRO ||--o{ METRO_MEMBER : "1 都市圈 对 N 条成员"
+    METRO ||--|| METRO_BOUNDARY : "1 都市圈 对 1 块边界"
+    METRO ||--|| METRO_VERSION : "1 都市圈 对 1 条版本"
+    METRO ||--o{ AUDIT_LOG : "1 都市圈 对 N 条审核动作"
+    METRO_MEMBER ||--o| MEMBER_STATUS : "每条成员 对 1 条审核状态"
+    OE_CITY {
+        string oe_city_code PK
+        string city_name
+        string geo_level
+    }
+    OE_MEMBER {
+        string metro_code PK
+        string county_fips PK
+        string local_region_name
+    }
+    BRIDGE {
+        string fips5 PK
+        string gid_2 FK
+        string hasc_2
+    }
+    METRO {
+        string metro_id PK
+        string metro_name
+        string cbsa_code
+    }
+    METRO_MEMBER {
+        string metro_id PK
+        string fips5 PK
+        string gid_2 FK
+        string match_method
+    }
+    METRO_BOUNDARY {
+        string metro_id PK
+        string metro_name
+        int n_members
+        int n_missing
+    }
+    MEMBER_STATUS {
+        string metro_id PK
+        string fips5 PK
+        string review_status
+        string reviewer
+    }
+    METRO_VERSION {
+        string metro_id PK
+        int version
+        string last_action
+    }
+    AUDIT_LOG {
+        int audit_id PK
+        string metro_id FK
+        string action
+        string reason
+    }
+```
+
+关键在 `BRIDGE` 这张对照表：OE 的县带 FIPS 码但 GADM 的县没有，两边没有共同字段，所以专门建一张 `fips5 ↔ gid_2` 的桥。桥是 1 比 1 的，561 条零碰撞。
+
+### 全部表一览
+
+| 表 | 主键 | 外键 | 行数（美 / 日 / 巴西 / 沙特） |
+|---|---|---|---|
+| L1 国家（ADM0） | `GID_0` | 无 | 21 |
+| L2 省州（ADM1） | `GID_1` | `GID_0` → L1 | 598 |
+| L3 市郡（ADM2） | `GID_2` | `GID_1` → L2 | 20,532 |
+| L4 区县（ADM3） | `GID_3` | `GID_2` → L3 | 37,359 |
+| `01_*经济定义_都市圈成员表.csv` | `metro_id` + 成员标识 | `metro_id` → 都市圈 | 563 / 675 / 365 / 7 |
+| `02_GADM*_一级底表.csv`（美 州 / 日 县 / 巴西 州 / 沙特 区） | `gid_1` | 无 | 51 / 47 / 27 / 13 |
+| `03_GADM*_成员层底表.csv`（美 县 / 日 市町村 / 巴西 市 / 沙特 省） | `gid_2` | `gid_1` → 一级底表 | 3,148 / 1,811 / 5,572 / 147 |
+| `04_FIPS_GADM县代码桥.csv`（仅美国） | `fips5` | `gid_2` → 成员层底表 | 561 / 无 / 无 / 无 |
+| `04_匹配结果_全量*.csv` | `metro_id` + 成员标识 | `gid_2` → 成员层底表（可空） | 563 / 675 / 365 / 7 |
+| `04_匹配异常队列.csv` | `metro_id` | 无（未匹配项） | 2 / 3 / 1 / 1 |
+| `07_*都市圈成员关系.csv` | `metro_id` + 成员标识 | `gid_2` → 成员层底表 | 563 / 675 / 339 / 7 |
+| `07_*都市圈一览.csv` | `metro_id` | 无 | 88 / 14 / 25 / 5 |
+| `07_*都市圈边界.geojson` / `.gpkg` | `metro_id` | 无（几何表） | 88 / 14 / 25 / 5 |
+| `08_审核状态.csv` | `metro_id` + 成员标识 | 同成员关系 | 563 / 675 / 339 / 7 |
+| `08_版本记录.csv` | `metro_id` | 无 | 88 / 14 / 25 / 5 |
+| `08_审核日志.csv` | `audit_id` | `metro_id` → 都市圈 | 90 / 17 / 26 / 6 |
+| `map_data/{ISO3}.js`（行政围栏展示层） | `gid` | 无（由 L1 至 L4 瘦身而来） | 58,510 |
+| `map_data/{USA,JPN,BRA,SAU}_metro.js`（都市圈展示层） | `id`（即 `metro_id`） | 成员条含名称、上级与匹配状态 | 88 / 14 / 25 / 5 |
+
+三点说明：
+
+- **成员标识**四国不同：美国 `fips5`、日本 `member_jis`、巴西与沙特 `member_name`（这两国源表没有成员代码，中东表连代码列都没有）。
+- **样例文件** `05_*_成员表.csv` 与 `05_*_都市圈边界.geojson` 每国 2 个：美国 USM01（29 条）与 USM13（25 条），日本 JPM01 与 JPM06，巴西 BRM10 与 BRM26，沙特 SAUM01 与 SAUM04。
+- 展示层的 L4 会多出 22 条，是把台湾的县市复制到 L4 视图显示，避免那一层留白。`map_data/_search.js` 是检索索引不是表，同一个 `gid` 可能对应多条（一个地名有多种中文写法，如不来梅），所以它的 `gid` 不唯一。
+
+---
+
+## 术语与缩写
+
+| 缩写 / 术语 | 含义 |
+|---|---|
+| GID | GADM 的全局唯一行政区编码，本体系的空间主键（如 `USA.47.40_1`）。层级内唯一，跨层级靠父级 GID 前缀嵌套 |
+| ADM0 / ADM1 / ADM2 / ADM3 | GADM 的行政层级编号，依次对应本体系的 L1 / L2 / L3 / L4 |
+| OE | Oxford Economics（牛津经济研究院），《Global Cities》经济定义数据的出品方 |
+| MSA | Metropolitan Statistical Area，美国都市统计区。跨县的经济功能区，本体系美国样例的「城市」口径 |
+| CBSA | Core Based Statistical Area，美国核心统计区，MSA 的上级统称；本体系沿用其 2015 年划界 |
+| FIPS | 美国联邦信息处理标准代码。「县 FIPS」为 5 位：前 2 位州码 + 后 3 位县码（如 `24510` = 马里兰州巴尔的摩市） |
+| HASC | Hierarchical Administrative Subdivision Codes，层级行政区划代码（如 `US.VA.FC`）。本体系只作参考字段，**因同名同码不能当主键** |
+| SGC | Standard Geographical Classification，加拿大统计局标准地理分类代码（7 位） |
+| NUTS | 欧盟地域统计单元分级。欧洲只有非 FUA 的那 61 个城市带 NUTS 码，163 个 FUA 城市一个都没有 |
+| FUA | Functional Urban Area，功能城市区，OECD / Eurostat 定义的欧洲「城市」口径 |
+| SA4 | Statistical Area Level 4，澳大利亚统计局的一级统计地理单元 |
+| LGA / Kism | 非洲国家的行政区类型（Local Government Area 地方政府区；Kism 为埃及的区） |
+| Polygon / MultiPolygon | 矢量几何类型。Polygon 是连成一片的一块；MultiPolygon 是分成多块不连续（如跨河的都市圈） |
+| GeoJSON / GeoPackage | 两种矢量数据格式。前者是文本、便于交换；后者是单文件数据库容器，QGIS 可直接打开、一个文件含多个图层 |
+| NL_NAME | GADM 自带的中文本地名字段，形如 `江蘇\|江苏`（取 `\|` 后的简体段） |
+| USM 编号 | 本体系给 88 个美国都市圈自编的序号，形如 `USM01`、`USM13`。编号落在 USM01 至 USM107 之间且**中间有跳号**（共 88 个），并不是 1 到 88 连续；USM01 = Atlanta、USM13 = New York |
+| Kreis / département | 德国 / 法国的二级行政区，即本体系 L3 在德法的实际对应物 |
+| census subdivision | 加拿大统计体系下的市镇单元，即加拿大 CMA 的成员单元 |
+| SA4 | Statistical Area Level 4，澳大利亚统计地理体系里的一级统计区。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
+| RM | Região Metropolitana，巴西的「都市圈」建制，成员是市镇（município），源表只给名称不给代码 |
+| municipio / município | 巴西、墨西哥等国的最基层行政单元，即本体系里这些国家都市圈的成员单元 |
+| Canvas / Leaflet | 两种地图渲染方式。本产品是自研 Canvas 矢量渲染器（手写投影与命中判断），不是 Leaflet 库 |
+| POI | Point of Interest，兴趣点（企业、设施等点位数据） |
+| load-bearing | 关键、不可省（本体系的用例：归一县名时必须保留 `city` 后缀，否则独立市会错配到同名县） |
 
 ---
 
@@ -442,35 +616,24 @@ flowchart TD
 
 ### 3.4 各大洲的「城市」口径
 
-**先澄清一点：GADM 里没有「城市」这一层。** 本体系的 L3（ADM2）只是「近似城市层」，各国语义不一样：美国是县、中国是地级市、德国是 Kreis、法国是 département；层级深度也不同（美国到 ADM2、中国到 ADM3、法国到 ADM5）。
-
-所以「城市」这个概念不是从行政层级来的，而是**从经济定义来的**。OE 全球城市定义（`Global_Cities_Definitions_Oct19`，Oxford Economics，2019-10）按大洲分了 8 张 sheet，每张自己对「城市」下定义，一共 899 个城市：
+**GADM 里没有「城市」这一层。** 本体系的 L3（ADM2）只是「近似城市层」，各国语义不一样：美国是县、中国是地级市、德国是 Kreis、法国是 département；层级深度也不同（美国到 ADM2、中国到 ADM3、法国到 ADM5）。所以「城市」这个概念只能**从经济定义来**。OE 定义了 8 张大洲表、共 899 个城市，每张自己对「城市」下定义：
 
 | 大洲 | 城市数 | 「城市」怎么定义、成员单元是什么 |
 |---|---|---|
-| 北美洲 | 98 | 美国用 MSA（88 个）、加拿大用 CMA（10 个）。成员是县 / 市镇，带 FIPS、SGC 代码 |
+| 北美洲 | 98 | 美国用 MSA（88）、加拿大用 CMA（10）。成员是县 / 市镇，带 FIPS、SGC 代码 |
 | 中国 | 150 | 132 个地级市 + 14 个副省级市 + 4 个直辖市。**没有成员单元列** |
-| 欧洲 | 232 | **整体拼不了，163 个城市没有成员单元**。其中 163 个用 OECD / Eurostat 的 FUA 口径，成员单元列整列为空，也没有 NUTS 码可用；余下 61 个用 City Proper 等口径，每个城市只对一个行政单元（整州 / 整省），不是成员聚合。详见 3.5 |
+| 欧洲 | 232 | 163 个用 FUA 口径、成员单元列整列为空（拼不了），61 个用 City Proper 等口径、一城对一行政单元。详见 3.5 |
 | 亚洲 | 173 | 定义最杂，20 余种；成员粒度从 Census Town 到 Ward 都有 |
-| 拉丁美洲 | 104 | 多用 Metropolitan Area。成员是市镇，代码列整列全空，只能按名称匹配（巴西实测 337 / 339）。另有 1 处源表错标，见 3.5 |
+| 拉丁美洲 | 104 | 多用 Metropolitan Area。成员是市镇，代码列整列全空，只能按名称匹配 |
 | 非洲 | 102 | 定义 17 种；成员多为一级行政区，没有代码列 |
 | 中东 | 29 | 多用 City Proper。成员是省 / 酋长国，没有代码列 |
 | 大洋洲 | 11 | 澳大利亚用统计区，成员是 SA4（GADM 没有这一层，拼不了）；新西兰用 Regional Council |
 
-**归集的做法**：经济定义那张表里，每个城市下面会列出它由哪些小单元组成。比如亚特兰大下面列了 29 个县。拿这些小单元去 GADM 里找到对应的边界，再把它们拼起来，拼出来的形状就是这座城市在地图上的样子。纽约都市圈是 25 个县拼的，分属新泽西、纽约、宾州三个州，因为中间跨了哈德逊河和长岛湾，拼出来不是一个整块，而是 177 个不连续的部分。
+**归集的做法**：源表在每个城市下列出它由哪些小单元组成（如亚特兰大 29 个县），拿这些小单元去 GADM 找对应边界、拼起来，就是这座城市在地图上的形状。纽约都市圈是 25 个县拼的、跨 3 个州，因跨越水域而分成 177 块。
 
-**难的地方有三个：**
+**三个卡点**（各洲的应对见 2.6 至 2.8 与 3.3）：一是中国表只有 4 列城市清单、没有成员单元列，而中国 L3 已是地级市，再往下要用问题最重的 L4 区县；二是成员代码只有北美可用，其余各洲的代码列或整列为空、或根本没有该列，只能退化为名称匹配；三是八张表有 4 / 6 / 7 / 9 列四种布局，列名也不统一（同义的成员代码列，北美叫 `Local regional level code`、其余洲叫 `Local region code`），跨洲泛化要按洲写适配器。
 
-**跨洲归集的三个卡点（尚未解决）：**
-
-1. **中国无法按美国的方式做成员并集**：中国 sheet 只有 4 列城市清单，没有任何成员单元列，而中国 L3 已经是地级市（本身就是行政建制市），要再往下就得用 L4 区县，而中国 L4 是 GADM 问题最重的一层。
-2. **成员代码只有北美可用**：美国有 3 位县 FIPS、加拿大有 7 位 SGC；拉丁美洲的代码列整列全空，非洲、中东、中国**根本没有代码列**，欧洲的 163 个 FUA 城市同样一个码都没有（只有非 FUA 的 61 个城市带 NUTS 码）。这些城市只能退化为「名称匹配」，而名称恰恰是本体系最不可靠的键（见 3.1）。
-3. **各大洲表结构不同**（4 / 6 / 7 / 9 列四种），列名也不统一（北美的成员代码列叫 `Local regional level code`，其余洲叫 `Local region code`），跨洲泛化需要按洲写适配器。
-
-**当前进度**：已建成四国，分别是美国（88 个都市圈、563 条县级成员、561 条匹配成功）、日本（14 个都市圈、675 条市町村成员、672 条匹配成功）、巴西（25 个都市圈、339 条市镇成员、338 条匹配成功）与沙特（5 个都市圈、7 条省级成员、6 条匹配成功），其余 4 张大洲表（非洲、欧洲、大洋洲、中国）的城市定义**尚未接入本管线**。
-
-其中**德国、英国、法国都一样，卡在源数据**：Europe 表里这三国的 72 个城市（德 26、英 25、法 21）全部只给到城市名、OE 城市代码与 `OECD/Eurostat FUA` 口径，**没有任何成员单元列**，无法像美国、日本那样按成员拼边界。这不是这三个国家的问题，而是整个欧洲表的定义方式问题，详见 3.5。
-
+**当前进度**：已建成美国、日本、巴西、沙特四国（数字见 2.5 至 2.8），其余 4 张大洲表（非洲、欧洲、大洋洲、中国）尚未接入本管线。欧洲的德国、英国、法国卡在源数据本身，原因见 3.5。
 ### 3.5 欧洲为什么普遍拼不了，以及怎么办
 
 **结论先说：不是德国一个国家的问题，是整个欧洲表的定义方式问题。**
@@ -511,180 +674,6 @@ Europe 表一共 232 个城市，其中 **163 个（约七成）用的是 OECD /
 - **地图端已按大洲分组**：国家清单见本仓库的 `GADM/countries.csv`（排名 / 国家 / 大洲 / 各层要素数，20 行），地图按大洲分组显示，洲间按「洲内最靠前 GDP 排名」排序（北美洲 USA=1 → 亚洲 CHN=2 → 欧洲 DEU=3 → 南美洲 → 大洋洲）。更全的元数据（ISO 码、层级可用性、舍弃的更深层级）在院内本地的 `GADM/country_list.csv`。
 - **静态交付物目前按国家平铺**：`GADM/geojson/` 与 `GADM/gpkg/` 下是 20 个 `ISO3_中文名` 目录，**未按大洲建子目录**。定位函数 `locate_country_dir` / `locate_geojson_dir` 已同时兼容「平铺 / 大洲子目录」两种布局，改布局不需要动下游脚本。
 - **大洲归属的约定**：俄罗斯归欧洲、土耳其归亚洲（二者跨洲）。
-
----
-
-## 数据模型：有哪些表、主键与外键是什么
-
-数据分三层：**行政围栏**（GADM 四层）、**经济定义**（OE 源表加派生表）、**展示层**（地图用的瘦身副本）。下面是各层的主键与外键，主键唯一性已逐表核验。
-
-### 行政围栏层：四张表，靠外键串成层级
-
-```mermaid
-erDiagram
-    GADM_L1 ||--o{ GADM_L2 : "1 国 对 N 省州"
-    GADM_L2 ||--o{ GADM_L3 : "1 省州 对 N 市郡"
-    GADM_L3 ||--o{ GADM_L4 : "1 市郡 对 N 区县"
-    GADM_L1 {
-        string GID_0 PK
-        string COUNTRY
-    }
-    GADM_L2 {
-        string GID_1 PK
-        string GID_0 FK
-        string NAME_1
-        string HASC_1
-    }
-    GADM_L3 {
-        string GID_2 PK
-        string GID_1 FK
-        string NAME_2
-        string HASC_2
-        string CC_2
-    }
-    GADM_L4 {
-        string GID_3 PK
-        string GID_2 FK
-        string NAME_3
-        string HASC_3
-        string GB_CODE
-    }
-```
-
-子表的 `GID` 是「父表 GID + 一个序号」，所以看编号就知道归属，例如 `USA.47.40_1` 属于 `USA.47_1`（弗吉尼亚州）。
-
-三个字段容易误当主键，其实都不是：
-
-| 字段 | 是什么 | 为什么不能当主键 |
-|---|---|---|
-| `HASC_N` | 简称代码，如 `US.VA.FC` | 按名字缩写生成，同名就同码，美国 L3 层有 8 组撞码 |
-| `CC_N` | 各国本地编号 | 美国县层整列为空 |
-| `NAME_N` | 名称 | 重名严重，美国 L3 层 442 个名字被重复使用 |
-
-### 经济定义层：源表、对照表、都市圈表
-
-```mermaid
-erDiagram
-    OE_CITY ||--o{ OE_MEMBER : "1 城市 对 N 成员"
-    OE_MEMBER ||--o| BRIDGE : "用县代码对接"
-    BRIDGE ||--|| GADM_L3 : "一个县代码 对一个 GID"
-    METRO ||--o{ METRO_MEMBER : "1 都市圈 对 N 条成员"
-    METRO ||--|| METRO_BOUNDARY : "1 都市圈 对 1 块边界"
-    METRO ||--|| METRO_VERSION : "1 都市圈 对 1 条版本"
-    METRO ||--o{ AUDIT_LOG : "1 都市圈 对 N 条审核动作"
-    METRO_MEMBER ||--o| MEMBER_STATUS : "每条成员 对 1 条审核状态"
-    OE_CITY {
-        string oe_city_code PK
-        string city_name
-        string geo_level
-    }
-    OE_MEMBER {
-        string metro_code PK
-        string county_fips PK
-        string local_region_name
-    }
-    BRIDGE {
-        string fips5 PK
-        string gid_2 FK
-        string hasc_2
-    }
-    METRO {
-        string metro_id PK
-        string metro_name
-        string cbsa_code
-    }
-    METRO_MEMBER {
-        string metro_id PK
-        string fips5 PK
-        string gid_2 FK
-        string match_method
-    }
-    METRO_BOUNDARY {
-        string metro_id PK
-        string metro_name
-        int n_members
-        int n_missing
-    }
-    MEMBER_STATUS {
-        string metro_id PK
-        string fips5 PK
-        string review_status
-        string reviewer
-    }
-    METRO_VERSION {
-        string metro_id PK
-        int version
-        string last_action
-    }
-    AUDIT_LOG {
-        int audit_id PK
-        string metro_id FK
-        string action
-        string reason
-    }
-```
-
-关键在 `BRIDGE` 这张对照表：OE 的县带 FIPS 码但 GADM 的县没有，两边没有共同字段，所以专门建一张 `fips5 ↔ gid_2` 的桥。桥是 1 比 1 的，561 条零碰撞。
-
-### 全部表一览
-
-| 表 | 主键 | 外键 | 行数（美 / 日 / 巴西 / 沙特） |
-|---|---|---|---|
-| L1 国家（ADM0） | `GID_0` | 无 | 21 |
-| L2 省州（ADM1） | `GID_1` | `GID_0` → L1 | 598 |
-| L3 市郡（ADM2） | `GID_2` | `GID_1` → L2 | 20,532 |
-| L4 区县（ADM3） | `GID_3` | `GID_2` → L3 | 37,359 |
-| `01_*经济定义_都市圈成员表.csv` | `metro_id` + 成员标识 | `metro_id` → 都市圈 | 563 / 675 / 365 / 7 |
-| `02_GADM*_一级底表.csv`（美 州 / 日 县 / 巴西 州 / 沙特 区） | `gid_1` | 无 | 51 / 47 / 27 / 13 |
-| `03_GADM*_成员层底表.csv`（美 县 / 日 市町村 / 巴西 市 / 沙特 省） | `gid_2` | `gid_1` → 一级底表 | 3,148 / 1,811 / 5,572 / 147 |
-| `04_FIPS_GADM县代码桥.csv`（仅美国） | `fips5` | `gid_2` → 成员层底表 | 561 / 无 / 无 / 无 |
-| `04_匹配结果_全量*.csv` | `metro_id` + 成员标识 | `gid_2` → 成员层底表（可空） | 563 / 675 / 365 / 7 |
-| `04_匹配异常队列.csv` | `metro_id` | 无（未匹配项） | 2 / 3 / 1 / 1 |
-| `07_*都市圈成员关系.csv` | `metro_id` + 成员标识 | `gid_2` → 成员层底表 | 563 / 675 / 339 / 7 |
-| `07_*都市圈一览.csv` | `metro_id` | 无 | 88 / 14 / 25 / 5 |
-| `07_*都市圈边界.geojson` / `.gpkg` | `metro_id` | 无（几何表） | 88 / 14 / 25 / 5 |
-| `08_审核状态.csv` | `metro_id` + 成员标识 | 同成员关系 | 563 / 675 / 339 / 7 |
-| `08_版本记录.csv` | `metro_id` | 无 | 88 / 14 / 25 / 5 |
-| `08_审核日志.csv` | `audit_id` | `metro_id` → 都市圈 | 90 / 17 / 26 / 6 |
-| `map_data/{ISO3}.js`（行政围栏展示层） | `gid` | 无（由 L1 至 L4 瘦身而来） | 58,510 |
-| `map_data/{USA,JPN,BRA,SAU}_metro.js`（都市圈展示层） | `id`（即 `metro_id`） | 成员条含名称、上级与匹配状态 | 88 / 14 / 25 / 5 |
-
-三点说明：
-
-- **成员标识**四国不同：美国 `fips5`、日本 `member_jis`、巴西与沙特 `member_name`（这两国源表没有成员代码，中东表连代码列都没有）。
-- **样例文件** `05_*_成员表.csv` 与 `05_*_都市圈边界.geojson` 每国 2 个：美国 USM01（29 条）与 USM13（25 条），日本 JPM01 与 JPM06，巴西 BRM10 与 BRM26，沙特 SAUM01 与 SAUM04。
-- 展示层的 L4 会多出 22 条，是把台湾的县市复制到 L4 视图显示，避免那一层留白。`map_data/_search.js` 是检索索引不是表，同一个 `gid` 可能对应多条（一个地名有多种中文写法，如不来梅），所以它的 `gid` 不唯一。
-
----
-
-## 术语与缩写
-
-| 缩写 / 术语 | 含义 |
-|---|---|
-| GID | GADM 的全局唯一行政区编码，本体系的空间主键（如 `USA.47.40_1`）。层级内唯一，跨层级靠父级 GID 前缀嵌套 |
-| ADM0 / ADM1 / ADM2 / ADM3 | GADM 的行政层级编号，依次对应本体系的 L1 / L2 / L3 / L4 |
-| OE | Oxford Economics（牛津经济研究院），《Global Cities》经济定义数据的出品方 |
-| MSA | Metropolitan Statistical Area，美国都市统计区。跨县的经济功能区，本体系美国样例的「城市」口径 |
-| CBSA | Core Based Statistical Area，美国核心统计区，MSA 的上级统称；本体系沿用其 2015 年划界 |
-| FIPS | 美国联邦信息处理标准代码。「县 FIPS」为 5 位：前 2 位州码 + 后 3 位县码（如 `24510` = 马里兰州巴尔的摩市） |
-| HASC | Hierarchical Administrative Subdivision Codes，层级行政区划代码（如 `US.VA.FC`）。本体系只作参考字段，**因同名同码不能当主键** |
-| SGC | Standard Geographical Classification，加拿大统计局标准地理分类代码（7 位） |
-| NUTS | 欧盟地域统计单元分级。欧洲只有非 FUA 的那 61 个城市带 NUTS 码，163 个 FUA 城市一个都没有 |
-| FUA | Functional Urban Area，功能城市区，OECD / Eurostat 定义的欧洲「城市」口径 |
-| SA4 | Statistical Area Level 4，澳大利亚统计局的一级统计地理单元 |
-| LGA / Kism | 非洲国家的行政区类型（Local Government Area 地方政府区；Kism 为埃及的区） |
-| Polygon / MultiPolygon | 矢量几何类型。Polygon 是连成一片的一块；MultiPolygon 是分成多块不连续（如跨河的都市圈） |
-| GeoJSON / GeoPackage | 两种矢量数据格式。前者是文本、便于交换；后者是单文件数据库容器，QGIS 可直接打开、一个文件含多个图层 |
-| NL_NAME | GADM 自带的中文本地名字段，形如 `江蘇\|江苏`（取 `\|` 后的简体段） |
-| USM 编号 | 本体系给 88 个美国都市圈自编的序号，形如 `USM01`、`USM13`。编号落在 USM01 至 USM107 之间且**中间有跳号**（共 88 个），并不是 1 到 88 连续；USM01 = Atlanta、USM13 = New York |
-| Kreis / département | 德国 / 法国的二级行政区，即本体系 L3 在德法的实际对应物 |
-| census subdivision | 加拿大统计体系下的市镇单元，即加拿大 CMA 的成员单元 |
-| SA4 | Statistical Area Level 4，澳大利亚统计地理体系里的一级统计区。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
-| RM | Região Metropolitana，巴西的「都市圈」建制，成员是市镇（município），源表只给名称不给代码 |
-| municipio / município | 巴西、墨西哥等国的最基层行政单元，即本体系里这些国家都市圈的成员单元 |
-| Canvas / Leaflet | 两种地图渲染方式。本产品是自研 Canvas 矢量渲染器（手写投影与命中判断），不是 Leaflet 库 |
-| POI | Point of Interest，兴趣点（企业、设施等点位数据） |
-| load-bearing | 关键、不可省（本体系的用例：归一县名时必须保留 `city` 后缀，否则独立市会错配到同名县） |
 
 ---
 
