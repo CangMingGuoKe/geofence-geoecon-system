@@ -719,20 +719,22 @@ Europe 表一共 232 个城市，其中 **163 个（约七成）用的是 OECD /
 | 简化 | 为减小体积而抽稀边界折线（本产品展示层按 0.002 至 0.005 度）。简化后的边界不可用于面积量算 |
 | 点位 | 有经纬度、但本身不在任何行政边界里的数据，如企业注册地、遥感像元、设施位置。本体系负责把它们落进对应的围栏 |
 | 要素 | GIS 里「一条记录加一块几何」的说法。「58,510 个要素」即 58,510 块行政区边界 |
-| 主键 / 外键 / 复合键 | 数据库术语。主键是能唯一认出某一行记录的字段；外键是存放另一张表主键的字段，用来把两张表串起来；单个字段认不出、要几个合起来才能唯一认出时，叫复合键 |
+| 主键 / 外键 / 复合键 | 数据库术语，英文缩写为 PK / FK。主键是能唯一认出某一行记录的字段；外键是存放另一张表主键的字段，用来把两张表串起来；单个字段认不出、要几个合起来才能唯一认出时，叫复合键 |
 | 撞码 | 本该唯一的代码被重复使用（如两个不同的地方拿到同一个 HASC 码）。这类码不能当主键 |
 | 空洞 | 围栏内部被成员围住、但不属于该都市圈的那块地，多为非成员的市镇。它真实存在，不是简化产生的碎屑 |
 | OE | Oxford Economics（牛津经济研究院），《Global Cities》经济定义数据的出品方 |
 | MSA | Metropolitan Statistical Area，美国都市统计区。跨县的经济功能区，本体系美国样例的「城市」口径 |
+| CMA | Census Metropolitan Area，加拿大统计局定义的都市圈，本体系加拿大样例的「城市」口径 |
 | CBSA | Core Based Statistical Area，美国核心统计区，MSA 的上级统称；本体系沿用其 2015 年划界 |
 | FIPS | 美国联邦信息处理标准代码。「县 FIPS」为 5 位：前 2 位州码 + 后 3 位县码（如 `24510` = 马里兰州巴尔的摩市） |
 | 独立市 | 美国的一种建制：有些市不隶属任何县、行政上独立，如弗吉尼亚州的 38 个独立市、马里兰州的巴尔的摩市、密苏里州的圣路易斯市。GADM 对它们处理不一致：弗吉尼亚的都单独成块，巴尔的摩市与圣路易斯市则被并进了同名县 |
 | HASC | Hierarchical Administrative Subdivision Codes，层级行政区划代码（如 `US.VA.FC`）。本体系只作参考字段，**因同名同码不能当主键** |
 | SGC | Standard Geographical Classification，加拿大统计局标准地理分类代码（7 位） |
+| JIS | Japanese Industrial Standards 代码，即日本 5 位市町村代码（如 `04100` = 仙台市）。日本样例的成员用它定位 |
 | NUTS | 欧盟地域统计单元分级。欧洲只有非 FUA 的那 61 个城市带 NUTS 码，163 个 FUA 城市一个都没有 |
-| FUA | Functional Urban Area，功能城市区，OECD / Eurostat 定义的欧洲「城市」口径 |
-| SA4 | Statistical Area Level 4，澳大利亚统计局的一级统计地理单元。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
-| LGA / Kism | 非洲国家的行政区类型（Local Government Area 地方政府区；Kism 为埃及的区） |
+| FUA | Functional Urban Area，功能城市区，OECD（经济合作与发展组织）与 Eurostat（欧盟统计局）定义的欧洲「城市」口径 |
+| SA4 | Statistical Area Level 4，澳大利亚统计局的统计地理单元，用来划分大都市区（ABS 统计地理里上面还有 SA1 至 SA3）。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
+| LGA / Kism | Local Government Area 地方政府区，**澳大利亚的基层行政单元**（Shire、City、District Council 等都属 LGA），尼日利亚等非洲国家也用；Kism 为埃及的区 |
 | Polygon / MultiPolygon | 矢量几何类型。Polygon 是连成一片的一块；MultiPolygon 是分成多块不连续（如跨河的都市圈） |
 | GeoJSON / GeoPackage | 两种矢量数据格式。前者是文本、便于交换；后者是单文件数据库容器，QGIS 可直接打开、一个文件含多个图层 |
 | NL_NAME | GADM 自带的中文本地名字段，形如 `江蘇\|江苏`（取 `\|` 后的简体段） |
