@@ -615,9 +615,9 @@ flowchart TD
 | 北美洲 | 98 | 美国用 MSA（88）、加拿大用 CMA（10）。成员是县 / 市镇，带 FIPS、SGC 代码 |
 | 中国 | 150 | 132 个地级市 + 14 个副省级市 + 4 个直辖市。**没有成员单元列** |
 | 欧洲 | 232 | 163 个用 FUA 口径、成员单元列整列为空（拼不了），61 个用 City Proper 等口径、一城对一行政单元。详见 3.5 |
-| 亚洲 | 173 | 定义最杂，20 余种；成员粒度从 Census Town 到 Ward 都有 |
+| 亚洲 | 173 | 定义最杂（23 种）；成员层级 33 种，最常用的是 Census Town、City (shi)、Out Growth 等 |
 | 拉丁美洲 | 104 | 多用 Metropolitan Area。成员是市镇，代码列整列全空，只能按名称匹配 |
-| 非洲 | 102 | 定义 17 种；成员多为一级行政区，没有代码列 |
+| 非洲 | 102 | 定义 18 种；成员层级 13 种，以 Local Government Area 与 Kism 为主，另有 Province、Municipality 等；没有代码列 |
 | 中东 | 29 | 多用 City Proper。成员是省 / 酋长国，没有代码列 |
 | 大洋洲 | 11 | 澳大利亚用统计区，成员是 SA4（GADM 没有这一层，拼不了）；新西兰用 Regional Council |
 
@@ -731,7 +731,7 @@ Europe 表一共 232 个城市，其中 **163 个（约七成）用的是 OECD /
 | HASC | Hierarchical Administrative Subdivision Codes，层级行政区划代码（如 `US.VA.FC`）。本体系只作参考字段，**因同名同码不能当主键** |
 | SGC | Standard Geographical Classification，加拿大统计局标准地理分类代码（7 位） |
 | JIS | Japanese Industrial Standards 代码，即日本 5 位市町村代码（如 `04100` = 仙台市）。日本样例的成员用它定位 |
-| NUTS | 欧盟地域统计单元分级。欧洲只有非 FUA 的那 61 个城市带 NUTS 码，163 个 FUA 城市一个都没有 |
+| NUTS | 欧盟地域统计单元分级。欧洲 163 个 FUA 城市一个本地代码都没有；非 FUA 的 61 个城市有本地代码，其中约 20 个的层级标为 NUTS（俄罗斯那 34 个标的是 RU 打头的代码，不是 NUTS） |
 | FUA | Functional Urban Area，功能城市区，OECD（经济合作与发展组织）与 Eurostat（欧盟统计局）定义的欧洲「城市」口径 |
 | SA4 | Statistical Area Level 4，澳大利亚统计局的统计地理单元，OE 表用它作为澳大利亚都市圈的成员。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
 | LGA / Kism | Local Government Area 地方政府区，**OE 非洲表里用作成员单元的层级名**；Kism 为埃及的区。这个词只出现在 OE 的非洲表，澳洲与 GADM 都不用，所以澳大利亚那一层不叫 LGA |
