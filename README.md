@@ -740,8 +740,8 @@ Europe 表一共 232 个城市，其中 **163 个（约七成）用的是 OECD /
 | NL_NAME | GADM 自带的中文本地名字段，形如 `江蘇\|江苏`（取 `\|` 后的简体段） |
 | USM 编号 | 本体系给 88 个美国都市圈自编的序号，形如 `USM01`、`USM13`。编号落在 USM01 至 USM107 之间且**中间有跳号**（共 88 个），并不是 1 到 88 连续；USM01 = Atlanta、USM13 = New York |
 | Kreis / département | 德国 / 法国的二级行政区，即本体系 L3 在德法的实际对应物 |
-| census subdivision | 加拿大统计体系下的市镇单元，即加拿大 CMA 的成员单元 |
-| RM | Região Metropolitana，巴西的「都市圈」建制，成员是市镇（município），源表只给名称不给代码 |
+| census subdivision | 加拿大统计局的市镇单元，即加拿大 CMA 的成员单元。源表未标这一层（成员以名称与 SGC 代码给出），GADM 对应层标为 Town / Village / Municipalité 等 |
+| RM | 巴西的「都市圈」建制（Região Metropolitana 的缩写，巴西通用说法）。源表在「地理级别」列写作 Metropolitan Area，成员是市镇（GADM 标为 Município），且只给名称不给代码 |
 | municipio / município | 巴西、墨西哥等国的最基层行政单元，即本体系里这些国家都市圈的成员单元 |
 | Canvas / Leaflet | 两种地图渲染方式。本产品是自研 Canvas 矢量渲染器（手写投影与命中判断），不是 Leaflet 库 |
 | POI | Point of Interest，兴趣点（企业、设施等点位数据） |
