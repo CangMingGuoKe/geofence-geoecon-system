@@ -266,11 +266,12 @@ erDiagram
 | MSA | Metropolitan Statistical Area，美国都市统计区。跨县的经济功能区，本体系美国样例的「城市」口径 |
 | CBSA | Core Based Statistical Area，美国核心统计区，MSA 的上级统称；本体系沿用其 2015 年划界 |
 | FIPS | 美国联邦信息处理标准代码。「县 FIPS」为 5 位：前 2 位州码 + 后 3 位县码（如 `24510` = 马里兰州巴尔的摩市） |
+| 独立市 | 美国的一种建制：有些市不隶属任何县、行政上独立，如弗吉尼亚州的 38 个独立市、马里兰州的巴尔的摩市、密苏里州的圣路易斯市。GADM 对它们处理不一致：弗吉尼亚的都单独成块，巴尔的摩市与圣路易斯市则被并进了同名县 |
 | HASC | Hierarchical Administrative Subdivision Codes，层级行政区划代码（如 `US.VA.FC`）。本体系只作参考字段，**因同名同码不能当主键** |
 | SGC | Standard Geographical Classification，加拿大统计局标准地理分类代码（7 位） |
 | NUTS | 欧盟地域统计单元分级。欧洲只有非 FUA 的那 61 个城市带 NUTS 码，163 个 FUA 城市一个都没有 |
 | FUA | Functional Urban Area，功能城市区，OECD / Eurostat 定义的欧洲「城市」口径 |
-| SA4 | Statistical Area Level 4，澳大利亚统计局的一级统计地理单元 |
+| SA4 | Statistical Area Level 4，澳大利亚统计局的一级统计地理单元。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
 | LGA / Kism | 非洲国家的行政区类型（Local Government Area 地方政府区；Kism 为埃及的区） |
 | Polygon / MultiPolygon | 矢量几何类型。Polygon 是连成一片的一块；MultiPolygon 是分成多块不连续（如跨河的都市圈） |
 | GeoJSON / GeoPackage | 两种矢量数据格式。前者是文本、便于交换；后者是单文件数据库容器，QGIS 可直接打开、一个文件含多个图层 |
@@ -278,7 +279,6 @@ erDiagram
 | USM 编号 | 本体系给 88 个美国都市圈自编的序号，形如 `USM01`、`USM13`。编号落在 USM01 至 USM107 之间且**中间有跳号**（共 88 个），并不是 1 到 88 连续；USM01 = Atlanta、USM13 = New York |
 | Kreis / département | 德国 / 法国的二级行政区，即本体系 L3 在德法的实际对应物 |
 | census subdivision | 加拿大统计体系下的市镇单元，即加拿大 CMA 的成员单元 |
-| SA4 | Statistical Area Level 4，澳大利亚统计地理体系里的一级统计区。GADM 没有这一层，所以澳大利亚都市圈拼不了 |
 | RM | Região Metropolitana，巴西的「都市圈」建制，成员是市镇（município），源表只给名称不给代码 |
 | municipio / município | 巴西、墨西哥等国的最基层行政单元，即本体系里这些国家都市圈的成员单元 |
 | Canvas / Leaflet | 两种地图渲染方式。本产品是自研 Canvas 矢量渲染器（手写投影与命中判断），不是 Leaflet 库 |
@@ -402,7 +402,12 @@ flowchart LR
 
 最大为 USM18 Riverside-San Bernardino-Ontario, CA（71,049 km²，2 个巨型县，全美最大 MSA），最小为 USM35 Urban Honolulu, HI（1,565 km²，1 个县）。
 
-**唯一的 2 处缺口**：GADM 的美国县层**没有巴尔的摩市与圣路易斯市的独立要素**，其辖区被并入同名县多边形，因此这两市的面积**已包含**在围栏里，但**无法单独归属**。对应都市圈 USM02、USM23 在两地图上标为橙色。具体几何证据见 `GADM/README.md` 的「已知几何与属性缺陷（美国层）」。
+**唯一的两处缺口，是「分不开」而不是「少了一块」。** 美国有两个市不隶属任何县、自己单独成市：马里兰州的巴尔的摩市与密苏里州的圣路易斯市（它们各自与同名县并存，行政上是两回事）。GADM 在县这一层只画了一块多边形，把市与县合在一起，没有单独画出市。于是：
+
+- **地没少**：这两个市的土地**已经包含**在对应都市圈的围栏里，围栏形状完整，没有空洞。
+- **但分不开**：按县汇总 GDP、人口这类指标时，市的数据会被并进同名县里一起算，无法单独取出这个市。
+
+涉及巴尔的摩（USM02）与圣路易斯（USM23）两个都市圈，在地图上标为橙色。这是 GADM 处理不一致的地方：弗吉尼亚州的独立市它都单独画了，这两个市却并进了同名县。面积比对与质心落点的几何证据见 `GADM/README.md` 的「已知几何与属性缺陷（美国层）」。
 
 > 表中「51 州」= 50 个州 + 哥伦比亚特区（GADM 把 DC 记为 `FederalDistrict`，算作州级单元）；「覆盖 44 州」指有县入选这 88 个都市圈的州数。两者口径不同，不是矛盾。
 
