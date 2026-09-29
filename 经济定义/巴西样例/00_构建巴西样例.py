@@ -243,7 +243,7 @@ def main():
     area = gpd.read_file(os.path.join(GEO, 'BRA_L3_adm2.geojson')).to_crs('EPSG:6933').area.sum() / 1e6
     print()
     print('=== 规模校验 ===')
-    print('  GADM 巴西 L3 市镇层合计面积 %.0f km²（官方国土面积参考 8,515,767 km²）' % area)
+    print('  GADM 巴西 L3 市镇层合计面积 %.0f km²（外部公开的国土面积参考值（非本项目数据，库内未留源） 8,515,767 km²）' % area)
 
 
 if __name__ == '__main__':
