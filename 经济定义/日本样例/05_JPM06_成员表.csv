@@ -1,4 +1,5 @@
 ﻿metro_id,metro_name,member_name,member_jis,gadm_name,gid_2,type_2,match_method
+JPM06,Sapporo MMA,Hokkaido Sapporo-shi,01100,Sapporo,JPN.12.123_1,Machi,name_exact
 JPM06,Sapporo MMA,Hokkaido Otaru-shi,01203,Otaru,JPN.12.108_1,Shi,name_exact
 JPM06,Sapporo MMA,Hokkaido Iwamizawa-shi,01210,Iwamizawa,JPN.12.48_1,Shi,name_exact
 JPM06,Sapporo MMA,Hokkaido Bibai-shi,01215,Bibai,JPN.12.13_1,Shi,name_exact

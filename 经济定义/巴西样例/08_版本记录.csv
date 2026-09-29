@@ -1,0 +1,26 @@
+﻿metro_id,metro_name,version,n_approved,n_replaced,n_added,n_deleted,n_confirmed_missing,last_action,last_reviewer,last_time
+BRM01,Maceió RM,1,11,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM02,Manaus RM,1,8,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM03,Salvador RM,1,13,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM04,Fortaleza RM,1,15,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM05,Brasília,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM06,Goiânia RM,1,20,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM07,Grande São Luís RM,1,5,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM09,Campo Grande,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM10,Belo Horizonte RM,1,48,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM11,Belém RM,1,6,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM12,João Pessoa RM,1,13,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM13,Curitiba RM,1,26,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM14,Recife RM,1,14,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM15,Teresina,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM16,Rio De Janeiro RM,1,19,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM17,Natal RM,1,10,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM18,Pôrto Alegre RM,1,31,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM19,Florianópolis RM,1,22,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM20,Norte/Nordeste Catarinense RM,1,20,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM21,Baixada Santista RM,1,9,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM22,Ribeirao Prêto,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM23,Sao José dos Campos,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM24,Sorocaba,1,1,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23
+BRM25,São Paulo RM,2,38,0,0,0,1,mark_missing,黄丰,2026-09-29 13:11:23
+BRM26,Aracaju RM,1,4,0,0,0,0,approve_metro,黄丰,2026-09-29 13:11:23

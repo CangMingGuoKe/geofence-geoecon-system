@@ -1,0 +1,49 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_name,gid_2,cc_2,match_method
+BRM10,Belo Horizonte RM,Baldim,member,Baldim,BRA.13.55_2,3105004,name_exact
+BRM10,Belo Horizonte RM,Barão de Cocais,member,BarãodeCocais,BRA.13.59_2,3105400,name_exact
+BRM10,Belo Horizonte RM,Belo Horizonte,member,BeloHorizonte,BRA.13.66_2,3106200,name_exact
+BRM10,Belo Horizonte RM,Belo Vale,member,BeloVale,BRA.13.68_2,3106408,name_exact
+BRM10,Belo Horizonte RM,Betim,member,Betim,BRA.13.72_2,3106705,name_exact
+BRM10,Belo Horizonte RM,Bonfim,member,Bonfim,BRA.13.86_2,3108107,name_exact
+BRM10,Belo Horizonte RM,Brumadinho,member,Brumadinho,BRA.13.97_2,3109006,name_exact
+BRM10,Belo Horizonte RM,Caeté,member,Caeté,BRA.13.110_2,3110004,name_exact
+BRM10,Belo Horizonte RM,Capim Branco,member,CapimBranco,BRA.13.137_2,3112505,name_exact
+BRM10,Belo Horizonte RM,Confins,member,Confins,BRA.13.198_2,3117876,name_exact
+BRM10,Belo Horizonte RM,Contagem,member,Contagem,BRA.13.206_2,3118601,name_exact
+BRM10,Belo Horizonte RM,Esmeraldas,member,Esmeraldas,BRA.13.271_2,3124104,name_exact
+BRM10,Belo Horizonte RM,Florestal,member,Florestal,BRA.13.290_2,3126000,name_exact
+BRM10,Belo Horizonte RM,Fortuna de Minas,member,FortunadeMinas,BRA.13.294_2,3126406,name_exact
+BRM10,Belo Horizonte RM,Funilândia,member,Funilândia,BRA.13.306_2,3127206,name_exact
+BRM10,Belo Horizonte RM,Ibirité,member,Ibirité,BRA.13.338_2,3129806,name_exact
+BRM10,Belo Horizonte RM,Igarapé,member,Igarapé,BRA.13.342_2,3130101,name_exact
+BRM10,Belo Horizonte RM,Inhaúma,member,Inhaúma,BRA.13.353_2,3131000,name_exact
+BRM10,Belo Horizonte RM,Itabirito,member,Itabirito,BRA.13.363_2,3131901,name_exact
+BRM10,Belo Horizonte RM,Itaguara,member,Itaguara,BRA.13.366_2,3132206,name_exact
+BRM10,Belo Horizonte RM,Itatiaiuçu,member,Itatiaiuçu,BRA.13.381_2,3133709,name_exact
+BRM10,Belo Horizonte RM,Itaúna,member,Itaúna,BRA.13.383_2,3133808,name_exact
+BRM10,Belo Horizonte RM,Jaboticatubas,member,Jaboticatubas,BRA.13.391_2,3134608,name_exact
+BRM10,Belo Horizonte RM,Juatuba,member,Juatuba,BRA.13.418_2,3136652,name_exact
+BRM10,Belo Horizonte RM,Lagoa Santa,member,LagoaSanta,BRA.13.430_2,3137601,name_exact
+BRM10,Belo Horizonte RM,Mário Campos,member,MárioCampos,BRA.13.462_2,3140159,name_exact
+BRM10,Belo Horizonte RM,Mateus Leme,member,MateusLeme,BRA.13.470_2,3140704,name_exact
+BRM10,Belo Horizonte RM,Matozinhos,member,Matozinhos,BRA.13.476_2,3141108,name_exact
+BRM10,Belo Horizonte RM,Moeda,member,Moeda,BRA.13.489_2,3142304,name_exact
+BRM10,Belo Horizonte RM,Nova Lima,member,NovaLima,BRA.13.520_2,3144805,name_exact
+BRM10,Belo Horizonte RM,Nova União,member,NovaUnião,BRA.13.526_2,3136603,name_exact
+BRM10,Belo Horizonte RM,Pará de Minas,member,ParádeMinas,BRA.13.551_2,3147105,name_exact
+BRM10,Belo Horizonte RM,Pedro Leopoldo,member,PedroLeopoldo,BRA.13.577_2,3149309,name_exact
+BRM10,Belo Horizonte RM,Prudente de Morais,member,PrudentedeMorais,BRA.13.625_2,3153608,name_exact
+BRM10,Belo Horizonte RM,Raposos,member,Raposos,BRA.13.628_2,3153905,name_exact
+BRM10,Belo Horizonte RM,Ribeirão das Neves,member,RibeirãodasNeves,BRA.13.637_2,3154606,name_exact
+BRM10,Belo Horizonte RM,Rio Acima,member,RioAcima,BRA.13.639_2,3154804,name_exact
+BRM10,Belo Horizonte RM,Rio Manso,member,RioManso,BRA.13.644_2,3155306,name_exact
+BRM10,Belo Horizonte RM,Sabará,member,Sabará,BRA.13.659_2,3156700,name_exact
+BRM10,Belo Horizonte RM,Santa Bárbara,member,SantaBárbara,BRA.13.664_2,3157203,name_exact
+BRM10,Belo Horizonte RM,Santa Luzia,member,SantaLuzia,BRA.13.675_2,3157807,name_exact
+BRM10,Belo Horizonte RM,São Joaquim de Bicas,member,SãoJoaquimdeBicas,BRA.13.739_2,3162922,name_exact
+BRM10,Belo Horizonte RM,São José da Lapa,member,SãoJosédaLapa,BRA.13.741_2,3162955,name_exact
+BRM10,Belo Horizonte RM,São José da Varginha,member,SãoJosédaVarginha,BRA.13.743_2,3163102,name_exact
+BRM10,Belo Horizonte RM,Sarzedo,member,Sarzedo,BRA.13.770_2,3165537,name_exact
+BRM10,Belo Horizonte RM,Sete Lagoas,member,SeteLagoas,BRA.13.790_2,3167202,name_exact
+BRM10,Belo Horizonte RM,Taquaraçu de Minas,member,TaquaraçudeMinas,BRA.13.803_2,3168309,name_exact
+BRM10,Belo Horizonte RM,Vespasiano,member,Vespasiano,BRA.13.844_2,3171204,name_exact

@@ -36,7 +36,7 @@ def wr(name, rows):
 
 
 def main():
-    matched = rd('04_匹配结果_全量661.csv')
+    matched = rd('04_匹配结果_全量.csv')
     gj = gpd.read_file(os.path.join(ROOT, 'GADM/geojson/JPN_日本/JPN_L3_adm2.geojson'))
     geom = dict(zip(gj['GID_2'], gj.geometry))
     pref = dict(zip(gj['GID_2'], gj['NAME_1']))

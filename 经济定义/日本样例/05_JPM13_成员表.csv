@@ -1,4 +1,5 @@
 ﻿metro_id,metro_name,member_name,member_jis,gadm_name,gid_2,type_2,match_method
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Tsuchiura-shi,08203,Tsuchiura,JPN.14.39_1,Shi,name_exact
 JPM01,Tokyo (Kanto MMA),Ibaraki-ken Koga-shi,08204,Koga,JPN.14.22_1,Shi,name_exact
 JPM01,Tokyo (Kanto MMA),Ibaraki-ken Ryugasaki-shi,08208,Ryūgasaki,JPN.14.30_1,Shi,name_exact
 JPM01,Tokyo (Kanto MMA),Ibaraki-ken Joso-shi,08211,Jōsō,JPN.14.15_1,Shi,name_exact

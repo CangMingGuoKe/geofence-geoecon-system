@@ -1,0 +1,366 @@
+﻿metro_id,metro_name,geo_level,oe_city_code,state_oe,source_issue,source_sheet,def_version,member_level,member_name,member_role,source_row
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra de Santo Antônio,member,48
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra de São Miguel,member,49
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Coqueiro Seco,member,50
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maceió,member,51
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Marechal Deodoro,member,52
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Messias,member,53
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paripueira,member,54
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pilar,member,55
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Largo,member,56
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Luzia do Norte,member,57
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Satuba,member,58
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Careiro da Várzea,member,59
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Iranduba,member,60
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itacoatiara,member,61
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Manacapuru,member,62
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Manaus,member,63
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Novo Airão,member,64
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Presidente Figueiredo,member,65
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Preto da Eva,member,66
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Camaçari,member,67
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Candeias,member,68
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Dias d'Ávila,member,69
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaparica,member,70
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lauro de Freitas,member,71
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Madre de Deus,member,72
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mata de São João,member,73
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pojuca,member,74
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Salvador,member,75
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Francisco do Conde,member,76
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Sebastião do Passé,member,77
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Simões Filho,member,78
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vera Cruz,member,79
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aquiraz,member,80
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cascavel,member,81
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caucaia,member,82
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Chorozinho,member,83
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Eusébio,member,84
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fortaleza,member,85
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guaiúba,member,86
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Horizonte,member,87
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaitinga,member,88
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maracanaú,member,89
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maranguape,member,90
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pacajus,member,91
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pacatuba,member,92
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pindoretama,member,93
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Gonçalo do Amarante,member,94
+BRM05,Brasília,Federal District,BRA7,DistritoFederal,,Latin America,Global_Cities_Definitions_Oct19,Federal District,Brasília,self,95
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Abadia de Goiás,member,96
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aparecida de Goiânia,member,97
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aragoiânia,member,98
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bela Vista de Goiás,member,99
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bonfinópolis,member,100
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Brazabrantes,member,101
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caldazinha,member,102
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caturaí,member,103
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Goianápolis,member,104
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Goiânia,member,105
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Goianira,member,106
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guapó,member,107
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Hidrolândia,member,108
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Inhumas,member,109
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nerópolis,member,110
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Veneza,member,111
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo Antônio de Goiás,member,112
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Senador Canedo,member,113
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Terezópolis de Goiás,member,114
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Trindade,member,115
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alcântara,member,116
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paço do Lumiar,member,117
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Raposa,member,118
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José de Ribamar,member,119
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Luís,member,120
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Adrianópolis,member,121
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Agudos do Sul,member,122
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Almirante Tamandaré,member,123
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araucária,member,124
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Balsa Nova,member,125
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bocaiúva do Sul,member,126
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campina Grande do Sul,member,127
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Largo,member,128
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Magro,member,129
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cerro Azul,member,130
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Colombo,member,131
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Contenda,member,132
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Curitiba,member,133
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Doutor Ulysses,member,134
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fazenda Rio Grande,member,135
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaperuçu,member,136
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lapa,member,137
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mandirituba,member,138
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pinhais,member,139
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Piraquara,member,140
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quatro Barras,member,141
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quitandinha,member,142
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Branco do Sul,member,143
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José dos Pinhais,member,144
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tijucas do Sul,member,145
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tunas do Paraná,member,146
+BRM09,Campo Grande,Municipality,BRAC1,MatoGrossodoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Grande,self,147
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Baldim,member,148
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barão de Cocais,member,149
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belo Horizonte,member,150
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belo Vale,member,151
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Betim,member,152
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bonfim,member,153
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Brumadinho,member,154
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caeté,member,155
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Capim Branco,member,156
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Confins,member,157
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Contagem,member,158
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Esmeraldas,member,159
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Florestal,member,160
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fortuna de Minas,member,161
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Funilândia,member,162
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ibirité,member,163
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Igarapé,member,164
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Inhaúma,member,165
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itabirito,member,166
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaguara,member,167
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itatiaiuçu,member,168
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaúna,member,169
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jaboticatubas,member,170
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Juatuba,member,171
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lagoa Santa,member,172
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mário Campos,member,173
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mateus Leme,member,174
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Matozinhos,member,175
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Moeda,member,176
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Lima,member,177
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova União,member,178
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pará de Minas,member,179
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pedro Leopoldo,member,180
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Prudente de Morais,member,181
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Raposos,member,182
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ribeirão das Neves,member,183
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Acima,member,184
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Manso,member,185
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sabará,member,186
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Bárbara,member,187
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Luzia,member,188
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Joaquim de Bicas,member,189
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José da Lapa,member,190
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José da Varginha,member,191
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sarzedo,member,192
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sete Lagoas,member,193
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Taquaraçu de Minas,member,194
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vespasiano,member,195
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ananindeua,member,196
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belém,member,197
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Benevides,member,198
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Marituba,member,199
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Bárbara do Pará,member,200
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Isabel do Pará,member,201
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alhandra,member,202
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bayeux,member,203
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caaporã,member,204
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cabedelo,member,205
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Conde,member,206
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cruz do Espírito Santo,member,207
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,João Pessoa,member,208
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lucena,member,209
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mamanguape,member,210
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pedras de Fogo,member,211
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pitimbu,member,212
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Tinto,member,213
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Rita,member,214
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Adrianópolis,member,215
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Agudos do Sul,member,216
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Almirante Tamandaré,member,217
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araucária,member,218
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Balsa Nova,member,219
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bocaiúva do Sul,member,220
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campina Grande do Sul,member,221
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Largo,member,222
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Magro,member,223
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cerro Azul,member,224
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Colombo,member,225
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Contenda,member,226
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Curitiba,member,227
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Doutor Ulysses,member,228
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fazenda Rio Grande,member,229
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaperuçu,member,230
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lapa,member,231
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mandirituba,member,232
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pinhais,member,233
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Piraquara,member,234
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quatro Barras,member,235
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quitandinha,member,236
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Branco do Sul,member,237
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José dos Pinhais,member,238
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tijucas do Sul,member,239
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tunas do Paraná,member,240
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Abreu e Lima,member,241
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araçoiaba,member,242
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cabo de Santo Agostinho,member,243
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Camaragibe,member,244
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Igarassu,member,245
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ilha de Itamaracá,member,246
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ipojuca,member,247
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapissuma,member,248
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jaboatão dos Guararapes,member,249
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Moreno,member,250
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Olinda,member,251
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paulista,member,252
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Recife,member,253
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Lourenço da Mata,member,254
+BRM15,Teresina,Municipality,BRAI1,Piauí,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Teresina,self,255
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belford Roxo,member,256
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Duque de Caxias,member,257
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guapimirim,member,258
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaboraí,member,259
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaguaí,member,260
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Japeri,member,261
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Magé,member,262
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maricá,member,263
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mesquita,member,264
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nilópolis,member,265
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Niterói,member,266
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Iguaçu,member,267
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paracambi,member,268
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Queimados,member,269
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio de Janeiro,member,270
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Gonçalo,member,271
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São João de Meriti,member,272
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Seropédica,member,273
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tanguá,member,274
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ceará-Mirim,member,275
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Extremoz,member,276
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Macaíba,member,277
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Monte Alegre,member,278
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Natal,member,279
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nísia Floresta,member,280
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Parnamirim,member,281
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Gonçalo do Amarante,member,282
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José de Mipibu,member,283
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vera Cruz,member,284
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alvorada,member,285
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araricá,member,286
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Arroio dos Ratos,member,287
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cachoeirinha,member,288
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Bom,member,289
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Canoas,member,290
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Capela de Santana,member,291
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Charqueadas,member,292
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Dois Irmãos,member,293
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Eldorado do Sul,member,294
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Estância Velha,member,295
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Esteio,member,296
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Glorinha,member,297
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Gravataí,member,298
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guaíba,member,299
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ivoti,member,300
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Montenegro,member,301
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Hartz,member,302
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Santa Rita,member,303
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Novo Hamburgo,member,304
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Parobé,member,305
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Portão,member,306
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Porto Alegre,member,307
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo Antônio da Patrulha,member,308
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Jerônimo,member,309
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Leopoldo,member,310
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sapiranga,member,311
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sapucaia do Sul,member,312
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Taquara,member,313
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Triunfo,member,314
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Viamão,member,315
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Águas Mornas,member,316
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alfredo Wagner,member,317
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Angelina,member,318
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Anitápolis,member,319
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Antônio Carlos,member,320
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Biguaçu,member,321
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Canelinha,member,322
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Florianópolis,member,323
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Garopaba,member,324
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Governador Celso Ramos,member,325
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Leoberto Leal,member,326
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Major Gercino,member,327
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Trento,member,328
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Palhoça,member,329
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paulo Lopes,member,330
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rancho Queimado,member,331
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo Amaro da Imperatriz,member,332
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Bonifácio,member,333
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São João Batista,member,334
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José,member,335
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Pedro de Alcântara,member,336
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tijucas,member,337
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araquari,member,338
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Balneário Barra do Sul,member,339
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra Velha,member,340
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Alegre,member,341
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Corupá,member,342
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Garuva,member,343
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guaramirim,member,344
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaiópolis,member,345
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapoá,member,346
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jaraguá do Sul,member,347
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Joinville,member,348
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mafra,member,349
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Massaranduba,member,350
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Monte Castelo,member,351
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Papanduva,member,352
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Negrinho,member,353
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Bento do Sul,member,354
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Francisco do Sul,member,355
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São João do Itaperiú,member,356
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Schroeder,member,357
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bertioga,member,358
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cubatão,member,359
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guarujá,member,360
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itanhaém,member,361
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mongaguá,member,362
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Peruíbe,member,363
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Praia Grande,member,364
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santos,member,365
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Vicente,member,366
+BRM22,Ribeirao Prêto,Municipality,BRAP3,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ribeirao Prêto,self,367
+BRM23,Sao José dos Campos,Municipality,BRAP4,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sao José dos Campos,self,368
+BRM24,Sorocaba,Municipality,BRAP5,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sorocaba,self,369
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Arujá,member,370
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barueri,member,371
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Biritiba-Mirim,member,372
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caieiras,member,373
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cajamar,member,374
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Carapicuíba,member,375
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cotia,member,376
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Diadema,member,377
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Embu,member,378
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Embu-Guaçu,member,379
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ferraz de Vasconcelos,member,380
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Francisco Morato,member,381
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Franco da Rocha,member,382
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guararema,member,383
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guarulhos,member,384
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapecerica da Serra,member,385
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapevi,member,386
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaquaquecetuba,member,387
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jandira,member,388
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Juquitiba,member,389
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mairiporã,member,390
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mauá,member,391
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mogi das Cruzes,member,392
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Osasco,member,393
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pirapora do Bom Jesus,member,394
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Poá,member,395
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ribeirão Pires,member,396
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Grande da Serra,member,397
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Salesópolis,member,398
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Isabel,member,399
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santana de Parnaíba,member,400
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo André,member,401
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Bernardo do Campo,member,402
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Caetano do Sul,member,403
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Lourenço da Serra,member,404
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Paulo,member,405
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Suzano,member,406
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Taboão da Serra,member,407
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vargem Grande Paulista,member,408
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aracaju,member,409
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra dos Coqueiros,member,410
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nossa Senhora do Socorro,member,411
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Cristóvão,member,412

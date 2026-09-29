@@ -1,0 +1,366 @@
+﻿metro_id,metro_name,geo_level,oe_city_code,state_oe,source_issue,source_sheet,def_version,member_level,member_name,member_role,source_row,gid_2,gadm_name,type_2,cc_2,match_method,confidence
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra de Santo Antônio,member,48,BRA.2.5_2,BarradeSantoAntônio,Município,2700508,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra de São Miguel,member,49,BRA.2.6_2,BarradeSãoMiguel,Município,2700607,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Coqueiro Seco,member,50,BRA.2.23_2,CoqueiroSeco,Município,2702207,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maceió,member,51,BRA.2.47_2,Maceió,Município,2704302,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Marechal Deodoro,member,52,BRA.2.52_2,MarechalDeodoro,Município,2704708,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Messias,member,53,BRA.2.56_2,Messias,Município,2705200,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paripueira,member,54,BRA.2.70_2,Paripueira,Município,2706448,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pilar,member,55,BRA.2.75_2,Pilar,Município,2706901,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Largo,member,56,BRA.2.83_2,RioLargo,Município,2707701,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Luzia do Norte,member,57,BRA.2.85_2,SantaLuziadoNorte,Município,2707909,name_exact,high
+BRM01,Maceió RM,Metropolitan Area,BRA21,Alagoas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Satuba,member,58,BRA.2.95_2,Satuba,Município,2708907,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Careiro da Várzea,member,59,BRA.4.19_2,CareirodaVárzea,Município,1301159,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Iranduba,member,60,BRA.4.28_2,Iranduba,Município,1301852,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itacoatiara,member,61,BRA.4.29_2,Itacoatiara,Município,1301902,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Manacapuru,member,62,BRA.4.36_2,Manacapuru,Município,1302504,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Manaus,member,63,BRA.4.38_2,Manaus,Município,1302603,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Novo Airão,member,64,BRA.4.44_2,NovoAirão,Município,1303205,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Presidente Figueiredo,member,65,BRA.4.48_2,PresidenteFigueiredo,Município,1303536,name_exact,high
+BRM02,Manaus RM,Metropolitan Area,BRA41,Amazonas,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Preto da Eva,member,66,BRA.4.49_2,RioPretodaEva,Município,1303569,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Camaçari,member,67,BRA.5.70_2,Camaçari,Município,2905701,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Candeias,member,68,BRA.5.78_2,Candeias,Município,2906501,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Dias d'Ávila,member,69,BRA.5.119_2,Diasd'Ávila,Município,2910057,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaparica,member,70,BRA.5.191_2,Itaparica,Município,2916104,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lauro de Freitas,member,71,BRA.5.231_2,LaurodeFreitas,Município,2919207,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Madre de Deus,member,72,BRA.5.240_2,MadredeDeus,Município,2919926,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mata de São João,member,73,BRA.5.253_2,MatadeSãoJoão,Município,2921005,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pojuca,member,74,BRA.5.309_2,Pojuca,Município,2925204,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Salvador,member,75,BRA.5.336_2,Salvador,Município,2927408,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Francisco do Conde,member,76,BRA.5.357_2,SãoFranciscodoConde,Município,2929206,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Sebastião do Passé,member,77,BRA.5.363_2,SãoSebastiãodoPassé,Município,2929503,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Simões Filho,member,78,BRA.5.377_2,SimõesFilho,Município,2930709,name_exact,high
+BRM03,Salvador RM,Metropolitan Area,BRA55,Bahia,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vera Cruz,member,79,BRA.5.411_2,VeraCruz,Município,2933208,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aquiraz,member,80,BRA.6.12_2,Aquiraz,Município,2301000,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cascavel,member,81,BRA.6.41_2,Cascavel,Município,2303501,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caucaia,member,82,BRA.6.44_2,Caucaia,Município,2303709,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Chorozinho,member,83,BRA.6.48_2,Chorozinho,Município,2303956,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Eusébio,member,84,BRA.6.56_2,Eusébio,Município,2304285,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fortaleza,member,85,BRA.6.59_2,Fortaleza,Município,2304400,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guaiúba,member,86,BRA.6.67_2,Guaiúba,Município,2304954,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Horizonte,member,87,BRA.6.71_2,Horizonte,Município,2305233,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaitinga,member,88,BRA.6.86_2,Itaitinga,Município,2306256,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maracanaú,member,89,BRA.6.104_2,Maracanaú,Município,2307650,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maranguape,member,90,BRA.6.105_2,Maranguape,Município,2307700,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pacajus,member,91,BRA.6.127_2,Pacajus,Município,2309607,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pacatuba,member,92,BRA.6.128_2,Pacatuba,Município,2309706,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pindoretama,member,93,BRA.6.141_2,Pindoretama,Município,2310852,name_exact,high
+BRM04,Fortaleza RM,Metropolitan Area,BRA63,Ceará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Gonçalo do Amarante,member,94,BRA.6.162_2,SãoGonçalodoAmarante,Município,2312403,name_exact,high
+BRM05,Brasília,Federal District,BRA7,DistritoFederal,,Latin America,Global_Cities_Definitions_Oct19,Federal District,Brasília,self,95,BRA.7.1_2,Brasília,Município,5300108,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Abadia de Goiás,member,96,BRA.9.1_2,AbadiadeGoiás,Município,5200050,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aparecida de Goiânia,member,97,BRA.9.19_2,AparecidadeGoiânia,Município,5201405,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aragoiânia,member,98,BRA.9.24_2,Aragoiânia,Município,5201801,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bela Vista de Goiás,member,99,BRA.9.32_2,BelaVistadeGoiás,Município,5203302,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bonfinópolis,member,100,BRA.9.35_2,Bonfinópolis,Município,5203559,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Brazabrantes,member,101,BRA.9.37_2,Brazabrantes,Município,5203609,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caldazinha,member,102,BRA.9.49_2,Caldazinha,Município,5204557,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caturaí,member,103,BRA.9.60_2,Caturaí,Município,5205208,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Goianápolis,member,104,BRA.9.92_2,Goianápolis,Município,5208400,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Goiânia,member,105,BRA.9.95_2,Goiânia,Município,5208707,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Goianira,member,106,BRA.9.96_2,Goianira,Município,5208806,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guapó,member,107,BRA.9.100_2,Guapó,Município,5209200,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Hidrolândia,member,108,BRA.9.105_2,Hidrolândia,Município,5209705,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Inhumas,member,109,BRA.9.110_2,Inhumas,Município,5210000,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nerópolis,member,110,BRA.9.157_2,Nerópolis,Município,5214507,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Veneza,member,111,BRA.9.165_2,NovaVeneza,Município,5215009,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo Antônio de Goiás,member,112,BRA.9.212_2,SantoAntôniodeGoiás,Município,5219738,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Senador Canedo,member,113,BRA.9.224_2,SenadorCanedo,Município,5220454,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Terezópolis de Goiás,member,114,BRA.9.231_2,TerezópolisdeGoiás,Município,5221197,name_exact,high
+BRM06,Goiânia RM,Metropolitan Area,BRA91,Goiás,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Trindade,member,115,BRA.9.233_2,Trindade,Município,5221403,name_exact,high
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alcântara,member,116,BRA.10.4_2,Alcântara,Município,2100204,name_exact,high
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paço do Lumiar,member,117,BRA.10.130_2,PaçodoLumiar,Município,2107506,name_exact,high
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Raposa,member,118,BRA.10.156_2,Raposa,Município,2109452,name_exact,high
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José de Ribamar,member,119,BRA.10.184_2,SãoJosédeRibamar,Município,2111201,name_exact,high
+BRM07,Grande São Luís RM,Metropolitan Area,BRAA1,Maranhão,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Luís,member,120,BRA.10.186_2,SãoLuís,Município,2111300,name_exact,high
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Adrianópolis,member,121,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Agudos do Sul,member,122,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Almirante Tamandaré,member,123,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araucária,member,124,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Balsa Nova,member,125,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bocaiúva do Sul,member,126,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campina Grande do Sul,member,127,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Largo,member,128,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Magro,member,129,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cerro Azul,member,130,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Colombo,member,131,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Contenda,member,132,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Curitiba,member,133,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Doutor Ulysses,member,134,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fazenda Rio Grande,member,135,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaperuçu,member,136,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lapa,member,137,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mandirituba,member,138,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pinhais,member,139,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Piraquara,member,140,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quatro Barras,member,141,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quitandinha,member,142,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Branco do Sul,member,143,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José dos Pinhais,member,144,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tijucas do Sul,member,145,,,,,excluded_source_issue,
+BRM08,Cuiabá RM,Metropolitan Area,BRAB1,MatoGrosso,源表错标：成员名单与 Curitiba RM 完全相同且全在 Paraná 州，本层剔除,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tunas do Paraná,member,146,,,,,excluded_source_issue,
+BRM09,Campo Grande,Municipality,BRAC1,MatoGrossodoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Grande,self,147,BRA.11.20_2,CampoGrande,Município,5002704,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Baldim,member,148,BRA.13.55_2,Baldim,Município,3105004,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barão de Cocais,member,149,BRA.13.59_2,BarãodeCocais,Município,3105400,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belo Horizonte,member,150,BRA.13.66_2,BeloHorizonte,Município,3106200,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belo Vale,member,151,BRA.13.68_2,BeloVale,Município,3106408,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Betim,member,152,BRA.13.72_2,Betim,Município,3106705,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bonfim,member,153,BRA.13.86_2,Bonfim,Município,3108107,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Brumadinho,member,154,BRA.13.97_2,Brumadinho,Município,3109006,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caeté,member,155,BRA.13.110_2,Caeté,Município,3110004,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Capim Branco,member,156,BRA.13.137_2,CapimBranco,Município,3112505,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Confins,member,157,BRA.13.198_2,Confins,Município,3117876,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Contagem,member,158,BRA.13.206_2,Contagem,Município,3118601,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Esmeraldas,member,159,BRA.13.271_2,Esmeraldas,Município,3124104,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Florestal,member,160,BRA.13.290_2,Florestal,Município,3126000,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fortuna de Minas,member,161,BRA.13.294_2,FortunadeMinas,Município,3126406,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Funilândia,member,162,BRA.13.306_2,Funilândia,Município,3127206,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ibirité,member,163,BRA.13.338_2,Ibirité,Município,3129806,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Igarapé,member,164,BRA.13.342_2,Igarapé,Município,3130101,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Inhaúma,member,165,BRA.13.353_2,Inhaúma,Município,3131000,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itabirito,member,166,BRA.13.363_2,Itabirito,Município,3131901,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaguara,member,167,BRA.13.366_2,Itaguara,Município,3132206,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itatiaiuçu,member,168,BRA.13.381_2,Itatiaiuçu,Município,3133709,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaúna,member,169,BRA.13.383_2,Itaúna,Município,3133808,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jaboticatubas,member,170,BRA.13.391_2,Jaboticatubas,Município,3134608,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Juatuba,member,171,BRA.13.418_2,Juatuba,Município,3136652,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lagoa Santa,member,172,BRA.13.430_2,LagoaSanta,Município,3137601,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mário Campos,member,173,BRA.13.462_2,MárioCampos,Município,3140159,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mateus Leme,member,174,BRA.13.470_2,MateusLeme,Município,3140704,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Matozinhos,member,175,BRA.13.476_2,Matozinhos,Município,3141108,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Moeda,member,176,BRA.13.489_2,Moeda,Município,3142304,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Lima,member,177,BRA.13.520_2,NovaLima,Município,3144805,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova União,member,178,BRA.13.526_2,NovaUnião,Município,3136603,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pará de Minas,member,179,BRA.13.551_2,ParádeMinas,Município,3147105,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pedro Leopoldo,member,180,BRA.13.577_2,PedroLeopoldo,Município,3149309,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Prudente de Morais,member,181,BRA.13.625_2,PrudentedeMorais,Município,3153608,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Raposos,member,182,BRA.13.628_2,Raposos,Município,3153905,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ribeirão das Neves,member,183,BRA.13.637_2,RibeirãodasNeves,Município,3154606,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Acima,member,184,BRA.13.639_2,RioAcima,Município,3154804,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Manso,member,185,BRA.13.644_2,RioManso,Município,3155306,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sabará,member,186,BRA.13.659_2,Sabará,Município,3156700,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Bárbara,member,187,BRA.13.664_2,SantaBárbara,Município,3157203,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Luzia,member,188,BRA.13.675_2,SantaLuzia,Município,3157807,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Joaquim de Bicas,member,189,BRA.13.739_2,SãoJoaquimdeBicas,Município,3162922,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José da Lapa,member,190,BRA.13.741_2,SãoJosédaLapa,Município,3162955,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José da Varginha,member,191,BRA.13.743_2,SãoJosédaVarginha,Município,3163102,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sarzedo,member,192,BRA.13.770_2,Sarzedo,Município,3165537,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sete Lagoas,member,193,BRA.13.790_2,SeteLagoas,Município,3167202,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Taquaraçu de Minas,member,194,BRA.13.803_2,TaquaraçudeMinas,Município,3168309,name_exact,high
+BRM10,Belo Horizonte RM,Metropolitan Area,BRAD7,MinasGerais,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vespasiano,member,195,BRA.13.844_2,Vespasiano,Município,3171204,name_exact,high
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ananindeua,member,196,BRA.14.10_2,Ananindeua,Município,1500800,name_exact,high
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belém,member,197,BRA.14.19_2,Belém,Município,1501402,name_exact,high
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Benevides,member,198,BRA.14.21_2,Benevides,Município,1501501,name_exact,high
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Marituba,member,199,BRA.14.69_2,Marituba,Município,1504422,name_exact,high
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Bárbara do Pará,member,200,BRA.14.107_2,SantaBárbaradoPará,Município,1506351,name_exact,high
+BRM11,Belém RM,Metropolitan Area,BRAE3,Pará,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Isabel do Pará,member,201,BRA.14.109_2,SantaIzabeldoPará,Município,1506500,name_fuzzy,medium
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alhandra,member,202,BRA.15.8_2,Alhandra,Município,2500601,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bayeux,member,203,BRA.15.25_2,Bayeux,Município,2501807,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caaporã,member,204,BRA.15.38_2,Caaporã,Município,2503001,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cabedelo,member,205,BRA.15.40_2,Cabedelo,Município,2503209,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Conde,member,206,BRA.15.60_2,Conde,Município,2504603,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cruz do Espírito Santo,member,207,BRA.15.64_2,CruzdoEspíritoSanto,Município,2504900,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,João Pessoa,member,208,BRA.15.94_2,JoãoPessoa,Município,2507507,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lucena,member,209,BRA.15.107_2,Lucena,Município,2508604,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mamanguape,member,210,BRA.15.110_2,Mamanguape,Município,2508901,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pedras de Fogo,member,211,BRA.15.139_2,PedrasdeFogo,Município,2511202,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pitimbu,member,212,BRA.15.147_2,Pitimbu,Município,2511905,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Tinto,member,213,BRA.15.163_2,RioTinto,Município,2512903,name_exact,high
+BRM12,João Pessoa RM,Metropolitan Area,BRAF2,Paraíba,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Rita,member,214,BRA.15.171_2,SantaRita,Município,2513703,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Adrianópolis,member,215,BRA.16.2_2,Adrianópolis,Município,4100202,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Agudos do Sul,member,216,BRA.16.3_2,AgudosdoSul,Município,4100301,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Almirante Tamandaré,member,217,BRA.16.4_2,AlmiranteTamandaré,Município,4100400,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araucária,member,218,BRA.16.23_2,Araucária,Município,4101804,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Balsa Nova,member,219,BRA.16.29_2,BalsaNova,Município,4102307,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bocaiúva do Sul,member,220,BRA.16.41_2,BocaiúvadoSul,Município,4103107,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campina Grande do Sul,member,221,BRA.16.57_2,CampinaGrandedoSul,Município,4104006,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Largo,member,222,BRA.16.60_2,CampoLargo,Município,4104204,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Magro,member,223,BRA.16.61_2,CampoMagro,Município,4104253,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cerro Azul,member,224,BRA.16.74_2,CerroAzul,Município,4105201,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Colombo,member,225,BRA.16.80_2,Colombo,Município,4105805,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Contenda,member,226,BRA.16.84_2,Contenda,Município,4106209,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Curitiba,member,227,BRA.16.95_2,Curitiba,Município,4106902,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Doutor Ulysses,member,228,BRA.16.103_2,DoutorUlysses,Município,4128633,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Fazenda Rio Grande,member,229,BRA.16.111_2,FazendaRioGrande,Município,4107652,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaperuçu,member,230,BRA.16.162_2,Itaperuçu,Município,4111258,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Lapa,member,231,BRA.16.185_2,Lapa,Município,4113205,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mandirituba,member,232,BRA.16.201_2,Mandirituba,Município,4114302,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pinhais,member,233,BRA.16.267_2,Pinhais,Município,4119152,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Piraquara,member,234,BRA.16.272_2,Piraquara,Município,4119509,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quatro Barras,member,235,BRA.16.291_2,QuatroBarras,Município,4120804,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Quitandinha,member,236,BRA.16.296_2,Quitandinha,Município,4121208,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Branco do Sul,member,237,BRA.16.311_2,RioBrancodoSul,Município,4122206,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José dos Pinhais,member,238,BRA.16.352_2,SãoJosédosPinhais,Município,4125506,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tijucas do Sul,member,239,BRA.16.380_2,TijucasdoSul,Município,4127601,name_exact,high
+BRM13,Curitiba RM,Metropolitan Area,BRAGA,Paraná,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tunas do Paraná,member,240,BRA.16.384_2,TunasdoParaná,Município,4127882,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Abreu e Lima,member,241,BRA.17.1_2,AbreueLima,Município,2600054,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araçoiaba,member,242,BRA.17.12_2,Araçoiaba,Município,2601052,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cabo de Santo Agostinho,member,243,BRA.17.31_2,CabodeSantoAgostinho,Município,2602902,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Camaragibe,member,244,BRA.17.37_2,Camaragibe,Município,2603454,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Igarassu,member,245,BRA.17.75_2,Igarassu,Município,2606804,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ilha de Itamaracá,member,246,BRA.17.77_2,IlhadeItamaracá,Município,2607604,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ipojuca,member,247,BRA.17.80_2,Ipojuca,Município,2607208,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapissuma,member,248,BRA.17.86_2,Itapissuma,Município,2607752,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jaboatão dos Guararapes,member,249,BRA.17.88_2,JaboatãodosGuararapes,Município,2607901,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Moreno,member,250,BRA.17.110_2,Moreno,Município,2609402,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Olinda,member,251,BRA.17.112_2,Olinda,Município,2609600,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paulista,member,252,BRA.17.123_2,Paulista,Município,2610707,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Recife,member,253,BRA.17.133_2,Recife,Município,2611606,name_exact,high
+BRM14,Recife RM,Metropolitan Area,BRAH5,Pernambuco,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Lourenço da Mata,member,254,BRA.17.157_2,SãoLourençodaMata,Município,2613701,name_exact,high
+BRM15,Teresina,Municipality,BRAI1,Piauí,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Teresina,self,255,BRA.18.216_2,Teresina,Município,2211001,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Belford Roxo,member,256,BRA.19.9_2,BelfordRoxo,Município,3300456,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Duque de Caxias,member,257,BRA.19.25_2,DuquedeCaxias,Município,3301702,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guapimirim,member,258,BRA.19.27_2,Guapimirim,Município,3301850,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaboraí,member,259,BRA.19.29_2,Itaboraí,Município,3301900,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaguaí,member,260,BRA.19.30_2,Itaguaí,Município,3302007,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Japeri,member,261,BRA.19.35_2,Japeri,Município,3302270,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Magé,member,262,BRA.19.39_2,Magé,Município,3302502,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Maricá,member,263,BRA.19.41_2,Maricá,Município,3302700,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mesquita,member,264,BRA.19.43_2,Mesquita,Município,3302858,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nilópolis,member,265,BRA.19.47_2,Nilópolis,Município,3303203,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Niterói,member,266,BRA.19.48_2,Niterói,Município,3303302,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Iguaçu,member,267,BRA.19.50_2,NovaIguaçu,Município,3303500,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paracambi,member,268,BRA.19.51_2,Paracambi,Município,3303609,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Queimados,member,269,BRA.19.61_2,Queimados,Município,3304144,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio de Janeiro,member,270,BRA.19.68_2,RiodeJaneiro,Município,3304557,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Gonçalo,member,271,BRA.19.73_2,SãoGonçalo,Município,3304904,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São João de Meriti,member,272,BRA.19.75_2,SãoJoãodeMeriti,Município,3305109,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Seropédica,member,273,BRA.19.82_2,Seropédica,Município,3305554,name_exact,high
+BRM16,Rio De Janeiro RM,Metropolitan Area,BRAJ6,RiodeJaneiro,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tanguá,member,274,BRA.19.85_2,Tanguá,Município,3305752,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ceará-Mirim,member,275,BRA.20.29_2,Ceará-Mirim,Município,2402600,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Extremoz,member,276,BRA.20.39_2,Extremoz,Município,2403608,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Macaíba,member,277,BRA.20.77_2,Macaíba,Município,2407104,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Monte Alegre,member,278,BRA.20.85_2,MonteAlegre,Município,2407807,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Natal,member,279,BRA.20.88_2,Natal,Município,2408102,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nísia Floresta,member,280,BRA.20.89_2,NísiaFloresta,Município,2408201,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Parnamirim,member,281,BRA.20.97_2,Parnamirim,Município,2403251,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Gonçalo do Amarante,member,282,BRA.20.129_2,SãoGonçalodoAmarante,Município,2412005,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José de Mipibu,member,283,BRA.20.131_2,SãoJosédeMipibu,Município,2412203,name_exact,high
+BRM17,Natal RM,Metropolitan Area,BRAK1,RioGrandedoNorte,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vera Cruz,member,284,BRA.20.165_2,VeraCruz,Município,2414803,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alvorada,member,285,BRA.21.12_2,Alvorada,Município,4300604,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araricá,member,286,BRA.21.19_2,Araricá,Município,4300877,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Arroio dos Ratos,member,287,BRA.21.25_2,ArroiodosRatos,Município,4301107,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cachoeirinha,member,288,BRA.21.62_2,Cachoeirinha,Município,4303103,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Bom,member,289,BRA.21.72_2,CampoBom,Município,4303905,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Canoas,member,290,BRA.21.80_2,Canoas,Município,4304606,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Capela de Santana,member,291,BRA.21.86_2,CapeladeSantana,Município,4304689,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Charqueadas,member,292,BRA.21.104_2,Charqueadas,Município,4305355,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Dois Irmãos,member,293,BRA.21.132_2,DoisIrmãos,Município,4306403,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Eldorado do Sul,member,294,BRA.21.141_2,EldoradodoSul,Município,4306767,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Estância Velha,member,295,BRA.21.156_2,EstânciaVelha,Município,4307609,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Esteio,member,296,BRA.21.157_2,Esteio,Município,4307708,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Glorinha,member,297,BRA.21.181_2,Glorinha,Município,4309050,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Gravataí,member,298,BRA.21.185_2,Gravataí,Município,4309209,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guaíba,member,299,BRA.21.187_2,Guaíba,Município,4309308,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ivoti,member,300,BRA.21.218_2,Ivoti,Município,4310801,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Montenegro,member,301,BRA.21.261_2,Montenegro,Município,4312401,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Hartz,member,302,BRA.21.280_2,NovaHartz,Município,4313060,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Santa Rita,member,303,BRA.21.287_2,NovaSantaRita,Município,4313375,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Novo Hamburgo,member,304,BRA.21.290_2,NovoHamburgo,Município,4313409,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Parobé,member,305,BRA.21.304_2,Parobé,Município,4314050,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Portão,member,306,BRA.21.327_2,Portão,Município,4314803,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Porto Alegre,member,307,BRA.21.328_2,PortoAlegre,Município,4314902,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo Antônio da Patrulha,member,308,BRA.21.377_2,SantoAntôniodaPatrulha,Município,4317608,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Jerônimo,member,309,BRA.21.389_2,SãoJerônimo,Município,4318408,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Leopoldo,member,310,BRA.21.401_2,SãoLeopoldo,Município,4318705,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sapiranga,member,311,BRA.21.421_2,Sapiranga,Município,4319901,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sapucaia do Sul,member,312,BRA.21.422_2,SapucaiadoSul,Município,4320008,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Taquara,member,313,BRA.21.444_2,Taquara,Município,4321204,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Triunfo,member,314,BRA.21.465_2,Triunfo,Município,4322004,name_exact,high
+BRM18,Pôrto Alegre RM,Metropolitan Area,BRAL5,RioGrandedoSul,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Viamão,member,315,BRA.21.487_2,Viamão,Município,4323002,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Águas Mornas,member,316,BRA.24.8_2,ÁguasMornas,Município,4200606,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Alfredo Wagner,member,317,BRA.24.9_2,AlfredoWagner,Município,4200705,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Angelina,member,318,BRA.24.12_2,Angelina,Município,4200903,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Anitápolis,member,319,BRA.24.14_2,Anitápolis,Município,4201109,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Antônio Carlos,member,320,BRA.24.15_2,AntônioCarlos,Município,4201208,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Biguaçu,member,321,BRA.24.38_2,Biguaçu,Município,4202305,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Canelinha,member,322,BRA.24.59_2,Canelinha,Município,4203709,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Florianópolis,member,323,BRA.24.90_2,Florianópolis,Município,4205407,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Garopaba,member,324,BRA.24.96_2,Garopaba,Município,4205704,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Governador Celso Ramos,member,325,BRA.24.99_2,GovernadorCelsoRamos,Município,4206009,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Leoberto Leal,member,326,BRA.24.149_2,LeobertoLeal,Município,4209805,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Major Gercino,member,327,BRA.24.156_2,MajorGercino,Município,4210209,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nova Trento,member,328,BRA.24.174_2,NovaTrento,Município,4211504,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Palhoça,member,329,BRA.24.183_2,Palhoça,Município,4211900,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Paulo Lopes,member,330,BRA.24.191_2,PauloLopes,Município,4212304,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rancho Queimado,member,331,BRA.24.214_2,RanchoQueimado,Município,4214300,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo Amaro da Imperatriz,member,332,BRA.24.237_2,SantoAmarodaImperatriz,Município,4215703,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Bonifácio,member,333,BRA.24.240_2,SãoBonifácio,Município,4215901,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São João Batista,member,334,BRA.24.245_2,SãoJoãoBatista,Município,4216305,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São José,member,335,BRA.24.250_2,SãoJosé,Município,4216602,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Pedro de Alcântara,member,336,BRA.24.258_2,SãoPedrodeAlcântara,Município,4217253,name_exact,high
+BRM19,Florianópolis RM,Metropolitan Area,BRAO1,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Tijucas,member,337,BRA.24.269_2,Tijucas,Município,4218004,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Araquari,member,338,BRA.24.18_2,Araquari,Município,4201307,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Balneário Barra do Sul,member,339,BRA.24.27_2,BalneárioBarradoSul,Município,4202057,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra Velha,member,340,BRA.24.34_2,BarraVelha,Município,4202107,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Campo Alegre,member,341,BRA.24.55_2,CampoAlegre,Município,4203303,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Corupá,member,342,BRA.24.76_2,Corupá,Município,4204509,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Garuva,member,343,BRA.24.97_2,Garuva,Município,4205803,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guaramirim,member,344,BRA.24.104_2,Guaramirim,Município,4206504,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaiópolis,member,345,BRA.24.127_2,Itaiópolis,Município,4208104,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapoá,member,346,BRA.24.131_2,Itapoá,Município,4208450,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jaraguá do Sul,member,347,BRA.24.136_2,JaraguádoSul,Município,4208906,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Joinville,member,348,BRA.24.139_2,Joinville,Município,4209102,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mafra,member,349,BRA.24.155_2,Mafra,Município,4210100,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Massaranduba,member,350,BRA.24.161_2,Massaranduba,Município,4210605,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Monte Castelo,member,351,BRA.24.168_2,MonteCastelo,Município,4211108,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Papanduva,member,352,BRA.24.187_2,Papanduva,Município,4212205,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Negrinho,member,353,BRA.24.221_2,RioNegrinho,Município,4215000,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Bento do Sul,member,354,BRA.24.238_2,SãoBentodoSul,Município,4215802,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Francisco do Sul,member,355,BRA.24.244_2,SãoFranciscodoSul,Município,4216206,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São João do Itaperiú,member,356,BRA.24.246_2,SãoJoãodoItaperiú,Município,4216354,name_exact,high
+BRM20,Norte/Nordeste Catarinense RM,Metropolitan Area,BRAO2,SantaCatarina,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Schroeder,member,357,BRA.24.260_2,Schroeder,Município,4217402,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Bertioga,member,358,BRA.25.72_2,Bertioga,Município,3506359,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cubatão,member,359,BRA.25.151_2,Cubatão,Município,3513504,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guarujá,member,360,BRA.25.214_2,Guarujá,Município,3518701,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itanhaém,member,361,BRA.25.255_2,Itanhaém,Município,3522109,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mongaguá,member,362,BRA.25.351_2,Mongaguá,Município,3531100,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Peruíbe,member,363,BRA.25.426_2,Peruíbe,Município,3537602,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Praia Grande,member,364,BRA.25.462_2,PraiaGrande,Município,3541000,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santos,member,365,BRA.25.545_2,Santos,Município,3548500,name_exact,high
+BRM21,Baixada Santista RM,Metropolitan Area,BRAP1,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Vicente,member,366,BRA.25.572_2,SãoVicente,Município,3551009,name_exact,high
+BRM22,Ribeirao Prêto,Municipality,BRAP3,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ribeirao Prêto,self,367,BRA.25.490_2,RibeirãoPreto,Município,3543402,name_exact,high
+BRM23,Sao José dos Campos,Municipality,BRAP4,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sao José dos Campos,self,368,BRA.25.560_2,SãoJosédosCampos,Município,3549904,name_exact,high
+BRM24,Sorocaba,Municipality,BRAP5,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Sorocaba,self,369,BRA.25.584_2,Sorocaba,Município,3552205,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Arujá,member,370,BRA.25.45_2,Arujá,Município,3503901,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barueri,member,371,BRA.25.65_2,Barueri,Município,3505708,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Biritiba-Mirim,member,372,BRA.25.75_2,BiritibaMirim,Município,3506607,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Caieiras,member,373,BRA.25.102_2,Caieiras,Município,3509007,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cajamar,member,374,BRA.25.104_2,Cajamar,Município,3509205,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Carapicuíba,member,375,BRA.25.122_2,Carapicuíba,Município,3510609,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Cotia,member,376,BRA.25.146_2,Cotia,Município,3513009,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Diadema,member,377,BRA.25.154_2,Diadema,Município,3513801,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Embu,member,378,,,,,missing,
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Embu-Guaçu,member,379,BRA.25.169_2,Embu-Guaçu,Município,3515103,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ferraz de Vasconcelos,member,380,BRA.25.183_2,FerrazdeVasconcelos,Município,3515707,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Francisco Morato,member,381,BRA.25.189_2,FranciscoMorato,Município,3516309,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Franco da Rocha,member,382,BRA.25.190_2,FrancodaRocha,Município,3516408,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guararema,member,383,BRA.25.210_2,Guararema,Município,3518305,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Guarulhos,member,384,BRA.25.215_2,Guarulhos,Município,3518800,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapecerica da Serra,member,385,BRA.25.257_2,ItapecericadaSerra,Município,3522208,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itapevi,member,386,BRA.25.260_2,Itapevi,Município,3522505,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Itaquaquecetuba,member,387,BRA.25.267_2,Itaquaquecetuba,Município,3523107,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Jandira,member,388,BRA.25.286_2,Jandira,Município,3525003,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Juquitiba,member,389,BRA.25.299_2,Juquitiba,Município,3526209,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mairiporã,member,390,BRA.25.323_2,Mairiporã,Município,3528502,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mauá,member,391,BRA.25.333_2,Mauá,Município,3529401,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Mogi das Cruzes,member,392,BRA.25.346_2,MogidasCruzes,Município,3530607,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Osasco,member,393,BRA.25.390_2,Osasco,Município,3534401,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Pirapora do Bom Jesus,member,394,BRA.25.440_2,PiraporadoBomJesus,Município,3539103,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Poá,member,395,BRA.25.447_2,Poá,Município,3539806,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Ribeirão Pires,member,396,BRA.25.489_2,RibeirãoPires,Município,3543303,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Rio Grande da Serra,member,397,BRA.25.496_2,RioGrandedaSerra,Município,3544103,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Salesópolis,member,398,BRA.25.507_2,Salesópolis,Município,3545001,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santa Isabel,member,399,BRA.25.526_2,SantaIsabel,Município,3546801,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santana de Parnaíba,member,400,BRA.25.535_2,SantanadeParnaíba,Município,3547304,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Santo André,member,401,BRA.25.537_2,SantoAndré,Município,3547809,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Bernardo do Campo,member,402,BRA.25.547_2,SãoBernardodoCampo,Município,3548708,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Caetano do Sul,member,403,BRA.25.548_2,SãoCaetanodoSul,Município,3548807,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Lourenço da Serra,member,404,BRA.25.561_2,SãoLourençodaSerra,Município,3549953,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Paulo,member,405,BRA.25.565_2,SãoPaulo,Município,3550308,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Suzano,member,406,BRA.25.588_2,Suzano,Município,3552502,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Taboão da Serra,member,407,BRA.25.591_2,TaboãodaSerra,Município,3552809,name_exact,high
+BRM25,São Paulo RM,Metropolitan Area,BRAPF,SãoPaulo,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Vargem Grande Paulista,member,408,BRA.25.636_2,VargemGrandePaulista,Município,3556453,name_exact,high
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Aracaju,member,409,BRA.26.3_2,Aracaju,Município,2800308,name_exact,high
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Barra dos Coqueiros,member,410,BRA.26.6_2,BarradosCoqueiros,Município,2800605,name_exact,high
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,Nossa Senhora do Socorro,member,411,BRA.26.47_2,NossaSenhoradoSocorro,Município,2804805,name_exact,high
+BRM26,Aracaju RM,Metropolitan Area,BRAQ1,Sergipe,,Latin America,Global_Cities_Definitions_Oct19,Municipality,São Cristóvão,member,412,BRA.26.66_2,SãoCristóvão,Município,2806701,name_exact,high

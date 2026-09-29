@@ -1,0 +1,27 @@
+﻿audit_id,timestamp,action,metro_id,metro_name,member_name,gid_before,gid_after,reviewer,reason,evidence_source,econ_def_version,gadm_version
+1,2026-09-29 13:11:23,approve_metro,BRM01,Maceió RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+2,2026-09-29 13:11:23,approve_metro,BRM02,Manaus RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+3,2026-09-29 13:11:23,approve_metro,BRM03,Salvador RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+4,2026-09-29 13:11:23,approve_metro,BRM04,Fortaleza RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+5,2026-09-29 13:11:23,approve_metro,BRM05,Brasília,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+6,2026-09-29 13:11:23,approve_metro,BRM06,Goiânia RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+7,2026-09-29 13:11:23,approve_metro,BRM07,Grande São Luís RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+8,2026-09-29 13:11:23,approve_metro,BRM09,Campo Grande,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+9,2026-09-29 13:11:23,approve_metro,BRM10,Belo Horizonte RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+10,2026-09-29 13:11:23,approve_metro,BRM11,Belém RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+11,2026-09-29 13:11:23,approve_metro,BRM12,João Pessoa RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+12,2026-09-29 13:11:23,approve_metro,BRM13,Curitiba RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+13,2026-09-29 13:11:23,approve_metro,BRM14,Recife RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+14,2026-09-29 13:11:23,approve_metro,BRM15,Teresina,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+15,2026-09-29 13:11:23,approve_metro,BRM16,Rio De Janeiro RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+16,2026-09-29 13:11:23,approve_metro,BRM17,Natal RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+17,2026-09-29 13:11:23,approve_metro,BRM18,Pôrto Alegre RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+18,2026-09-29 13:11:23,approve_metro,BRM19,Florianópolis RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+19,2026-09-29 13:11:23,approve_metro,BRM20,Norte/Nordeste Catarinense RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+20,2026-09-29 13:11:23,approve_metro,BRM21,Baixada Santista RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+21,2026-09-29 13:11:23,approve_metro,BRM22,Ribeirao Prêto,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+22,2026-09-29 13:11:23,approve_metro,BRM23,Sao José dos Campos,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+23,2026-09-29 13:11:23,approve_metro,BRM24,Sorocaba,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+24,2026-09-29 13:11:23,approve_metro,BRM25,São Paulo RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+25,2026-09-29 13:11:23,approve_metro,BRM26,Aracaju RM,,,,黄丰,机器匹配通过，待人工复核,,Global_Cities_Definitions_Oct19,GADM 4.1
+26,2026-09-29 13:11:23,mark_missing,BRM25,São Paulo RM,Embu,,,黄丰,源表只给 Embu，GADM 同州有两个 Embu 系市镇，无法唯一判定,GADM 巴西亚马逊州外 SaoPaulo 州同时存在 EmbudasArtes（IBGE 3515004，2011 年由 Embu 改名）与 Embu-Guaçu（IBGE 3515103，另一市），源表只写 Embu，故确认缺失待人工核,Global_Cities_Definitions_Oct19,GADM 4.1

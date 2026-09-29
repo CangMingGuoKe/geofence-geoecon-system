@@ -1,0 +1,5 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_name,gid_2,cc_2,match_method
+BRM26,Aracaju RM,Aracaju,member,Aracaju,BRA.26.3_2,2800308,name_exact
+BRM26,Aracaju RM,Barra dos Coqueiros,member,BarradosCoqueiros,BRA.26.6_2,2800605,name_exact
+BRM26,Aracaju RM,Nossa Senhora do Socorro,member,NossaSenhoradoSocorro,BRA.26.47_2,2804805,name_exact
+BRM26,Aracaju RM,São Cristóvão,member,SãoCristóvão,BRA.26.66_2,2806701,name_exact

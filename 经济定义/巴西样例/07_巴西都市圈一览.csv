@@ -1,0 +1,26 @@
+﻿metro_id,metro_name,n_members,n_matched,n_missing,n_states,states,geom_type,n_parts,n_holes,hole_area_km2,is_valid,is_empty,area_km2_epsg6933,dup_gid
+BRM01,Maceió RM,11,11,0,1,Alagoas,MultiPolygon,2,15,0.2,True,False,1926.5,0
+BRM02,Manaus RM,8,8,0,1,Amazonas,Polygon,1,30,1.3,True,False,101520.7,0
+BRM03,Salvador RM,13,13,0,1,Bahia,Polygon,1,76,1.4,True,False,4351.9,0
+BRM04,Fortaleza RM,15,15,0,1,Ceará,Polygon,1,34,1.0,True,False,5788.1,0
+BRM05,Brasília,1,1,0,1,DistritoFederal,Polygon,1,0,0.0,True,False,5761.6,0
+BRM06,Goiânia RM,20,20,0,1,Goiás,Polygon,1,193,2.2,True,False,7336.6,0
+BRM07,Grande São Luís RM,5,5,0,1,Maranhão,MultiPolygon,9,15,0.3,True,False,2138.8,0
+BRM09,Campo Grande,1,1,0,1,MatoGrossodoSul,Polygon,1,0,0.0,True,False,8083.5,0
+BRM10,Belo Horizonte RM,48,48,0,1,MinasGerais,Polygon,1,572,68.9,True,False,14411.9,0
+BRM11,Belém RM,6,6,0,1,Pará,Polygon,1,22,0.5,True,False,2535.6,0
+BRM12,João Pessoa RM,13,13,0,1,Paraíba,MultiPolygon,7,42,0.5,True,False,3125.1,0
+BRM13,Curitiba RM,26,26,0,1,Paraná,Polygon,1,175,2.5,True,False,15412.4,0
+BRM14,Recife RM,14,14,0,1,Pernambuco,MultiPolygon,3,31,0.4,True,False,2764.9,0
+BRM15,Teresina,1,1,0,1,Piauí,Polygon,1,0,0.0,True,False,1391.1,0
+BRM16,Rio De Janeiro RM,19,19,0,1,RiodeJaneiro,MultiPolygon,177,89,2.1,True,False,5322.9,0
+BRM17,Natal RM,10,10,0,1,RioGrandedoNorte,Polygon,1,19,0.8,True,False,2810.6,0
+BRM18,Pôrto Alegre RM,31,31,0,1,RioGrandedoSul,MultiPolygon,5,126,2.6,True,False,9793.9,0
+BRM19,Florianópolis RM,22,22,0,1,SantaCatarina,MultiPolygon,35,159,1.8,True,False,7473.9,0
+BRM20,Norte/Nordeste Catarinense RM,20,20,0,1,SantaCatarina,MultiPolygon,23,216,2.7,True,False,10828.4,0
+BRM21,Baixada Santista RM,9,9,0,1,SãoPaulo,MultiPolygon,36,43,0.7,True,False,2430.6,0
+BRM22,Ribeirao Prêto,1,1,0,1,SãoPaulo,Polygon,1,0,0.0,True,False,650.8,0
+BRM23,Sao José dos Campos,1,1,0,1,SãoPaulo,Polygon,1,0,0.0,True,False,1099.6,0
+BRM24,Sorocaba,1,1,0,1,SãoPaulo,Polygon,1,0,0.0,True,False,450.2,0
+BRM25,São Paulo RM,39,38,1,1,SãoPaulo,Polygon,1,291,73.7,True,False,7872.4,0
+BRM26,Aracaju RM,4,4,0,1,Sergipe,MultiPolygon,2,20,0.2,True,False,868.0,0

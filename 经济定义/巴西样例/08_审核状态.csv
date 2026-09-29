@@ -1,0 +1,340 @@
+﻿metro_id,metro_name,member_name,member_role,state_name,muni_name,gid_2,cc_2,type_2,match_method,confidence,review_status,reviewer,review_time,review_reason
+BRM01,Maceió RM,Barra de Santo Antônio,member,Alagoas,BarradeSantoAntônio,BRA.2.5_2,2700508,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Barra de São Miguel,member,Alagoas,BarradeSãoMiguel,BRA.2.6_2,2700607,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Coqueiro Seco,member,Alagoas,CoqueiroSeco,BRA.2.23_2,2702207,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Maceió,member,Alagoas,Maceió,BRA.2.47_2,2704302,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Marechal Deodoro,member,Alagoas,MarechalDeodoro,BRA.2.52_2,2704708,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Messias,member,Alagoas,Messias,BRA.2.56_2,2705200,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Paripueira,member,Alagoas,Paripueira,BRA.2.70_2,2706448,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Pilar,member,Alagoas,Pilar,BRA.2.75_2,2706901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Rio Largo,member,Alagoas,RioLargo,BRA.2.83_2,2707701,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Santa Luzia do Norte,member,Alagoas,SantaLuziadoNorte,BRA.2.85_2,2707909,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM01,Maceió RM,Satuba,member,Alagoas,Satuba,BRA.2.95_2,2708907,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Careiro da Várzea,member,Amazonas,CareirodaVárzea,BRA.4.19_2,1301159,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Iranduba,member,Amazonas,Iranduba,BRA.4.28_2,1301852,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Itacoatiara,member,Amazonas,Itacoatiara,BRA.4.29_2,1301902,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Manacapuru,member,Amazonas,Manacapuru,BRA.4.36_2,1302504,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Manaus,member,Amazonas,Manaus,BRA.4.38_2,1302603,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Novo Airão,member,Amazonas,NovoAirão,BRA.4.44_2,1303205,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Presidente Figueiredo,member,Amazonas,PresidenteFigueiredo,BRA.4.48_2,1303536,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM02,Manaus RM,Rio Preto da Eva,member,Amazonas,RioPretodaEva,BRA.4.49_2,1303569,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Camaçari,member,Bahia,Camaçari,BRA.5.70_2,2905701,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Candeias,member,Bahia,Candeias,BRA.5.78_2,2906501,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Dias d'Ávila,member,Bahia,Diasd'Ávila,BRA.5.119_2,2910057,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Itaparica,member,Bahia,Itaparica,BRA.5.191_2,2916104,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Lauro de Freitas,member,Bahia,LaurodeFreitas,BRA.5.231_2,2919207,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Madre de Deus,member,Bahia,MadredeDeus,BRA.5.240_2,2919926,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Mata de São João,member,Bahia,MatadeSãoJoão,BRA.5.253_2,2921005,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Pojuca,member,Bahia,Pojuca,BRA.5.309_2,2925204,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Salvador,member,Bahia,Salvador,BRA.5.336_2,2927408,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Simões Filho,member,Bahia,SimõesFilho,BRA.5.377_2,2930709,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,São Francisco do Conde,member,Bahia,SãoFranciscodoConde,BRA.5.357_2,2929206,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,São Sebastião do Passé,member,Bahia,SãoSebastiãodoPassé,BRA.5.363_2,2929503,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM03,Salvador RM,Vera Cruz,member,Bahia,VeraCruz,BRA.5.411_2,2933208,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Aquiraz,member,Ceará,Aquiraz,BRA.6.12_2,2301000,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Cascavel,member,Ceará,Cascavel,BRA.6.41_2,2303501,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Caucaia,member,Ceará,Caucaia,BRA.6.44_2,2303709,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Chorozinho,member,Ceará,Chorozinho,BRA.6.48_2,2303956,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Eusébio,member,Ceará,Eusébio,BRA.6.56_2,2304285,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Fortaleza,member,Ceará,Fortaleza,BRA.6.59_2,2304400,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Guaiúba,member,Ceará,Guaiúba,BRA.6.67_2,2304954,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Horizonte,member,Ceará,Horizonte,BRA.6.71_2,2305233,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Itaitinga,member,Ceará,Itaitinga,BRA.6.86_2,2306256,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Maracanaú,member,Ceará,Maracanaú,BRA.6.104_2,2307650,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Maranguape,member,Ceará,Maranguape,BRA.6.105_2,2307700,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Pacajus,member,Ceará,Pacajus,BRA.6.127_2,2309607,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Pacatuba,member,Ceará,Pacatuba,BRA.6.128_2,2309706,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,Pindoretama,member,Ceará,Pindoretama,BRA.6.141_2,2310852,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM04,Fortaleza RM,São Gonçalo do Amarante,member,Ceará,SãoGonçalodoAmarante,BRA.6.162_2,2312403,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM05,Brasília,Brasília,self,DistritoFederal,Brasília,BRA.7.1_2,5300108,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Abadia de Goiás,member,Goiás,AbadiadeGoiás,BRA.9.1_2,5200050,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Aparecida de Goiânia,member,Goiás,AparecidadeGoiânia,BRA.9.19_2,5201405,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Aragoiânia,member,Goiás,Aragoiânia,BRA.9.24_2,5201801,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Bela Vista de Goiás,member,Goiás,BelaVistadeGoiás,BRA.9.32_2,5203302,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Bonfinópolis,member,Goiás,Bonfinópolis,BRA.9.35_2,5203559,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Brazabrantes,member,Goiás,Brazabrantes,BRA.9.37_2,5203609,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Caldazinha,member,Goiás,Caldazinha,BRA.9.49_2,5204557,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Caturaí,member,Goiás,Caturaí,BRA.9.60_2,5205208,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Goianira,member,Goiás,Goianira,BRA.9.96_2,5208806,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Goianápolis,member,Goiás,Goianápolis,BRA.9.92_2,5208400,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Goiânia,member,Goiás,Goiânia,BRA.9.95_2,5208707,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Guapó,member,Goiás,Guapó,BRA.9.100_2,5209200,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Hidrolândia,member,Goiás,Hidrolândia,BRA.9.105_2,5209705,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Inhumas,member,Goiás,Inhumas,BRA.9.110_2,5210000,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Nerópolis,member,Goiás,Nerópolis,BRA.9.157_2,5214507,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Nova Veneza,member,Goiás,NovaVeneza,BRA.9.165_2,5215009,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Santo Antônio de Goiás,member,Goiás,SantoAntôniodeGoiás,BRA.9.212_2,5219738,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Senador Canedo,member,Goiás,SenadorCanedo,BRA.9.224_2,5220454,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Terezópolis de Goiás,member,Goiás,TerezópolisdeGoiás,BRA.9.231_2,5221197,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM06,Goiânia RM,Trindade,member,Goiás,Trindade,BRA.9.233_2,5221403,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM07,Grande São Luís RM,Alcântara,member,Maranhão,Alcântara,BRA.10.4_2,2100204,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM07,Grande São Luís RM,Paço do Lumiar,member,Maranhão,PaçodoLumiar,BRA.10.130_2,2107506,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM07,Grande São Luís RM,Raposa,member,Maranhão,Raposa,BRA.10.156_2,2109452,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM07,Grande São Luís RM,São José de Ribamar,member,Maranhão,SãoJosédeRibamar,BRA.10.184_2,2111201,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM07,Grande São Luís RM,São Luís,member,Maranhão,SãoLuís,BRA.10.186_2,2111300,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM09,Campo Grande,Campo Grande,self,MatoGrossodoSul,CampoGrande,BRA.11.20_2,5002704,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Baldim,member,MinasGerais,Baldim,BRA.13.55_2,3105004,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Barão de Cocais,member,MinasGerais,BarãodeCocais,BRA.13.59_2,3105400,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Belo Horizonte,member,MinasGerais,BeloHorizonte,BRA.13.66_2,3106200,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Belo Vale,member,MinasGerais,BeloVale,BRA.13.68_2,3106408,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Betim,member,MinasGerais,Betim,BRA.13.72_2,3106705,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Bonfim,member,MinasGerais,Bonfim,BRA.13.86_2,3108107,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Brumadinho,member,MinasGerais,Brumadinho,BRA.13.97_2,3109006,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Caeté,member,MinasGerais,Caeté,BRA.13.110_2,3110004,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Capim Branco,member,MinasGerais,CapimBranco,BRA.13.137_2,3112505,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Confins,member,MinasGerais,Confins,BRA.13.198_2,3117876,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Contagem,member,MinasGerais,Contagem,BRA.13.206_2,3118601,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Esmeraldas,member,MinasGerais,Esmeraldas,BRA.13.271_2,3124104,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Florestal,member,MinasGerais,Florestal,BRA.13.290_2,3126000,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Fortuna de Minas,member,MinasGerais,FortunadeMinas,BRA.13.294_2,3126406,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Funilândia,member,MinasGerais,Funilândia,BRA.13.306_2,3127206,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Ibirité,member,MinasGerais,Ibirité,BRA.13.338_2,3129806,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Igarapé,member,MinasGerais,Igarapé,BRA.13.342_2,3130101,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Inhaúma,member,MinasGerais,Inhaúma,BRA.13.353_2,3131000,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Itabirito,member,MinasGerais,Itabirito,BRA.13.363_2,3131901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Itaguara,member,MinasGerais,Itaguara,BRA.13.366_2,3132206,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Itatiaiuçu,member,MinasGerais,Itatiaiuçu,BRA.13.381_2,3133709,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Itaúna,member,MinasGerais,Itaúna,BRA.13.383_2,3133808,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Jaboticatubas,member,MinasGerais,Jaboticatubas,BRA.13.391_2,3134608,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Juatuba,member,MinasGerais,Juatuba,BRA.13.418_2,3136652,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Lagoa Santa,member,MinasGerais,LagoaSanta,BRA.13.430_2,3137601,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Mateus Leme,member,MinasGerais,MateusLeme,BRA.13.470_2,3140704,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Matozinhos,member,MinasGerais,Matozinhos,BRA.13.476_2,3141108,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Moeda,member,MinasGerais,Moeda,BRA.13.489_2,3142304,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Mário Campos,member,MinasGerais,MárioCampos,BRA.13.462_2,3140159,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Nova Lima,member,MinasGerais,NovaLima,BRA.13.520_2,3144805,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Nova União,member,MinasGerais,NovaUnião,BRA.13.526_2,3136603,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Pará de Minas,member,MinasGerais,ParádeMinas,BRA.13.551_2,3147105,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Pedro Leopoldo,member,MinasGerais,PedroLeopoldo,BRA.13.577_2,3149309,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Prudente de Morais,member,MinasGerais,PrudentedeMorais,BRA.13.625_2,3153608,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Raposos,member,MinasGerais,Raposos,BRA.13.628_2,3153905,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Ribeirão das Neves,member,MinasGerais,RibeirãodasNeves,BRA.13.637_2,3154606,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Rio Acima,member,MinasGerais,RioAcima,BRA.13.639_2,3154804,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Rio Manso,member,MinasGerais,RioManso,BRA.13.644_2,3155306,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Sabará,member,MinasGerais,Sabará,BRA.13.659_2,3156700,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Santa Bárbara,member,MinasGerais,SantaBárbara,BRA.13.664_2,3157203,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Santa Luzia,member,MinasGerais,SantaLuzia,BRA.13.675_2,3157807,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Sarzedo,member,MinasGerais,Sarzedo,BRA.13.770_2,3165537,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Sete Lagoas,member,MinasGerais,SeteLagoas,BRA.13.790_2,3167202,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,São Joaquim de Bicas,member,MinasGerais,SãoJoaquimdeBicas,BRA.13.739_2,3162922,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,São José da Lapa,member,MinasGerais,SãoJosédaLapa,BRA.13.741_2,3162955,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,São José da Varginha,member,MinasGerais,SãoJosédaVarginha,BRA.13.743_2,3163102,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Taquaraçu de Minas,member,MinasGerais,TaquaraçudeMinas,BRA.13.803_2,3168309,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM10,Belo Horizonte RM,Vespasiano,member,MinasGerais,Vespasiano,BRA.13.844_2,3171204,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM11,Belém RM,Ananindeua,member,Pará,Ananindeua,BRA.14.10_2,1500800,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM11,Belém RM,Belém,member,Pará,Belém,BRA.14.19_2,1501402,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM11,Belém RM,Benevides,member,Pará,Benevides,BRA.14.21_2,1501501,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM11,Belém RM,Marituba,member,Pará,Marituba,BRA.14.69_2,1504422,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM11,Belém RM,Santa Bárbara do Pará,member,Pará,SantaBárbaradoPará,BRA.14.107_2,1506351,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM11,Belém RM,Santa Isabel do Pará,member,Pará,SantaIzabeldoPará,BRA.14.109_2,1506500,Município,name_fuzzy,medium,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Alhandra,member,Paraíba,Alhandra,BRA.15.8_2,2500601,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Bayeux,member,Paraíba,Bayeux,BRA.15.25_2,2501807,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Caaporã,member,Paraíba,Caaporã,BRA.15.38_2,2503001,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Cabedelo,member,Paraíba,Cabedelo,BRA.15.40_2,2503209,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Conde,member,Paraíba,Conde,BRA.15.60_2,2504603,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Cruz do Espírito Santo,member,Paraíba,CruzdoEspíritoSanto,BRA.15.64_2,2504900,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,João Pessoa,member,Paraíba,JoãoPessoa,BRA.15.94_2,2507507,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Lucena,member,Paraíba,Lucena,BRA.15.107_2,2508604,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Mamanguape,member,Paraíba,Mamanguape,BRA.15.110_2,2508901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Pedras de Fogo,member,Paraíba,PedrasdeFogo,BRA.15.139_2,2511202,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Pitimbu,member,Paraíba,Pitimbu,BRA.15.147_2,2511905,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Rio Tinto,member,Paraíba,RioTinto,BRA.15.163_2,2512903,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM12,João Pessoa RM,Santa Rita,member,Paraíba,SantaRita,BRA.15.171_2,2513703,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Adrianópolis,member,Paraná,Adrianópolis,BRA.16.2_2,4100202,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Agudos do Sul,member,Paraná,AgudosdoSul,BRA.16.3_2,4100301,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Almirante Tamandaré,member,Paraná,AlmiranteTamandaré,BRA.16.4_2,4100400,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Araucária,member,Paraná,Araucária,BRA.16.23_2,4101804,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Balsa Nova,member,Paraná,BalsaNova,BRA.16.29_2,4102307,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Bocaiúva do Sul,member,Paraná,BocaiúvadoSul,BRA.16.41_2,4103107,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Campina Grande do Sul,member,Paraná,CampinaGrandedoSul,BRA.16.57_2,4104006,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Campo Largo,member,Paraná,CampoLargo,BRA.16.60_2,4104204,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Campo Magro,member,Paraná,CampoMagro,BRA.16.61_2,4104253,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Cerro Azul,member,Paraná,CerroAzul,BRA.16.74_2,4105201,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Colombo,member,Paraná,Colombo,BRA.16.80_2,4105805,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Contenda,member,Paraná,Contenda,BRA.16.84_2,4106209,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Curitiba,member,Paraná,Curitiba,BRA.16.95_2,4106902,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Doutor Ulysses,member,Paraná,DoutorUlysses,BRA.16.103_2,4128633,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Fazenda Rio Grande,member,Paraná,FazendaRioGrande,BRA.16.111_2,4107652,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Itaperuçu,member,Paraná,Itaperuçu,BRA.16.162_2,4111258,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Lapa,member,Paraná,Lapa,BRA.16.185_2,4113205,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Mandirituba,member,Paraná,Mandirituba,BRA.16.201_2,4114302,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Pinhais,member,Paraná,Pinhais,BRA.16.267_2,4119152,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Piraquara,member,Paraná,Piraquara,BRA.16.272_2,4119509,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Quatro Barras,member,Paraná,QuatroBarras,BRA.16.291_2,4120804,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Quitandinha,member,Paraná,Quitandinha,BRA.16.296_2,4121208,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Rio Branco do Sul,member,Paraná,RioBrancodoSul,BRA.16.311_2,4122206,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,São José dos Pinhais,member,Paraná,SãoJosédosPinhais,BRA.16.352_2,4125506,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Tijucas do Sul,member,Paraná,TijucasdoSul,BRA.16.380_2,4127601,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM13,Curitiba RM,Tunas do Paraná,member,Paraná,TunasdoParaná,BRA.16.384_2,4127882,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Abreu e Lima,member,Pernambuco,AbreueLima,BRA.17.1_2,2600054,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Araçoiaba,member,Pernambuco,Araçoiaba,BRA.17.12_2,2601052,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Cabo de Santo Agostinho,member,Pernambuco,CabodeSantoAgostinho,BRA.17.31_2,2602902,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Camaragibe,member,Pernambuco,Camaragibe,BRA.17.37_2,2603454,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Igarassu,member,Pernambuco,Igarassu,BRA.17.75_2,2606804,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Ilha de Itamaracá,member,Pernambuco,IlhadeItamaracá,BRA.17.77_2,2607604,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Ipojuca,member,Pernambuco,Ipojuca,BRA.17.80_2,2607208,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Itapissuma,member,Pernambuco,Itapissuma,BRA.17.86_2,2607752,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Jaboatão dos Guararapes,member,Pernambuco,JaboatãodosGuararapes,BRA.17.88_2,2607901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Moreno,member,Pernambuco,Moreno,BRA.17.110_2,2609402,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Olinda,member,Pernambuco,Olinda,BRA.17.112_2,2609600,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Paulista,member,Pernambuco,Paulista,BRA.17.123_2,2610707,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,Recife,member,Pernambuco,Recife,BRA.17.133_2,2611606,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM14,Recife RM,São Lourenço da Mata,member,Pernambuco,SãoLourençodaMata,BRA.17.157_2,2613701,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM15,Teresina,Teresina,self,Piauí,Teresina,BRA.18.216_2,2211001,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Belford Roxo,member,RiodeJaneiro,BelfordRoxo,BRA.19.9_2,3300456,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Duque de Caxias,member,RiodeJaneiro,DuquedeCaxias,BRA.19.25_2,3301702,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Guapimirim,member,RiodeJaneiro,Guapimirim,BRA.19.27_2,3301850,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Itaboraí,member,RiodeJaneiro,Itaboraí,BRA.19.29_2,3301900,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Itaguaí,member,RiodeJaneiro,Itaguaí,BRA.19.30_2,3302007,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Japeri,member,RiodeJaneiro,Japeri,BRA.19.35_2,3302270,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Magé,member,RiodeJaneiro,Magé,BRA.19.39_2,3302502,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Maricá,member,RiodeJaneiro,Maricá,BRA.19.41_2,3302700,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Mesquita,member,RiodeJaneiro,Mesquita,BRA.19.43_2,3302858,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Nilópolis,member,RiodeJaneiro,Nilópolis,BRA.19.47_2,3303203,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Niterói,member,RiodeJaneiro,Niterói,BRA.19.48_2,3303302,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Nova Iguaçu,member,RiodeJaneiro,NovaIguaçu,BRA.19.50_2,3303500,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Paracambi,member,RiodeJaneiro,Paracambi,BRA.19.51_2,3303609,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Queimados,member,RiodeJaneiro,Queimados,BRA.19.61_2,3304144,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Rio de Janeiro,member,RiodeJaneiro,RiodeJaneiro,BRA.19.68_2,3304557,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Seropédica,member,RiodeJaneiro,Seropédica,BRA.19.82_2,3305554,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,São Gonçalo,member,RiodeJaneiro,SãoGonçalo,BRA.19.73_2,3304904,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,São João de Meriti,member,RiodeJaneiro,SãoJoãodeMeriti,BRA.19.75_2,3305109,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM16,Rio De Janeiro RM,Tanguá,member,RiodeJaneiro,Tanguá,BRA.19.85_2,3305752,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Ceará-Mirim,member,RioGrandedoNorte,Ceará-Mirim,BRA.20.29_2,2402600,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Extremoz,member,RioGrandedoNorte,Extremoz,BRA.20.39_2,2403608,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Macaíba,member,RioGrandedoNorte,Macaíba,BRA.20.77_2,2407104,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Monte Alegre,member,RioGrandedoNorte,MonteAlegre,BRA.20.85_2,2407807,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Natal,member,RioGrandedoNorte,Natal,BRA.20.88_2,2408102,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Nísia Floresta,member,RioGrandedoNorte,NísiaFloresta,BRA.20.89_2,2408201,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Parnamirim,member,RioGrandedoNorte,Parnamirim,BRA.20.97_2,2403251,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,São Gonçalo do Amarante,member,RioGrandedoNorte,SãoGonçalodoAmarante,BRA.20.129_2,2412005,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,São José de Mipibu,member,RioGrandedoNorte,SãoJosédeMipibu,BRA.20.131_2,2412203,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM17,Natal RM,Vera Cruz,member,RioGrandedoNorte,VeraCruz,BRA.20.165_2,2414803,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Alvorada,member,RioGrandedoSul,Alvorada,BRA.21.12_2,4300604,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Araricá,member,RioGrandedoSul,Araricá,BRA.21.19_2,4300877,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Arroio dos Ratos,member,RioGrandedoSul,ArroiodosRatos,BRA.21.25_2,4301107,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Cachoeirinha,member,RioGrandedoSul,Cachoeirinha,BRA.21.62_2,4303103,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Campo Bom,member,RioGrandedoSul,CampoBom,BRA.21.72_2,4303905,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Canoas,member,RioGrandedoSul,Canoas,BRA.21.80_2,4304606,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Capela de Santana,member,RioGrandedoSul,CapeladeSantana,BRA.21.86_2,4304689,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Charqueadas,member,RioGrandedoSul,Charqueadas,BRA.21.104_2,4305355,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Dois Irmãos,member,RioGrandedoSul,DoisIrmãos,BRA.21.132_2,4306403,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Eldorado do Sul,member,RioGrandedoSul,EldoradodoSul,BRA.21.141_2,4306767,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Esteio,member,RioGrandedoSul,Esteio,BRA.21.157_2,4307708,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Estância Velha,member,RioGrandedoSul,EstânciaVelha,BRA.21.156_2,4307609,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Glorinha,member,RioGrandedoSul,Glorinha,BRA.21.181_2,4309050,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Gravataí,member,RioGrandedoSul,Gravataí,BRA.21.185_2,4309209,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Guaíba,member,RioGrandedoSul,Guaíba,BRA.21.187_2,4309308,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Ivoti,member,RioGrandedoSul,Ivoti,BRA.21.218_2,4310801,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Montenegro,member,RioGrandedoSul,Montenegro,BRA.21.261_2,4312401,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Nova Hartz,member,RioGrandedoSul,NovaHartz,BRA.21.280_2,4313060,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Nova Santa Rita,member,RioGrandedoSul,NovaSantaRita,BRA.21.287_2,4313375,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Novo Hamburgo,member,RioGrandedoSul,NovoHamburgo,BRA.21.290_2,4313409,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Parobé,member,RioGrandedoSul,Parobé,BRA.21.304_2,4314050,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Porto Alegre,member,RioGrandedoSul,PortoAlegre,BRA.21.328_2,4314902,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Portão,member,RioGrandedoSul,Portão,BRA.21.327_2,4314803,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Santo Antônio da Patrulha,member,RioGrandedoSul,SantoAntôniodaPatrulha,BRA.21.377_2,4317608,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Sapiranga,member,RioGrandedoSul,Sapiranga,BRA.21.421_2,4319901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Sapucaia do Sul,member,RioGrandedoSul,SapucaiadoSul,BRA.21.422_2,4320008,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,São Jerônimo,member,RioGrandedoSul,SãoJerônimo,BRA.21.389_2,4318408,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,São Leopoldo,member,RioGrandedoSul,SãoLeopoldo,BRA.21.401_2,4318705,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Taquara,member,RioGrandedoSul,Taquara,BRA.21.444_2,4321204,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Triunfo,member,RioGrandedoSul,Triunfo,BRA.21.465_2,4322004,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM18,Pôrto Alegre RM,Viamão,member,RioGrandedoSul,Viamão,BRA.21.487_2,4323002,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Alfredo Wagner,member,SantaCatarina,AlfredoWagner,BRA.24.9_2,4200705,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Angelina,member,SantaCatarina,Angelina,BRA.24.12_2,4200903,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Anitápolis,member,SantaCatarina,Anitápolis,BRA.24.14_2,4201109,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Antônio Carlos,member,SantaCatarina,AntônioCarlos,BRA.24.15_2,4201208,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Biguaçu,member,SantaCatarina,Biguaçu,BRA.24.38_2,4202305,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Canelinha,member,SantaCatarina,Canelinha,BRA.24.59_2,4203709,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Florianópolis,member,SantaCatarina,Florianópolis,BRA.24.90_2,4205407,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Garopaba,member,SantaCatarina,Garopaba,BRA.24.96_2,4205704,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Governador Celso Ramos,member,SantaCatarina,GovernadorCelsoRamos,BRA.24.99_2,4206009,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Leoberto Leal,member,SantaCatarina,LeobertoLeal,BRA.24.149_2,4209805,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Major Gercino,member,SantaCatarina,MajorGercino,BRA.24.156_2,4210209,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Nova Trento,member,SantaCatarina,NovaTrento,BRA.24.174_2,4211504,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Palhoça,member,SantaCatarina,Palhoça,BRA.24.183_2,4211900,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Paulo Lopes,member,SantaCatarina,PauloLopes,BRA.24.191_2,4212304,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Rancho Queimado,member,SantaCatarina,RanchoQueimado,BRA.24.214_2,4214300,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Santo Amaro da Imperatriz,member,SantaCatarina,SantoAmarodaImperatriz,BRA.24.237_2,4215703,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,São Bonifácio,member,SantaCatarina,SãoBonifácio,BRA.24.240_2,4215901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,São José,member,SantaCatarina,SãoJosé,BRA.24.250_2,4216602,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,São João Batista,member,SantaCatarina,SãoJoãoBatista,BRA.24.245_2,4216305,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,São Pedro de Alcântara,member,SantaCatarina,SãoPedrodeAlcântara,BRA.24.258_2,4217253,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Tijucas,member,SantaCatarina,Tijucas,BRA.24.269_2,4218004,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM19,Florianópolis RM,Águas Mornas,member,SantaCatarina,ÁguasMornas,BRA.24.8_2,4200606,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Araquari,member,SantaCatarina,Araquari,BRA.24.18_2,4201307,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Balneário Barra do Sul,member,SantaCatarina,BalneárioBarradoSul,BRA.24.27_2,4202057,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Barra Velha,member,SantaCatarina,BarraVelha,BRA.24.34_2,4202107,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Campo Alegre,member,SantaCatarina,CampoAlegre,BRA.24.55_2,4203303,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Corupá,member,SantaCatarina,Corupá,BRA.24.76_2,4204509,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Garuva,member,SantaCatarina,Garuva,BRA.24.97_2,4205803,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Guaramirim,member,SantaCatarina,Guaramirim,BRA.24.104_2,4206504,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Itaiópolis,member,SantaCatarina,Itaiópolis,BRA.24.127_2,4208104,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Itapoá,member,SantaCatarina,Itapoá,BRA.24.131_2,4208450,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Jaraguá do Sul,member,SantaCatarina,JaraguádoSul,BRA.24.136_2,4208906,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Joinville,member,SantaCatarina,Joinville,BRA.24.139_2,4209102,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Mafra,member,SantaCatarina,Mafra,BRA.24.155_2,4210100,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Massaranduba,member,SantaCatarina,Massaranduba,BRA.24.161_2,4210605,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Monte Castelo,member,SantaCatarina,MonteCastelo,BRA.24.168_2,4211108,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Papanduva,member,SantaCatarina,Papanduva,BRA.24.187_2,4212205,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Rio Negrinho,member,SantaCatarina,RioNegrinho,BRA.24.221_2,4215000,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,Schroeder,member,SantaCatarina,Schroeder,BRA.24.260_2,4217402,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,São Bento do Sul,member,SantaCatarina,SãoBentodoSul,BRA.24.238_2,4215802,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,São Francisco do Sul,member,SantaCatarina,SãoFranciscodoSul,BRA.24.244_2,4216206,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM20,Norte/Nordeste Catarinense RM,São João do Itaperiú,member,SantaCatarina,SãoJoãodoItaperiú,BRA.24.246_2,4216354,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Bertioga,member,SãoPaulo,Bertioga,BRA.25.72_2,3506359,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Cubatão,member,SãoPaulo,Cubatão,BRA.25.151_2,3513504,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Guarujá,member,SãoPaulo,Guarujá,BRA.25.214_2,3518701,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Itanhaém,member,SãoPaulo,Itanhaém,BRA.25.255_2,3522109,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Mongaguá,member,SãoPaulo,Mongaguá,BRA.25.351_2,3531100,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Peruíbe,member,SãoPaulo,Peruíbe,BRA.25.426_2,3537602,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Praia Grande,member,SãoPaulo,PraiaGrande,BRA.25.462_2,3541000,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,Santos,member,SãoPaulo,Santos,BRA.25.545_2,3548500,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM21,Baixada Santista RM,São Vicente,member,SãoPaulo,SãoVicente,BRA.25.572_2,3551009,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM22,Ribeirao Prêto,Ribeirao Prêto,self,SãoPaulo,RibeirãoPreto,BRA.25.490_2,3543402,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM23,Sao José dos Campos,Sao José dos Campos,self,SãoPaulo,SãoJosédosCampos,BRA.25.560_2,3549904,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM24,Sorocaba,Sorocaba,self,SãoPaulo,Sorocaba,BRA.25.584_2,3552205,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Arujá,member,SãoPaulo,Arujá,BRA.25.45_2,3503901,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Barueri,member,SãoPaulo,Barueri,BRA.25.65_2,3505708,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Biritiba-Mirim,member,SãoPaulo,BiritibaMirim,BRA.25.75_2,3506607,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Caieiras,member,SãoPaulo,Caieiras,BRA.25.102_2,3509007,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Cajamar,member,SãoPaulo,Cajamar,BRA.25.104_2,3509205,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Carapicuíba,member,SãoPaulo,Carapicuíba,BRA.25.122_2,3510609,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Cotia,member,SãoPaulo,Cotia,BRA.25.146_2,3513009,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Diadema,member,SãoPaulo,Diadema,BRA.25.154_2,3513801,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Embu,member,,,,,,missing,,confirmed_missing,黄丰,2026-09-29 13:11:23,源表只给 Embu，GADM 同州有两个 Embu 系市镇，无法唯一判定
+BRM25,São Paulo RM,Embu-Guaçu,member,SãoPaulo,Embu-Guaçu,BRA.25.169_2,3515103,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Ferraz de Vasconcelos,member,SãoPaulo,FerrazdeVasconcelos,BRA.25.183_2,3515707,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Francisco Morato,member,SãoPaulo,FranciscoMorato,BRA.25.189_2,3516309,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Franco da Rocha,member,SãoPaulo,FrancodaRocha,BRA.25.190_2,3516408,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Guararema,member,SãoPaulo,Guararema,BRA.25.210_2,3518305,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Guarulhos,member,SãoPaulo,Guarulhos,BRA.25.215_2,3518800,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Itapecerica da Serra,member,SãoPaulo,ItapecericadaSerra,BRA.25.257_2,3522208,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Itapevi,member,SãoPaulo,Itapevi,BRA.25.260_2,3522505,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Itaquaquecetuba,member,SãoPaulo,Itaquaquecetuba,BRA.25.267_2,3523107,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Jandira,member,SãoPaulo,Jandira,BRA.25.286_2,3525003,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Juquitiba,member,SãoPaulo,Juquitiba,BRA.25.299_2,3526209,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Mairiporã,member,SãoPaulo,Mairiporã,BRA.25.323_2,3528502,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Mauá,member,SãoPaulo,Mauá,BRA.25.333_2,3529401,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Mogi das Cruzes,member,SãoPaulo,MogidasCruzes,BRA.25.346_2,3530607,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Osasco,member,SãoPaulo,Osasco,BRA.25.390_2,3534401,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Pirapora do Bom Jesus,member,SãoPaulo,PiraporadoBomJesus,BRA.25.440_2,3539103,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Poá,member,SãoPaulo,Poá,BRA.25.447_2,3539806,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Ribeirão Pires,member,SãoPaulo,RibeirãoPires,BRA.25.489_2,3543303,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Rio Grande da Serra,member,SãoPaulo,RioGrandedaSerra,BRA.25.496_2,3544103,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Salesópolis,member,SãoPaulo,Salesópolis,BRA.25.507_2,3545001,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Santa Isabel,member,SãoPaulo,SantaIsabel,BRA.25.526_2,3546801,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Santana de Parnaíba,member,SãoPaulo,SantanadeParnaíba,BRA.25.535_2,3547304,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Santo André,member,SãoPaulo,SantoAndré,BRA.25.537_2,3547809,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Suzano,member,SãoPaulo,Suzano,BRA.25.588_2,3552502,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,São Bernardo do Campo,member,SãoPaulo,SãoBernardodoCampo,BRA.25.547_2,3548708,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,São Caetano do Sul,member,SãoPaulo,SãoCaetanodoSul,BRA.25.548_2,3548807,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,São Lourenço da Serra,member,SãoPaulo,SãoLourençodaSerra,BRA.25.561_2,3549953,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,São Paulo,member,SãoPaulo,SãoPaulo,BRA.25.565_2,3550308,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Taboão da Serra,member,SãoPaulo,TaboãodaSerra,BRA.25.591_2,3552809,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM25,São Paulo RM,Vargem Grande Paulista,member,SãoPaulo,VargemGrandePaulista,BRA.25.636_2,3556453,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM26,Aracaju RM,Aracaju,member,Sergipe,Aracaju,BRA.26.3_2,2800308,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM26,Aracaju RM,Barra dos Coqueiros,member,Sergipe,BarradosCoqueiros,BRA.26.6_2,2800605,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM26,Aracaju RM,Nossa Senhora do Socorro,member,Sergipe,NossaSenhoradoSocorro,BRA.26.47_2,2804805,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核
+BRM26,Aracaju RM,São Cristóvão,member,Sergipe,SãoCristóvão,BRA.26.66_2,2806701,Município,name_exact,high,approved,黄丰,2026-09-29 13:11:23,机器匹配通过，待人工复核

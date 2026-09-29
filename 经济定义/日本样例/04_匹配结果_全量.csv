@@ -1,4 +1,5 @@
 ﻿metro_id,metro_name,geo_level,oe_city_code,member_level,member_jis,member_name,source_sheet,source_row,def_version,gid_2,gadm_name,type_2,match_method,confidence
+JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08203,Ibaraki-ken Tsuchiura-shi,Asia,1227,Global_Cities_Definitions_Oct19,JPN.14.39_1,Tsuchiura,Shi,name_exact,high
 JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08204,Ibaraki-ken Koga-shi,Asia,1228,Global_Cities_Definitions_Oct19,JPN.14.22_1,Koga,Shi,name_exact,high
 JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08208,Ibaraki-ken Ryugasaki-shi,Asia,1229,Global_Cities_Definitions_Oct19,JPN.14.30_1,Ryūgasaki,Shi,name_exact,high
 JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),08211,Ibaraki-ken Joso-shi,Asia,1230,Global_Cities_Definitions_Oct19,JPN.14.15_1,Jōsō,Shi,name_exact,high
@@ -213,6 +214,7 @@ JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),19206,Yamanash
 JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),19212,Yamanashi-ken Uenohara-shi,Asia,1439,Global_Cities_Definitions_Oct19,JPN.47.26_1,Uenohara,Shi,name_exact,high
 JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,Village (mura),19422,Yamanashi-ken Doshi-mura,Asia,1440,Global_Cities_Definitions_Oct19,JPN.47.2_1,Dōshi,Mura,name_exact,high
 JPM01,Tokyo (Kanto MMA),Major Metropolitan Area,JPN_01,City (shi),22205,Shizuoka-ken Atami-shi,Asia,1441,Global_Cities_Definitions_Oct19,JPN.38.2_1,Atami,Shi,name_exact,high
+JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),24208,Mie-ken Nabari-shi,Asia,1442,Global_Cities_Definitions_Oct19,JPN.23.16_1,Nabari,Shi,name_exact,high
 JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25201,Shiga-ken Otsu-shi,Asia,1443,Global_Cities_Definitions_Oct19,JPN.36.18_1,Ōtsu,Shi,name_exact,high
 JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25202,Shiga-ken Hikone-shi,Asia,1444,Global_Cities_Definitions_Oct19,JPN.36.4_1,Hikone,Shi,name_exact,high
 JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),25204,Shiga-ken Omihachiman-shi,Asia,1445,Global_Cities_Definitions_Oct19,JPN.36.17_1,Ōmihachiman,Shi,name_exact,high
@@ -347,6 +349,7 @@ JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),302
 JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,City (shi),30209,Wakayama-ken Iwade-shi,Asia,1574,Global_Cities_Definitions_Oct19,JPN.44.9_1,Iwade,Shi,name_exact,high
 JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),30341,Wakayama-ken Katsuragi-cho,Asia,1575,Global_Cities_Definitions_Oct19,JPN.44.12_1,Katsuragi,Machi,name_exact,high
 JPM02,Osaka-Kyoto (Keihanshin MMA),Major Metropolitan Area,JPN_02,Town (cho),30343,Wakayama-ken Kudoyama-cho,Asia,1576,Global_Cities_Definitions_Oct19,JPN.44.17_1,Kudoyama,Machi,name_exact,high
+JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21201,Gifu-ken Gifu-shi,Asia,1577,Global_Cities_Definitions_Oct19,JPN.9.4_1,Gifu,Shi,name_exact,high
 JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21202,Gifu-ken Ogaki-shi,Asia,1578,Global_Cities_Definitions_Oct19,JPN.9.27_1,Ōgaki,Shi,name_exact,high
 JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21204,Gifu-ken Tajimi-shi,Asia,1579,Global_Cities_Definitions_Oct19,JPN.9.34_1,Tajimi,Shi,name_exact,high
 JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,City (shi),21208,Gifu-ken Mizunami-shi,Asia,1580,Global_Cities_Definitions_Oct19,JPN.9.24_1,Mizunami,Shi,name_exact,high
@@ -431,6 +434,7 @@ JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24324,Mie-ke
 JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24341,Mie-ken Komono-cho,Asia,1659,Global_Cities_Definitions_Oct19,JPN.23.9_1,Komono,Machi,name_exact,high
 JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24343,Mie-ken Asahi-cho,Asia,1660,Global_Cities_Definitions_Oct19,JPN.23.1_1,Asahi,Machi,name_exact,high
 JPM03,Nagoya (Chukyo MMA),Major Metropolitan Area,JPN_03,Town (cho),24344,Mie-ken Kawagoe-cho,Asia,1661,Global_Cities_Definitions_Oct19,JPN.23.6_1,Kawagoe,Machi,name_exact,high
+JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),35201,Yamaguchi-ken Shimonoseki-shi,Asia,1662,Global_Cities_Definitions_Oct19,JPN.46.13_1,Shimonoseki,Shi,name_exact,high
 JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40100,Fukuoka-ken Kitakyushu-shi,Asia,1663,Global_Cities_Definitions_Oct19,JPN.7.25_1,Kitakyūshū,Shi,name_exact,high
 JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40130,Fukuoka-ken Fukuoka-shi,Asia,1664,Global_Cities_Definitions_Oct19,JPN.7.11_1,Fukuoka,Shi,name_exact,high
 JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,City (shi),40202,Fukuoka-ken Omuta-shi,Asia,1665,Global_Cities_Definitions_Oct19,JPN.7.46_1,Ōmuta,Shi,name_exact,high
@@ -494,6 +498,7 @@ JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41327,Sag
 JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41341,Saga-ken Kiyama-cho,Asia,1723,Global_Cities_Definitions_Oct19,JPN.34.8_1,Kiyama,Machi,name_exact,high
 JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41345,Saga-ken Kamimine-cho,Asia,1724,Global_Cities_Definitions_Oct19,JPN.34.4_1,Kamimine,Machi,name_exact,high
 JPM04,Kitakyushu-Fukuoka MMA,Major Metropolitan Area,JPN_04,Town (cho),41346,Saga-ken Miyaki-cho,Asia,1725,Global_Cities_Definitions_Oct19,JPN.34.10_1,Miyaki,Machi,name_exact,high
+JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04100,Miyagi-ken Sendai-shi,Asia,1726,Global_Cities_Definitions_Oct19,JPN.24.22_1,Sendai,Shi,name_exact,high
 JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04202,Miyagi-ken Ishinomaki-shi,Asia,1727,Global_Cities_Definitions_Oct19,JPN.24.2_1,Ishinomaki,Shi,name_exact,high
 JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04203,Miyagi-ken Shiogama-shi,Asia,1728,Global_Cities_Definitions_Oct19,JPN.24.27_1,Shiogama,Shi,name_exact,high
 JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,City (shi),04206,Miyagi-ken Shiroishi-shi,Asia,1729,Global_Cities_Definitions_Oct19,JPN.24.28_1,Shiroishi,Shi,name_exact,high
@@ -525,6 +530,7 @@ JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04445,Miyagi-ken Ka
 JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (cho),04501,Miyagi-ken Wakuya-cho,Asia,1755,Global_Cities_Definitions_Oct19,JPN.24.33_1,Wakuya,Machi,name_exact,high
 JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),04505,Miyagi-ken Misato-machi,Asia,1756,Global_Cities_Definitions_Oct19,JPN.24.12_1,Misato,Machi,name_exact,high
 JPM05,Sendai MMA,Major Metropolitan Area,JPN_05,Town (machi),07561,Fukushima-ken Shinchi-machi,Asia,1757,Global_Cities_Definitions_Oct19,JPN.8.46_1,Shinchi,Machi,name_exact,high
+JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01100,Hokkaido Sapporo-shi,Asia,1758,Global_Cities_Definitions_Oct19,JPN.12.123_1,Sapporo,Machi,name_exact,high
 JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01203,Hokkaido Otaru-shi,Asia,1759,Global_Cities_Definitions_Oct19,JPN.12.108_1,Otaru,Shi,name_exact,high
 JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01210,Hokkaido Iwamizawa-shi,Asia,1760,Global_Cities_Definitions_Oct19,JPN.12.48_1,Iwamizawa,Shi,name_exact,high
 JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,City (shi),01215,Hokkaido Bibai-shi,Asia,1761,Global_Cities_Definitions_Oct19,JPN.12.13_1,Bibai,Shi,name_exact,high
@@ -538,6 +544,7 @@ JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Village (mura),01304,Hokkaido S
 JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01423,Hokkaido Nanporo-cho,Asia,1769,Global_Cities_Definitions_Oct19,JPN.12.92_1,Nanporo,Machi,name_exact,high
 JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01428,Hokkaido Naganuma-cho,Asia,1770,Global_Cities_Definitions_Oct19,JPN.12.84_1,Naganuma,Machi,name_exact,high
 JPM06,Sapporo MMA,Major Metropolitan Area,JPN_06,Town (cho),01429,Hokkaido Kuriyama-cho,Asia,1771,Global_Cities_Definitions_Oct19,JPN.12.65_1,Kuriyama,Machi,name_exact,high
+JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34100,Hiroshima-ken Hiroshima-shi,Asia,1772,Global_Cities_Definitions_Oct19,JPN.11.9_1,Hiroshima,Shi,name_exact,high
 JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34202,Hiroshima-ken Kure-shi,Asia,1773,Global_Cities_Definitions_Oct19,JPN.11.14_1,Kure,Shi,name_exact,high
 JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34211,Hiroshima-ken Otake-shi,Asia,1774,Global_Cities_Definitions_Oct19,JPN.11.19_1,Ōtake,Shi,name_exact,high
 JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),34212,Hiroshima-ken Higashihiroshima-shi,Asia,1775,Global_Cities_Definitions_Oct19,JPN.11.8_1,Higashihiroshima,Shi,name_exact,high
@@ -552,6 +559,7 @@ JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34368,Hiroshima-ke
 JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),34369,Hiroshima-ken Kitahiroshima-cho,Asia,1784,Global_Cities_Definitions_Oct19,JPN.11.12_1,Kitahiroshima,Machi,name_exact,high
 JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,City (shi),35208,Yamaguchi-ken Iwakuni-shi,Asia,1785,Global_Cities_Definitions_Oct19,JPN.46.7_1,Iwakuni,Shi,name_exact,high
 JPM07,Hiroshima MMA,Major Metropolitan Area,JPN_07,Town (cho),35321,Yamaguchi-ken Waki-cho,Asia,1786,Global_Cities_Definitions_Oct19,JPN.46.18_1,Waki,Machi,name_exact,high
+JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33100,Okayama-ken Okayama-shi,Asia,1787,Global_Cities_Definitions_Oct19,JPN.31.18_1,Okayama,Shi,name_exact,high
 JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33202,Okayama-ken Kurashiki-shi,Asia,1788,Global_Cities_Definitions_Oct19,JPN.31.10_1,Kurashiki,Shi,name_exact,high
 JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33204,Okayama-ken Tamano-shi,Asia,1789,Global_Cities_Definitions_Oct19,JPN.31.26_1,Tamano,Shi,name_exact,high
 JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,City (shi),33205,Okayama-ken Kasaoka-shi,Asia,1790,Global_Cities_Definitions_Oct19,JPN.31.7_1,Kasaoka,Shi,name_exact,high
@@ -568,6 +576,7 @@ JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33461,Okayama-ken Ya
 JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33663,Okayama-ken Kumenan-cho,Asia,1801,Global_Cities_Definitions_Oct19,JPN.31.9_1,Kumenan,Machi,name_exact,high
 JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33666,Okayama-ken Misaki-cho,Asia,1802,Global_Cities_Definitions_Oct19,JPN.31.13_1,Misaki,Machi,name_exact,high
 JPM08,Okayama MMA,Major Metropolitan Area,JPN_08,Town (cho),33681,Okayama-ken Kibichuo-cho,Asia,1803,Global_Cities_Definitions_Oct19,JPN.31.8_1,Kibichūō,Machi,name_exact,high
+JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (cho),19366,Yamanashi-ken Nambu-cho,Asia,1804,Global_Cities_Definitions_Oct19,JPN.47.17_1,Nanbu,Machi,name_fuzzy,medium
 JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22100,Shizuoka-ken Shizuoka-shi,Asia,1805,Global_Cities_Definitions_Oct19,JPN.38.38_1,Shizuoka,Shi,name_exact,high
 JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22130,Shizuoka-ken Hamamatsu-shi,Asia,1806,Global_Cities_Definitions_Oct19,JPN.38.9_1,Hamamatsu,Shi,name_exact,high
 JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22207,Shizuoka-ken Fujinomiya-shi,Asia,1807,Global_Cities_Definitions_Oct19,JPN.38.6_1,Fujinomiya,Shi,name_exact,high
@@ -584,6 +593,7 @@ JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,City (shi),22226,Shi
 JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (cho),22424,Shizuoka-ken Yoshida-cho,Asia,1818,Global_Cities_Definitions_Oct19,JPN.38.42_1,Yoshida,Machi,name_exact,high
 JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (machi),22461,Shizuoka-ken Mori-machi,Asia,1819,Global_Cities_Definitions_Oct19,JPN.38.26_1,Mori,Machi,name_exact,high
 JPM09,Shizuoka-Hamamatsu MMA,Major Metropolitan Area,JPN_09,Town (cho),23562,Aichi-ken Toei-cho,Asia,1820,Global_Cities_Definitions_Oct19,JPN.1.53_1,Tōei,Machi,name_exact,high
+JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15100,Niigata-ken Niigata-shi,Asia,1821,Global_Cities_Definitions_Oct19,JPN.29.17_1,Niigata,Shi,name_exact,high
 JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15204,Niigata-ken Sanjo-shi,Asia,1822,Global_Cities_Definitions_Oct19,JPN.29.20_1,Sanjō,Shi,name_exact,high
 JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15206,Niigata-ken Shibata-shi,Asia,1823,Global_Cities_Definitions_Oct19,JPN.29.23_1,Shibata,Shi,name_exact,high
 JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,City (shi),15209,Niigata-ken Kamo-shi,Asia,1824,Global_Cities_Definitions_Oct19,JPN.29.8_1,Kamo,Shi,name_exact,high
@@ -598,6 +608,7 @@ JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Village (mura),15342,Niigata-ke
 JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Town (machi),15361,Niigata-ken Tagami-machi,Asia,1833,Global_Cities_Definitions_Oct19,JPN.29.24_1,Tagami,Machi,name_exact,high
 JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Town (machi),15385,Niigata-ken Aga-machi,Asia,1834,Global_Cities_Definitions_Oct19,JPN.29.1_1,Aga,Machi,name_exact,high
 JPM10,Niigata MMA,Major Metropolitan Area,JPN_10,Village (mura),15581,Niigata-ken Sekikawa-mura,Asia,1835,Global_Cities_Definitions_Oct19,JPN.29.22_1,Sekikawa,Mura,name_exact,high
+JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43100,Kumamoto-ken Kumamoto-shi,Asia,1836,Global_Cities_Definitions_Oct19,JPN.21.17_1,Kumamoto,Shi,name_exact,high
 JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43202,Kumamoto-ken Yatsushiro-shi,Asia,1837,Global_Cities_Definitions_Oct19,JPN.21.47_1,Yatsushiro,Shi,name_exact,high
 JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43206,Kumamoto-ken Tamana-shi,Asia,1838,Global_Cities_Definitions_Oct19,JPN.21.35_1,Tamana,Shi,name_exact,high
 JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,City (shi),43208,Kumamoto-ken Yamaga-shi,Asia,1839,Global_Cities_Definitions_Oct19,JPN.21.45_1,Yamaga,Shi,name_exact,high
@@ -623,6 +634,7 @@ JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43443,Kumamoto-ke
 JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (machi),43444,Kumamoto-ken Kosa-machi,Asia,1859,Global_Cities_Definitions_Oct19,JPN.21.14_1,Kōsa,Machi,name_exact,high
 JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (cho),43447,Kumamoto-ken Yamato-cho,Asia,1860,Global_Cities_Definitions_Oct19,JPN.21.46_1,Yamato,Machi,name_exact,high
 JPM11,Kumamoto MMA,Major Metropolitan Area,JPN_11,Town (cho),43468,Kumamoto-ken Hikawa-cho,Asia,1861,Global_Cities_Definitions_Oct19,JPN.21.6_1,Hikawa,Machi,name_exact,high
+JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46201,Kagoshima-ken Kagoshima-shi,Asia,1862,Global_Cities_Definitions_Oct19,JPN.18.13_1,Kagoshima,Shi,name_exact,high
 JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46204,Kagoshima-ken Makurazaki-shi,Asia,1863,Global_Cities_Definitions_Oct19,JPN.18.21_1,Makurazaki,Shi,name_exact,high
 JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46210,Kagoshima-ken Ibusuki-shi,Asia,1864,Global_Cities_Definitions_Oct19,JPN.18.9_1,Ibusuki,Shi,name_exact,high
 JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46214,Kagoshima-ken Tarumizu-shi,Asia,1865,Global_Cities_Definitions_Oct19,JPN.18.37_1,Tarumizu,Shi,name_exact,high
@@ -633,6 +645,7 @@ JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46219,Kagoshima-ken Ichik
 JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46220,Kagoshima-ken Minamisatsuma-shi,Asia,1870,Global_Cities_Definitions_Oct19,JPN.18.24_1,Minamisatsuma,Shi,name_exact,high
 JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46223,Kagoshima-ken Minamikyusyu-shi,Asia,1871,Global_Cities_Definitions_Oct19,JPN.18.22_1,Minamikyūshū,Machi,name_exact,high
 JPM12,Kagoshima MA,Metropolitan Area,JPN_12,City (shi),46225,Kagoshima-ken Aira-shi,Asia,1872,Global_Cities_Definitions_Oct19,JPN.18.1_1,Aira,Machi,name_exact,high
+JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38201,Ehime-ken Matsuyama-shi,Asia,1873,Global_Cities_Definitions_Oct19,JPN.5.10_1,Matsuyama,Shi,name_exact,high
 JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38207,Ehime-ken Ozu-shi,Asia,1874,Global_Cities_Definitions_Oct19,JPN.5.12_1,Ōzu,Shi,name_exact,high
 JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38210,Ehime-ken Iyo-shi,Asia,1875,Global_Cities_Definitions_Oct19,JPN.5.4_1,Iyo,Shi,name_exact,high
 JPM13,Matsuyama MA,Metropolitan Area,JPN_13,City (shi),38215,Ehime-ken Toon-shi,Asia,1876,Global_Cities_Definitions_Oct19,JPN.5.17_1,Tōon,Shi,name_exact,high
@@ -640,6 +653,7 @@ JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38386,Ehime-ken Kumakogen
 JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38401,Ehime-ken Masaki-cho,Asia,1878,Global_Cities_Definitions_Oct19,JPN.5.8_1,Masaki,Machi,name_exact,high
 JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38402,Ehime-ken Tobe-cho,Asia,1879,Global_Cities_Definitions_Oct19,JPN.5.16_1,Tobe,Machi,name_exact,high
 JPM13,Matsuyama MA,Metropolitan Area,JPN_13,Town (cho),38422,Ehime-ken Uchiko-cho,Asia,1880,Global_Cities_Definitions_Oct19,JPN.5.18_1,Uchiko,Machi,name_exact,high
+JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09201,Tochigi-ken Utsunomiya-shi,Asia,1881,Global_Cities_Definitions_Oct19,JPN.39.30_1,Utsunomiya,Shi,name_exact,high
 JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09203,Tochigi-ken Tochigi-shi,Asia,1882,Global_Cities_Definitions_Oct19,JPN.39.28_1,Tochigi,Shi,name_exact,high
 JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09205,Tochigi-ken Kanuma-shi,Asia,1883,Global_Cities_Definitions_Oct19,JPN.39.7_1,Kanuma,Shi,name_exact,high
 JPM14,Utsunomiya MA,Metropolitan Area,JPN_14,City (shi),09206,Tochigi-ken Nikko-shi,Asia,1884,Global_Cities_Definitions_Oct19,JPN.39.16_1,Nikkō,Shi,name_exact,high

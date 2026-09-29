@@ -83,6 +83,12 @@ def read_oe_japan():
             if (r[1] or '').strip() == 'Japan':
                 cur = {'name': str(r[0]).strip(), 'oe_code': r[2], 'level': r[3], 'members': []}
                 cities.append(cur)
+                # 源表把第一个成员写在该城市行上（本地代码与本地名称列），其余成员才在续行。
+                # 早先只收续行，导致每个都市圈漏掉一个市镇（日本漏 14 个，多为核心市本身）。
+                if r[6]:
+                    cur["members"].append({"level": r[4],
+                                           "jis": str(r[5]).strip() if r[5] else "",
+                                           "name": str(r[6]).strip(), "row": i})
         elif cur is not None and any(x is not None and str(x).strip() for x in r[4:7]):
             cur['members'].append({'level': r[4],
                                    'jis': str(r[5]).strip() if r[5] else '',
@@ -173,7 +179,7 @@ def main():
             queue.append(row)
         out.append(row)
 
-    with open(os.path.join(HERE, '04_匹配结果_全量661.csv'), 'w', newline='', encoding='utf-8-sig') as f:
+    with open(os.path.join(HERE, '04_匹配结果_全量.csv'), 'w', newline='', encoding='utf-8-sig') as f:
         w = csv.DictWriter(f, fieldnames=list(out[0].keys()))
         w.writeheader()
         w.writerows(out)

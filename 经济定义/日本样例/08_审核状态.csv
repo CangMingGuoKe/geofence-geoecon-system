@@ -1,4 +1,5 @@
 ﻿metro_id,metro_name,member_name,member_jis,pref_name,muni_name,gid_2,type_2,match_method,confidence,review_status,reviewer,review_time,review_reason
+JPM01,Tokyo (Kanto MMA),Ibaraki-ken Tsuchiura-shi,08203,Ibaraki,Tsuchiura,JPN.14.39_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM01,Tokyo (Kanto MMA),Ibaraki-ken Koga-shi,08204,Ibaraki,Koga,JPN.14.22_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM01,Tokyo (Kanto MMA),Ibaraki-ken Ryugasaki-shi,08208,Ibaraki,Ryūgasaki,JPN.14.30_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM01,Tokyo (Kanto MMA),Ibaraki-ken Joso-shi,08211,Ibaraki,Jōsō,JPN.14.15_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -213,6 +214,7 @@ JPM01,Tokyo (Kanto MMA),Yamanashi-ken Otsuki-shi,19206,Yamanashi,Ōtsuki,JPN.47.
 JPM01,Tokyo (Kanto MMA),Yamanashi-ken Uenohara-shi,19212,Yamanashi,Uenohara,JPN.47.26_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM01,Tokyo (Kanto MMA),Yamanashi-ken Doshi-mura,19422,Yamanashi,Dōshi,JPN.47.2_1,Mura,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM01,Tokyo (Kanto MMA),Shizuoka-ken Atami-shi,22205,Shizuoka,Atami,JPN.38.2_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM02,Osaka-Kyoto (Keihanshin MMA),Mie-ken Nabari-shi,24208,Mie,Nabari,JPN.23.16_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Otsu-shi,25201,Shiga,Ōtsu,JPN.36.18_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Hikone-shi,25202,Shiga,Hikone,JPN.36.4_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM02,Osaka-Kyoto (Keihanshin MMA),Shiga-ken Omihachiman-shi,25204,Shiga,Ōmihachiman,JPN.36.17_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -347,6 +349,7 @@ JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Hashimoto-shi,30203,Wakayama,Has
 JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Iwade-shi,30209,Wakayama,Iwade,JPN.44.9_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Katsuragi-cho,30341,Wakayama,Katsuragi,JPN.44.12_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM02,Osaka-Kyoto (Keihanshin MMA),Wakayama-ken Kudoyama-cho,30343,Wakayama,Kudoyama,JPN.44.17_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM03,Nagoya (Chukyo MMA),Gifu-ken Gifu-shi,21201,Gifu,Gifu,JPN.9.4_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM03,Nagoya (Chukyo MMA),Gifu-ken Ogaki-shi,21202,Gifu,Ōgaki,JPN.9.27_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM03,Nagoya (Chukyo MMA),Gifu-ken Tajimi-shi,21204,Gifu,Tajimi,JPN.9.34_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM03,Nagoya (Chukyo MMA),Gifu-ken Mizunami-shi,21208,Gifu,Mizunami,JPN.9.24_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -431,6 +434,7 @@ JPM03,Nagoya (Chukyo MMA),Mie-ken Toin-cho,24324,Mie,Tōin,JPN.23.25_1,Machi,nam
 JPM03,Nagoya (Chukyo MMA),Mie-ken Komono-cho,24341,Mie,Komono,JPN.23.9_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM03,Nagoya (Chukyo MMA),Mie-ken Asahi-cho,24343,Mie,Asahi,JPN.23.1_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM03,Nagoya (Chukyo MMA),Mie-ken Kawagoe-cho,24344,Mie,Kawagoe,JPN.23.6_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM04,Kitakyushu-Fukuoka MMA,Yamaguchi-ken Shimonoseki-shi,35201,Yamaguchi,Shimonoseki,JPN.46.13_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Kitakyushu-shi,40100,Fukuoka,Kitakyūshū,JPN.7.25_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Fukuoka-shi,40130,Fukuoka,Fukuoka,JPN.7.11_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM04,Kitakyushu-Fukuoka MMA,Fukuoka-ken Omuta-shi,40202,Fukuoka,Ōmuta,JPN.7.46_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -494,6 +498,7 @@ JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Yoshinogari-cho,41327,Saga,Yoshinogari,JPN
 JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Kiyama-cho,41341,Saga,Kiyama,JPN.34.8_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Kamimine-cho,41345,Saga,Kamimine,JPN.34.4_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM04,Kitakyushu-Fukuoka MMA,Saga-ken Miyaki-cho,41346,Saga,Miyaki,JPN.34.10_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM05,Sendai MMA,Miyagi-ken Sendai-shi,04100,Miyagi,Sendai,JPN.24.22_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM05,Sendai MMA,Miyagi-ken Ishinomaki-shi,04202,Miyagi,Ishinomaki,JPN.24.2_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM05,Sendai MMA,Miyagi-ken Shiogama-shi,04203,Miyagi,Shiogama,JPN.24.27_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM05,Sendai MMA,Miyagi-ken Shiroishi-shi,04206,Miyagi,Shiroishi,JPN.24.28_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -525,6 +530,7 @@ JPM05,Sendai MMA,Miyagi-ken Kami-machi,04445,Miyagi,KamiTown,JPN.24.5_1,Machi,na
 JPM05,Sendai MMA,Miyagi-ken Wakuya-cho,04501,Miyagi,Wakuya,JPN.24.33_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM05,Sendai MMA,Miyagi-ken Misato-machi,04505,Miyagi,Misato,JPN.24.12_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM05,Sendai MMA,Fukushima-ken Shinchi-machi,07561,Fukushima,Shinchi,JPN.8.46_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM06,Sapporo MMA,Hokkaido Sapporo-shi,01100,Hokkaido,Sapporo,JPN.12.123_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM06,Sapporo MMA,Hokkaido Otaru-shi,01203,Hokkaido,Otaru,JPN.12.108_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM06,Sapporo MMA,Hokkaido Iwamizawa-shi,01210,Hokkaido,Iwamizawa,JPN.12.48_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM06,Sapporo MMA,Hokkaido Bibai-shi,01215,Hokkaido,Bibai,JPN.12.13_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -538,6 +544,7 @@ JPM06,Sapporo MMA,Hokkaido Shinshinotsu-mura,01304,Hokkaido,Shinshinotsu,JPN.12.
 JPM06,Sapporo MMA,Hokkaido Nanporo-cho,01423,Hokkaido,Nanporo,JPN.12.92_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM06,Sapporo MMA,Hokkaido Naganuma-cho,01428,Hokkaido,Naganuma,JPN.12.84_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM06,Sapporo MMA,Hokkaido Kuriyama-cho,01429,Hokkaido,Kuriyama,JPN.12.65_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM07,Hiroshima MMA,Hiroshima-ken Hiroshima-shi,34100,Hiroshima,Hiroshima,JPN.11.9_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM07,Hiroshima MMA,Hiroshima-ken Kure-shi,34202,Hiroshima,Kure,JPN.11.14_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM07,Hiroshima MMA,Hiroshima-ken Otake-shi,34211,Hiroshima,Ōtake,JPN.11.19_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM07,Hiroshima MMA,Hiroshima-ken Higashihiroshima-shi,34212,Hiroshima,Higashihiroshima,JPN.11.8_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -552,6 +559,7 @@ JPM07,Hiroshima MMA,Hiroshima-ken Akiota-cho,34368,Hiroshima,Akiōta,JPN.11.1_1,
 JPM07,Hiroshima MMA,Hiroshima-ken Kitahiroshima-cho,34369,Hiroshima,Kitahiroshima,JPN.11.12_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM07,Hiroshima MMA,Yamaguchi-ken Iwakuni-shi,35208,Yamaguchi,Iwakuni,JPN.46.7_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM07,Hiroshima MMA,Yamaguchi-ken Waki-cho,35321,Yamaguchi,Waki,JPN.46.18_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM08,Okayama MMA,Okayama-ken Okayama-shi,33100,Okayama,Okayama,JPN.31.18_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM08,Okayama MMA,Okayama-ken Kurashiki-shi,33202,Okayama,Kurashiki,JPN.31.10_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM08,Okayama MMA,Okayama-ken Tamano-shi,33204,Okayama,Tamano,JPN.31.26_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM08,Okayama MMA,Okayama-ken Kasaoka-shi,33205,Okayama,Kasaoka,JPN.31.7_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -568,6 +576,7 @@ JPM08,Okayama MMA,Okayama-ken Yakage-cho,33461,Okayama,Yakage,JPN.31.30_1,Machi,
 JPM08,Okayama MMA,Okayama-ken Kumenan-cho,33663,Okayama,Kumenan,JPN.31.9_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM08,Okayama MMA,Okayama-ken Misaki-cho,33666,Okayama,Misaki,JPN.31.13_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM08,Okayama MMA,Okayama-ken Kibichuo-cho,33681,Okayama,Kibichūō,JPN.31.8_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM09,Shizuoka-Hamamatsu MMA,Yamanashi-ken Nambu-cho,19366,Yamanashi,Nanbu,JPN.47.17_1,Machi,name_fuzzy,medium,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Shizuoka-shi,22100,Shizuoka,Shizuoka,JPN.38.38_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Hamamatsu-shi,22130,Shizuoka,Hamamatsu,JPN.38.9_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Fujinomiya-shi,22207,Shizuoka,Fujinomiya,JPN.38.6_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -584,6 +593,7 @@ JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Makinohara-shi,22226,Shizuoka,Makinoha
 JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Yoshida-cho,22424,Shizuoka,Yoshida,JPN.38.42_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM09,Shizuoka-Hamamatsu MMA,Shizuoka-ken Mori-machi,22461,Shizuoka,Mori,JPN.38.26_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM09,Shizuoka-Hamamatsu MMA,Aichi-ken Toei-cho,23562,Aichi,Tōei,JPN.1.53_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM10,Niigata MMA,Niigata-ken Niigata-shi,15100,Niigata,Niigata,JPN.29.17_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM10,Niigata MMA,Niigata-ken Sanjo-shi,15204,Niigata,Sanjō,JPN.29.20_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM10,Niigata MMA,Niigata-ken Shibata-shi,15206,Niigata,Shibata,JPN.29.23_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM10,Niigata MMA,Niigata-ken Kamo-shi,15209,Niigata,Kamo,JPN.29.8_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -598,6 +608,7 @@ JPM10,Niigata MMA,Niigata-ken Yahiko-mura,15342,Niigata,Yahiko,JPN.29.30_1,Mura,
 JPM10,Niigata MMA,Niigata-ken Tagami-machi,15361,Niigata,Tagami,JPN.29.24_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM10,Niigata MMA,Niigata-ken Aga-machi,15385,Niigata,Aga,JPN.29.1_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM10,Niigata MMA,Niigata-ken Sekikawa-mura,15581,Niigata,Sekikawa,JPN.29.22_1,Mura,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM11,Kumamoto MMA,Kumamoto-ken Kumamoto-shi,43100,Kumamoto,Kumamoto,JPN.21.17_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM11,Kumamoto MMA,Kumamoto-ken Yatsushiro-shi,43202,Kumamoto,Yatsushiro,JPN.21.47_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM11,Kumamoto MMA,Kumamoto-ken Tamana-shi,43206,Kumamoto,Tamana,JPN.21.35_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM11,Kumamoto MMA,Kumamoto-ken Yamaga-shi,43208,Kumamoto,Yamaga,JPN.21.45_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -623,6 +634,7 @@ JPM11,Kumamoto MMA,Kumamoto-ken Mashiki-machi,43443,Kumamoto,Mashiki,JPN.21.18_1
 JPM11,Kumamoto MMA,Kumamoto-ken Kosa-machi,43444,Kumamoto,Kōsa,JPN.21.14_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM11,Kumamoto MMA,Kumamoto-ken Yamato-cho,43447,Kumamoto,Yamato,JPN.21.46_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM11,Kumamoto MMA,Kumamoto-ken Hikawa-cho,43468,Kumamoto,Hikawa,JPN.21.6_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM12,Kagoshima MA,Kagoshima-ken Kagoshima-shi,46201,Kagoshima,Kagoshima,JPN.18.13_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM12,Kagoshima MA,Kagoshima-ken Makurazaki-shi,46204,Kagoshima,Makurazaki,JPN.18.21_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM12,Kagoshima MA,Kagoshima-ken Ibusuki-shi,46210,Kagoshima,Ibusuki,JPN.18.9_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM12,Kagoshima MA,Kagoshima-ken Tarumizu-shi,46214,Kagoshima,Tarumizu,JPN.18.37_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -633,6 +645,7 @@ JPM12,Kagoshima MA,Kagoshima-ken Ichikikushikino-shi,46219,Kagoshima,Ichikikushi
 JPM12,Kagoshima MA,Kagoshima-ken Minamisatsuma-shi,46220,Kagoshima,Minamisatsuma,JPN.18.24_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM12,Kagoshima MA,Kagoshima-ken Minamikyusyu-shi,46223,Kagoshima,Minamikyūshū,JPN.18.22_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM12,Kagoshima MA,Kagoshima-ken Aira-shi,46225,Kagoshima,Aira,JPN.18.1_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM13,Matsuyama MA,Ehime-ken Matsuyama-shi,38201,Ehime,Matsuyama,JPN.5.10_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM13,Matsuyama MA,Ehime-ken Ozu-shi,38207,Ehime,Ōzu,JPN.5.12_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM13,Matsuyama MA,Ehime-ken Iyo-shi,38210,Ehime,Iyo,JPN.5.4_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM13,Matsuyama MA,Ehime-ken Toon-shi,38215,Ehime,Tōon,JPN.5.17_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
@@ -640,6 +653,7 @@ JPM13,Matsuyama MA,Ehime-ken Kumakogen-cho,38386,Ehime,Kumakōgen,JPN.5.7_1,Mach
 JPM13,Matsuyama MA,Ehime-ken Masaki-cho,38401,Ehime,Masaki,JPN.5.8_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM13,Matsuyama MA,Ehime-ken Tobe-cho,38402,Ehime,Tobe,JPN.5.16_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM13,Matsuyama MA,Ehime-ken Uchiko-cho,38422,Ehime,Uchiko,JPN.5.18_1,Machi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
+JPM14,Utsunomiya MA,Tochigi-ken Utsunomiya-shi,09201,Tochigi,Utsunomiya,JPN.39.30_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM14,Utsunomiya MA,Tochigi-ken Tochigi-shi,09203,Tochigi,Tochigi,JPN.39.28_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM14,Utsunomiya MA,Tochigi-ken Kanuma-shi,09205,Tochigi,Kanuma,JPN.39.7_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
 JPM14,Utsunomiya MA,Tochigi-ken Nikko-shi,09206,Tochigi,Nikkō,JPN.39.16_1,Shi,name_exact,high,approved,科研助理(演示),2026-09-29 01:03:38,机器匹配通过(name_exact/type_aware/name_fuzzy)，待黄丰老师终审
