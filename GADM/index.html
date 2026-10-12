@@ -99,7 +99,7 @@
 <div class="wrap">
   <header>
     <h1>地理围栏互动地图 · Geofence Explorer</h1>
-    <div class="sub">数据源 <b>GADM 4.1</b> · 全球 GDP Top20 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县）</div>
+    <div class="sub">数据源 <b>CTAmap</b>（中国层）与 <b>GADM 4.1</b>（其余 19 国） · 全球 GDP Top20 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县）</div>
   </header>
 
   <div class="card controls">
@@ -156,9 +156,9 @@
   </div>
 
   <footer>
-    边界数据来自 GADM 4.1，仅限学术 / 非商业使用，不可再分发。<br>
+    行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 19 国取自 GADM 4.1。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发。<br>
     城市标注为示意（中英文可切换），仅用于快速定位重点城市，非本数据集内容。<br>
-    <span class="warn">⚠ 中国区县（L4）已经过民政部真值全国校正（区县改名 / 区级错挂重标 / 空名补齐），但仍存在市中心区被合并、约三成区县缺失等问题，仅供粗略参考；中国边界以 GADM 国际口径为准，不含南海诸岛 / 九段线，中印争议区（阿克赛钦 / 班公错）已保留，不可作正式出版图。</span>
+    <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）L4 留空；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span>
   </footer>
 </div>
 
@@ -365,6 +365,17 @@ function render(){
     }
     ctx.fill('evenodd');
     ctx.stroke();
+  }
+
+  if(data.lines){
+    ctx.strokeStyle = '#c0392b';
+    ctx.lineWidth = 1.6;
+    for(const ln of data.lines){
+      ctx.beginPath();
+      ctx.moveTo(X(ln[0][0]), Y(ln[0][1]));
+      for(let i=1;i<ln.length;i++) ctx.lineTo(X(ln[i][0]), Y(ln[i][1]));
+      ctx.stroke();
+    }
   }
 
   if(showMetro && hasMetro(country)){
