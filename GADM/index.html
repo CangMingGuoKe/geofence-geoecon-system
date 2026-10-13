@@ -158,7 +158,7 @@
   <footer>
     行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 19 国取自 GADM 4.1。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发。<br>
     城市标注为示意（中英文可切换），仅用于快速定位重点城市，非本数据集内容。<br>
-    <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）在区县视图下呈空白，因其不设区、L4 无单元；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span>
+    <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）以市域自身充当其区县单元；台湾与香港无区县数据，区县视图下以县市（L3）呈现；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span>
   </footer>
 </div>
 
@@ -427,7 +427,7 @@ function render(){
   }
 
   let meta = data.name_zh + ' ' + data.name_en + ' · L' + level + ' ' + LEVEL_LABEL[level] + ' · ' + feats.length + ' 个';
-  if(country === 'CHN' && level === '4') meta += ' · 台湾无区县数据，以县市(L3)呈现；儋州、东莞、嘉峪关、中山不设区，L4 呈空白';
+  if(country === 'CHN' && level === '4') meta += ' · 台湾与香港无区县数据，以县市(L3)呈现；儋州、东莞、嘉峪关、中山不设区，以市域自身呈现';
   if(highlight && highlight.iso3===country && highlight.lv===level) meta += ' · 已定位 ' + highlight.zh;
   document.getElementById('meta').textContent = meta;
 }
