@@ -1,0 +1,7 @@
+raw/*
+!raw/v1_member_matches.csv
+!raw/v1_spatial_summary.csv
+!raw/fua_reference_manifest.json
+__pycache__/
+.runtime/
+*.log

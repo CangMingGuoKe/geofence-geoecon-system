@@ -1,0 +1,4 @@
+﻿old_ags,old_name,successor_ags,successor_name,effective_date,fua_code,evidence_url,successor_already_in_same_fua,geometry_action,review_status
+01059101,Tastrup,01059126,Hürup,2023-03-01,DE049F,https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/IV/Presse/PI/2023/230303_Gemeindefusion,True,already contained in successor polygon; do not add duplicate geometry,pending
+01059141,Maasbüll,01059126,Hürup,2023-03-01,DE049F,https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/IV/Presse/PI/2023/230303_Gemeindefusion,True,already contained in successor polygon; do not add duplicate geometry,pending
+16076026,Hartmannsdorf,16076003,Bad Köstritz,2023-01-01,DE113F,https://statistik.thueringen.de/datenbank/gebiet3.asp?nr=76003,True,already contained in successor polygon; do not add duplicate geometry,pending

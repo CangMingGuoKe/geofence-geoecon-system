@@ -1,0 +1,1062 @@
+﻿member_ags,oecd_name,official_name,fua_code,difference_type,classification_is_diagnostic,review_status
+01001000,Flensburg,"Flensburg, Stadt",DE049F,comma_suffix_or_qualifier_only,True,pending
+01002000,Kiel,"Kiel, Landeshauptstadt",DE036F,comma_suffix_or_qualifier_only,True,pending
+01003000,Lübeck,"Lübeck, Hansestadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+01056044,Schenefeld,"Schenefeld, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01059113,Glücksburg (Ostsee),"Glücksburg (Ostsee), Stadt",DE049F,comma_suffix_or_qualifier_only,True,pending
+02000000,Hamburg,"Hamburg, Freie und Hansestadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03151040,Wittingen,"Wittingen, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154501,Brunsleberfeld,"Brunsleberfeld, gemfr. Gebiet",DE104F,comma_suffix_or_qualifier_only,True,pending
+03159014,Gieboldehausen,"Gieboldehausen, Flecken",DE020F,comma_suffix_or_qualifier_only,True,pending
+03241001,Hannover,"Hannover, Landeshauptstadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241002,Barsinghausen,"Barsinghausen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241006,Gehrden,"Gehrden, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241012,Neustadt am Rübenberge,"Neustadt am Rübenberge, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241014,Ronnenberg,"Ronnenberg, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241016,Sehnde,"Sehnde, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241021,Wunstorf,"Wunstorf, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03254005,Bad Salzdetfurth,"Bad Salzdetfurth, Stadt",DE120F,comma_suffix_or_qualifier_only,True,pending
+03352062,Geestland,"Geestland, Stadt",DE105F,comma_suffix_or_qualifier_only,True,pending
+03361006,Langwedel,"Langwedel, Flecken",DE012F,comma_suffix_or_qualifier_only,True,pending
+03401000,Delmenhorst,"Delmenhorst, Stadt",DE012F,comma_suffix_or_qualifier_only,True,pending
+05111000,Düsseldorf,"Düsseldorf, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05114000,Krefeld,"Krefeld, Stadt",DE087F,comma_suffix_or_qualifier_only,True,pending
+05124000,Wuppertal,"Wuppertal, Stadt",DE124F,comma_suffix_or_qualifier_only,True,pending
+05158016,Hilden,"Hilden, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05158026,Monheim am Rhein,"Monheim am Rhein, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05170008,Dinslaken,"Dinslaken, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05170044,Voerde (Niederrhein),"Voerde (Niederrhein), Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05334002,Aachen,"Aachen, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05334012,Eschweiler,"Eschweiler, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05334032,Stolberg (Rhld.),"Stolberg (Rhld.), Kupferstadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05362028,Hürth,"Hürth, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362040,Wesseling,"Wesseling, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05370028,Übach-Palenberg,"Übach-Palenberg, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05378028,Rösrath,"Rösrath, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05378032,Wermelskirchen,"Wermelskirchen, Stadt",DE108F,comma_suffix_or_qualifier_only,True,pending
+05382032,Meckenheim,"Meckenheim, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05515000,Münster,"Münster, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05562004,Castrop-Rauxel,"Castrop-Rauxel, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05562014,Gladbeck,"Gladbeck, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05766056,Oerlinghausen,"Oerlinghausen, Stadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05914000,Hagen,"Hagen, Stadt der FernUniversität",DE006F,comma_suffix_or_qualifier_only,True,pending
+05915000,Hamm,"Hamm, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05916000,Herne,"Herne, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954024,Schwelm,"Schwelm, Stadt",DE124F,comma_suffix_or_qualifier_only,True,pending
+05978036,Unna,"Unna, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06413000,Offenbach am Main,"Offenbach am Main, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06433010,Raunheim,"Raunheim, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436004,Flörsheim am Main,"Flörsheim am Main, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06438001,Dietzenbach,"Dietzenbach, Kreisstadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06439004,Geisenheim,"Geisenheim, Hochschulstadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06439012,Oestrich-Winkel,"Oestrich-Winkel, Stadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06440007,Florstadt,"Florstadt, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440017,Niddatal,"Niddatal, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06633025,Trendelburg,"Trendelburg, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+07311000,Frankenthal (Pfalz),"Frankenthal (Pfalz), Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07332032,Lambrecht (Pfalz),"Lambrecht (Pfalz), Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07334008,Hagenbach,"Hagenbach, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+08111000,Stuttgart,"Stuttgart, Landeshauptstadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116080,Ostfildern,"Ostfildern, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08117018,Ebersbach an der Fils,"Ebersbach an der Fils, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118046,Kornwestheim,"Kornwestheim, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118078,Freiberg am Neckar,"Freiberg am Neckar, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08316017,Herbolzheim,"Herbolzheim, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08415050,Metzingen,"Metzingen, Stadt",DE115F,comma_suffix_or_qualifier_only,True,pending
+08416036,Rottenburg am Neckar,"Rottenburg am Neckar, Stadt",DE047F,comma_suffix_or_qualifier_only,True,pending
+09162000,München,"München, Landeshauptstadt",DE003F,comma_suffix_or_qualifier_only,True,pending
+09176138,Kipfenberg,"Kipfenberg, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09181114,Dießen am Ammersee,"Dießen am Ammersee, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09186143,Pfaffenhofen a.d. Ilm,"Pfaffenhofen a.d.Ilm, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09187150,Kolbermoor,"Kolbermoor, St",DE066F,comma_suffix_or_qualifier_only,True,pending
+09678134,Gerolzhofen,"Gerolzhofen, St",DE074F,comma_suffix_or_qualifier_only,True,pending
+09273137,Kelheim,"Kelheim, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09275126,Hauzenberg,"Hauzenberg, St",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275128,Hutthurm,"Hutthurm, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275137,Obernzell,"Obernzell, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275153,Untergriesbach,"Untergriesbach, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275154,Vilshofen an der Donau,"Vilshofen an der Donau, St",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275156,Wegscheid,"Wegscheid, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09376149,Nittenau,"Nittenau, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09471123,Buttenheim,"Buttenheim, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471140,Hallstadt,"Hallstadt, St",DE059F,comma_suffix_or_qualifier_only,True,pending
+09472127,Creußen,"Creußen, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472175,Pegnitz,"Pegnitz, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472179,Pottenstein,"Pottenstein, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09572115,Baiersdorf,"Baiersdorf, St",DE123F,comma_suffix_or_qualifier_only,True,pending
+09572131,Heroldsberg,"Heroldsberg, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09772163,Königsbrunn,"Königsbrunn, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772216,Welden,"Welden, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09774155,Leipheim,"Leipheim, St",DE110F,comma_suffix_or_qualifier_only,True,pending
+09780112,Altusried,"Altusried, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+01060044,Kaltenkirchen,"Kaltenkirchen, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+11000000,Berlin,"Berlin, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12051000,Brandenburg an der Havel,"Brandenburg an der Havel, Stadt",DE053F,comma_suffix_or_qualifier_only,True,pending
+12063080,Falkensee,"Falkensee, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12064029,Altlandsberg,"Altlandsberg, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12065100,Gransee,"Gransee, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12065165,Kremmen,"Kremmen, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12065256,Oranienburg,"Oranienburg, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069696,Ziesar,"Ziesar, Stadt",DE053F,comma_suffix_or_qualifier_only,True,pending
+12071041,Dissen-Striesow,Dissen-Striesow/Dešno-Strjažow,DE117F,other_name_difference,True,pending
+12071060,Drehnow,Drehnow/Drjenow,DE117F,other_name_difference,True,pending
+12071074,Felixsee,Felixsee/Feliksowy Jazor,DE117F,other_name_difference,True,pending
+12071164,Guhrow,Guhrow/Góry,DE117F,other_name_difference,True,pending
+12071176,Heinersbrück,Heinersbrück/Móst,DE117F,other_name_difference,True,pending
+12071294,Neiße-Malxetal,Neiße-Malxetal/Dolina Nysa-Małksa,DE117F,other_name_difference,True,pending
+12071341,Schmogrow-Fehrow,Schmogrow-Fehrow/Smogorjow-Prjawoz,DE117F,other_name_difference,True,pending
+12071384,Tauer,Tauer/Turjej,DE117F,other_name_difference,True,pending
+12071401,Turnow-Preilack,Turnow-Preilack/Turnow-Pśiłuk,DE117F,other_name_difference,True,pending
+13071107,Neubrandenburg,"Neubrandenburg, Vier-Tore-Stadt",DE061F,comma_suffix_or_qualifier_only,True,pending
+13071115,Penzlin,"Penzlin, Stadt",DE061F,comma_suffix_or_qualifier_only,True,pending
+13072058,Kröpelin,"Kröpelin, Stadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072075,Nienhagen,"Nienhagen, Ostseebad",DE040F,comma_suffix_or_qualifier_only,True,pending
+13073027,Garz/Rügen,"Garz/Rügen, Stadt",DE068F,comma_suffix_or_qualifier_only,True,pending
+13073055,Marlow,"Marlow, Stadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13073076,Richtenberg,"Richtenberg, Stadt",DE068F,comma_suffix_or_qualifier_only,True,pending
+13075039,Greifswald,"Greifswald, Universitäts- und Hansestadt",DE075F,comma_suffix_or_qualifier_only,True,pending
+14521450,Oelsnitz/Erzgeb.,"Oelsnitz/Erzgeb., Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14521640,Thum,"Thum, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14524320,Wilkau-Haßlau,"Wilkau-Haßlau, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14612000,Dresden,"Dresden, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14626110,Görlitz,"Görlitz, Stadt",DE071F,comma_suffix_or_qualifier_only,True,pending
+14627140,Meißen,"Meißen, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628110,Freital,"Freital, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628160,Heidenau,"Heidenau, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628370,Stadt Wehlen,"Stadt Wehlen, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14729160,Grimma,"Grimma, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+15001000,Dessau-Roßlau,"Dessau-Roßlau, Stadt",DE079F,comma_suffix_or_qualifier_only,True,pending
+15002000,Halle (Saale),"Halle (Saale), Stadt",DE017F,comma_suffix_or_qualifier_only,True,pending
+15081280,Klötze,"Klötze, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+15083355,Kroppenstedt,"Kroppenstedt, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15083411,Oebisfelde-Weferlingen,"Oebisfelde-Weferlingen, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+15088195,Landsberg,"Landsberg, Stadt",DE017F,comma_suffix_or_qualifier_only,True,pending
+15088216,Wettin-Löbejün,"Wettin-Löbejün, Stadt",DE017F,comma_suffix_or_qualifier_only,True,pending
+15088340,Schraplau,"Schraplau, Stadt",DE017F,comma_suffix_or_qualifier_only,True,pending
+15091060,Coswig (Anhalt),"Coswig (Anhalt), Stadt",DE079F,comma_suffix_or_qualifier_only,True,pending
+16071003,Bad Berka,"Bad Berka, Stadt",DE028F,comma_suffix_or_qualifier_only,True,pending
+16074009,Bürgel,"Bürgel, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+01004000,Neumünster,"Neumünster, Stadt",DE052F,comma_suffix_or_qualifier_only,True,pending
+01053032,Geesthacht,"Geesthacht, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01053083,Lauenburg/Elbe,"Lauenburg/ Elbe, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01053100,Ratzeburg,"Ratzeburg, Stadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+01053105,Sachsenwald (Forstgutsbez.),"Sachsenwald (Forstgutsbez.),gemfr.Geb.",DE002F,comma_suffix_or_qualifier_only,True,pending
+01053116,Schwarzenbek,"Schwarzenbek, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01055004,Bad Schwartau,"Bad Schwartau, Stadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+01056002,Barmstedt,"Barmstedt, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01056015,Elmshorn,"Elmshorn, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01056039,Pinneberg,"Pinneberg, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01056041,Quickborn,"Quickborn, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01056048,Tornesch,"Tornesch, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01056049,Uetersen,"Uetersen, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01056050,Wedel,"Wedel, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01057057,Plön,"Plön, Stadt",DE036F,comma_suffix_or_qualifier_only,True,pending
+01057062,Preetz,"Preetz, Stadt",DE036F,comma_suffix_or_qualifier_only,True,pending
+01057091,Schwentinental,"Schwentinental, Stadt",DE036F,comma_suffix_or_qualifier_only,True,pending
+01058043,Eckernförde,"Eckernförde, Stadt",DE036F,comma_suffix_or_qualifier_only,True,pending
+01061055,Krempe,"Krempe, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01058117,Nortorf,"Nortorf, Stadt",DE052F,comma_suffix_or_qualifier_only,True,pending
+01060004,Bad Bramstedt,"Bad Bramstedt, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01060063,Norderstedt,"Norderstedt, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01061029,Glückstadt,"Glückstadt, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01062001,Ahrensburg,"Ahrensburg, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01062004,Bad Oldesloe,"Bad Oldesloe, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+06432004,Dieburg,"Dieburg, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+01062006,Bargteheide,"Bargteheide, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01062018,Glinde,"Glinde, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01062060,Reinbek,"Reinbek, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+01062061,Reinfeld (Holstein),"Reinfeld (Holstein), Stadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+03158503,Voigtsdahlum,"Voigtsdahlum, gemfr. Gebiet",DE085F,comma_suffix_or_qualifier_only,True,pending
+03101000,Braunschweig,"Braunschweig, Stadt",DE085F,comma_suffix_or_qualifier_only,True,pending
+03102000,Salzgitter,"Salzgitter, Stadt",DE085F,comma_suffix_or_qualifier_only,True,pending
+03103000,Wolfsburg,"Wolfsburg, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+03151005,Brome,"Brome, Flecken",DE104F,comma_suffix_or_qualifier_only,True,pending
+03151009,Gifhorn,"Gifhorn, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154013,Königslutter am Elm,"Königslutter am Elm, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154019,Schöningen,"Schöningen, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154028,Helmstedt,"Helmstedt, Stadt",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154502,Helmstedt,"Helmstedt, gemfr. Gebiet",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154503,Königslutter,"Königslutter, gemfr. Gebiet",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154504,Mariental,"Mariental, gemfr. Gebiet",DE104F,comma_suffix_or_qualifier_only,True,pending
+03154506,Schöningen,"Schöningen, gemfr. Gebiet",DE104F,comma_suffix_or_qualifier_only,True,pending
+03155005,Hardegsen,"Hardegsen, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03155009,Moringen,"Moringen, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03155010,Nörten-Hardenberg,"Nörten-Hardenberg, Flecken",DE020F,comma_suffix_or_qualifier_only,True,pending
+03155011,Northeim,"Northeim, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03155012,Uslar,"Uslar, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03158027,Schöppenstedt,"Schöppenstedt, Stadt",DE085F,comma_suffix_or_qualifier_only,True,pending
+03158037,Wolfenbüttel,"Wolfenbüttel, Stadt",DE085F,comma_suffix_or_qualifier_only,True,pending
+03159001,Adelebsen,"Adelebsen, Flecken",DE020F,comma_suffix_or_qualifier_only,True,pending
+03159007,Bovenden,"Bovenden, Flecken",DE020F,comma_suffix_or_qualifier_only,True,pending
+03159009,Dransfeld,"Dransfeld, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03159010,Duderstadt,"Duderstadt, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03159016,Göttingen,"Göttingen, Stadt",DE020F,comma_suffix_or_qualifier_only,True,pending
+03241010,Langenhagen,"Langenhagen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241003,Burgdorf,"Burgdorf, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241004,Burgwedel,"Burgwedel, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241005,Garbsen,"Garbsen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241007,Hemmingen,"Hemmingen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241009,Laatzen,"Laatzen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241011,Lehrte,"Lehrte, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241013,Pattensen,"Pattensen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241015,Seelze,"Seelze, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03241017,Springe,"Springe, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03251007,Bassum,"Bassum, Stadt",DE012F,comma_suffix_or_qualifier_only,True,pending
+03251041,Syke,"Syke, Stadt",DE012F,comma_suffix_or_qualifier_only,True,pending
+03252002,Bad Münder am Deister,"Bad Münder am Deister, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03254028,Sarstedt,"Sarstedt, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03254008,Bockenem,"Bockenem, Stadt",DE120F,comma_suffix_or_qualifier_only,True,pending
+03254014,Elze,"Elze, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03254021,Hildesheim,"Hildesheim, Stadt",DE120F,comma_suffix_or_qualifier_only,True,pending
+03254043,Gronau (Leine),"Gronau (Leine), Stadt",DE120F,comma_suffix_or_qualifier_only,True,pending
+03257006,Bad Nenndorf,"Bad Nenndorf, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03257010,Hagenburg,"Hagenburg, Flecken",DE013F,comma_suffix_or_qualifier_only,True,pending
+03257018,Lauenau,"Lauenau, Flecken",DE013F,comma_suffix_or_qualifier_only,True,pending
+03257032,Rodenberg,"Rodenberg, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03257033,Sachsenhagen,"Sachsenhagen, Stadt",DE013F,comma_suffix_or_qualifier_only,True,pending
+03351004,Bergen,"Bergen, Stadt",DE057F,comma_suffix_or_qualifier_only,True,pending
+03351006,Celle,"Celle, Stadt",DE057F,comma_suffix_or_qualifier_only,True,pending
+03351022,Wienhausen,"Wienhausen, Klostergemeinde",DE057F,comma_suffix_or_qualifier_only,True,pending
+03351501,Lohheide,"Lohheide, gemfr. Bezirk",DE057F,comma_suffix_or_qualifier_only,True,pending
+03353005,Buchholz in der Nordheide,"Buchholz in der Nordheide, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03353040,Winsen (Luhe),"Winsen (Luhe), Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03355003,Artlenburg,"Artlenburg, Flecken",DE002F,comma_suffix_or_qualifier_only,True,pending
+03355004,Bardowick,"Bardowick, Flecken",DE002F,comma_suffix_or_qualifier_only,True,pending
+03355009,Bleckede,"Bleckede, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03355013,Dahlenburg,"Dahlenburg, Flecken",DE002F,comma_suffix_or_qualifier_only,True,pending
+03355022,Lüneburg,"Lüneburg, Hansestadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03356007,Osterholz-Scharmbeck,"Osterholz-Scharmbeck, Stadt",DE012F,comma_suffix_or_qualifier_only,True,pending
+06436011,Schwalbach am Taunus,"Schwalbach am Taunus, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+03359010,Buxtehude,"Buxtehude, Hansestadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03359023,Harsefeld,"Harsefeld, Flecken",DE002F,comma_suffix_or_qualifier_only,True,pending
+03359027,Horneburg,"Horneburg, Flecken",DE002F,comma_suffix_or_qualifier_only,True,pending
+03359038,Stade,"Stade, Hansestadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03360002,Bad Bevensen,"Bad Bevensen, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+03361001,Achim,"Achim, Stadt",DE012F,comma_suffix_or_qualifier_only,True,pending
+03361008,Ottersberg,"Ottersberg, Flecken",DE012F,comma_suffix_or_qualifier_only,True,pending
+03403000,Oldenburg (Oldb),"Oldenburg (Oldenburg), Stadt",DE098F,other_name_difference,True,pending
+03404000,Osnabrück,"Osnabrück, Stadt",DE095F,comma_suffix_or_qualifier_only,True,pending
+03405000,Wilhelmshaven,"Wilhelmshaven, Stadt",DE045F,comma_suffix_or_qualifier_only,True,pending
+03455007,Jever,"Jever, Stadt",DE045F,comma_suffix_or_qualifier_only,True,pending
+03455015,Schortens,"Schortens, Stadt",DE045F,comma_suffix_or_qualifier_only,True,pending
+03458008,Harpstedt,"Harpstedt, Flecken",DE012F,comma_suffix_or_qualifier_only,True,pending
+03459004,Bad Iburg,"Bad Iburg, Stadt",DE095F,comma_suffix_or_qualifier_only,True,pending
+03459014,Bramsche,"Bramsche, Stadt",DE095F,comma_suffix_or_qualifier_only,True,pending
+03459019,Georgsmarienhütte,"Georgsmarienhütte, Stadt",DE095F,comma_suffix_or_qualifier_only,True,pending
+04011000,Bremen,"Bremen, Stadt",DE012F,comma_suffix_or_qualifier_only,True,pending
+04012000,Bremerhaven,"Bremerhaven, Stadt",DE105F,comma_suffix_or_qualifier_only,True,pending
+05112000,Duisburg,"Duisburg, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05113000,Essen,"Essen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06432008,Griesheim,"Griesheim, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+05116000,Mönchengladbach,"Mönchengladbach, Stadt",DE034F,comma_suffix_or_qualifier_only,True,pending
+05117000,Mülheim an der Ruhr,"Mülheim an der Ruhr, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05119000,Oberhausen,"Oberhausen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05120000,Remscheid,"Remscheid, Stadt",DE108F,comma_suffix_or_qualifier_only,True,pending
+05122000,Solingen,"Solingen, Klingenstadt",DE094F,comma_suffix_or_qualifier_only,True,pending
+05158004,Erkrath,"Erkrath, Fundort des Neanderthalers, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05158008,Haan,"Haan, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05158020,Langenfeld (Rhld.),"Langenfeld (Rheinland), Stadt",DE011F,other_name_difference,True,pending
+05158024,Mettmann,"Mettmann, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162004,Dormagen,"Dormagen, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05158028,Ratingen,"Ratingen, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162016,Kaarst,"Kaarst, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162008,Grevenbroich,"Grevenbroich, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162012,Jüchen,"Jüchen, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162020,Korschenbroich,"Korschenbroich, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162022,Meerbusch,"Meerbusch, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05162024,Neuss,"Neuss, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05166012,Kempen,"Kempen, Stadt",DE087F,comma_suffix_or_qualifier_only,True,pending
+05166028,Tönisvorst,"Tönisvorst, Stadt",DE087F,comma_suffix_or_qualifier_only,True,pending
+05166032,Viersen,"Viersen, Stadt",DE034F,comma_suffix_or_qualifier_only,True,pending
+05166036,Willich,"Willich, Stadt",DE011F,comma_suffix_or_qualifier_only,True,pending
+05170020,Kamp-Lintfort,"Kamp-Lintfort, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05170024,Moers,"Moers, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05170028,Neukirchen-Vluyn,"Neukirchen-Vluyn, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05170032,Rheinberg,"Rheinberg, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06432009,Groß-Bieberau,"Groß-Bieberau, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+05314000,Bonn,"Bonn, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05170048,Wesel,"Wesel, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05315000,Köln,"Köln, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05316000,Leverkusen,"Leverkusen, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05334004,Alsdorf,"Alsdorf, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05334008,Baesweiler,"Baesweiler, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05334016,Herzogenrath,"Herzogenrath, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05334020,Monschau,"Monschau, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05334024,Roetgen,"Roetgen, Tor zur Eifel",DE086F,comma_suffix_or_qualifier_only,True,pending
+05358008,Düren,"Düren, Stadt",DE126F,comma_suffix_or_qualifier_only,True,pending
+05334036,Würselen,"Würselen, Stadt",DE086F,comma_suffix_or_qualifier_only,True,pending
+05358012,Heimbach,"Heimbach, Stadt",DE126F,comma_suffix_or_qualifier_only,True,pending
+05358044,Nideggen,"Nideggen, Stadt",DE126F,comma_suffix_or_qualifier_only,True,pending
+05362004,Bedburg,"Bedburg, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362008,Bergheim,"Bergheim, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362012,Brühl,"Brühl, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362016,Elsdorf,"Elsdorf, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362020,Erftstadt,"Erftstadt, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362024,Frechen,"Frechen, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362032,Kerpen,"Kerpen, Kolpingstadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05362036,Pulheim,"Pulheim, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05382008,Bad Honnef,"Bad Honnef, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05382012,Bornheim,"Bornheim, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05370040,Wegberg,"Wegberg, Stadt",DE034F,comma_suffix_or_qualifier_only,True,pending
+05374016,Hückeswagen,"Hückeswagen, Schloss-Stadt",DE108F,comma_suffix_or_qualifier_only,True,pending
+05382056,Sankt Augustin,"Sankt Augustin, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+06438002,Dreieich,"Dreieich, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05374036,Radevormwald,"Radevormwald, Stadt auf der Höhe",DE108F,comma_suffix_or_qualifier_only,True,pending
+05378004,Bergisch Gladbach,"Bergisch Gladbach, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05378008,Burscheid,"Burscheid, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05378016,Leichlingen (Rhld.),"Leichlingen (Rheinland), Blütenstadt",DE004F,other_name_difference,True,pending
+05562032,Recklinghausen,"Recklinghausen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05378024,Overath,"Overath, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05382020,Hennef (Sieg),"Hennef (Sieg), Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05382024,Königswinter,"Königswinter, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05382028,Lohmar,"Lohmar, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05382044,Niederkassel,"Niederkassel, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05382048,Rheinbach,"Rheinbach, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05382060,Siegburg,"Siegburg, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+05382068,Troisdorf,"Troisdorf, Stadt",DE004F,comma_suffix_or_qualifier_only,True,pending
+05512000,Bottrop,"Bottrop, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05513000,Gelsenkirchen,"Gelsenkirchen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05554048,Rhede,"Rhede, Stadt",DE127F,comma_suffix_or_qualifier_only,True,pending
+05554008,Bocholt,"Bocholt, Stadt",DE127F,comma_suffix_or_qualifier_only,True,pending
+05554032,Isselburg,"Isselburg, Stadt",DE127F,comma_suffix_or_qualifier_only,True,pending
+06438006,Langen (Hessen),"Langen (Hessen), Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05558008,Billerbeck,"Billerbeck, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05566024,Horstmar,"Horstmar, Stadt der Burgmannshöfe",DE083F,comma_suffix_or_qualifier_only,True,pending
+05558016,Dülmen,"Dülmen, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05558024,Lüdinghausen,"Lüdinghausen, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05558036,Olfen,"Olfen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06432016,Ober-Ramstadt,"Ober-Ramstadt, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+05562008,Datteln,"Datteln, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06438008,Mühlheim am Main,"Mühlheim am Main, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05562012,Dorsten,"Dorsten, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05566084,Steinfurt,"Steinfurt, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05562016,Haltern am See,"Haltern am See, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05562020,Herten,"Herten, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05562024,Marl,"Marl, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05562028,Oer-Erkenschwick,"Oer-Erkenschwick, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06438009,Neu-Isenburg,"Neu-Isenburg, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05562036,Waltrop,"Waltrop, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05566012,Greven,"Greven, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05566080,Saerbeck,"Saerbeck, NRW-Klimakommune",DE083F,comma_suffix_or_qualifier_only,True,pending
+06438010,Obertshausen,"Obertshausen, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05570016,Drensteinfurt,"Drensteinfurt, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05754036,Schloß Holte-Stukenbrock,"Schloß Holte-Stukenbrock, Stadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+06432018,Pfungstadt,"Pfungstadt, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+05570040,Sendenhorst,"Sendenhorst, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+06432019,Reinheim,"Reinheim, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+05570044,Telgte,"Telgte, Stadt",DE083F,comma_suffix_or_qualifier_only,True,pending
+05711000,Bielefeld,"Bielefeld, Stadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05754012,Halle (Westf.),"Halle (Westf.), Stadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05758008,Enger,"Enger, Widukindstadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05754052,Werther (Westf.),"Werther (Westf.), Stadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05758012,Herford,"Herford, Hansestadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05758032,Spenge,"Spenge, Stadt",DE016F,comma_suffix_or_qualifier_only,True,pending
+05762004,Bad Driburg,"Bad Driburg, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+06440023,Rosbach v.d. Höhe,"Rosbach v. d. Höhe, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06531001,Allendorf (Lumda),"Allendorf (Lumda), Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+05774008,Bad Lippspringe,"Bad Lippspringe, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+06434008,Oberursel (Taunus),"Oberursel (Taunus), Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06434010,Steinbach (Taunus),"Steinbach (Taunus), Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06531012,Linden,"Linden, Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06431013,Lampertheim,"Lampertheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+05774016,Büren,"Büren, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+05774020,Delbrück,"Delbrück, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+05774024,Hövelhof,"Hövelhof, Sennegemeinde",DE101F,comma_suffix_or_qualifier_only,True,pending
+05774028,Lichtenau,"Lichtenau, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+05774032,Paderborn,"Paderborn, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+05962016,Hemer,"Hemer, Stadt",DE042F,comma_suffix_or_qualifier_only,True,pending
+05774036,Salzkotten,"Salzkotten, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+05774040,Bad Wünnenberg,"Bad Wünnenberg, Stadt",DE101F,comma_suffix_or_qualifier_only,True,pending
+05911000,Bochum,"Bochum, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05913000,Dortmund,"Dortmund, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954004,Breckerfeld,"Breckerfeld, Hansestadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954008,Ennepetal,"Ennepetal, Stadt der Kluterthöhle",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954012,Gevelsberg,"Gevelsberg, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954016,Hattingen,"Hattingen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954020,Herdecke,"Herdecke, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954028,Sprockhövel,"Sprockhövel, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954032,Wetter (Ruhr),"Wetter (Ruhr), Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05954036,Witten,"Witten, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06432023,Weiterstadt,"Weiterstadt, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+05962024,Iserlohn,"Iserlohn, Stadt",DE042F,comma_suffix_or_qualifier_only,True,pending
+05962040,Menden (Sauerland),"Menden (Sauerland), Stadt",DE042F,comma_suffix_or_qualifier_only,True,pending
+05970016,Freudenberg,"Freudenberg, Stadt",DE118F,comma_suffix_or_qualifier_only,True,pending
+06433005,Ginsheim-Gustavsburg,"Ginsheim-Gustavsburg, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+06433008,Mörfelden-Walldorf,"Mörfelden-Walldorf, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05970020,Hilchenbach,"Hilchenbach, Stadt",DE118F,comma_suffix_or_qualifier_only,True,pending
+05970024,Kreuztal,"Kreuztal, Stadt",DE118F,comma_suffix_or_qualifier_only,True,pending
+05970032,Netphen,"Netphen, Stadt",DE118F,comma_suffix_or_qualifier_only,True,pending
+05970040,Siegen,"Siegen, Universitätsstadt",DE118F,comma_suffix_or_qualifier_only,True,pending
+06434006,Kronberg im Taunus,"Kronberg im Taunus, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+05978020,Kamen,"Kamen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06431018,Neckarsteinach,"Neckarsteinach, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+05978004,Bergkamen,"Bergkamen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05978012,Fröndenberg/Ruhr,"Fröndenberg/Ruhr, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05978024,Lünen,"Lünen, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05978028,Schwerte,"Schwerte, Hansestadt an der Ruhr",DE006F,comma_suffix_or_qualifier_only,True,pending
+05978032,Selm,"Selm, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+05978040,Werne,"Werne, Stadt",DE006F,comma_suffix_or_qualifier_only,True,pending
+06411000,Darmstadt,"Darmstadt, Wissenschaftsstadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+06431005,Bürstadt,"Bürstadt, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+06412000,Frankfurt am Main,"Frankfurt am Main, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06414000,Wiesbaden,"Wiesbaden, Landeshauptstadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06431012,Hirschhorn (Neckar),"Hirschhorn (Neckar), Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+06434007,Neu-Anspach,"Neu-Anspach, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06431020,Viernheim,"Viernheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+06432002,Babenhausen,"Babenhausen, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06431022,Zwingenberg,"Zwingenberg, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+06432010,Groß-Umstadt,"Groß-Umstadt, Stadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+06433006,Groß-Gerau,"Groß-Gerau, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06433007,Kelsterbach,"Kelsterbach, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06433011,Riedstadt,"Riedstadt, Büchnerstadt",DE023F,comma_suffix_or_qualifier_only,True,pending
+06433012,Rüsselsheim am Main,"Rüsselsheim am Main, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06434001,Bad Homburg v.d. Höhe,"Bad Homburg v. d. Höhe, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06434002,Friedrichsdorf,"Friedrichsdorf, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06434005,Königstein im Taunus,"Königstein im Taunus, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06434011,Usingen,"Usingen, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435001,Bad Orb,"Bad Orb, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435006,Bruchköbel,"Bruchköbel, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435007,Erlensee,"Erlensee, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435010,Gelnhausen,"Gelnhausen, Barbarossastadt, Kreisstadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435017,Langenselbold,"Langenselbold, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06633026,Vellmar,"Vellmar, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06435014,Hanau,"Hanau, Brüder-Grimm-Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435019,Maintal,"Maintal, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435021,Nidderau,"Nidderau, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436001,Bad Soden am Taunus,"Bad Soden am Taunus, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06435029,Wächtersbach,"Wächtersbach, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436006,Hochheim am Main,"Hochheim am Main, Stadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06436002,Eppstein,"Eppstein, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436003,Eschborn,"Eschborn, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436005,Hattersheim am Main,"Hattersheim am Main, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436007,Hofheim am Taunus,"Hofheim am Taunus, Kreisstadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06436008,Kelkheim (Taunus),"Kelkheim (Taunus), Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06438005,Heusenstamm,"Heusenstamm, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06438011,Rodgau,"Rodgau, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06438012,Rödermark,"Rödermark, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06438013,Seligenstadt,"Seligenstadt, Einhardstadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06439002,Bad Schwalbach,"Bad Schwalbach, Kreisstadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06439003,Eltville am Rhein,"Eltville am Rhein, Stadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06439008,Idstein,"Idstein, Hochschulstadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440003,Bad Vilbel,"Bad Vilbel, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06439010,Lorch,"Lorch, Stadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06439015,Taunusstein,"Taunusstein, Stadt",DE019F,comma_suffix_or_qualifier_only,True,pending
+06440002,Bad Nauheim,"Bad Nauheim, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440004,Büdingen,"Büdingen, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440008,Friedberg (Hessen),"Friedberg (Hessen), Kreisstadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440005,Butzbach,"Butzbach, Friedrich-Ludwig-Weidig-Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440012,Karben,"Karben, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06440021,Reichelsheim (Wetterau),"Reichelsheim (Wetterau), Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06531005,Gießen,"Gießen, Universitätsstadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06531014,Pohlheim,"Pohlheim, Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06531006,Grünberg,"Grünberg, Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06531013,Lollar,"Lollar, Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06531011,Lich,"Lich, Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06531017,Staufenberg,"Staufenberg, Stadt",DE054F,comma_suffix_or_qualifier_only,True,pending
+06532001,Aßlar,"Aßlar, Stadt",DE076F,comma_suffix_or_qualifier_only,True,pending
+06532003,Braunfels,"Braunfels, Stadt",DE076F,comma_suffix_or_qualifier_only,True,pending
+06532016,Leun,"Leun, Stadt",DE076F,comma_suffix_or_qualifier_only,True,pending
+06532021,Solms,"Solms, Stadt",DE076F,comma_suffix_or_qualifier_only,True,pending
+06532023,Wetzlar,"Wetzlar, Stadt",DE076F,comma_suffix_or_qualifier_only,True,pending
+06533003,Bad Camberg,"Bad Camberg, Stadt",DE005F,comma_suffix_or_qualifier_only,True,pending
+06633003,Baunatal,"Baunatal, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06533015,Villmar,"Villmar, Marktflecken",DE005F,comma_suffix_or_qualifier_only,True,pending
+06534010,Gladenbach,"Gladenbach, Stadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+06534001,Amöneburg,"Amöneburg, Stadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+06534011,Kirchhain,"Kirchhain, Stadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+06534014,Marburg,"Marburg, Universitätsstadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+06534017,Rauschenberg,"Rauschenberg, Stadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+06534018,Stadtallendorf,"Stadtallendorf, Stadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+06534021,Wetter (Hessen),"Wetter (Hessen), Stadt",DE050F,comma_suffix_or_qualifier_only,True,pending
+07131070,Remagen,"Remagen, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+06535015,Schlitz,"Schlitz, Stadt",DE062F,comma_suffix_or_qualifier_only,True,pending
+06611000,Kassel,"Kassel, documenta-Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06631002,Burghaun,"Burghaun, Marktgemeinde",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631007,Eiterfeld,"Eiterfeld, Marktgemeinde",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631009,Fulda,"Fulda, Stadt",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631010,Gersfeld (Rhön),"Gersfeld (Rhön), Stadt",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631012,Hilders,"Hilders, Marktgemeinde",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631015,Hünfeld,"Hünfeld, Konrad-Zuse-Stadt",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631022,Rasdorf,"Rasdorf, Point-Alpha-Gemeinde",DE062F,comma_suffix_or_qualifier_only,True,pending
+06631023,Tann (Rhön),"Tann (Rhön), Stadt",DE062F,comma_suffix_or_qualifier_only,True,pending
+07131077,Sinzig,"Sinzig, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+06633018,Naumburg,"Naumburg, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06633010,Grebenstein,"Grebenstein, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06633013,Hofgeismar,"Hofgeismar, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06633014,Immenhausen,"Immenhausen, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06633016,Liebenau,"Liebenau, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06633028,Wolfhagen,"Wolfhagen, Hans-Staden-Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06633029,Zierenberg,"Zierenberg, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06634003,Felsberg,"Felsberg, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06634007,Gudensberg,"Gudensberg, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06634018,Niedenstein,"Niedenstein, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06636004,Großalmerode,"Großalmerode, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06636006,Hessisch Lichtenau,"Hessisch Lichtenau, Stadt",DE091F,comma_suffix_or_qualifier_only,True,pending
+06636200,Gutsbezirk Kaufunger Wald,"Gutsbezirk Kaufunger Wald, gemfr. Gebiet",DE091F,comma_suffix_or_qualifier_only,True,pending
+07111000,Koblenz,"Koblenz, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07132063,Kirchen (Sieg),"Kirchen (Sieg), Stadt",DE118F,comma_suffix_or_qualifier_only,True,pending
+07137089,Polch,"Polch, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07137203,Bendorf,"Bendorf, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07137216,Mülheim-Kärlich,"Mülheim-Kärlich, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07137221,Rhens,"Rhens, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07137226,Vallendar,"Vallendar, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07137228,Weißenthurm,"Weißenthurm, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07137501,Münstermaifeld,"Münstermaifeld, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07138041,Linz am Rhein,"Linz am Rhein, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+07138073,Unkel,"Unkel, Stadt",DE032F,comma_suffix_or_qualifier_only,True,pending
+07140501,Boppard,"Boppard, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07141006,Bad Ems,"Bad Ems, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07141075,Lahnstein,"Lahnstein, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07141501,Braubach,"Braubach, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07143032,Höhr-Grenzhausen,"Höhr-Grenzhausen, Stadt",DE039F,comma_suffix_or_qualifier_only,True,pending
+07211000,Trier,"Trier, Stadt",DE024F,comma_suffix_or_qualifier_only,True,pending
+07232123,Speicher,"Speicher, Stadt",DE024F,comma_suffix_or_qualifier_only,True,pending
+07235045,Hermeskeil,"Hermeskeil, Stadt",DE024F,comma_suffix_or_qualifier_only,True,pending
+07235068,Konz,"Konz, Stadt",DE024F,comma_suffix_or_qualifier_only,True,pending
+07235118,Saarburg,"Saarburg, Stadt",DE024F,comma_suffix_or_qualifier_only,True,pending
+07235125,Schweich,"Schweich, Stadt",DE024F,comma_suffix_or_qualifier_only,True,pending
+07312000,Kaiserslautern,"Kaiserslautern, Stadt",DE041F,comma_suffix_or_qualifier_only,True,pending
+07314000,Ludwigshafen am Rhein,"Ludwigshafen am Rhein, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07315000,Mainz,"Mainz, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+07316000,Neustadt an der Weinstraße,"Neustadt an der Weinstraße, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07318000,Speyer,"Speyer, Stadt",DE077F,comma_suffix_or_qualifier_only,True,pending
+07319000,Worms,"Worms, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07331073,Wörrstadt,"Wörrstadt, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+07332002,Bad Dürkheim,"Bad Dürkheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07332009,Deidesheim,"Deidesheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07332019,Freinsheim,"Freinsheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07332024,Grünstadt,"Grünstadt, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07332046,Wachenheim an der Weinstraße,"Wachenheim an der Weinstraße, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07333019,Eisenberg (Pfalz),"Eisenberg (Pfalz), Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07334013,Kandel,"Kandel, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+07334501,Wörth am Rhein,"Wörth am Rhein, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+07335022,Landstuhl,"Landstuhl, Sickingenstadt, Stadt",DE041F,comma_suffix_or_qualifier_only,True,pending
+07335035,Otterberg,"Otterberg, Stadt",DE041F,comma_suffix_or_qualifier_only,True,pending
+07335038,Ramstein-Miesenbach,"Ramstein-Miesenbach, Stadt",DE041F,comma_suffix_or_qualifier_only,True,pending
+07336105,Wolfstein,"Wolfstein, Stadt",DE041F,comma_suffix_or_qualifier_only,True,pending
+07338025,Schifferstadt,"Schifferstadt, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+07339019,Gau-Algesheim,"Gau-Algesheim, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+07339030,Ingelheim am Rhein,"Ingelheim am Rhein, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+07339042,Nieder-Olm,"Nieder-Olm, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+07339043,Nierstein,"Nierstein, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+07339049,Oppenheim,"Oppenheim, Stadt",DE035F,comma_suffix_or_qualifier_only,True,pending
+08115003,Böblingen,"Böblingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115021,Herrenberg,"Herrenberg, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115024,Holzgerlingen,"Holzgerlingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115028,Leonberg,"Leonberg, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115041,Renningen,"Renningen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115042,Rutesheim,"Rutesheim, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115045,Sindelfingen,"Sindelfingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115048,Waldenbuch,"Waldenbuch, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08115050,Weil der Stadt,"Weil der Stadt, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116019,Esslingen am Neckar,"Esslingen am Neckar, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116033,Kirchheim unter Teck,"Kirchheim unter Teck, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116056,Plochingen,"Plochingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116049,Nürtingen,"Nürtingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116071,Wendlingen am Neckar,"Wendlingen am Neckar, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116072,Wernau (Neckar),"Wernau (Neckar), Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116077,Filderstadt,"Filderstadt, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116078,Leinfelden-Echterdingen,"Leinfelden-Echterdingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08116081,Aichtal,"Aichtal, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08117051,Uhingen,"Uhingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118003,Asperg,"Asperg, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118007,Besigheim,"Besigheim, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118010,Bönnigheim,"Bönnigheim, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118011,Ditzingen,"Ditzingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118019,Gerlingen,"Gerlingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118021,Großbottwar,"Großbottwar, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118048,Ludwigsburg,"Ludwigsburg, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118049,Marbach am Neckar,"Marbach am Neckar, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118050,Markgröningen,"Markgröningen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118059,Oberriexingen,"Oberriexingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118070,Steinheim an der Murr,"Steinheim an der Murr, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118071,Tamm,"Tamm, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118073,Vaihingen an der Enz,"Vaihingen an der Enz, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118080,Korntal-Münchingen,"Korntal-Münchingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118076,Sachsenheim,"Sachsenheim, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118079,Bietigheim-Bissingen,"Bietigheim-Bissingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08118081,Remseck am Neckar,"Remseck am Neckar, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08119020,Fellbach,"Fellbach, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08119008,Backnang,"Backnang, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08119067,Schorndorf,"Schorndorf, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08119079,Waiblingen,"Waiblingen, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08119085,Winnenden,"Winnenden, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08119091,Weinstadt,"Weinstadt, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08125005,Bad Friedrichshall,"Bad Friedrichshall, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08121000,Heilbronn,"Heilbronn, Universitätsstadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125006,Bad Rappenau,"Bad Rappenau, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125007,Bad Wimpfen,"Bad Wimpfen, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125039,Gundelsheim,"Gundelsheim, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125056,Lauffen am Neckar,"Lauffen am Neckar, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125058,Leingarten,"Leingarten, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125059,Löwenstein,"Löwenstein, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125065,Neckarsulm,"Neckarsulm, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125068,Neudenau,"Neudenau, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125069,Neuenstadt am Kocher,"Neuenstadt am Kocher, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125086,Schwaigern,"Schwaigern, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08125102,Weinsberg,"Weinsberg, Stadt",DE107F,comma_suffix_or_qualifier_only,True,pending
+08226018,Eppelheim,"Eppelheim, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08226080,Schönau,"Schönau, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08226031,Hemsbach,"Hemsbach, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+08226032,Hockenheim,"Hockenheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+08135027,Niederstotzingen,"Niederstotzingen, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08226095,Walldorf,"Walldorf, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08226038,Ladenburg,"Ladenburg, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+08226041,Leimen,"Leimen, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08212000,Karlsruhe,"Karlsruhe, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+08215009,Bruchsal,"Bruchsal, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+08215017,Ettlingen,"Ettlingen, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+08215108,Rheinstetten,"Rheinstetten, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+08215109,Stutensee,"Stutensee, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+08221000,Heidelberg,"Heidelberg, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08222000,Mannheim,"Mannheim, Universitätsstadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+08327049,Trossingen,"Trossingen, Stadt",DE048F,comma_suffix_or_qualifier_only,True,pending
+08226056,Neckargemünd,"Neckargemünd, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08226082,Schriesheim,"Schriesheim, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08226084,Schwetzingen,"Schwetzingen, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+08226096,Weinheim,"Weinheim, Stadt",DE081F,comma_suffix_or_qualifier_only,True,pending
+08226098,Wiesloch,"Wiesloch, Stadt",DE100F,comma_suffix_or_qualifier_only,True,pending
+08231000,Pforzheim,"Pforzheim, Stadt",DE111F,comma_suffix_or_qualifier_only,True,pending
+08235008,Bad Liebenzell,"Bad Liebenzell, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08235033,Bad Herrenalb,"Bad Herrenalb, Stadt",DE033F,comma_suffix_or_qualifier_only,True,pending
+09671121,Goldbach,"Goldbach, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+08236025,Heimsheim,"Heimsheim, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08235080,Wildberg,"Wildberg, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08235085,Calw,"Calw, Stadt",DE007F,comma_suffix_or_qualifier_only,True,pending
+08236043,Neuenbürg,"Neuenbürg, Stadt",DE111F,comma_suffix_or_qualifier_only,True,pending
+08311000,Freiburg im Breisgau,"Freiburg im Breisgau, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08315006,Bad Krozingen,"Bad Krozingen, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08315015,Breisach am Rhein,"Breisach am Rhein, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08315111,Sulzburg,"Sulzburg, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08315050,Heitersheim,"Heitersheim, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08316012,Endingen am Kaiserstuhl,"Endingen am Kaiserstuhl, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08315108,Staufen im Breisgau,"Staufen im Breisgau, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08315133,Vogtsburg im Kaiserstuhl,"Vogtsburg im Kaiserstuhl, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08316010,Elzach,"Elzach, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08316011,Emmendingen,"Emmendingen, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08316020,Kenzingen,"Kenzingen, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08316056,Waldkirch,"Waldkirch, Stadt",DE025F,comma_suffix_or_qualifier_only,True,pending
+08317034,Gengenbach,"Gengenbach, Stadt",DE070F,comma_suffix_or_qualifier_only,True,pending
+08317089,Oberkirch,"Oberkirch, Stadt",DE070F,comma_suffix_or_qualifier_only,True,pending
+08317096,Offenburg,"Offenburg, Stadt",DE070F,comma_suffix_or_qualifier_only,True,pending
+08326003,Bad Dürrheim,"Bad Dürrheim, Stadt",DE048F,comma_suffix_or_qualifier_only,True,pending
+08326012,Donaueschingen,"Donaueschingen, Stadt",DE048F,comma_suffix_or_qualifier_only,True,pending
+08326052,St. Georgen im Schwarzwald,"St. Georgen im Schwarzwald, Stadt",DE048F,comma_suffix_or_qualifier_only,True,pending
+08326074,Villingen-Schwenningen,"Villingen-Schwenningen, Stadt",DE048F,comma_suffix_or_qualifier_only,True,pending
+08335043,Konstanz,"Konstanz, Universitätsstadt",DE051F,comma_suffix_or_qualifier_only,True,pending
+08415059,Pfullingen,"Pfullingen, Stadt",DE115F,comma_suffix_or_qualifier_only,True,pending
+08415061,Reutlingen,"Reutlingen, Stadt",DE115F,comma_suffix_or_qualifier_only,True,pending
+08416025,Mössingen,"Mössingen, Stadt",DE047F,comma_suffix_or_qualifier_only,True,pending
+08416041,Tübingen,"Tübingen, Universitätsstadt",DE047F,comma_suffix_or_qualifier_only,True,pending
+08421000,Ulm,"Ulm, Universitätsstadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08425020,Blaubeuren,"Blaubeuren, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08425028,Dietenheim,"Dietenheim, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08425039,Erbach,"Erbach, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08425072,Langenau,"Langenau, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08425108,Schelklingen,"Schelklingen, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08425141,Blaustein,"Blaustein, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08426070,Laupheim,"Laupheim, Stadt",DE110F,comma_suffix_or_qualifier_only,True,pending
+08435016,Friedrichshafen,"Friedrichshafen, Stadt",DE069F,comma_suffix_or_qualifier_only,True,pending
+08435034,Markdorf,"Markdorf, Stadt",DE069F,comma_suffix_or_qualifier_only,True,pending
+08435057,Tettnang,"Tettnang, Stadt",DE069F,comma_suffix_or_qualifier_only,True,pending
+16076049,Münchenbernsdorf,"Münchenbernsdorf, Stadt",DE113F,comma_suffix_or_qualifier_only,True,pending
+09176126,Gaimersheim,"Gaimersheim, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09173147,Wolfratshausen,"Wolfratshausen, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09174111,Altomünster,"Altomünster, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09174115,Dachau,"Dachau, GKSt",DE003F,comma_suffix_or_qualifier_only,True,pending
+09174131,Markt Indersdorf,"Markt Indersdorf, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09175115,Ebersberg,"Ebersberg, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09175121,Glonn,"Glonn, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09175122,Grafing b. München,"Grafing b.München, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09175124,Kirchseeon,"Kirchseeon, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09175127,Markt Schwaben,"Markt Schwaben, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09176112,Altmannstein,"Altmannstein, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176114,Beilngries,"Beilngries, St",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176121,Dollnstein,"Dollnstein, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176139,Kösching,"Kösching, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176123,Eichstätt,"Eichstätt, GKSt",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176137,Kinding,"Kinding, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176148,Mörnsheim,"Mörnsheim, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176149,Nassenfels,"Nassenfels, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176153,Pförring,"Pförring, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176164,Titting,"Titting, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09176166,Wellheim,"Wellheim, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09177115,Dorfen,"Dorfen, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09177117,Erding,"Erding, GKSt",DE003F,comma_suffix_or_qualifier_only,True,pending
+09177123,Isen,"Isen, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09184149,Unterschleißheim,"Unterschleißheim, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09671155,Stockstadt a. Main,"Stockstadt a.Main, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09178124,Freising,"Freising, GKSt",DE003F,comma_suffix_or_qualifier_only,True,pending
+09178143,Moosburg a.d. Isar,"Moosburg a.d.Isar, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09179121,Fürstenfeldbruck,"Fürstenfeldbruck, GKSt",DE003F,comma_suffix_or_qualifier_only,True,pending
+09179123,Germering,"Germering, GKSt",DE003F,comma_suffix_or_qualifier_only,True,pending
+09179142,Olching,"Olching, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09179145,Puchheim,"Puchheim, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09183119,Haag i. OB,"Haag i.OB, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09679144,Helmstadt,"Helmstadt, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09182120,Holzkirchen,"Holzkirchen, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09679147,Höchberg,"Höchberg, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09772202,Stadtbergen,"Stadtbergen, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09184119,Garching b. München,"Garching b.München, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09185149,Neuburg a.d. Donau,"Neuburg a.d.Donau, GKSt",DE112F,comma_suffix_or_qualifier_only,True,pending
+09185153,Rennertshofen,"Rennertshofen, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09186122,Geisenfeld,"Geisenfeld, St",DE112F,comma_suffix_or_qualifier_only,True,pending
+09186128,Hohenwart,"Hohenwart, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09186137,Manching,"Manching, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09186147,Reichertshofen,"Reichertshofen, M",DE112F,comma_suffix_or_qualifier_only,True,pending
+09186158,Vohburg a.d. Donau,"Vohburg a.d.Donau, St",DE112F,comma_suffix_or_qualifier_only,True,pending
+09186162,Wolnzach,"Wolnzach, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09187117,Bad Aibling,"Bad Aibling, St",DE066F,comma_suffix_or_qualifier_only,True,pending
+09187154,Neubeuern,"Neubeuern, M",DE066F,comma_suffix_or_qualifier_only,True,pending
+09677189,Thüngen,"Thüngen, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09188139,Starnberg,"Starnberg, St",DE003F,comma_suffix_or_qualifier_only,True,pending
+09675147,Marktbreit,"Marktbreit, St",DE102F,comma_suffix_or_qualifier_only,True,pending
+09477163,Wirsberg,"Wirsberg, M",DE056F,comma_suffix_or_qualifier_only,True,pending
+09675156,Obernbreit,"Obernbreit, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09273159,Painten,"Painten, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09273116,Bad Abbach,"Bad Abbach, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09273141,Langquaid,"Langquaid, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09273164,Riedenburg,"Riedenburg, St",DE112F,comma_suffix_or_qualifier_only,True,pending
+09274126,Ergolding,"Ergolding, M",DE064F,comma_suffix_or_qualifier_only,True,pending
+09274113,Altdorf,"Altdorf, M",DE064F,comma_suffix_or_qualifier_only,True,pending
+09274127,Ergoldsbach,"Ergoldsbach, M",DE064F,comma_suffix_or_qualifier_only,True,pending
+09274128,Essenbach,"Essenbach, M",DE064F,comma_suffix_or_qualifier_only,True,pending
+09274134,Geisenhausen,"Geisenhausen, M",DE064F,comma_suffix_or_qualifier_only,True,pending
+09274172,Pfeffenhausen,"Pfeffenhausen, M",DE064F,comma_suffix_or_qualifier_only,True,pending
+09275120,Eging a. See,"Eging a.See, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275122,Fürstenzell,"Fürstenzell, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275127,Hofkirchen,"Hofkirchen, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275138,Ortenburg,"Ortenburg, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275152,Tittling,"Tittling, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09275159,Windorf,"Windorf, M",DE078F,comma_suffix_or_qualifier_only,True,pending
+09376170,Teublitz,"Teublitz, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09675165,Schwarzach a. Main,"Schwarzach a.Main, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+14524230,Oberlungwitz,"Oberlungwitz, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+09372125,Falkenstein,"Falkenstein, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375130,Donaustauf,"Donaustauf, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09373121,Dietfurt a.d. Altmühl,"Dietfurt a.d.Altmühl, St",DE112F,comma_suffix_or_qualifier_only,True,pending
+09373151,Parsberg,"Parsberg, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09373155,Postbauer-Heng,"Postbauer-Heng, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09373156,Pyrbaum,"Pyrbaum, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09375174,Neutraubling,"Neutraubling, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375118,Beratzhausen,"Beratzhausen, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375148,Hemau,"Hemau, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375156,Kallmünz,"Kallmünz, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375162,Laaber,"Laaber, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375165,Lappersdorf,"Lappersdorf, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375175,Nittendorf,"Nittendorf, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375190,Regenstauf,"Regenstauf, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375196,Schierling,"Schierling, M",DE026F,comma_suffix_or_qualifier_only,True,pending
+09375210,Wörth a.d. Donau,"Wörth a.d.Donau, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09376119,Burglengenfeld,"Burglengenfeld, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09376141,Maxhütte-Haidhof,"Maxhütte-Haidhof, St",DE026F,comma_suffix_or_qualifier_only,True,pending
+09471214,Zapfendorf,"Zapfendorf, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471115,Baunach,"Baunach, St",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471120,Burgebrach,"Burgebrach, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09676160,Sulzbach a. Main,"Sulzbach a.Main, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09471122,Burgwindheim,"Burgwindheim, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471142,Heiligenstadt i. OFr.,"Heiligenstadt i.OFr., M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471145,Hirschaid,"Hirschaid, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471174,Rattelsdorf,"Rattelsdorf, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09471185,Scheßlitz,"Scheßlitz, St",DE059F,comma_suffix_or_qualifier_only,True,pending
+09472116,Bad Berneck i. Fichtelgebirge,"Bad Berneck i.Fichtelgebirge, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472143,Goldkronach,"Goldkronach, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472118,Betzenstein,"Betzenstein, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09679164,Neubrunn,"Neubrunn, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09472139,Gefrees,"Gefrees, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472154,Hollfeld,"Hollfeld, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472184,Schnabelwaid,"Schnabelwaid, M",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472197,Waischenfeld,"Waischenfeld, St",DE056F,comma_suffix_or_qualifier_only,True,pending
+09472199,Weidenberg,"Weidenberg, M",DE056F,comma_suffix_or_qualifier_only,True,pending
+09679167,Eisenheim,"Eisenheim, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09671122,Großostheim,"Großostheim, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09474123,Eggolsheim,"Eggolsheim, M",DE123F,comma_suffix_or_qualifier_only,True,pending
+09474138,Hiltpoltstein,"Hiltpoltstein, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09474124,Egloffstein,"Egloffstein, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09474126,Forchheim,"Forchheim, GKSt",DE123F,comma_suffix_or_qualifier_only,True,pending
+09474132,Gräfenberg,"Gräfenberg, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09474140,Igensdorf,"Igensdorf, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09474154,Neunkirchen a. Brand,"Neunkirchen a.Brand, M",DE123F,comma_suffix_or_qualifier_only,True,pending
+09474161,Pretzfeld,"Pretzfeld, M",DE123F,comma_suffix_or_qualifier_only,True,pending
+09679187,Sommerhausen,"Sommerhausen, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09477139,Marktschorgast,"Marktschorgast, M",DE056F,comma_suffix_or_qualifier_only,True,pending
+16074044,Kahla,"Kahla, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+09477157,Thurnau,"Thurnau, M",DE056F,comma_suffix_or_qualifier_only,True,pending
+09478120,Ebensfeld,"Ebensfeld, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+16076061,Ronneburg,"Ronneburg, Stadt",DE113F,comma_suffix_or_qualifier_only,True,pending
+09571135,Dietenhofen,"Dietenhofen, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09571165,Heilsbronn,"Heilsbronn, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09671130,Hösbach,"Hösbach, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09572121,Eckental,"Eckental, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09572132,Herzogenaurach,"Herzogenaurach, St",DE123F,comma_suffix_or_qualifier_only,True,pending
+09572135,Höchstadt a.d. Aisch,"Höchstadt a.d.Aisch, St",DE123F,comma_suffix_or_qualifier_only,True,pending
+09572143,Mühlhausen,"Mühlhausen, M",DE123F,comma_suffix_or_qualifier_only,True,pending
+09572164,Weisendorf,"Weisendorf, M",DE123F,comma_suffix_or_qualifier_only,True,pending
+09573111,Ammerndorf,"Ammerndorf, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573114,Cadolzburg,"Cadolzburg, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573120,Langenzenn,"Langenzenn, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573122,Oberasbach,"Oberasbach, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573125,Roßtal,"Roßtal, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573127,Stein,"Stein, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573133,Wilhermsdorf,"Wilhermsdorf, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09573134,Zirndorf,"Zirndorf, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09574112,Altdorf b. Nürnberg,"Altdorf b.Nürnberg, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09574123,Feucht,"Feucht, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09574132,Hersbruck,"Hersbruck, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09574138,Lauf a.d. Pegnitz,"Lauf a.d.Pegnitz, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09574152,Röthenbach a.d. Pegnitz,"Röthenbach a.d.Pegnitz, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09574155,Schnaittach,"Schnaittach, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09575121,Emskirchen,"Emskirchen, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09575145,Markt Erlbach,"Markt Erlbach, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09575152,Neuhof a.d. Zenn,"Neuhof a.d.Zenn, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09576111,Abenberg,"Abenberg, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09576113,Allersberg,"Allersberg, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09576132,Schwanstetten,"Schwanstetten, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09576122,Greding,"Greding, St",DE112F,comma_suffix_or_qualifier_only,True,pending
+09576127,Hilpoltstein,"Hilpoltstein, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09576143,Roth,"Roth, St",DE014F,comma_suffix_or_qualifier_only,True,pending
+09576151,Wendelstein,"Wendelstein, M",DE014F,comma_suffix_or_qualifier_only,True,pending
+09671111,Alzenau,"Alzenau, St",DE005F,comma_suffix_or_qualifier_only,True,pending
+09671143,Mömbris,"Mömbris, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09672121,Elfershausen,"Elfershausen, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09672122,Euerdorf,"Euerdorf, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09672131,Maßbach,"Maßbach, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09672155,Sulzthal,"Sulzthal, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09679131,Frickenhausen a. Main,"Frickenhausen a.Main, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09674133,Eltmann,"Eltmann, St",DE059F,comma_suffix_or_qualifier_only,True,pending
+09674190,Rentweinsdorf,"Rentweinsdorf, M",DE059F,comma_suffix_or_qualifier_only,True,pending
+09675117,Dettelbach,"Dettelbach, St",DE102F,comma_suffix_or_qualifier_only,True,pending
+09675141,Kitzingen,"Kitzingen, GKSt",DE102F,comma_suffix_or_qualifier_only,True,pending
+09676121,Elsenfeld,"Elsenfeld, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09676133,Kleinwallstadt,"Kleinwallstadt, M",DE058F,comma_suffix_or_qualifier_only,True,pending
+09676145,Obernburg a. Main,"Obernburg a.Main, St",DE058F,comma_suffix_or_qualifier_only,True,pending
+09677114,Arnstein,"Arnstein, St",DE102F,comma_suffix_or_qualifier_only,True,pending
+09677148,Karlstadt,"Karlstadt, St",DE102F,comma_suffix_or_qualifier_only,True,pending
+09677203,Zellingen,"Zellingen, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679135,Gelchsheim,"Gelchsheim, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09678164,Oberschwarzach,"Oberschwarzach, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09678181,Stadtlauringen,"Stadtlauringen, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09678193,Werneck,"Werneck, M",DE074F,comma_suffix_or_qualifier_only,True,pending
+09679122,Bütthard,"Bütthard, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679124,Eibelstadt,"Eibelstadt, St",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679138,Giebelstadt,"Giebelstadt, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679170,Ochsenfurt,"Ochsenfurt, St",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679175,Randersacker,"Randersacker, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679176,Reichenberg,"Reichenberg, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679177,Remlingen,"Remlingen, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679180,Rimpar,"Rimpar, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679206,Winterhausen,"Winterhausen, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09679209,Zell a. Main,"Zell a.Main, M",DE102F,comma_suffix_or_qualifier_only,True,pending
+09771114,Aindling,"Aindling, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772200,Schwabmünchen,"Schwabmünchen, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09771130,Friedberg,"Friedberg, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09771146,Mering,"Mering, M",DE003F,comma_suffix_or_qualifier_only,True,pending
+09772121,Biberbach,"Biberbach, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772125,Bobingen,"Bobingen, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772130,Diedorf,"Diedorf, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772131,Dinkelscherben,"Dinkelscherben, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772141,Fischach,"Fischach, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772147,Gersthofen,"Gersthofen, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772177,Meitingen,"Meitingen, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772184,Neusäß,"Neusäß, St",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772207,Thierhaupten,"Thierhaupten, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09772223,Zusmarshausen,"Zusmarshausen, M",DE031F,comma_suffix_or_qualifier_only,True,pending
+09775118,Buch,"Buch, M",DE110F,comma_suffix_or_qualifier_only,True,pending
+09775129,Illertissen,"Illertissen, St",DE110F,comma_suffix_or_qualifier_only,True,pending
+09775135,Neu-Ulm,"Neu-Ulm, GKSt",DE110F,comma_suffix_or_qualifier_only,True,pending
+09775143,Pfaffenhofen a.d. Roth,"Pfaffenhofen a.d.Roth, M",DE110F,comma_suffix_or_qualifier_only,True,pending
+09775152,Senden,"Senden, St",DE110F,comma_suffix_or_qualifier_only,True,pending
+09775162,Vöhringen,"Vöhringen, St",DE110F,comma_suffix_or_qualifier_only,True,pending
+09775164,Weißenhorn,"Weißenhorn, St",DE110F,comma_suffix_or_qualifier_only,True,pending
+09777154,Obergünzburg,"Obergünzburg, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+12061492,Teupitz,"Teupitz, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+09780117,Buchenberg,"Buchenberg, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+09780119,Dietmannsried,"Dietmannsried, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+09780140,Sulzberg,"Sulzberg, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+10041511,Friedrichsthal,"Friedrichsthal, Stadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+09780144,Weitnau,"Weitnau, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+10041518,Sulzbach/Saar,"Sulzbach/ Saar, Stadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+09780146,Wiggensbach,"Wiggensbach, M",DE063F,comma_suffix_or_qualifier_only,True,pending
+10041100,Saarbrücken,"Saarbrücken, Landeshauptstadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+16071046,Kranichfeld,"Kranichfeld, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+10041515,Püttlingen,"Püttlingen, Stadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+10041519,Völklingen,"Völklingen, Stadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+12061061,Byhleguhre-Byhlen,Byhleguhre-Byhlen/Beła Góra-Bělin,DE117F,other_name_difference,True,pending
+10045112,Blieskastel,"Blieskastel, Stadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+10045117,St. Ingbert,"St. Ingbert, Stadt",DE037F,comma_suffix_or_qualifier_only,True,pending
+12052000,Cottbus,"Cottbus/Chóśebuz, Stadt",DE117F,other_name_difference,True,pending
+12053000,Frankfurt (Oder),"Frankfurt (Oder), Stadt",DE027F,comma_suffix_or_qualifier_only,True,pending
+12054000,Potsdam,"Potsdam, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12060020,Bernau bei Berlin,"Bernau bei Berlin, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12060024,Biesenthal,"Biesenthal, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12060280,Werneuchen,"Werneuchen, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12061260,Königs Wusterhausen,"Königs Wusterhausen, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12061328,Märkisch Buchholz,"Märkisch Buchholz, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12061332,Mittenwalde,"Mittenwalde, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12061540,Wildau,"Wildau, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12063088,Friesack,"Friesack, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12063148,Ketzin/Havel,"Ketzin/Havel, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12063208,Nauen,"Nauen, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12064084,Buckow (Märkische Schweiz),"Buckow (Märkische Schweiz), Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12064268,Lebus,"Lebus, Stadt",DE027F,comma_suffix_or_qualifier_only,True,pending
+12064317,Müncheberg,"Müncheberg, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12064448,Seelow,"Seelow, Stadt",DE027F,comma_suffix_or_qualifier_only,True,pending
+12064472,Strausberg,"Strausberg, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12065136,Hennigsdorf,"Hennigsdorf, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12065144,Hohen Neuendorf,"Hohen Neuendorf, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12065193,Liebenwalde,"Liebenwalde, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12066226,Neu-Seeland,Neu-Seeland/Nowa Jazorina,DE117F,other_name_difference,True,pending
+12066228,Neupetershain,Neupetershain/Nowe Wiki,DE117F,other_name_difference,True,pending
+12065332,Velten,"Velten, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12066320,Vetschau/Spreewald,"Vetschau/Spreewald / Wětošow/Błota, Stadt",DE117F,other_name_difference,True,pending
+12067336,Müllrose,"Müllrose, Stadt",DE027F,comma_suffix_or_qualifier_only,True,pending
+12067124,Erkner,"Erkner, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12067144,Fürstenwalde/Spree,"Fürstenwalde/Spree, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069017,Beelitz,"Beelitz, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069020,Bad Belzig,"Bad Belzig, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069076,Brück,"Brück, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069616,Teltow,"Teltow, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069270,Havelsee,"Havelsee, Stadt",DE053F,comma_suffix_or_qualifier_only,True,pending
+12069448,Niemegk,"Niemegk, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069632,Treuenbrietzen,"Treuenbrietzen, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12069656,Werder (Havel),"Werder (Havel), Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12071028,Briesen,Briesen/Brjazyna,DE117F,other_name_difference,True,pending
+12071032,Burg (Spreewald),Burg (Spreewald)/Bórkowy (Błota),DE117F,other_name_difference,True,pending
+12071044,Döbern,"Döbern/Derbno, Stadt",DE117F,other_name_difference,True,pending
+12071052,Drachhausen,Drachhausen/Hochoza,DE117F,other_name_difference,True,pending
+12071057,Drebkau,"Drebkau/Drjowk, Stadt",DE117F,other_name_difference,True,pending
+12071386,Teichland,Teichland/Gatojce,DE117F,other_name_difference,True,pending
+12071076,Forst (Lausitz),"Forst (Lausitz)/Baršć (Łužyca), Stadt",DE117F,other_name_difference,True,pending
+12071193,Jänschwalde,Jänschwalde/Janšojce,DE117F,other_name_difference,True,pending
+12071392,Tschernitz,Tschernitz/Cersk,DE117F,other_name_difference,True,pending
+12071244,Kolkwitz,Kolkwitz/Gołkojce,DE117F,other_name_difference,True,pending
+12071408,Welzow,"Welzow/Wjelcej, Stadt",DE117F,other_name_difference,True,pending
+12071301,Neuhausen/Spree,Neuhausen/Spree / Kopańce/Sprjewja,DE117F,other_name_difference,True,pending
+12071304,Peitz,"Peitz/Picnjo, Stadt",DE117F,other_name_difference,True,pending
+12071372,Spremberg,"Spremberg/Grodk, Stadt",DE117F,other_name_difference,True,pending
+12071412,Werben,Werben/Wjerbno,DE117F,other_name_difference,True,pending
+12071414,Wiesengrund,Wiesengrund/Łukojce,DE117F,other_name_difference,True,pending
+12072232,Luckenwalde,"Luckenwalde, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12072240,Ludwigsfelde,"Ludwigsfelde, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12072426,Trebbin,"Trebbin, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+12072477,Zossen,"Zossen, Stadt",DE001F,comma_suffix_or_qualifier_only,True,pending
+13003000,Rostock,"Rostock, Hanse- und Universitätsstadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13004000,Schwerin,"Schwerin, Landeshauptstadt",DE029F,comma_suffix_or_qualifier_only,True,pending
+13071004,Altentreptow,"Altentreptow, Stadt",DE061F,comma_suffix_or_qualifier_only,True,pending
+13071021,Burg Stargard,"Burg Stargard, Stadt",DE061F,comma_suffix_or_qualifier_only,True,pending
+13071035,Friedland,"Friedland, Stadt",DE061F,comma_suffix_or_qualifier_only,True,pending
+13071164,Woldegk,"Woldegk, Windmühlenstadt",DE061F,comma_suffix_or_qualifier_only,True,pending
+13072006,Bad Doberan,"Bad Doberan, Stadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072017,Börgerende-Rethwisch,"Börgerende-Rethwisch, Seebad",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072036,Graal-Müritz,"Graal-Müritz, Ostseeheilbad",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072060,Kühlungsborn,"Kühlungsborn, Ostseebad, Stadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072062,Laage,"Laage, Stadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072095,Schwaan,"Schwaan, Stadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13072105,Tessin,"Tessin, Blumenstadt",DE040F,comma_suffix_or_qualifier_only,True,pending
+13073024,Franzburg,"Franzburg, Stadt",DE068F,comma_suffix_or_qualifier_only,True,pending
+13073088,Stralsund,"Stralsund, Hansestadt",DE068F,comma_suffix_or_qualifier_only,True,pending
+14521380,Lugau/Erzgeb.,"Lugau/Erzgeb., Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+13074017,Dassow,"Dassow, Stadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+13074065,Rehna,"Rehna, Stadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+13074074,Schönberg,"Schönberg, Stadt",DE089F,comma_suffix_or_qualifier_only,True,pending
+13075044,Gützkow,"Gützkow, Stadt",DE075F,comma_suffix_or_qualifier_only,True,pending
+13075054,Jarmen,"Jarmen, Stadt",DE075F,comma_suffix_or_qualifier_only,True,pending
+13075083,Lubmin,"Lubmin, Seebad",DE075F,comma_suffix_or_qualifier_only,True,pending
+13076014,Boizenburg/Elbe,"Boizenburg/ Elbe, Stadt",DE002F,comma_suffix_or_qualifier_only,True,pending
+13076020,Brüel,"Brüel, Stadt",DE029F,comma_suffix_or_qualifier_only,True,pending
+13076025,Crivitz,"Crivitz, Stadt",DE029F,comma_suffix_or_qualifier_only,True,pending
+14511000,Chemnitz,"Chemnitz, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14521690,Zschopau,"Zschopau, Stadt, Motorradstadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14522020,Augustusburg,"Augustusburg, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14522060,Burgstädt,"Burgstädt, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14522140,Flöha,"Flöha, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14522150,Frankenberg/Sa.,"Frankenberg/Sa., Stadt, Garnisonsstadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14522350,Lunzenau,"Lunzenau, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14522460,Penig,"Penig, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14523100,Elsterberg,"Elsterberg, Stadt",DE060F,comma_suffix_or_qualifier_only,True,pending
+14523300,Oelsnitz/Vogtl.,"Oelsnitz/Vogtl., Stadt",DE060F,comma_suffix_or_qualifier_only,True,pending
+14523320,Plauen,"Plauen, Stadt",DE060F,comma_suffix_or_qualifier_only,True,pending
+14524120,Hohenstein-Ernstthal,"Hohenstein-Ernstthal, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14524030,Crimmitschau,"Crimmitschau, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14524080,Glauchau,"Glauchau, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14524090,Hartenstein,"Hartenstein, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14524130,Kirchberg,"Kirchberg, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14524180,Limbach-Oberfrohna,"Limbach-Oberfrohna, Stadt",DE084F,comma_suffix_or_qualifier_only,True,pending
+14524300,Werdau,"Werdau, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14524310,Wildenfels,"Wildenfels, Stadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14524330,Zwickau,"Zwickau, Stadt, Hochschulstadt",DE122F,comma_suffix_or_qualifier_only,True,pending
+14625200,Großröhrsdorf,"Großröhrsdorf, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14625270,Königsbrück,"Königsbrück, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14625450,Pulsnitz,"Pulsnitz, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14625480,Radeberg,"Radeberg, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14626370,Niesky,"Niesky, Stadt",DE071F,comma_suffix_or_qualifier_only,True,pending
+14626420,Ostritz,"Ostritz, Stadt",DE071F,comma_suffix_or_qualifier_only,True,pending
+14626450,Reichenbach/O.L.,"Reichenbach/O.L., Stadt",DE071F,comma_suffix_or_qualifier_only,True,pending
+14627010,Coswig,"Coswig, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14627210,Radebeul,"Radebeul, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14627220,Radeburg,"Radeburg, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628020,Bad Gottleuba-Berggießhübel,"Bad Gottleuba-Berggießhübel, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628060,Dippoldiswalde,"Dippoldiswalde, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628080,Dohna,"Dohna, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628130,Glashütte,"Glashütte, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628210,Königstein/Sächs. Schw.,"Königstein/Sächs. Schw., Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628230,Liebstadt,"Liebstadt, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14729070,Brandis,"Brandis, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14628270,Pirna,"Pirna, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14729220,Kitzscher,"Kitzscher, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14628300,Rabenau,"Rabenau, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628310,Rathen,"Rathen, Kurort",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628380,Stolpen,"Stolpen, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14628400,Tharandt,"Tharandt, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14729260,Markkleeberg,"Markkleeberg, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14628410,Wilsdruff,"Wilsdruff, Stadt",DE009F,comma_suffix_or_qualifier_only,True,pending
+14729050,Borna,"Borna, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14713000,Leipzig,"Leipzig, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729010,Bad Lausick,"Bad Lausick, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729040,Böhlen,"Böhlen, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729170,Groitzsch,"Groitzsch, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729270,Markranstädt,"Markranstädt, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729300,Naunhof,"Naunhof, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729360,Regis-Breitingen,"Regis-Breitingen, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729350,Pegau,"Pegau, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+16065012,Clingen,"Clingen, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+14729370,Rötha,"Rötha, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729400,Trebsen/Mulde,"Trebsen/Mulde, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729410,Wurzen,"Wurzen, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14729430,Zwenkau,"Zwenkau, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14730020,Bad Düben,"Bad Düben, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14730110,Eilenburg,"Eilenburg, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14730070,Delitzsch,"Delitzsch, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14730270,Schkeuditz,"Schkeuditz, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+14730300,Taucha,"Taucha, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+15003000,Magdeburg,"Magdeburg, Landeshauptstadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15082005,Aken (Elbe),"Aken (Elbe), Stadt",DE079F,comma_suffix_or_qualifier_only,True,pending
+15083531,Wanzleben-Börde,"Wanzleben-Börde, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15083565,Wolmirstedt,"Wolmirstedt, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15084315,Lützen,"Lützen, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+15086015,Burg,"Burg, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15086055,Gommern,"Gommern, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15086140,Möckern,"Möckern, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15088025,Bad Lauchstädt,"Bad Lauchstädt, Goethestadt",DE017F,comma_suffix_or_qualifier_only,True,pending
+15088205,Leuna,"Leuna, Stadt",DE008F,comma_suffix_or_qualifier_only,True,pending
+15088220,Merseburg,"Merseburg, Stadt",DE017F,comma_suffix_or_qualifier_only,True,pending
+15089075,Egeln,"Egeln, Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15089305,Schönebeck (Elbe),"Schönebeck (Elbe), Stadt",DE018F,comma_suffix_or_qualifier_only,True,pending
+15091241,Oranienbaum-Wörlitz,"Oranienbaum-Wörlitz, Stadt",DE079F,comma_suffix_or_qualifier_only,True,pending
+16051000,Erfurt,"Erfurt, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+16052000,Gera,"Gera, Stadt",DE113F,comma_suffix_or_qualifier_only,True,pending
+16053000,Jena,"Jena, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+16055000,Weimar,"Weimar, Stadt",DE028F,comma_suffix_or_qualifier_only,True,pending
+16063032,Geisa,"Geisa, Stadt",DE062F,comma_suffix_or_qualifier_only,True,pending
+16065089,Greußen,"Greußen, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+16068014,Gebesee,"Gebesee, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+16076003,Bad Köstritz,"Bad Köstritz, Stadt",DE113F,comma_suffix_or_qualifier_only,True,pending
+16068051,Sömmerda,"Sömmerda, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+16071053,Magdala,"Magdala, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+16071061,Neumark,"Neumark, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+16070004,Arnstadt,"Arnstadt, Stadt",DE030F,comma_suffix_or_qualifier_only,True,pending
+16074011,Dornburg-Camburg,"Dornburg-Camburg, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+16074065,Orlamünde,"Orlamünde, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+16074094,Stadtroda,"Stadtroda, Stadt",DE125F,comma_suffix_or_qualifier_only,True,pending
+16076004,Berga/Elster,"Berga/Elster, Stadt",DE113F,comma_suffix_or_qualifier_only,True,pending
+16076079,Weida,"Weida, Stadt",DE113F,comma_suffix_or_qualifier_only,True,pending

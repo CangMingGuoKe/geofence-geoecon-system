@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": [
+    "All downloaded raw snapshots pass SHA256 source metadata checks",
+    "4320 exact code joins and 3 documented merger predecessors; 98 valid nonempty FUA geometries; all review statuses pending",
+    "Berlin independently reconstructed from original SHP archive: 118 exact-code municipalities equal exported geometry",
+    "GeoPackage SQLite integrity and all 98 WKB geometry round trips pass",
+    "79 same-code official references evaluated; 19 absent codes remain null, never zero"
+  ]
+}

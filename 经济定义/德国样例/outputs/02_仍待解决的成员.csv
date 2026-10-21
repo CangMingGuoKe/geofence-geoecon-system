@@ -1,0 +1,4 @@
+﻿iso3,geo_level,pk,name_lat,name_or,fuacode,fuaname_en,citycode,cityname_en,member_ags,official_lau_id,official_name,match_status,name_agrees,geometry_source,geometry_year,v1_status,v1_gid_3,v1_candidates,review_status
+DEU,Municipalities (Gemeinden),DEU01059101,Tastrup,Tastrup,DE049F,Flensburg,,,01059101,,,unresolved_code,False,,,not_found,,,pending
+DEU,Municipalities (Gemeinden),DEU01059141,Maasbüll,Maasbüll,DE049F,Flensburg,,,01059141,,,unresolved_code,False,,,not_found,,,pending
+DEU,Municipalities (Gemeinden),DEU16076026,Hartmannsdorf,Hartmannsdorf,DE113F,Gera,,,16076026,,,unresolved_code,False,,,not_found,,,pending

@@ -1,0 +1,17 @@
+﻿state_code,state_name,members,v1_matched,v1_match_rate,not_found_by_rule,aggregate_grain_conflict,geometry_claim_collision
+01,Schleswig-Holstein,531,57,0.10734463276836158,452,22,0
+02,Hamburg,1,1,1.0,0,0,0
+03,Niedersachsen,436,133,0.30504587155963303,259,38,6
+04,Bremen,2,2,1.0,0,0,0
+05,Nordrhein-Westfalen,208,208,1.0,0,0,0
+06,Hessen,253,250,0.9881422924901185,3,0,0
+07,Rheinland-Pfalz,598,26,0.043478260869565216,533,39,0
+08,Baden-Württemberg,434,113,0.26036866359447003,249,72,0
+09,Bayern,887,570,0.6426155580608793,224,89,4
+10,Saarland,23,23,1.0,0,0,0
+11,Berlin,1,1,1.0,0,0,0
+12,Brandenburg,192,82,0.4270833333333333,98,12,0
+13,Mecklenburg-Vorpommern,291,15,0.05154639175257732,263,13,0
+14,Sachsen,175,97,0.5542857142857143,54,24,0
+15,Sachsen-Anhalt,51,34,0.6666666666666666,17,0,0
+16,Thüringen,240,14,0.058333333333333334,208,18,0

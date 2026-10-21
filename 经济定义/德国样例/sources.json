@@ -1,0 +1,572 @@
+[
+  {
+    "path": "fua_cities_sau_mapping.csv",
+    "url": "https://webfs-cfe.oecd.org/files/.Stat/cities_local_areas/fua_cities_sau_mapping.csv",
+    "resolved_url": "https://webfs-cfe.oecd.org/files/.Stat/cities_local_areas/fua_cities_sau_mapping.csv",
+    "retrieved_at_utc": "2026-10-14T07:23:21.387821+00:00",
+    "bytes": 6333285,
+    "sha256": "950426aa326d75adda45def5215ae82c399517b198743a046b78bd1a51c812fc",
+    "content_type": "application/vnd.ms-excel"
+  },
+  {
+    "path": "LAU_RG_01M_2024_4326.shp.zip",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/lau/shp/LAU_RG_01M_2024_4326.shp.zip",
+    "retrieved_at_utc": "2026-10-15T05:40:56.113956+00:00",
+    "bytes": 42984996,
+    "sha256": "8eb297d914133b04415a32e768d88e046c4dc0665502223a20444f2305a0eb42",
+    "download_method": "HTTPS verified, six bounded range workers"
+  },
+  {
+    "path": "fua_reference_units/DE001F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE001F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:51.328279+00:00",
+    "sha256": "6d796d49c8d47df390c3f59a5ccb687d47bd00bc82774f0954ad4ef862639793",
+    "bytes": 176606
+  },
+  {
+    "path": "fua_reference_units/DE002F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE002F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:45.698169+00:00",
+    "sha256": "865b2bff7a215ce3b8dfbb8f5c2d36070636485295ecf21922b26f5b0c39b16f",
+    "bytes": 170016
+  },
+  {
+    "path": "fua_reference_units/DE003F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE003F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:51.404801+00:00",
+    "sha256": "b67eea28bcac37259bc5754ba0e7222f642e707f3f31599da3349ce4641a3720",
+    "bytes": 217273
+  },
+  {
+    "path": "fua_reference_units/DE004F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE004F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:40.189902+00:00",
+    "sha256": "9a3010f728a80e3c16b183ae1e618aad79c5405779555aadb4e79495a2584036",
+    "bytes": 82867
+  },
+  {
+    "path": "fua_reference_units/DE005F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE005F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:40.005307+00:00",
+    "sha256": "cf2d5006ce67b55f5f78a58d8b5fbb19e5a727ea20727631fc7130024a237159",
+    "bytes": 76239
+  },
+  {
+    "path": "fua_reference_units/DE006F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE006F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:39.488127+00:00",
+    "sha256": "0ce9933e0fda7c7d3af52f75d09982360c3ac0ee30cc20c2a2f467d70f3c0a1d",
+    "bytes": 50940
+  },
+  {
+    "path": "fua_reference_units/DE007F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE007F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:42.915178+00:00",
+    "sha256": "7835ac8c19d0ef4866a526379be1ddad27425dcd1fce9b0891801d64bf448aed",
+    "bytes": 89442
+  },
+  {
+    "path": "fua_reference_units/DE008F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE008F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:58.597084+00:00",
+    "sha256": "00f011d62eb72d8b8b700a7338a24454b06223104ebe395fcfbff32859d44260",
+    "bytes": 71578
+  },
+  {
+    "path": "fua_reference_units/DE009F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE009F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:48.291871+00:00",
+    "sha256": "5da2a083c7fee7da1b2838b8d8e398e012c3508112dbc08ef09ce0932c34a2ad",
+    "bytes": 81981
+  },
+  {
+    "path": "fua_reference_units/DE011F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE011F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:44.811141+00:00",
+    "sha256": "881c4104d3b0a25344c62ad087e131b7eeffbedf05710d408fd5a59d096fe1bb",
+    "bytes": 49115
+  },
+  {
+    "path": "fua_reference_units/DE012F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE012F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:50.404157+00:00",
+    "sha256": "860c6892b4f01f7215eae2fde8712fcb320064d09891a7a12d6d3bf48b526057",
+    "bytes": 61988
+  },
+  {
+    "path": "fua_reference_units/DE013F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE013F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:49.417873+00:00",
+    "sha256": "76b69ccf9f6dcfe036869cf65be914abbb5e9d0ae22ea8542eb63cef59b4a95d",
+    "bytes": 80357
+  },
+  {
+    "path": "fua_reference_units/DE014F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE014F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:57.516603+00:00",
+    "sha256": "f2b84a7aef646c9195c301fe570dd367aa5715d0e6a79ecafa47a7f8d882ec95",
+    "bytes": 131070
+  },
+  {
+    "path": "fua_reference_units/DE016F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE016F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:52.290734+00:00",
+    "sha256": "23de9198f83548de8f7e2f28047d928aa77b350cf1261c75ee26ab0120a2c777",
+    "bytes": 38758
+  },
+  {
+    "path": "fua_reference_units/DE017F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE017F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:52.703627+00:00",
+    "sha256": "cdaa6473f6c634f2c73348622c74634856b23e4e74c6275d9ac8aed6bf42cc1c",
+    "bytes": 34142
+  },
+  {
+    "path": "fua_reference_units/DE018F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE018F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:57.378445+00:00",
+    "sha256": "03556db6ed330f7c2a6506d8eae2aca0b1a9441d186b9fdcca60b1643acf6997",
+    "bytes": 63505
+  },
+  {
+    "path": "fua_reference_units/DE019F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE019F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:54.079164+00:00",
+    "sha256": "5c88eb6d4de94b347450f714a608a609ec1023be784358612be274cfd5d5c843",
+    "bytes": 35366
+  },
+  {
+    "path": "fua_reference_units/DE020F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE020F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:54.423694+00:00",
+    "sha256": "b42cc8884db7cbdff33233ed865186885c5ad087c7209ab4454b51a35e0f6e9a",
+    "bytes": 57003
+  },
+  {
+    "path": "fua_reference_units/DE023F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE023F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:55.234675+00:00",
+    "sha256": "44aa86ed06c8c5fa7e690e07c5e644619e309c8f59f73770aa53acd61e7c6785",
+    "bytes": 28828
+  },
+  {
+    "path": "fua_reference_units/DE024F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE024F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:57.036676+00:00",
+    "sha256": "9476b183dad4f30313ffabe7cc341aff2acb81935a6db8b5a69a5bfb3ca3dac2",
+    "bytes": 57727
+  },
+  {
+    "path": "fua_reference_units/DE025F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE025F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:56.883135+00:00",
+    "sha256": "7948239d0f3dfe7bf9513b712e249a18bfdd113bdbf5e8d9280229a70487dc62",
+    "bytes": 40284
+  },
+  {
+    "path": "fua_reference_units/DE026F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE026F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:00.445273+00:00",
+    "sha256": "56e449424fa3f0846d3a5ed6bac62b3fd7bdf718b8c7b1ca9e3a75cf749145c6",
+    "bytes": 94436
+  },
+  {
+    "path": "fua_reference_units/DE027F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE027F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:43:58.529805+00:00",
+    "sha256": "24a613a558cb44ea08caee85d2760552eb8a5d297b6ff8354cd199fcdd87f73b",
+    "bytes": 68109
+  },
+  {
+    "path": "fua_reference_units/DE029F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE029F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:01.254079+00:00",
+    "sha256": "03945b36dd244260c26e9642430f98e08ba1fccbe8cae7c72cfe56574113bbb9",
+    "bytes": 68080
+  },
+  {
+    "path": "fua_reference_units/DE030F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE030F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:06.079599+00:00",
+    "sha256": "1c23c076fb2b2c63534334d576882aaa7098813492ffdef4a8cb29333c70e529",
+    "bytes": 56821
+  },
+  {
+    "path": "fua_reference_units/DE031F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE031F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:00.542326+00:00",
+    "sha256": "a238212143613510ebe16f243c78b6f2ce1a215395458b3f3739c7175b4001c1",
+    "bytes": 82758
+  },
+  {
+    "path": "fua_reference_units/DE032F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE032F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:00.682647+00:00",
+    "sha256": "8a32d51dc7e3bc2832a1fd946e5994cf3755867b52179926e38bd6e9268df07a",
+    "bytes": 39587
+  },
+  {
+    "path": "fua_reference_units/DE033F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE033F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:04.141587+00:00",
+    "sha256": "ef7c2c979ab03839f0c9d6ffa994857eb235471369466fb3c17c4d80b56d8437",
+    "bytes": 54389
+  },
+  {
+    "path": "fua_reference_units/DE034F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE034F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:02.090527+00:00",
+    "sha256": "21941d69bd245baabb93c3ec0c71e5a132674a80f4871efe3f7630733d511e23",
+    "bytes": 21789
+  },
+  {
+    "path": "fua_reference_units/DE035F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE035F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:01.587686+00:00",
+    "sha256": "ec390a5565f708db6285f4fe0a4bac1ab0d848d8e5af838f4ce385b513231201",
+    "bytes": 17290
+  },
+  {
+    "path": "fua_reference_units/DE036F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE036F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:03.421551+00:00",
+    "sha256": "e5ff566f2bca00ecb0472fd4f76bd45a2badc95c7b69e4f7a1f8a8baaa112f72",
+    "bytes": 89188
+  },
+  {
+    "path": "fua_reference_units/DE037F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE037F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:06.608058+00:00",
+    "sha256": "680d70b1de7bddbfa16563bf10de1fb2961a155ae44538731808b1b524b1c381",
+    "bytes": 49981
+  },
+  {
+    "path": "fua_reference_units/DE039F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE039F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:06.850316+00:00",
+    "sha256": "7191a78f93fbcc18c0ff77b8afa1dbaf5e6d22a53c79697a34e004c2be33f6df",
+    "bytes": 64062
+  },
+  {
+    "path": "fua_reference_units/DE040F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE040F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:11.821418+00:00",
+    "sha256": "d33dbe39c4d3599d1bbdb985ec8a30a22df69c9416337d4e2d46b1d6b2107fda",
+    "bytes": 93273
+  },
+  {
+    "path": "fua_reference_units/DE041F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE041F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:05.242315+00:00",
+    "sha256": "83282905e95ecec26c33ab903f0885af4e7aa49a9d39728889748f7ee2f64baf",
+    "bytes": 37148
+  },
+  {
+    "path": "fua_reference_units/DE042F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE042F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:06.927814+00:00",
+    "sha256": "5b24354bb7d960e6a20e75a3ace2028a24011af98ae1e40c64fa8231a6474749",
+    "bytes": 21831
+  },
+  {
+    "path": "fua_reference_units/DE047F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE047F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:08.459887+00:00",
+    "sha256": "48b995245534e8517f77ef795f1751f4ca0e64546056da263fe6ee49421198cb",
+    "bytes": 29200
+  },
+  {
+    "path": "fua_reference_units/DE049F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE049F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:08.977466+00:00",
+    "sha256": "4c806bc8860d6d36e929b337c32a5775b6519750176c9a4559d62b012689303f",
+    "bytes": 50287
+  },
+  {
+    "path": "fua_reference_units/DE051F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE051F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:07.939718+00:00",
+    "sha256": "3c7824e027ec19f6ba3e8af53ea3ccdcefdff2f2bfefd0daffe3f440f0d5f65c",
+    "bytes": 31608
+  },
+  {
+    "path": "fua_reference_units/DE052F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE052F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:10.051478+00:00",
+    "sha256": "d1010ee53ace050bcda69007b5c44b557f0c9ed0544175c4eeff5ac1c013036a",
+    "bytes": 34054
+  },
+  {
+    "path": "fua_reference_units/DE054F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE054F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:08.935264+00:00",
+    "sha256": "54b3b25b0e9aee1cb37de5842dd93c03a3811a216902e0f418949d7701be74cf",
+    "bytes": 39077
+  },
+  {
+    "path": "fua_reference_units/DE056F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE056F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:11.077077+00:00",
+    "sha256": "a6dcc14d26b45da5e68c87719ce26ee3ebd695e61b4a6a552fb969a52d7f50ce",
+    "bytes": 82538
+  },
+  {
+    "path": "fua_reference_units/DE058F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE058F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:10.955007+00:00",
+    "sha256": "b13c0ec2372fca131354cd4c6f5ad58aea6d12af63b72024d94988c5c16ed722",
+    "bytes": 34801
+  },
+  {
+    "path": "fua_reference_units/DE059F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE059F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:12.174194+00:00",
+    "sha256": "2cfc2e51e1f3bb4ddebbf55cb292002597ff1e65b5a69c826f28e7a6cee61903",
+    "bytes": 67353
+  },
+  {
+    "path": "fua_reference_units/DE060F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE060F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:10.511501+00:00",
+    "sha256": "5938591fd549747a50c791be0d7a93b66f3f51cb8cbb0a202a279b68e72512c5",
+    "bytes": 36383
+  },
+  {
+    "path": "fua_reference_units/DE063F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE063F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:12.947574+00:00",
+    "sha256": "505e2cd08058277a9c786cc9fc892f3a0116f64dfe3570ca23b333e9b8932e44",
+    "bytes": 45762
+  },
+  {
+    "path": "fua_reference_units/DE064F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE064F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:12.867670+00:00",
+    "sha256": "bc5b60db6d5f917b1e9f45b3beeb834dd5cf7ac072a91d95ebe7f0cf260dde83",
+    "bytes": 49239
+  },
+  {
+    "path": "fua_reference_units/DE066F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE066F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:15.207886+00:00",
+    "sha256": "7c87c7267bb87aa1187a6f98e500d139f440a2827004e620872a73dd6ea0dd5f",
+    "bytes": 47094
+  },
+  {
+    "path": "fua_reference_units/DE071F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE071F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:12.639626+00:00",
+    "sha256": "483a8a3518444a6d34ba40ce44fa4360da5210cab6c787df264c6df671cdeaa3",
+    "bytes": 32834
+  },
+  {
+    "path": "fua_reference_units/DE074F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE074F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:13.753464+00:00",
+    "sha256": "398e36d700bd211f9c6646e591522f53811f5e22ead4ef75548f81d9a931d72f",
+    "bytes": 50003
+  },
+  {
+    "path": "fua_reference_units/DE081F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE081F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:18.020186+00:00",
+    "sha256": "9c9f1ff0b5e80522d7600f56812f34a3c5a236669231f5ad8a3b5ba7efed1ee1",
+    "bytes": 50544
+  },
+  {
+    "path": "fua_reference_units/DE083F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE083F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:18.044181+00:00",
+    "sha256": "09821fa69e73a7df0c9299cae9fb5668d6a50b8f9a3db5bf2028f5d680116d49",
+    "bytes": 53508
+  },
+  {
+    "path": "fua_reference_units/DE084F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE084F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:17.517743+00:00",
+    "sha256": "5ca31a8980cd4123d1a4e7c40ebbc68a6c09704a4062da8cb91fe31091cb4b0a",
+    "bytes": 48977
+  },
+  {
+    "path": "fua_reference_units/DE085F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE085F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:14.250823+00:00",
+    "sha256": "58ff43591f184a39a101bdcbad30e4a105c08aa76cc0d9bb61c1620dff47fa37",
+    "bytes": 50727
+  },
+  {
+    "path": "fua_reference_units/DE086F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE086F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:17.381849+00:00",
+    "sha256": "3c3362e061a0c8f1c179a569078326dacfc42b3b1c9169054fe61323178f01b9",
+    "bytes": 50350
+  },
+  {
+    "path": "fua_reference_units/DE087F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE087F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:17.348754+00:00",
+    "sha256": "5c4b9fee4b1463b33b36b40834ac1fff8592b159950e0bab1b2aa1222e4dbac6",
+    "bytes": 13360
+  },
+  {
+    "path": "fua_reference_units/DE089F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE089F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:18.141901+00:00",
+    "sha256": "aca807c3cc291ba1f93362f754c6b353c69ab8bc055b36338f35eef3f040f087",
+    "bytes": 75083
+  },
+  {
+    "path": "fua_reference_units/DE091F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE091F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:22.242181+00:00",
+    "sha256": "ad0c315dd9e4c276bd74715eca527a1e27c4fbb6a4e05d800a30474e0ea8bf54",
+    "bytes": 60296
+  },
+  {
+    "path": "fua_reference_units/DE095F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE095F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:19.690604+00:00",
+    "sha256": "cc2477d852e7294d3127158483e034bcd326920ae432fc0c72866edcdb0147c3",
+    "bytes": 32534
+  },
+  {
+    "path": "fua_reference_units/DE098F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE098F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:18.846562+00:00",
+    "sha256": "950d6fe852c72c89f1aaf2d8a0f3088fc9d3ea2a3cd8668208486ea3489974ef",
+    "bytes": 32105
+  },
+  {
+    "path": "fua_reference_units/DE100F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE100F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:19.555035+00:00",
+    "sha256": "033e1088c9439736b03a2be8a7164edbc4a5c3fa760424c5264897086e0d5418",
+    "bytes": 20827
+  },
+  {
+    "path": "fua_reference_units/DE101F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE101F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:25.131871+00:00",
+    "sha256": "a0208a5a3da3c2741b7e761716d47b3b422f688a876942d40f7cdc23ad4ce38c",
+    "bytes": 43356
+  },
+  {
+    "path": "fua_reference_units/DE102F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE102F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:20.593604+00:00",
+    "sha256": "f1f1df34e0ae76905c9fa7c164092da5d3a93c79bf1f2285b844b070bbc9e374",
+    "bytes": 59702
+  },
+  {
+    "path": "fua_reference_units/DE104F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE104F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:21.194308+00:00",
+    "sha256": "9f1525cb5e31828e0c80aae534fca1618815308de3bbffd983cea5206ef3f32c",
+    "bytes": 88311
+  },
+  {
+    "path": "fua_reference_units/DE105F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE105F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:23.006428+00:00",
+    "sha256": "34b0a9215002fc081452f5bbe967a050056d48b12416eb655b42b4add48e9048",
+    "bytes": 41193
+  },
+  {
+    "path": "fua_reference_units/DE107F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE107F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:26.832041+00:00",
+    "sha256": "126c8e5d2251121bacbae42b1888f58384ff3fe3d55c06ea1f887e35d4d3d3dd",
+    "bytes": 34743
+  },
+  {
+    "path": "fua_reference_units/DE108F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE108F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:22.436061+00:00",
+    "sha256": "fe673bc72ace9d61c8203d752edb5ea68acfc28d6c71df4617a1130a1ab27c84",
+    "bytes": 35061
+  },
+  {
+    "path": "fua_reference_units/DE110F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE110F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:27.358451+00:00",
+    "sha256": "769137fba5550ca7b9355c73929dce37ed5eb2ef0fe7e657eb0ac808dd6f31ea",
+    "bytes": 60293
+  },
+  {
+    "path": "fua_reference_units/DE111F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE111F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:25.378202+00:00",
+    "sha256": "db03a655fb8a6aa25a772969078e711e0719f8a744b529c9cc69a5508637a46e",
+    "bytes": 29428
+  },
+  {
+    "path": "fua_reference_units/DE112F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE112F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:28.408810+00:00",
+    "sha256": "fef35cb6b882614d63f45f2d3025afc1f600578c3c94060758ef4fa2c98e9268",
+    "bytes": 83118
+  },
+  {
+    "path": "fua_reference_units/DE113F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE113F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:27.802132+00:00",
+    "sha256": "fb61494e08d76ec48a854b5c2c0ee79ee533e93638de7d8a7846d0b6acc03b09",
+    "bytes": 33435
+  },
+  {
+    "path": "fua_reference_units/DE115F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE115F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:28.143294+00:00",
+    "sha256": "ca0f39fb510d43d34c4ffbbc7ab38921d68531f57311c95e5215be88c167c302",
+    "bytes": 30535
+  },
+  {
+    "path": "fua_reference_units/DE117F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE117F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:27.323892+00:00",
+    "sha256": "e1b1f6863437c446426aa8b553922c8c947bb54614dc0637bc0a46bf14998361",
+    "bytes": 47135
+  },
+  {
+    "path": "fua_reference_units/DE118F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE118F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:29.287256+00:00",
+    "sha256": "11a71e6d7ecf38e0c2f08435080d4cf6b334a0464a3fbd043413388f2b191c54",
+    "bytes": 24435
+  },
+  {
+    "path": "fua_reference_units/DE120F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE120F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:30.815443+00:00",
+    "sha256": "17214dba68995a5bf943fb5c84e3016704d02b8b41a9d337c1562e43a2f49aa1",
+    "bytes": 42019
+  },
+  {
+    "path": "fua_reference_units/DE124F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE124F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:28.675865+00:00",
+    "sha256": "ed502ccb660187ba210fddc0e5f64d1e103a880dfda2ef85fc7d40a2fd97a9b9",
+    "bytes": 21559
+  },
+  {
+    "path": "fua_reference_units/DE125F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE125F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:30.908246+00:00",
+    "sha256": "56447e1fbc5c7f513016d0fa26f338848ef04eb84a8d2902654b761ed1fc82ba",
+    "bytes": 41049
+  },
+  {
+    "path": "fua_reference_units/DE126F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE126F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:29.543958+00:00",
+    "sha256": "331a53bf06ca1c4d89e98c6da59fab22a4ae64ba2a6bc5feabead2eb2e5c9be3",
+    "bytes": 22396
+  },
+  {
+    "path": "fua_reference_units/DE127F-region-100k-4326-2024.geojson",
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/urau/distribution/DE127F-region-100k-4326-2024.geojson",
+    "retrieved_at_utc": "2026-10-15T05:44:29.543958+00:00",
+    "sha256": "7c1463791680b579076c8882346e5450e1a11afd676457d4820352b5a9e84a6c",
+    "bytes": 20396
+  }
+]
