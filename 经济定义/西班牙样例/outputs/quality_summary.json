@@ -1,0 +1,27 @@
+{
+  "oecd_members": 1264,
+  "matched_members": 1262,
+  "unresolved_members": 2,
+  "fuas": 81,
+  "geometries": 81,
+  "complete_by_code": 80,
+  "partial_fuas": 1,
+  "official_spanish_laus": 8132,
+  "name_differences": 109,
+  "official_reference_fuas": 66,
+  "missing_reference_fuas": 15,
+  "median_iou": 0.6565749545825206,
+  "diagnostic_iou_threshold": 0.98,
+  "comparison_flags": {
+    "needs_definition_review": 58,
+    "no_same_code_reference": 15,
+    "partial_membership_even_if_spatially_similar": 1,
+    "high_spatial_agreement_pending_review": 7
+  },
+  "geometry_repairs": 0,
+  "definition_vintage": "not confirmed",
+  "geometry_year": 2024,
+  "review_status": "pending",
+  "area_projection": "EPSG:6933",
+  "economic_observations_included": false
+}

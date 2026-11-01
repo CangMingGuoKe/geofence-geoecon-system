@@ -1,0 +1,1265 @@
+﻿fua_code,member_ine5,member_name,fraction_inside_same_code_reference,flag,review_status
+ES012F,01001,Alegría-Dulantzi,0.9999999999999997,mostly_inside_reference,pending
+ES065F,04052,Huércal de Almería,1.0,mostly_inside_reference,pending
+ES012F,01018,Zigoitia,0.9957903537064048,mostly_inside_reference,pending
+ES018F,01039,Moreda de Álava/Moreda Araba,1.0000000000000002,mostly_inside_reference,pending
+ES018F,01043,Oyón-Oion,0.9926776025422738,mostly_inside_reference,pending
+ES012F,01059,Vitoria-Gasteiz,0.9999864424548758,mostly_inside_reference,pending
+ES001F,28176,Villanueva de la Cañada,0.9999999999999993,mostly_inside_reference,pending
+ES001F,28177,Villanueva del Pardillo,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28178,Villanueva de Perales,0.9999999999999999,mostly_inside_reference,pending
+ES068F,02003,Albacete,0.999687753602448,mostly_inside_reference,pending
+ES001F,28179,Villar del Olmo,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28181,Villaviciosa de Odón,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28903,Tres Cantos,1.0000000000000002,mostly_inside_reference,pending
+ES006F,29012,Álora,0.9999999999999997,mostly_inside_reference,pending
+ES068F,02029,Chinchilla de Monte-Aragón,0.9992897198117717,mostly_inside_reference,pending
+ES068F,02073,Tarazona de la Mancha,0.9976136513691257,mostly_inside_reference,pending
+ES044F,03011,l'Alfàs del Pi,0.9936981080520698,mostly_inside_reference,pending
+ES021F,03014,Alicante/Alacant,0.9952058910415719,mostly_inside_reference,pending
+ES044F,03031,Benidorm,0.985871169792173,mostly_inside_reference,pending
+ES021F,03050,el Campello,0.9858671808635963,mostly_inside_reference,pending
+ES060F,03065,Elche/Elx,,no_reference,pending
+ES021F,03119,Sant Joan d'Alacant,1.0000000000000004,mostly_inside_reference,pending
+ES060F,03121,Santa Pola,,no_reference,pending
+ES032F,03133,Torrevieja,0.9886047274424454,mostly_inside_reference,pending
+ES032F,03903,Los Montesinos,0.013641089842817184,mostly_outside_reference,pending
+ES065F,04013,Almería,0.9898330527457707,mostly_inside_reference,pending
+ES065F,04101,Viator,1.0000000000000002,mostly_inside_reference,pending
+ES084F,05019,Ávila,,no_reference,pending
+ES001F,05241,El Tiemblo,1.0,mostly_inside_reference,pending
+ES092F,06058,La Garrovilla,0.9999333567250137,mostly_inside_reference,pending
+ES092F,06012,Arroyo de San Serván,1.0,mostly_inside_reference,pending
+ES017F,06015,Badajoz,0.9975388991486074,mostly_inside_reference,pending
+ES092F,06025,Calamonte,1.0000000000000002,mostly_inside_reference,pending
+ES092F,06032,El Carrascalejo,0.9999999999999999,mostly_inside_reference,pending
+ES092F,06083,Mérida,0.9929935467166873,mostly_inside_reference,pending
+ES017F,06095,Olivenza,0.99532136286209,mostly_inside_reference,pending
+ES017F,06902,Pueblonuevo del Guadiana,0.9999999999999998,mostly_inside_reference,pending
+ES010F,07005,Andratx,0.9729755111856472,boundary_crosses_reference,pending
+ES010F,07007,Banyalbufar,0.9820080959574207,mostly_inside_reference,pending
+ES010F,07011,Calvià,0.987406115371334,mostly_inside_reference,pending
+ES010F,07013,Campos,0.9955163099782385,mostly_inside_reference,pending
+ES010F,07020,Esporles,1.0,mostly_inside_reference,pending
+ES010F,07021,Estellencs,0.9846538373791534,mostly_inside_reference,pending
+ES089F,07026,Eivissa,0.9624993727692138,boundary_crosses_reference,pending
+ES010F,07031,Llucmajor,0.9971610370426879,mostly_inside_reference,pending
+ES010F,07040,Palma,0.9868574692384109,mostly_inside_reference,pending
+ES089F,07046,Sant Antoni de Portmany,0.9919976744752824,mostly_inside_reference,pending
+ES089F,07048,Sant Josep de sa Talaia,0.9804717658990199,mostly_inside_reference,pending
+ES089F,07050,Sant Joan de Labritja,0.9883464967505611,mostly_inside_reference,pending
+ES010F,07061,Sóller,0.9835038387281966,mostly_inside_reference,pending
+ES010F,07063,Valldemossa,0.9969661017038439,mostly_inside_reference,pending
+ES066F,09248,Palazuelos de la Sierra,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08001,Abrera,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08006,Arenys de Mar,0.9679602334007762,boundary_crosses_reference,pending
+ES002F,08009,Argentona,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08015,Badalona,0.9863745734666219,mostly_inside_reference,pending
+ES002F,08019,Barcelona,0.983715763426077,mostly_inside_reference,pending
+ES002F,08028,Cabrera d'Anoia,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08033,Caldes de Montbui,0.9999999999999998,mostly_inside_reference,pending
+ES042F,08038,Callús,0.968258951634559,boundary_crosses_reference,pending
+ES002F,08043,Canyelles,1.0,mostly_inside_reference,pending
+ES002F,08053,Castellbell i el Vilar,1.0,mostly_inside_reference,pending
+ES097F,08063,Castellolí,,no_reference,pending
+ES002F,08072,Corbera de Llobregat,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08076,Esparreguera,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08091,Gelida,1.0,mostly_inside_reference,pending
+ES002F,08096,Granollers,0.9999999999999998,mostly_inside_reference,pending
+ES042F,08098,Sant Salvador de Guardiola,0.9832912752305284,mostly_inside_reference,pending
+ES097F,08102,Igualada,,no_reference,pending
+ES097F,08103,Jorba,,no_reference,pending
+ES002F,08106,Llinars del Vallès,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08114,Martorell,1.0,mostly_inside_reference,pending
+ES002F,08118,El Masnou,0.9583875392776594,boundary_crosses_reference,pending
+ES002F,08119,Masquefa,1.0,mostly_inside_reference,pending
+ES002F,08120,Matadepera,0.9979074211227513,mostly_inside_reference,pending
+ES002F,08121,Mataró,0.9951086105260343,mostly_inside_reference,pending
+ES002F,08123,Molins de Rei,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08125,Montcada i Reixac,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08126,Montgat,0.978226363961076,boundary_crosses_reference,pending
+ES002F,08127,Monistrol de Montserrat,1.0000000000000002,mostly_inside_reference,pending
+ES097F,08143,Òdena,,no_reference,pending
+ES002F,08147,Olesa de Montserrat,1.0000000000000004,mostly_inside_reference,pending
+ES002F,08153,Òrrius,1.0,mostly_inside_reference,pending
+ES002F,08159,Parets del Vallès,1.0,mostly_inside_reference,pending
+ES002F,08161,Piera,1.0000000000000004,mostly_inside_reference,pending
+ES002F,08162,Els Hostalets de Pierola,0.9999999999999999,mostly_inside_reference,pending
+ES097F,08165,La Pobla de Claramunt,,no_reference,pending
+ES002F,08167,Polinyà,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08172,Premià de Mar,0.9999999999997555,mostly_inside_reference,pending
+ES002F,08179,Rellinars,0.989314587564435,mostly_inside_reference,pending
+ES042F,08182,El Pont de Vilomara i Rocafort,0.0034782825444952792,mostly_outside_reference,pending
+ES002F,08184,Rubí,1.0000000000000004,mostly_inside_reference,pending
+ES002F,08200,Sant Boi de Llobregat,1.0,mostly_inside_reference,pending
+ES002F,08203,Sant Cebrià de Vallalta,1.0,mostly_inside_reference,pending
+ES002F,08205,Sant Cugat del Vallès,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09304,Rabé de las Calzadas,0.9984737085707898,mostly_inside_reference,pending
+ES002F,08209,Sant Fost de Campsentelles,1.0,mostly_inside_reference,pending
+ES002F,08217,Sant Joan Despí,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08219,Vilassar de Mar,0.9983872020537295,mostly_inside_reference,pending
+ES002F,08222,Sant Llorenç d'Hortons,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08223,Sant Llorenç Savall,0.9911970632175663,mostly_inside_reference,pending
+ES097F,08226,Sant Martí de Tous,,no_reference,pending
+ES002F,08231,Sant Pere de Ribes,0.9993336124027715,mostly_inside_reference,pending
+ES002F,08242,Marganell,0.9973398755236318,mostly_inside_reference,pending
+ES002F,08245,Santa Coloma de Gramenet,0.9999999999999999,mostly_inside_reference,pending
+ES097F,08250,Santa Margarida de Montbui,,no_reference,pending
+ES002F,08252,Barberà del Vallès,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08256,Santa Maria de Martorelles,1.0,mostly_inside_reference,pending
+ES002F,08262,Sant Vicenç de Castellet,0.9933683668358743,mostly_inside_reference,pending
+ES002F,08266,Cerdanyola del Vallès,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08267,Sentmenat,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08270,Sitges,0.9861384300328688,mostly_inside_reference,pending
+ES002F,08273,Subirats,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08279,Terrassa,0.9999999999999991,mostly_inside_reference,pending
+ES002F,08281,Teià,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08282,Tiana,1.0,mostly_inside_reference,pending
+ES097F,08286,La Torre de Claramunt,,no_reference,pending
+ES002F,08291,Vacarisses,0.9990427057923394,mostly_inside_reference,pending
+ES002F,08294,Vallgorguina,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08296,Vallromanes,1.0000000000000002,mostly_inside_reference,pending
+ES097F,08302,Vilanova del Camí,,no_reference,pending
+ES002F,08905,La Palma de Cervelló,0.9999999999999998,mostly_inside_reference,pending
+ES066F,09075,Cardeñuela Riopico,1.0000000000000004,mostly_inside_reference,pending
+ES012F,09109,Condado de Treviño,0.99948827606985,mostly_inside_reference,pending
+ES066F,09177,Ibeas de Juarros,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09315,Revillarruz,1.0000000000000002,mostly_inside_reference,pending
+ES019F,09410,Valle de Mena,0.9947155483482483,mostly_inside_reference,pending
+ES066F,09904,Valle de las Navas,0.9969572085008073,mostly_inside_reference,pending
+ES066F,09907,Alfoz de Quintanadueñas,1.0,mostly_inside_reference,pending
+ES031F,10021,Arroyo de la Luz,0.9969706270773806,mostly_inside_reference,pending
+ES031F,10037,Cáceres,0.9978451766518642,mostly_inside_reference,pending
+ES031F,10049,Casar de Cáceres,1.0000000000000002,mostly_inside_reference,pending
+ES031F,10082,Garrovillas de Alconétar,0.9920722803840851,mostly_inside_reference,pending
+ES059F,18062,Churriana de la Vega,0.9999999999999999,mostly_inside_reference,pending
+ES031F,10177,Sierra de Fuentes,1.0000000000000002,mostly_inside_reference,pending
+ES059F,18068,Dílar,0.9974685437739967,mostly_inside_reference,pending
+ES059F,18071,Dúrcal,0.997087644001651,mostly_inside_reference,pending
+ES059F,18087,Granada,1.0,mostly_inside_reference,pending
+ES079F,11004,Algeciras,0.9809927029077922,mostly_inside_reference,pending
+ES079F,11008,Los Barrios,0.992801974830689,mostly_inside_reference,pending
+ES059F,18094,Güéjar Sierra,0.9966148481865896,mostly_inside_reference,pending
+ES033F,11027,El Puerto de Santa María,0.9806400854340491,mostly_inside_reference,pending
+ES071F,11028,Puerto Real,0.9838412342401289,mostly_inside_reference,pending
+ES071F,11031,San Fernando,0.9806954383026569,mostly_inside_reference,pending
+ES062F,11037,Trebujena,0.001702265315892011,mostly_outside_reference,pending
+ES069F,12009,Almassora,0.9999999999998529,mostly_inside_reference,pending
+ES069F,12040,Castelló de la Plana,0.9931279028168873,mostly_inside_reference,pending
+ES069F,12085,Oropesa del Mar/Orpesa,0.98722370442449,mostly_inside_reference,pending
+ES069F,12094,la Pobla Tornesa,0.9911923759117763,mostly_inside_reference,pending
+ES043F,13056,Miguelturra,0.9970470641243385,mostly_inside_reference,pending
+ES043F,13064,Poblete,0.9979155717806745,mostly_inside_reference,pending
+ES043F,13066,Pozuelo de Calatrava,0.9933616919834897,mostly_inside_reference,pending
+ES020F,14005,Almodóvar del Río,0.9980544989646531,mostly_inside_reference,pending
+ES020F,14021,Córdoba,0.9991995790948944,mostly_inside_reference,pending
+ES020F,14027,Fernán-Núñez,1.0,mostly_inside_reference,pending
+ES020F,14047,Obejo,0.9963310200405954,mostly_inside_reference,pending
+ES020F,14065,La Victoria,1.0,mostly_inside_reference,pending
+ES025F,15001,Abegondo,0.9980702410330871,mostly_inside_reference,pending
+ES011F,15002,Ames,0.9999999999999998,mostly_inside_reference,pending
+ES037F,15004,Ares,0.9622692472880187,boundary_crosses_reference,pending
+ES025F,15005,Arteixo,0.994491183322362,mostly_inside_reference,pending
+ES011F,15013,Brión,0.9965935261754413,mostly_inside_reference,pending
+ES037F,15015,Cabanas,0.9802173009149288,mostly_inside_reference,pending
+ES025F,15021,Carral,0.9989264973820521,mostly_inside_reference,pending
+ES025F,15030,A Coruña,0.9813784836679493,mostly_inside_reference,pending
+ES037F,15035,Fene,0.987645781315786,mostly_inside_reference,pending
+ES037F,15036,Ferrol,0.978492754661152,boundary_crosses_reference,pending
+ES025F,15041,A Laracha,0.9986406301441031,mostly_inside_reference,pending
+ES037F,15051,Mugardos,0.9758777449983982,boundary_crosses_reference,pending
+ES037F,15054,Narón,0.9979200200532642,mostly_inside_reference,pending
+ES037F,15055,Neda,0.9974203221073256,mostly_inside_reference,pending
+ES025F,15058,Oleiros,0.9829317409429976,mostly_inside_reference,pending
+ES011F,15060,Oroso,0.9830050916289166,mostly_inside_reference,pending
+ES011F,15065,Padrón,0.9883282028336098,mostly_inside_reference,pending
+ES011F,15066,O Pino,0.992012028085738,mostly_inside_reference,pending
+ES011F,15078,Santiago de Compostela,1.0,mostly_inside_reference,pending
+ES011F,15085,Touro,0.9880138326701914,mostly_inside_reference,pending
+ES011F,15086,Trazo,0.9956028740101127,mostly_inside_reference,pending
+ES037F,15087,Valdoviño,0.9864029763906335,mostly_inside_reference,pending
+ES025F,15902,Oza-Cesuras,0.9949159108412877,mostly_inside_reference,pending
+ES088F,16040,Buenache de la Sierra,,no_reference,pending
+ES088F,16078,Cuenca,,no_reference,pending
+ES059F,18095,Güevéjar,1.0000000000000002,mostly_inside_reference,pending
+ES059F,18099,Huétor de Santillán,0.9926149359107218,mostly_inside_reference,pending
+ES088F,16215,Tragacete,,no_reference,pending
+ES088F,16263,Villar de Olalla,,no_reference,pending
+ES030F,17002,Aiguaviva,0.9999999999999999,mostly_inside_reference,pending
+ES030F,17020,Bescanó,0.9976600879046704,mostly_inside_reference,pending
+ES030F,17079,Girona,1.0000000000000089,mostly_inside_reference,pending
+ES059F,18111,Jun,1.0000000000000002,mostly_inside_reference,pending
+ES030F,17163,Sant Gregori,1.0,mostly_inside_reference,pending
+ES030F,17172,Sant Martí de Llémena,0.9874774187560162,mostly_inside_reference,pending
+ES059F,18003,Albolote,0.9933849694326172,mostly_inside_reference,pending
+ES059F,18014,Alhendín,0.9907233489084243,mostly_inside_reference,pending
+ES059F,18021,Armilla,0.9999999999999998,mostly_inside_reference,pending
+ES059F,18036,Cájar,1.0000000000000002,mostly_inside_reference,pending
+ES059F,18037,Calicasas,1.0,mostly_inside_reference,pending
+ES059F,18047,Cenes de la Vega,1.0,mostly_inside_reference,pending
+ES059F,18059,Chauchina,0.9964562196594132,mostly_inside_reference,pending
+ES059F,18115,Láchar,1.0,mostly_inside_reference,pending
+ES059F,18134,Monachil,0.9999999999999998,mostly_inside_reference,pending
+ES059F,18145,Ogíjares,0.9999999999999999,mostly_inside_reference,pending
+ES059F,18158,Pinos Puente,0.9941490849303899,mostly_inside_reference,pending
+ES059F,18193,La Zubia,1.0,mostly_inside_reference,pending
+ES059F,18911,Vegas del Genil,1.0,mostly_inside_reference,pending
+ES001F,19071,El Casar,0.9941913672353004,mostly_inside_reference,pending
+ES041F,19130,Guadalajara,0.9870327160627804,mostly_inside_reference,pending
+ES001F,19293,Uceda,0.9824524821280934,mostly_inside_reference,pending
+ES053F,20036,Hondarribia,,no_reference,pending
+ES063F,20040,Hernani,0.9942017978844283,mostly_inside_reference,pending
+ES063F,20063,Oiartzun,0.9911890110749316,mostly_inside_reference,pending
+ES063F,20064,Pasaia,0.9656149762611254,boundary_crosses_reference,pending
+ES063F,20072,Urnieta,0.9999999999999998,mostly_inside_reference,pending
+ES070F,21002,Aljaraque,1.0000000000000002,mostly_inside_reference,pending
+ES070F,21011,Beas,0.9967104009765059,mostly_inside_reference,pending
+ES070F,21035,Gibraleón,0.9981699654291608,mostly_inside_reference,pending
+ES070F,21041,Huelva,0.998957590915529,mostly_inside_reference,pending
+ES070F,21055,Palos de la Frontera,0.9881876578529082,mostly_inside_reference,pending
+ES070F,21060,Punta Umbría,0.9851366144390534,mostly_inside_reference,pending
+ES070F,21064,San Juan del Puerto,0.9924332613616261,mostly_inside_reference,pending
+ES070F,21070,Trigueros,0.9989256910715347,mostly_inside_reference,pending
+ES074F,23038,La Guardia de Jaén,0.9999999999999996,mostly_inside_reference,pending
+ES074F,23050,Jaén,0.9991917867216784,mostly_inside_reference,pending
+ES090F,23055,Linares,,no_reference,pending
+ES074F,23086,Torredelcampo,0.9975951899487767,mostly_inside_reference,pending
+ES074F,23087,Torredonjimeno,0.99090229294005,mostly_inside_reference,pending
+ES072F,24065,Chozas de Abajo,0.9968381341136943,mostly_inside_reference,pending
+ES046F,24100,Molinaseca,0.9970908465258457,mostly_inside_reference,pending
+ES072F,24105,Onzonilla,0.9999999999999998,mostly_inside_reference,pending
+ES072F,24163,Sariegos,0.9999999999999998,mostly_inside_reference,pending
+ES075F,25004,Els Alamús,1.0,mostly_inside_reference,pending
+ES075F,25016,Alguaire,0.9976676896364578,mostly_inside_reference,pending
+ES075F,25023,Alpicat,1.0000000000000004,mostly_inside_reference,pending
+ES075F,25048,Bell-lloc d'Urgell,0.9943824809629708,mostly_inside_reference,pending
+ES075F,25052,Bellvís,0.9931626451033408,mostly_inside_reference,pending
+ES075F,25053,Benavent de Segrià,1.0000000000000002,mostly_inside_reference,pending
+ES075F,25078,Corbins,0.9955065570165696,mostly_inside_reference,pending
+ES075F,25120,Lleida,0.9984864390854403,mostly_inside_reference,pending
+ES075F,25182,Puigverd de Lleida,0.9878593796385963,mostly_inside_reference,pending
+ES028F,27028,Lugo,1.0000000000000002,mostly_inside_reference,pending
+ES047F,49178,Roales,0.9744981990673498,boundary_crosses_reference,pending
+ES001F,28002,Ajalvir,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28005,Alcalá de Henares,1.0,mostly_inside_reference,pending
+ES001F,28006,Alcobendas,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28010,Alpedrete,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28013,Aranjuez,0.998291212139563,mostly_inside_reference,pending
+ES001F,28015,Arroyomolinos,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28017,Batres,1.0,mostly_inside_reference,pending
+ES001F,28019,Belmonte de Tajo,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28023,El Boalo,0.9999999999999885,mostly_inside_reference,pending
+ES001F,28026,Brunete,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28028,Bustarviejo,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28031,Cadalso de los Vidrios,1.0,mostly_inside_reference,pending
+ES001F,28041,Cobeña,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28045,Colmenar Viejo,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28047,Collado Villalba,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28051,Chapinería,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28052,Chinchón,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28053,Daganzo de Arriba,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28054,El Escorial,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28056,Fresnedillas de la Oliva,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28058,Fuenlabrada,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28061,Galapagar,1.0000000000000004,mostly_inside_reference,pending
+ES001F,28065,Getafe,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28067,Guadalix de la Sierra,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28068,Guadarrama,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28079,Madrid,1.0,mostly_inside_reference,pending
+ES001F,28080,Majadahonda,1.0000000000000007,mostly_inside_reference,pending
+ES001F,28082,Manzanares el Real,1.0000000000000007,mostly_inside_reference,pending
+ES001F,28085,Miraflores de la Sierra,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28086,El Molar,1.0,mostly_inside_reference,pending
+ES001F,28091,Morata de Tajuña,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28092,Móstoles,1.0000000000000004,mostly_inside_reference,pending
+ES001F,28095,Navalagamella,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28096,Navalcarnero,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28099,Navas del Rey,1.0,mostly_inside_reference,pending
+ES001F,28104,Paracuellos de Jarama,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28106,Parla,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28108,Pedrezuela,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28109,Pelayos de la Presa,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28113,Pinto,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28116,Pozuelo del Rey,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28119,Quijorna,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28123,Rivas-Vaciamadrid,1.0,mostly_inside_reference,pending
+ES001F,28125,Robledo de Chavela,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28131,San Lorenzo de El Escorial,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28132,San Martín de la Vega,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28133,San Martín de Valdeiglesias,1.0,mostly_inside_reference,pending
+ES001F,28134,San Sebastián de los Reyes,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28135,Santa María de la Alameda,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28137,Los Santos de la Humosa,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28140,Serranillos del Valle,1.0,mostly_inside_reference,pending
+ES001F,28145,Talamanca de Jarama,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28146,Tielmes,1.0,mostly_inside_reference,pending
+ES001F,28147,Titulcia,1.0,mostly_inside_reference,pending
+ES001F,28149,Torrejón de la Calzada,1.0,mostly_inside_reference,pending
+ES001F,28150,Torrejón de Velasco,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28151,Torrelaguna,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28152,Torrelodones,1.0000000000000004,mostly_inside_reference,pending
+ES001F,28160,Valdemorillo,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28161,Valdemoro,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28162,Valdeolmos-Alalpardo,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28164,Valdetorres de Jarama,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28165,Valdilecha,1.0,mostly_inside_reference,pending
+ES001F,28171,Villa del Prado,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28172,Villalbilla,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28174,Villamanta,1.0,mostly_inside_reference,pending
+ES001F,28175,Villamantilla,0.9999999999999999,mostly_inside_reference,pending
+ES006F,29018,Ardales,0.9992417884548646,mostly_inside_reference,pending
+ES006F,29025,Benalmádena,0.9818417021583177,mostly_inside_reference,pending
+ES006F,29036,Carratraca,1.0000000000000002,mostly_inside_reference,pending
+ES006F,29038,Cártama,1.0,mostly_inside_reference,pending
+ES006F,29040,Casarabonela,0.9999999999999999,mostly_inside_reference,pending
+ES006F,29043,Colmenar,0.9999999999999445,mostly_inside_reference,pending
+ES080F,29054,Fuengirola,,no_reference,pending
+ES080F,29061,Istán,,no_reference,pending
+ES006F,29067,Málaga,0.9955793113521344,mostly_inside_reference,pending
+ES080F,29069,Marbella,,no_reference,pending
+ES080F,29070,Mijas,,no_reference,pending
+ES080F,29073,Monda,,no_reference,pending
+ES080F,29076,Ojén,,no_reference,pending
+ES006F,29082,Rincón de la Victoria,0.9953679805882317,mostly_inside_reference,pending
+ES007F,30010,Beniel,0.9800665852527454,mostly_inside_reference,pending
+ES061F,30016,Cartagena,,no_reference,pending
+ES007F,30027,Molina de Segura,1.0000000000000004,mostly_inside_reference,pending
+ES007F,30030,Murcia,0.9998724402212436,mostly_inside_reference,pending
+ES091F,30033,Puerto Lumbreras,0.996627896472513,mostly_inside_reference,pending
+ES061F,30041,La Unión,,no_reference,pending
+ES007F,30901,Santomera,0.9999999999999222,mostly_inside_reference,pending
+ES014F,31016,Ansoáin/Antsoain,1.0,mostly_inside_reference,pending
+ES014F,31050,Baztan,0.9915488230655848,mostly_inside_reference,pending
+ES014F,31056,Biurrun-Olcoz,0.9999999999999997,mostly_inside_reference,pending
+ES014F,31060,Burlada/Burlata,1.0,mostly_inside_reference,pending
+ES014F,31140,Lantz,0.9996119335710072,mostly_inside_reference,pending
+ES014F,31147,Legarda,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31201,Pamplona/Iruña,1.0,mostly_inside_reference,pending
+ES014F,31239,Urdazubi/Urdax,0.03664444462386,mostly_outside_reference,pending
+ES014F,31246,Uterga,1.0,mostly_inside_reference,pending
+ES014F,31258,Villava/Atarrabia,1.0,mostly_inside_reference,pending
+ES014F,31901,Barañáin/Barañain,1.0,mostly_inside_reference,pending
+ES014F,31903,Berriozar,1.0,mostly_inside_reference,pending
+ES014F,31905,Beriáin,1.0000000000000002,mostly_inside_reference,pending
+ES076F,32001,Allariz,0.9952980023331596,mostly_inside_reference,pending
+ES076F,32008,Barbadás,1.0000000000000002,mostly_inside_reference,pending
+ES076F,32022,Castrelo de Miño,0.9988145312631194,mostly_inside_reference,pending
+ES076F,32047,A Merca,0.9956113848096153,mostly_inside_reference,pending
+ES023F,33014,Carreño,,no_reference,pending
+ES023F,33024,Gijón,,no_reference,pending
+ES013F,33026,Grado,0.9978387202066696,mostly_inside_reference,pending
+ES034F,33030,Illas,,no_reference,pending
+ES013F,33044,Oviedo,0.9999999999999993,mostly_inside_reference,pending
+ES013F,33064,Santo Adriano,1.0000000000000002,mostly_inside_reference,pending
+ES013F,33066,Siero,1.0,mostly_inside_reference,pending
+ES023F,33076,Villaviciosa,,no_reference,pending
+ES008F,35001,Agaete,0.9933882261126129,mostly_inside_reference,pending
+ES008F,35021,Santa Brígida,1.0000000000000002,mostly_inside_reference,pending
+ES057F,35022,Santa Lucía de Tirajana,,no_reference,pending
+ES008F,35023,Santa María de Guía de Gran Canaria,0.9926617244850506,mostly_inside_reference,pending
+ES055F,35024,Teguise,0.9918449580022654,mostly_inside_reference,pending
+ES008F,35025,Tejeda,0.9945819341907812,mostly_inside_reference,pending
+ES008F,35026,Telde,0.9930155313456263,mostly_inside_reference,pending
+ES008F,35027,Teror,1.0,mostly_inside_reference,pending
+ES055F,35029,Tinajo,0.9935254875887533,mostly_inside_reference,pending
+ES008F,35031,Valsequillo de Gran Canaria,1.0,mostly_inside_reference,pending
+ES008F,35032,Valleseco,0.9999999999999998,mostly_inside_reference,pending
+ES008F,35033,Vega de San Mateo,1.0000000000000002,mostly_inside_reference,pending
+ES022F,36003,Baiona,0.9889964346951632,mostly_inside_reference,pending
+ES022F,36008,Cangas,0.9766723769928954,boundary_crosses_reference,pending
+ES038F,36026,Marín,0.9740759123417786,boundary_crosses_reference,pending
+ES022F,36029,Moaña,0.9784248934723419,boundary_crosses_reference,pending
+ES022F,36031,Mondariz-Balneario,1.0000000000000002,mostly_inside_reference,pending
+ES022F,36033,Mos,1.0000000000000002,mostly_inside_reference,pending
+ES022F,36035,Nigrán,0.9846240058280641,mostly_inside_reference,pending
+ES022F,36036,Oia,0.9956198585230986,mostly_inside_reference,pending
+ES038F,36038,Pontevedra,0.9975431292786913,mostly_inside_reference,pending
+ES038F,36041,Poio,0.9866263676511688,mostly_inside_reference,pending
+ES011F,36044,Pontecesures,0.024594866607920898,mostly_outside_reference,pending
+ES022F,36045,Redondela,0.9861693962264328,mostly_inside_reference,pending
+ES022F,36057,Vigo,0.9845906936806706,mostly_inside_reference,pending
+ES038F,36902,Cerdedo-Cotobade,0.9962025936604845,mostly_inside_reference,pending
+ES067F,37020,Aldearrubia,0.9899365450087636,mostly_inside_reference,pending
+ES067F,37067,Cabrerizos,0.9999999999999999,mostly_inside_reference,pending
+ES067F,37087,Carrascal de Barregas,0.9934193149239544,mostly_inside_reference,pending
+ES067F,37185,Castellanos de Villiquera,0.9942732508520191,mostly_inside_reference,pending
+ES067F,37278,San Cristóbal de la Cuesta,1.0,mostly_inside_reference,pending
+ES067F,37322,Terradillos,0.98612421245878,mostly_inside_reference,pending
+ES067F,37362,Villares de la Reina,0.9999999999999997,mostly_inside_reference,pending
+ES024F,38038,Santa Cruz de Tenerife,0.9846638524501146,mostly_inside_reference,pending
+ES024F,38039,Santa Úrsula,0.9994148617598733,mostly_inside_reference,pending
+ES024F,38041,El Sauzal,0.9953058201924451,mostly_inside_reference,pending
+ES024F,38043,Tacoronte,0.9875522880055273,mostly_inside_reference,pending
+ES024F,38046,Tegueste,1.0000000000000002,mostly_inside_reference,pending
+ES024F,38051,La Victoria de Acentejo,0.998240678159335,mostly_inside_reference,pending
+ES015F,39008,El Astillero,0.9883170305292538,mostly_inside_reference,pending
+ES015F,39011,Bareyo,0.00751232912952528,mostly_outside_reference,pending
+ES019F,39020,Castro-Urdiales,0.9926955415917924,mostly_inside_reference,pending
+ES015F,39040,Marina de Cudeyo,0.9786048150950676,boundary_crosses_reference,pending
+ES015F,39044,Miengo,0.9942589926079379,mostly_inside_reference,pending
+ES015F,39048,Penagos,0.9999999999999998,mostly_inside_reference,pending
+ES015F,39052,Piélagos,0.9976413136434072,mostly_inside_reference,pending
+ES015F,39069,San Felices de Buelna,0.9976626096554768,mostly_inside_reference,pending
+ES015F,39074,Santa María de Cayón,0.9918385953003993,mostly_inside_reference,pending
+ES015F,39075,Santander,0.9633861828301177,boundary_crosses_reference,pending
+ES015F,39085,Suances,0.9893594534718939,mostly_inside_reference,pending
+ES004F,41004,Alcalá de Guadaíra,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41005,Alcalá del Río,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41015,Benacazón,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41016,Bollullos de la Mitación,0.9999999999999997,mostly_inside_reference,pending
+ES004F,41018,Brenes,1.0000000000000007,mostly_inside_reference,pending
+ES004F,41019,Burguillos,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41024,Carmona,0.9996440356220847,mostly_inside_reference,pending
+ES004F,41027,Castilblanco de los Arroyos,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41038,Dos Hermanas,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41040,Espartinas,1.0,mostly_inside_reference,pending
+ES004F,41044,Gelves,1.0,mostly_inside_reference,pending
+ES004F,41045,Gerena,1.0000000000000004,mostly_inside_reference,pending
+ES004F,41063,Los Molares,1.0,mostly_inside_reference,pending
+ES004F,41067,Olivares,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41069,Los Palacios y Villafranca,0.9999999999999999,mostly_inside_reference,pending
+ES004F,41079,La Puebla del Río,0.9997967844988582,mostly_inside_reference,pending
+ES004F,41081,La Rinconada,0.9999999999999996,mostly_inside_reference,pending
+ES004F,41085,Salteras,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41087,Sanlúcar la Mayor,0.9989229813469652,mostly_inside_reference,pending
+ES004F,41091,Sevilla,0.9999999999999998,mostly_inside_reference,pending
+ES004F,41094,Umbrete,1.0,mostly_inside_reference,pending
+ES004F,41095,Utrera,0.998784457409018,mostly_inside_reference,pending
+ES004F,41096,Valencina de la Concepción,1.0,mostly_inside_reference,pending
+ES004F,41099,Villanueva del Río y Minas,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41904,El Palmar de Troya,1.0000000000000002,mostly_inside_reference,pending
+ES026F,43031,Les Borges del Camp,,no_reference,pending
+ES002F,43037,Calafell,0.9999999999998169,mostly_inside_reference,pending
+ES026F,43042,Castellvell del Camp,,no_reference,pending
+ES073F,43043,El Catllar,0.9991369158459747,mostly_inside_reference,pending
+ES002F,43051,Cunit,0.9999999999999141,mostly_inside_reference,pending
+ES026F,43123,Reus,,no_reference,pending
+ES026F,43129,Riudoms,,no_reference,pending
+ES073F,43148,Tarragona,0.987942424920286,mostly_inside_reference,pending
+ES073F,43171,Vila-seca,0.9912306115473085,mostly_inside_reference,pending
+ES073F,43905,Salou,0.9729259836930155,boundary_crosses_reference,pending
+ES001F,45021,Borox,0.9999999999999999,mostly_inside_reference,pending
+ES035F,45028,Calera y Chozas,0.9943801967547053,mostly_inside_reference,pending
+ES001F,45038,Carranque,0.9999999999999997,mostly_inside_reference,pending
+ES001F,45041,Casarrubios del Monte,0.9999999999999997,mostly_inside_reference,pending
+ES001F,45064,Esquivias,1.0000000000000002,mostly_inside_reference,pending
+ES001F,45081,Illescas,0.9999999999999998,mostly_inside_reference,pending
+ES001F,45085,Lominchar,0.9999999999999998,mostly_inside_reference,pending
+ES001F,45099,Méntrida,1.0000000000000002,mostly_inside_reference,pending
+ES016F,45133,Polán,0.9859328073059862,mostly_inside_reference,pending
+ES035F,45137,La Pueblanueva,0.006632591333659771,mostly_outside_reference,pending
+ES001F,45157,Santa Cruz del Retamar,0.9983493390402722,mostly_inside_reference,pending
+ES001F,45161,Seseña,1.0,mostly_inside_reference,pending
+ES035F,45165,Talavera de la Reina,0.9970749319974088,mostly_inside_reference,pending
+ES016F,45168,Toledo,0.9975106107503001,mostly_inside_reference,pending
+ES035F,45181,Velada,0.9934662597868715,mostly_inside_reference,pending
+ES003F,46005,Alaquàs,0.9999999999999999,mostly_inside_reference,pending
+ES003F,46007,Albal,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46014,Albuixech,0.9999999999980893,mostly_inside_reference,pending
+ES003F,46025,Alfara del Patriarca,1.0,mostly_inside_reference,pending
+ES040F,46048,Bellreguard,,no_reference,pending
+ES040F,46061,Beniflá,,no_reference,pending
+ES040F,46066,Benirredrà,,no_reference,pending
+ES003F,46074,Bonrepòs i Mirambell,1.0,mostly_inside_reference,pending
+ES003F,46078,Burjassot,1.0000000000000002,mostly_inside_reference,pending
+ES093F,46082,Canet d'En Berenguer,,no_reference,pending
+ES040F,46131,Gandia,,no_reference,pending
+ES003F,46147,Llíria,0.9991509027228868,mostly_inside_reference,pending
+ES003F,46152,Llocnou de la Corona,1.0,mostly_inside_reference,pending
+ES003F,46166,Meliana,0.9999999999992377,mostly_inside_reference,pending
+ES003F,46169,Mislata,1.0000000000000002,mostly_inside_reference,pending
+ES005F,50089,Cuarte de Huerva,1.0,mostly_inside_reference,pending
+ES003F,46186,Paiporta,1.0000000000000002,mostly_inside_reference,pending
+ES040F,46198,Potries,,no_reference,pending
+ES003F,46207,Rafelbunyol,1.0000000000000002,mostly_inside_reference,pending
+ES040F,46211,el Real de Gandia,,no_reference,pending
+ES093F,46220,Sagunto/Sagunt,,no_reference,pending
+ES003F,46233,Sollana,0.9999999999999994,mostly_inside_reference,pending
+ES003F,46237,Tavernes Blanques,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46250,València,0.9906167796692054,mostly_inside_reference,pending
+ES003F,46256,Vilamarxant,1.0000000000000002,mostly_inside_reference,pending
+ES009F,47082,Matapozuelos,0.9971500158101263,mostly_inside_reference,pending
+ES009F,47098,Mucientes,0.9978882360936203,mostly_inside_reference,pending
+ES009F,47186,Valladolid,0.9956575602766508,mostly_inside_reference,pending
+ES009F,47231,Zaratán,0.9999999999999998,mostly_inside_reference,pending
+ES019F,48003,Amorebieta-Etxano,0.9999999999999997,mostly_inside_reference,pending
+ES019F,48017,Bermeo,0.9842090276735983,mostly_inside_reference,pending
+ES019F,48020,Bilbao,1.0,mostly_inside_reference,pending
+ES019F,48042,Gordexola,1.0,mostly_inside_reference,pending
+ES019F,48043,Gorliz,0.9695967916528164,boundary_crosses_reference,pending
+ES019F,48044,Getxo,0.9599079787453999,boundary_crosses_reference,pending
+ES019F,48045,Güeñes,0.9999999999999998,mostly_inside_reference,pending
+ES019F,48061,Maruri-Jatabe,0.9999999999999999,mostly_inside_reference,pending
+ES019F,48065,Ugao-Miraballes,1.0000000000000007,mostly_inside_reference,pending
+ES019F,48069,Mungia,1.0,mostly_inside_reference,pending
+ES019F,48075,Orozko,0.996151252534451,mostly_inside_reference,pending
+ES019F,48077,Plentzia,0.9970325110607157,mostly_inside_reference,pending
+ES019F,48084,Sestao,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48086,Sopuerta,0.9999999999999997,mostly_inside_reference,pending
+ES019F,48090,Balmaseda,1.0,mostly_inside_reference,pending
+ES019F,48092,Bedia,1.0,mostly_inside_reference,pending
+ES019F,48094,Igorre,0.9999999999999998,mostly_inside_reference,pending
+ES019F,48096,Zalla,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48097,Zaratamo,1.0,mostly_inside_reference,pending
+ES019F,48901,Derio,1.0000000000000007,mostly_inside_reference,pending
+ES019F,48902,Erandio,0.9999999999999998,mostly_inside_reference,pending
+ES019F,48903,Loiu,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48905,Zamudio,0.9999999999999998,mostly_inside_reference,pending
+ES005F,50104,Farlete,0.994792191775998,mostly_inside_reference,pending
+ES005F,50137,Leciñena,0.9960021043798635,mostly_inside_reference,pending
+ES005F,50163,María de Huerva,0.9969109003106618,mostly_inside_reference,pending
+ES005F,50182,La Muela,0.999999999999999,mostly_inside_reference,pending
+ES005F,50209,Pinseque,1.0,mostly_inside_reference,pending
+ES005F,50235,San Mateo de Gállego,1.0000000000000002,mostly_inside_reference,pending
+ES005F,50288,Villanueva de Gállego,1.0000000000000004,mostly_inside_reference,pending
+ES005F,50297,Zaragoza,0.9993730528922301,mostly_inside_reference,pending
+ES005F,50298,Zuera,0.9975138530822486,mostly_inside_reference,pending
+ES005F,50903,Villamayor de Gállego,0.9999999999999999,mostly_inside_reference,pending
+ES039F,51001,Ceuta,0.9341675785059239,boundary_crosses_reference,pending
+ES045F,54003,Islas Chafarinas,,unmatched_member,pending
+ES019F,01004,Artziniega,0.9999999999999998,mostly_inside_reference,pending
+ES012F,01006,Armiñón,0.9883435729742829,mostly_inside_reference,pending
+ES012F,01008,Arratzua-Ubarrundia,0.9981760372514065,mostly_inside_reference,pending
+ES012F,01013,Barrundia,0.9979666041615349,mostly_inside_reference,pending
+ES012F,01020,Kuartango,0.997786228743581,mostly_inside_reference,pending
+ES012F,01021,Elburgo/Burgelu,0.9999999999999438,mostly_inside_reference,pending
+ES012F,01047,Erriberabeitia,0.9957861049044523,mostly_inside_reference,pending
+ES012F,01027,Iruraiz-Gauna,1.0000000000000002,mostly_inside_reference,pending
+ES012F,01037,Arraia-Maeztu,0.9971120511717289,mostly_inside_reference,pending
+ES012F,01046,Erriberagoitia/Ribera Alta,0.9928925249683465,mostly_inside_reference,pending
+ES012F,01051,Agurain/Salvatierra,0.9997782973138246,mostly_inside_reference,pending
+ES012F,01054,Urkabustaiz,1.0,mostly_inside_reference,pending
+ES012F,01058,Legutio,0.9934042619966025,mostly_inside_reference,pending
+ES012F,01063,Zuia,0.9991789506413911,mostly_inside_reference,pending
+ES012F,01901,Iruña Oka/Iruña de Oca,0.9999999999999997,mostly_inside_reference,pending
+ES068F,02035,La Gineta,0.9963963500673164,mostly_inside_reference,pending
+ES068F,02046,Mahora,0.9995648700702155,mostly_inside_reference,pending
+ES066F,09241,Orbaneja Riopico,1.0,mostly_inside_reference,pending
+ES068F,02075,Valdeganga,0.9983300948262489,mostly_inside_reference,pending
+ES068F,02901,Pozo Cañada,1.0000000000000002,mostly_inside_reference,pending
+ES083F,03009,Alcoy/Alcoi,0.9915762156880793,mostly_inside_reference,pending
+ES083F,03032,Benifallim,0.007821973241540856,mostly_outside_reference,pending
+ES056F,03066,Elda,1.0,mostly_inside_reference,pending
+ES083F,03056,Cocentaina,0.9881057000954725,mostly_inside_reference,pending
+ES044F,03069,Finestrat,0.98974892350506,mostly_inside_reference,pending
+ES083F,03086,Millena,0.011959985109619053,mostly_outside_reference,pending
+ES021F,03090,Mutxamel,0.9999999999999997,mostly_inside_reference,pending
+ES044F,03094,la Nucia,0.9946798780032662,mostly_inside_reference,pending
+ES084F,05141,Muñopepe,,no_reference,pending
+ES056F,03104,Petrer,0.9966415475395746,mostly_inside_reference,pending
+ES044F,03107,Polop,0.9932244182975423,mostly_inside_reference,pending
+ES021F,03122,San Vicente del Raspeig/Sant Vicent del Raspeig,1.0000000000000002,mostly_inside_reference,pending
+ES044F,03139,Villajoyosa/la Vila Joiosa,0.002423100582269858,mostly_outside_reference,pending
+ES065F,04024,Benahadux,0.9999999999999998,mostly_inside_reference,pending
+ES065F,04074,Pechina,1.0000000000000002,mostly_inside_reference,pending
+ES084F,05022,El Barraco,,no_reference,pending
+ES084F,05030,Berrocalejo de Aragona,,no_reference,pending
+ES084F,05061,La Colilla,,no_reference,pending
+ES084F,05121,Martiherrero,,no_reference,pending
+ES084F,05232,La Serrada,,no_reference,pending
+ES084F,05245,Tornadizos de Ávila,,no_reference,pending
+ES017F,06005,La Albuera,1.0,mostly_inside_reference,pending
+ES092F,06009,Aljucén,1.0,mostly_inside_reference,pending
+ES092F,06090,La Nava de Santiago,1.0,mostly_inside_reference,pending
+ES002F,08032,Caldes d'Estrac,0.9995146499049703,mostly_inside_reference,pending
+ES092F,06043,Don Álvaro,1.0000000000000002,mostly_inside_reference,pending
+ES092F,06046,Esparragalejo,1.0,mostly_inside_reference,pending
+ES066F,09287,Quintanaortuño,0.9959125413549921,mostly_inside_reference,pending
+ES002F,08042,Cànoves i Samalús,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08073,Cornellà de Llobregat,1.0,mostly_inside_reference,pending
+ES002F,08088,La Garriga,1.0,mostly_inside_reference,pending
+ES092F,06084,Mirandilla,0.9999999999999998,mostly_inside_reference,pending
+ES066F,09058,Buniel,1.0,mostly_inside_reference,pending
+ES017F,06128,Talavera la Real,1.0,mostly_inside_reference,pending
+ES092F,06133,Torremejía,0.9988022135158215,mostly_inside_reference,pending
+ES010F,07017,Costitx,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07018,Deià,0.985284203096132,mostly_inside_reference,pending
+ES092F,06135,Trujillanos,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07029,Lloseta,1.0000000000000002,mostly_inside_reference,pending
+ES017F,06143,Valverde de Leganés,1.0,mostly_inside_reference,pending
+ES010F,07004,Algaida,1.0000000000000002,mostly_inside_reference,pending
+ES092F,06145,Valverde de Mérida,0.9907815479327806,mostly_inside_reference,pending
+ES010F,07030,Llubí,1.0,mostly_inside_reference,pending
+ES017F,06155,Villar del Rey,0.9960954338580857,mostly_inside_reference,pending
+ES010F,07008,Binissalem,1.0,mostly_inside_reference,pending
+ES010F,07012,Campanet,0.9999999999997857,mostly_inside_reference,pending
+ES092F,06162,La Zarza,0.991716502411279,mostly_inside_reference,pending
+ES010F,07016,Consell,0.9999999999999999,mostly_inside_reference,pending
+ES017F,06903,Guadiana,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07001,Alaró,0.9953123903119551,mostly_inside_reference,pending
+ES066F,09063,Cavia,1.0,mostly_inside_reference,pending
+ES010F,07010,Bunyola,0.9979492293444088,mostly_inside_reference,pending
+ES010F,07035,Maria de la Salut,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07027,Inca,1.0000000000000004,mostly_inside_reference,pending
+ES010F,07028,Lloret de Vistalegre,1.0000000000000004,mostly_inside_reference,pending
+ES010F,07036,Marratxí,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07038,Montuïri,1.0,mostly_inside_reference,pending
+ES010F,07043,Porreres,0.9926654819089099,mostly_inside_reference,pending
+ES010F,07045,Puigpunyent,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07056,Santa María del Camí,1.0000000000000004,mostly_inside_reference,pending
+ES010F,07047,Sencelles,0.9999999999999996,mostly_inside_reference,pending
+ES010F,07058,Selva,0.9981193354242947,mostly_inside_reference,pending
+ES010F,07049,Sant Joan,1.0000000000000002,mostly_inside_reference,pending
+ES010F,07053,Santa Eugènia,1.0000000000000002,mostly_inside_reference,pending
+ES089F,07054,Santa Eulària des Riu,0.9910806594481348,mostly_inside_reference,pending
+ES010F,07060,Sineu,1.0,mostly_inside_reference,pending
+ES002F,08003,Alella,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08005,L'Ametlla del Vallès,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08007,Arenys de Munt,1.0,mostly_inside_reference,pending
+ES002F,08020,Begues,0.9999999999999997,mostly_inside_reference,pending
+ES002F,08023,Bigues i Riells,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08025,El Bruc,0.997888053664832,mostly_inside_reference,pending
+ES002F,08029,Cabrera de Mar,0.9999999999994227,mostly_inside_reference,pending
+ES002F,08030,Cabrils,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08040,Canet de Mar,0.9989525957779196,mostly_inside_reference,pending
+ES002F,08035,Calella,0.9842010417662934,mostly_inside_reference,pending
+ES002F,08041,Canovelles,1.0,mostly_inside_reference,pending
+ES002F,08046,Cardedeu,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08051,Castellar del Vallès,1.0,mostly_inside_reference,pending
+ES002F,08054,Castellbisbal,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08056,Castelldefels,0.9999999999999841,mostly_inside_reference,pending
+ES002F,08124,Mollet del Vallès,1.0,mostly_inside_reference,pending
+ES002F,08061,Castellgalí,0.9857695265609396,mostly_inside_reference,pending
+ES002F,08066,Castellví de Rosanes,1.0,mostly_inside_reference,pending
+ES002F,08068,Cervelló,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08069,Collbató,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08074,Cubelles,0.9997677608312032,mostly_inside_reference,pending
+ES002F,08075,Dosrius,0.9999999999999994,mostly_inside_reference,pending
+ES002F,08077,Esplugues de Llobregat,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08135,Montmeló,1.0,mostly_inside_reference,pending
+ES002F,08136,Montornès del Vallès,1.0,mostly_inside_reference,pending
+ES042F,08084,Fonollosa,0.9825822616736363,mostly_inside_reference,pending
+ES042F,08140,Navarcles,0.962656778795375,boundary_crosses_reference,pending
+ES002F,08086,Les Franqueses del Vallès,1.0,mostly_inside_reference,pending
+ES002F,08089,Gavà,0.9999999999999525,mostly_inside_reference,pending
+ES002F,08101,L'Hospitalet de Llobregat,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08105,La Llagosta,1.0,mostly_inside_reference,pending
+ES002F,08107,Lliçà d'Amunt,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08108,Lliçà de Vall,1.0000000000000002,mostly_inside_reference,pending
+ES042F,08113,Manresa,0.9935506332684766,mostly_inside_reference,pending
+ES002F,08115,Martorelles,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09072,Carcedo de Burgos,1.0,mostly_inside_reference,pending
+ES002F,08122,Mediona,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09073,Cardeñadijo,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09074,Cardeñajimeno,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08146,Olesa de Bonesvalls,1.0,mostly_inside_reference,pending
+ES002F,08148,Olivella,1.0000000000000004,mostly_inside_reference,pending
+ES002F,08156,Palau-solità i Plegamans,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08157,Pallejà,1.0,mostly_inside_reference,pending
+ES002F,08158,El Papiol,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08194,Sant Adrià de Besòs,0.9977067780116542,mostly_inside_reference,pending
+ES002F,08204,Sant Climent de Llobregat,0.9999999999999997,mostly_inside_reference,pending
+ES002F,08169,El Prat de Llobregat,0.9999999999996527,mostly_inside_reference,pending
+ES002F,08180,Ripollet,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08181,La Roca del Vallès,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08295,Vallirana,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08187,Sabadell,1.0000000000000004,mostly_inside_reference,pending
+ES042F,08191,Sallent,0.9945311925554638,mostly_inside_reference,pending
+ES042F,08192,Santpedor,0.9999999999999996,mostly_inside_reference,pending
+ES002F,08193,Sant Iscle de Vallalta,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08196,Sant Andreu de la Barca,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08197,Sant Andreu de Llavaneres,0.9997906676094208,mostly_inside_reference,pending
+ES002F,08198,Sant Antoni de Vilamajor,1.0,mostly_inside_reference,pending
+ES002F,08207,Sant Esteve de Palautordera,0.9843159329638541,mostly_inside_reference,pending
+ES002F,08208,Sant Esteve Sesrovires,0.9999999999999996,mostly_inside_reference,pending
+ES002F,08210,Sant Feliu de Codines,1.0,mostly_inside_reference,pending
+ES002F,08211,Sant Feliu de Llobregat,1.0000000000000002,mostly_inside_reference,pending
+ES042F,08213,Sant Fruitós de Bages,0.9935017004696761,mostly_inside_reference,pending
+ES002F,08214,Vilassar de Dalt,1.0,mostly_inside_reference,pending
+ES042F,08218,Sant Joan de Vilatorrada,0.9999103387122561,mostly_inside_reference,pending
+ES002F,08221,Sant Just Desvern,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08230,Premià de Dalt,1.0,mostly_inside_reference,pending
+ES002F,08902,Vilanova del Vallès,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08234,Sant Pere de Vilamajor,0.9928638936958667,mostly_inside_reference,pending
+ES002F,08904,Badia del Vallès,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08235,Sant Pol de Mar,0.9776764499283802,boundary_crosses_reference,pending
+ES002F,08236,Sant Quintí de Mediona,1.0,mostly_inside_reference,pending
+ES002F,08238,Sant Quirze del Vallès,1.0,mostly_inside_reference,pending
+ES002F,08244,Santa Coloma de Cervelló,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08248,Santa Eulàlia de Ronçana,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09128,Frandovínez,0.9999999999999666,mostly_inside_reference,pending
+ES097F,08257,Santa Maria de Miralles,,no_reference,pending
+ES066F,09133,Fresno de Rodilla,0.9857301517708238,mostly_inside_reference,pending
+ES002F,08260,Santa Perpètua de Mogoda,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08263,Sant Vicenç dels Horts,1.0000000000000002,mostly_inside_reference,pending
+ES002F,08264,Sant Vicenç de Montalt,0.9998990566599967,mostly_inside_reference,pending
+ES066F,09009,Albillos,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08289,Torrelles de Llobregat,0.9999999999999999,mostly_inside_reference,pending
+ES002F,08290,Ullastrell,0.9999999999999998,mostly_inside_reference,pending
+ES002F,08300,Viladecavalls,1.0,mostly_inside_reference,pending
+ES002F,08301,Viladecans,0.999999999999915,mostly_inside_reference,pending
+ES002F,08307,Vilanova i la Geltrú,0.9930501240410824,mostly_inside_reference,pending
+ES066F,09023,Arcos,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09026,Arlanzón,0.999999999999987,mostly_inside_reference,pending
+ES066F,09029,Atapuerca,0.9999999999999774,mostly_inside_reference,pending
+ES066F,09030,Los Ausines,0.9994494652069804,mostly_inside_reference,pending
+ES066F,09059,Burgos,1.0000000000000004,mostly_inside_reference,pending
+ES066F,09086,Castrillo del Val,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09108,Cogollos,1.0000000000000004,mostly_inside_reference,pending
+ES066F,09093,Cayuela,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09162,Hontoria de la Cantera,0.9892097765883338,mostly_inside_reference,pending
+ES066F,09125,Estépar,0.9962196583110927,mostly_inside_reference,pending
+ES066F,09176,Hurones,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09221,Modúbar de la Emparedada,1.0,mostly_inside_reference,pending
+ES012F,09276,La Puebla de Arganzón,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09301,Quintanilla Vivar,0.9983369611011007,mostly_inside_reference,pending
+ES066F,09326,Rubena,1.0,mostly_inside_reference,pending
+ES066F,09332,Saldaña de Burgos,0.9999999999999997,mostly_inside_reference,pending
+ES066F,09335,San Adrián de Juarros,1.0,mostly_inside_reference,pending
+ES066F,09338,San Mamés de Burgos,1.0,mostly_inside_reference,pending
+ES066F,09362,Sarracín,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09372,Sotragero,0.9999999999999998,mostly_inside_reference,pending
+ES066F,09377,Tardajos,0.9959644058877457,mostly_inside_reference,pending
+ES066F,09374,Susinos del Páramo,0.9725929948429769,boundary_crosses_reference,pending
+ES066F,09406,Valdorros,0.9999999999999999,mostly_inside_reference,pending
+ES066F,09458,Villariezo,0.9999999999999998,mostly_inside_reference,pending
+ES066F,09434,Villagonzalo Pedernales,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09439,Villalbilla de Burgos,1.0000000000000002,mostly_inside_reference,pending
+ES066F,09471,Villayerno Morquillas,1.0,mostly_inside_reference,pending
+ES066F,09902,Valle de Santibáñez,0.999033360067131,mostly_inside_reference,pending
+ES066F,09906,Merindad de Río Ubierna,0.9939109393440165,mostly_inside_reference,pending
+ES031F,10018,Aliseda,1.0000000000000004,mostly_inside_reference,pending
+ES031F,10115,Malpartida de Cáceres,1.0,mostly_inside_reference,pending
+ES031F,10193,Torreorgaz,0.9999999999999998,mostly_inside_reference,pending
+ES071F,11012,Cádiz,0.8512291624378966,boundary_crosses_reference,pending
+ES086F,11015,Chiclana de la Frontera,0.9950398021358007,mostly_inside_reference,pending
+ES062F,11020,Jerez de la Frontera,0.9959436755213421,mostly_inside_reference,pending
+ES051F,11022,La Línea de la Concepción,0.9667678102530939,boundary_crosses_reference,pending
+ES049F,11032,Sanlúcar de Barrameda,0.994836250546025,mostly_inside_reference,pending
+ES069F,12028,Benicasim/Benicàssim,0.9916257084280263,mostly_inside_reference,pending
+ES069F,12031,Borriol,1.0,mostly_inside_reference,pending
+ES069F,12902,Sant Joan de Moró,0.9783667522501946,boundary_crosses_reference,pending
+ES043F,13007,Alcolea de Calatrava,0.9928925719667517,mostly_inside_reference,pending
+ES046F,24119,Priaranza del Bierzo,0.9907684772919305,mostly_inside_reference,pending
+ES043F,13031,Carrión de Calatrava,0.9956200214253336,mostly_inside_reference,pending
+ES014F,31188,Olaibar,1.0,mostly_inside_reference,pending
+ES043F,13034,Ciudad Real,0.9986911894694682,mostly_inside_reference,pending
+ES043F,13040,Fernán Caballero,0.011116192106769654,mostly_outside_reference,pending
+ES043F,13062,Picón,0.9999198221822714,mostly_inside_reference,pending
+ES020F,14018,El Carpio,0.999959843073118,mostly_inside_reference,pending
+ES043F,13083,Torralba de Calatrava,0.9854996412523019,mostly_inside_reference,pending
+ES020F,14033,Guadalcázar,0.9957898193495008,mostly_inside_reference,pending
+ES020F,14067,Villafranca de Córdoba,0.9977053495120146,mostly_inside_reference,pending
+ES011F,15007,A Baña,0.9973582600911886,mostly_inside_reference,pending
+ES025F,15008,Bergondo,0.9981528551435482,mostly_inside_reference,pending
+ES011F,15012,Boqueixón,0.9969516823110841,mostly_inside_reference,pending
+ES025F,15017,Cambre,1.0000000000000002,mostly_inside_reference,pending
+ES040F,46034,Almoines,,no_reference,pending
+ES025F,15031,Culleredo,1.0,mostly_inside_reference,pending
+ES025F,15075,Sada,0.9913811835688816,mostly_inside_reference,pending
+ES037F,15076,San Sadurniño,0.9899106280945558,mostly_inside_reference,pending
+ES011F,15082,Teo,0.9964517320968563,mostly_inside_reference,pending
+ES011F,15088,Val do Dubra,0.9952739123079754,mostly_inside_reference,pending
+ES011F,15089,Vedra,0.9936149111653751,mostly_inside_reference,pending
+ES088F,16023,Chillarón de Cuenca,,no_reference,pending
+ES088F,16053,Cañizares,,no_reference,pending
+ES088F,16149,Palomera,,no_reference,pending
+ES088F,16165,Poyatos,,no_reference,pending
+ES088F,16239,Vega del Codorno,,no_reference,pending
+ES001F,19319,Villanueva de la Torre,0.9999999999992175,mostly_inside_reference,pending
+ES088F,16904,Fuentenava de Jábaga,,no_reference,pending
+ES088F,16905,Arcas,,no_reference,pending
+ES030F,17025,Bordils,0.9298820556581084,boundary_crosses_reference,pending
+ES030F,17033,Caldes de Malavella,0.996687134387772,mostly_inside_reference,pending
+ES030F,17049,Celrà,0.9926143520977112,mostly_inside_reference,pending
+ES030F,17073,Fornells de la Selva,0.9943057476465315,mostly_inside_reference,pending
+ES030F,17142,Quart,0.9848484725372297,mostly_inside_reference,pending
+ES030F,17150,Riudellots de la Selva,0.9947398292811673,mostly_inside_reference,pending
+ES030F,17155,Salt,1.0000000000000002,mostly_inside_reference,pending
+ES030F,17169,Sant Julià de Ramis,0.9850700209776494,mostly_inside_reference,pending
+ES030F,17186,Sarrià de Ter,1.0,mostly_inside_reference,pending
+ES030F,17215,Vilablareix,1.0000000000000002,mostly_inside_reference,pending
+ES059F,18011,Alfacar,0.9999999999999999,mostly_inside_reference,pending
+ES030F,17233,Vilobí d'Onyar,0.9961154457495689,mostly_inside_reference,pending
+ES059F,18022,Atarfe,0.9999999999999991,mostly_inside_reference,pending
+ES059F,18024,Beas de Granada,1.0000000000000002,mostly_inside_reference,pending
+ES059F,18048,Cijuela,0.9928742598437071,mostly_inside_reference,pending
+ES059F,18070,Dúdar,1.0,mostly_inside_reference,pending
+ES059F,18050,Cogollos de la Vega,0.9958873531187044,mostly_inside_reference,pending
+ES059F,18057,Cúllar Vega,0.9999999999999998,mostly_inside_reference,pending
+ES059F,18066,Deifontes,0.9811776523249858,mostly_inside_reference,pending
+ES059F,18079,Fuente Vaqueros,1.0,mostly_inside_reference,pending
+ES059F,18084,Gójar,1.0,mostly_inside_reference,pending
+ES059F,18143,Nigüelas,0.9889783446594029,mostly_inside_reference,pending
+ES059F,18101,Huétor Vega,1.0,mostly_inside_reference,pending
+ES059F,18144,Nívar,1.0,mostly_inside_reference,pending
+ES059F,18189,Víznar,1.0,mostly_inside_reference,pending
+ES059F,18126,La Malahá,0.988041347430164,mostly_inside_reference,pending
+ES059F,18127,Maracena,0.9999999999999998,mostly_inside_reference,pending
+ES059F,18149,Villa de Otura,1.0000000000000002,mostly_inside_reference,pending
+ES059F,18150,Padul,0.9909237785765652,mostly_inside_reference,pending
+ES059F,18153,Peligros,0.9999999999999998,mostly_inside_reference,pending
+ES059F,18157,Pinos Genil,1.0,mostly_inside_reference,pending
+ES059F,18165,Pulianas,1.0,mostly_inside_reference,pending
+ES059F,18168,Quéntar,0.9963978808806445,mostly_inside_reference,pending
+ES059F,18175,Santa Fe,0.9971696995096115,mostly_inside_reference,pending
+ES059F,18905,Las Gabias,1.0000000000000002,mostly_inside_reference,pending
+ES001F,19024,Alovera,0.9796142417009093,boundary_crosses_reference,pending
+ES001F,19046,Azuqueca de Henares,0.9999999999999998,mostly_inside_reference,pending
+ES041F,19058,Cabanillas del Campo,0.99467515844862,mostly_inside_reference,pending
+ES041F,19105,Chiloeches,0.01298797513573369,mostly_outside_reference,pending
+ES041F,19117,Fontanar,1.0,mostly_inside_reference,pending
+ES001F,19126,Galápagos,0.9885785245867242,mostly_inside_reference,pending
+ES041F,19143,Horche,0.9922574043216386,mostly_inside_reference,pending
+ES003F,46260,Vinalesa,1.0,mostly_inside_reference,pending
+ES041F,19171,Marchamalo,1.0,mostly_inside_reference,pending
+ES001F,19280,Torrejón del Rey,0.9999999999999999,mostly_inside_reference,pending
+ES041F,19326,Yebes,0.9874958844460192,mostly_inside_reference,pending
+ES041F,19331,Yunquera de Henares,0.9912625115602345,mostly_inside_reference,pending
+ES063F,20009,Andoain,0.9999999999999376,mostly_inside_reference,pending
+ES063F,20028,Zizurkil,0.9824223338564302,mostly_inside_reference,pending
+ES053F,20045,Irun,,no_reference,pending
+ES063F,20053,Lezo,1.0,mostly_inside_reference,pending
+ES063F,20061,Orio,0.9955629305140118,mostly_inside_reference,pending
+ES063F,20067,Errenteria,0.9858995299458512,mostly_inside_reference,pending
+ES063F,20069,Donostia/San Sebastián,0.9810612544891248,mostly_inside_reference,pending
+ES063F,20073,Usurbil,0.9999999999999997,mostly_inside_reference,pending
+ES063F,20902,Lasarte-Oria,1.0,mostly_inside_reference,pending
+ES063F,20903,Astigarraga,0.9999999999999997,mostly_inside_reference,pending
+ES047F,49275,Zamora,0.9914633464747049,mostly_inside_reference,pending
+ES070F,21063,San Bartolomé de la Torre,0.9962079174024461,mostly_inside_reference,pending
+ES072F,24061,Cuadros,1.0,mostly_inside_reference,pending
+ES074F,23035,Fuerte del Rey,0.9893486821458891,mostly_inside_reference,pending
+ES074F,23099,Los Villares,0.9960677567939057,mostly_inside_reference,pending
+ES046F,24022,Borrenes,0.003335402011253154,mostly_outside_reference,pending
+ES090F,23085,Torreblascopedro,,no_reference,pending
+ES046F,24030,Cacabelos,0.987541465073831,mostly_inside_reference,pending
+ES074F,23903,Villatorres,0.9999785420315772,mostly_inside_reference,pending
+ES046F,24034,Camponaraya,1.0,mostly_inside_reference,pending
+ES014F,31234,Ucar,0.9999999999999999,mostly_inside_reference,pending
+ES046F,24027,Cabañas Raras,0.9999999999999998,mostly_inside_reference,pending
+ES046F,24038,Carracedelo,0.9774700437072755,boundary_crosses_reference,pending
+ES046F,24064,Cubillos del Sil,1.0,mostly_inside_reference,pending
+ES072F,24076,Garrafe de Torío,0.9996680913553364,mostly_inside_reference,pending
+ES072F,24089,León,1.0000000000000004,mostly_inside_reference,pending
+ES072F,24114,La Pola de Gordón,0.993399902725499,mostly_inside_reference,pending
+ES046F,24115,Ponferrada,0.9969877059535638,mostly_inside_reference,pending
+ES072F,24134,La Robla,0.9999999999999998,mostly_inside_reference,pending
+ES014F,31238,Unzué/Untzue,0.9881545635121094,mostly_inside_reference,pending
+ES072F,24142,San Andrés del Rabanedo,0.9977727663617662,mostly_inside_reference,pending
+ES072F,24162,Santovenia de la Valdoncina,0.9999999999999998,mostly_inside_reference,pending
+ES072F,24175,Valdefresno,1.0,mostly_inside_reference,pending
+ES072F,24189,Valverde de la Virgen,0.9999999999999999,mostly_inside_reference,pending
+ES072F,24197,Vega de Infanzones,0.9999999999999297,mostly_inside_reference,pending
+ES072F,24201,Vegas del Condado,0.9939647654916561,mostly_inside_reference,pending
+ES046F,24206,Toral de los Vados,0.01643288571159121,mostly_outside_reference,pending
+ES072F,24222,Villaquilambre,0.9999999999999994,mostly_inside_reference,pending
+ES075F,25033,Artesa de Lleida,1.0,mostly_inside_reference,pending
+ES072F,24227,Villaturiel,0.9970419695386469,mostly_inside_reference,pending
+ES075F,25007,Albatàrrec,0.9954296684902333,mostly_inside_reference,pending
+ES075F,25011,Alcarràs,0.9956483063751732,mostly_inside_reference,pending
+ES075F,25012,Alcoletge,1.0000000000000002,mostly_inside_reference,pending
+ES075F,25251,Vilanova de Segrià,0.9999578908137784,mostly_inside_reference,pending
+ES075F,25189,Rosselló,1.0,mostly_inside_reference,pending
+ES018F,26006,Alberite,1.0,mostly_inside_reference,pending
+ES014F,31262,Zabalza/Zabaltza,0.9843430035446848,mostly_inside_reference,pending
+ES075F,25228,Torrefarrera,1.0000000000000002,mostly_inside_reference,pending
+ES075F,25232,Torres de Segre,0.9834477624477822,mostly_inside_reference,pending
+ES075F,25233,Torre-serona,1.0000000000000002,mostly_inside_reference,pending
+ES075F,25254,Vilanova de la Barca,0.9957399938447217,mostly_inside_reference,pending
+ES014F,31264,Zugarramurdi,0.023203769514317685,mostly_outside_reference,pending
+ES018F,26005,Albelda de Iregua,1.0,mostly_inside_reference,pending
+ES018F,26046,Cenicero,0.9872327214909197,mostly_inside_reference,pending
+ES018F,26084,Lardero,1.0,mostly_inside_reference,pending
+ES018F,26064,Fuenmayor,0.9898284182711031,mostly_inside_reference,pending
+ES018F,26089,Logroño,0.9946454115538613,mostly_inside_reference,pending
+ES018F,26099,Murillo de Río Leza,0.9957827435854725,mostly_inside_reference,pending
+ES018F,26103,Nalda,0.9880159087408144,mostly_inside_reference,pending
+ES018F,26105,Navarrete,0.9791607854793859,boundary_crosses_reference,pending
+ES018F,26168,Villamediana de Iregua,1.0000000000000002,mostly_inside_reference,pending
+ES028F,27901,Baralla,1.0,mostly_inside_reference,pending
+ES001F,28004,El Álamo,1.0,mostly_inside_reference,pending
+ES001F,28007,Alcorcón,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28008,Aldea del Fresno,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28009,Algete,1.0000000000000007,mostly_inside_reference,pending
+ES028F,27007,Begonte,0.9973542799982446,mostly_inside_reference,pending
+ES001F,28170,Villaconejos,1.0,mostly_inside_reference,pending
+ES028F,27014,O Corgo,0.9982566862411376,mostly_inside_reference,pending
+ES028F,27020,Friol,0.9960411095520049,mostly_inside_reference,pending
+ES001F,28029,Cabanillas de la Sierra,0.9999999999999998,mostly_inside_reference,pending
+ES028F,27023,Guntín,0.9939577407290221,mostly_inside_reference,pending
+ES001F,28030,La Cabrera,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28036,Casarrubuelos,1.0,mostly_inside_reference,pending
+ES001F,28037,Cenicientos,0.9933204183330943,mostly_inside_reference,pending
+ES028F,27039,Outeiro de Rei,0.9999999999999999,mostly_inside_reference,pending
+ES014F,31122,Huarte/Uharte,1.0000000000000002,mostly_inside_reference,pending
+ES028F,27056,Rábade,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28014,Arganda del Rey,0.9999999999999997,mostly_inside_reference,pending
+ES014F,31018,Añorbe,1.0,mostly_inside_reference,pending
+ES001F,28018,Becerril de la Sierra,1.0,mostly_inside_reference,pending
+ES001F,28022,Boadilla del Monte,1.0,mostly_inside_reference,pending
+ES001F,28050,Cubas de la Sagra,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28057,Fresno de Torote,1.0,mostly_inside_reference,pending
+ES001F,28032,Camarma de Esteruelas,1.0,mostly_inside_reference,pending
+ES001F,28115,Pozuelo de Alarcón,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28033,Campo Real,1.0,mostly_inside_reference,pending
+ES001F,28035,Carabaña,0.9999999999999821,mostly_inside_reference,pending
+ES001F,28038,Cercedilla,0.9986024056489743,mostly_inside_reference,pending
+ES001F,28040,Ciempozuelos,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28042,Colmenar del Arroyo,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28043,Colmenar de Oreja,0.998044711831068,mostly_inside_reference,pending
+ES001F,28044,Colmenarejo,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28046,Collado Mediano,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28049,Coslada,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28059,Fuente el Saz de Jarama,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28066,Griñón,1.0,mostly_inside_reference,pending
+ES001F,28072,Hoyo de Manzanares,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28073,Humanes de Madrid,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28169,Venturada,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28074,Leganés,1.0,mostly_inside_reference,pending
+ES001F,28075,Loeches,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28083,Meco,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28084,Mejorada del Campo,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28087,Los Molinos,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28089,Moraleja de Enmedio,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28090,Moralzarzal,0.9994766590032796,mostly_inside_reference,pending
+ES001F,28093,Navacerrada,0.9959038092702527,mostly_inside_reference,pending
+ES001F,28094,Navalafuente,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28100,Nuevo Baztán,0.9999999999999998,mostly_inside_reference,pending
+ES001F,28110,Perales de Tajuña,0.9999999999999997,mostly_inside_reference,pending
+ES001F,28121,Redueña,0.9999999999999997,mostly_inside_reference,pending
+ES014F,31180,Muruzábal,1.0000000000000004,mostly_inside_reference,pending
+ES001F,28127,Las Rozas de Madrid,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28129,San Agustín del Guadalix,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28130,San Fernando de Henares,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28141,Sevilla la Nueva,1.0,mostly_inside_reference,pending
+ES001F,28144,Soto del Real,1.0,mostly_inside_reference,pending
+ES001F,28148,Torrejón de Ardoz,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28154,Torres de la Alameda,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28157,Valdelaguna,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28163,Valdepiélagos,1.0,mostly_inside_reference,pending
+ES001F,28167,Velilla de San Antonio,1.0000000000000002,mostly_inside_reference,pending
+ES001F,28168,El Vellón,0.9999999999999999,mostly_inside_reference,pending
+ES001F,28180,Villarejo de Salvanés,0.9978623769229144,mostly_inside_reference,pending
+ES001F,28183,Zarzalejo,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31040,Atez/Atetz,0.98912941037664,mostly_inside_reference,pending
+ES006F,29007,Alhaurín de la Torre,0.9999999999999997,mostly_inside_reference,pending
+ES006F,29011,Almogía,0.9999999999999997,mostly_inside_reference,pending
+ES080F,29023,Benahavís,,no_reference,pending
+ES006F,29039,Casabermeja,0.9999999999999998,mostly_inside_reference,pending
+ES006F,29092,Totalán,0.9999999999999712,mostly_inside_reference,pending
+ES080F,29058,Guaro,,no_reference,pending
+ES006F,29071,Moclinejo,0.9917118959354165,mostly_inside_reference,pending
+ES006F,29080,Pizarra,1.0,mostly_inside_reference,pending
+ES014F,31101,Ezcabarte,0.9990013616469066,mostly_inside_reference,pending
+ES006F,29901,Torremolinos,0.9943678026959507,mostly_inside_reference,pending
+ES006F,29902,Villanueva de la Concepción,1.0,mostly_inside_reference,pending
+ES007F,30005,Alcantarilla,0.9999999999999999,mostly_inside_reference,pending
+ES007F,30007,Alguazas,0.9999999999999999,mostly_inside_reference,pending
+ES007F,30018,Ceutí,0.9999999999999998,mostly_inside_reference,pending
+ES091F,30024,Lorca,0.9973200500349447,mostly_inside_reference,pending
+ES007F,30038,Las Torres de Cotillas,1.0,mostly_inside_reference,pending
+ES014F,31007,Adiós,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31017,Anue,0.9992857448289366,mostly_inside_reference,pending
+ES014F,31023,Aranguren,0.9999999999999997,mostly_inside_reference,pending
+ES014F,31039,Artazu,0.9855430727234096,mostly_inside_reference,pending
+ES014F,31052,Belascoáin,0.9947895953648419,mostly_inside_reference,pending
+ES014F,31186,Odieta,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31076,Cizur,0.9999999999999999,mostly_inside_reference,pending
+ES014F,31083,Echarri/Etxarri,0.04727974853376244,mostly_outside_reference,pending
+ES014F,31085,Etxauri,0.9848417105296375,mostly_inside_reference,pending
+ES014F,31086,Valle de Egüés/Eguesibar,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31088,Noáin (Valle de Elorz)/Noain (Elortzibar),0.9999999999999999,mostly_inside_reference,pending
+ES014F,31089,Enériz/Eneritz,1.0,mostly_inside_reference,pending
+ES014F,31098,Esteribar,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31109,Galar,0.9999999999999998,mostly_inside_reference,pending
+ES014F,31131,Iza/Itza,0.9909095658989683,mostly_inside_reference,pending
+ES014F,31136,Juslapeña,0.9986014361348131,mostly_inside_reference,pending
+ES014F,31142,Larraga,0.9986169945615639,mostly_inside_reference,pending
+ES014F,31156,Lizoain-Arriasgoiti/Lizoainibar-Arriasgoiti,0.9987275140428052,mostly_inside_reference,pending
+ES014F,31167,Mendigorria,0.9901817676268566,mostly_inside_reference,pending
+ES014F,31172,Monreal/Elo,0.9995399322124027,mostly_inside_reference,pending
+ES014F,31183,Obanos,1.0000000000000004,mostly_inside_reference,pending
+ES014F,31193,Cendea de Olza/Oltza Zendea,0.9984199586074853,mostly_inside_reference,pending
+ES014F,31206,Puente la Reina/Gares,0.9920733735622634,mostly_inside_reference,pending
+ES014F,31228,Tiebas-Muruarte de Reta,0.9999999999999998,mostly_inside_reference,pending
+ES014F,31236,Ultzama,0.9985974466744426,mostly_inside_reference,pending
+ES018F,31251,Viana,0.9970149739645495,mostly_inside_reference,pending
+ES014F,31902,Berrioplano/Berriobeiti,0.9925795737813532,mostly_inside_reference,pending
+ES014F,31904,Irurtzun,0.9999999999999999,mostly_inside_reference,pending
+ES014F,31906,Orkoien,1.0000000000000002,mostly_inside_reference,pending
+ES014F,31907,Zizur Mayor/Zizur Nagusia,1.0,mostly_inside_reference,pending
+ES076F,32002,Amoeiro,0.9999999999999998,mostly_inside_reference,pending
+ES076F,32026,Coles,0.9999999999999998,mostly_inside_reference,pending
+ES076F,32052,Nogueira de Ramuín,0.9971979775735104,mostly_inside_reference,pending
+ES076F,32054,Ourense,1.0,mostly_inside_reference,pending
+ES076F,32075,San Cibrao das Viñas,1.0000000000000004,mostly_inside_reference,pending
+ES076F,32058,O Pereiro de Aguiar,1.0000000000000002,mostly_inside_reference,pending
+ES076F,32079,Taboadela,0.9999999999999997,mostly_inside_reference,pending
+ES076F,32081,Toén,1.0,mostly_inside_reference,pending
+ES034F,33020,Corvera de Asturias,,no_reference,pending
+ES034F,33004,Avilés,,no_reference,pending
+ES034F,33016,Castrillón,,no_reference,pending
+ES013F,33035,Llanera,1.0,mostly_inside_reference,pending
+ES013F,33038,Morcín,1.0,mostly_inside_reference,pending
+ES013F,33042,Noreña,1.0,mostly_inside_reference,pending
+ES013F,33054,Les Regueres,1.0000000000000002,mostly_inside_reference,pending
+ES013F,33057,Ribera de Arriba,0.9999999999999997,mostly_inside_reference,pending
+ES013F,33058,Riosa,1.0000000000000002,mostly_inside_reference,pending
+ES034F,33069,Sotu'l Barcu,,no_reference,pending
+ES036F,34023,Venta de Baños,0.9567429228622969,boundary_crosses_reference,pending
+ES036F,34077,Fuentes de Valdepero,0.9841014095915388,mostly_inside_reference,pending
+ES036F,34079,Grijota,0.9990271394410363,mostly_inside_reference,pending
+ES036F,34088,Husillos,0.016786544926833267,mostly_outside_reference,pending
+ES036F,34098,Magaz de Pisuerga,0.9919970273668252,mostly_inside_reference,pending
+ES036F,34120,Palencia,0.990723342712902,mostly_inside_reference,pending
+ES036F,34217,Villalobón,0.9974119636104881,mostly_inside_reference,pending
+ES036F,34225,Villamuriel de Cerrato,1.0000000000000002,mostly_inside_reference,pending
+ES008F,35013,Moya,0.9961729357439196,mostly_inside_reference,pending
+ES008F,35016,Las Palmas de Gran Canaria,0.9833190871990997,mostly_inside_reference,pending
+ES055F,35018,San Bartolomé,0.9904357638874257,mostly_inside_reference,pending
+ES055F,35004,Arrecife,0.9648364772001194,boundary_crosses_reference,pending
+ES008F,35005,Artenara,0.9962280484977266,mostly_inside_reference,pending
+ES008F,35006,Arucas,0.9897343160267493,mostly_inside_reference,pending
+ES008F,35008,Firgas,0.9999999999999998,mostly_inside_reference,pending
+ES008F,35009,Gáldar,0.9922855550429497,mostly_inside_reference,pending
+ES055F,35010,Haría,0.9872059877367456,mostly_inside_reference,pending
+ES038F,36002,Barro,0.9899252919528981,mostly_inside_reference,pending
+ES022F,36054,Tomiño,0.996873414485029,mostly_inside_reference,pending
+ES038F,36007,Campo Lameiro,0.992035128132569,mostly_inside_reference,pending
+ES022F,36013,Covelo,0.9974182631475327,mostly_inside_reference,pending
+ES022F,36055,Tui,0.995735986348515,mostly_inside_reference,pending
+ES022F,36019,Fornelos de Montes,0.9933148438461045,mostly_inside_reference,pending
+ES022F,36021,Gondomar,1.0,mostly_inside_reference,pending
+ES022F,36030,Mondariz,0.9999999999999994,mostly_inside_reference,pending
+ES022F,36037,Pazos de Borbén,0.9999999999999997,mostly_inside_reference,pending
+ES022F,36039,O Porriño,0.9999999999999998,mostly_inside_reference,pending
+ES022F,36042,Ponteareas,0.9999999999999998,mostly_inside_reference,pending
+ES038F,36043,Ponte Caldelas,0.9932135130951365,mostly_inside_reference,pending
+ES022F,36049,Salceda de Caselas,1.0,mostly_inside_reference,pending
+ES022F,36050,Salvaterra de Miño,0.9953525444190198,mostly_inside_reference,pending
+ES022F,36053,Soutomaior,0.9858078123082024,mostly_inside_reference,pending
+ES067F,37016,Aldealengua,0.9999999999999997,mostly_inside_reference,pending
+ES067F,37023,Aldeatejada,0.9994476221310742,mostly_inside_reference,pending
+ES067F,37032,Arapiles,1.0000000000000002,mostly_inside_reference,pending
+ES067F,37085,Carbajosa de la Sagrada,1.0000000000000004,mostly_inside_reference,pending
+ES067F,37092,Castellanos de Moriscos,0.9932907441712717,mostly_inside_reference,pending
+ES067F,37117,Doñinos de Salamanca,1.0,mostly_inside_reference,pending
+ES067F,37202,Monterrubio de Armuña,1.0000000000000002,mostly_inside_reference,pending
+ES067F,37192,Miranda de Azán,1.0,mostly_inside_reference,pending
+ES067F,37230,Parada de Arriba,0.995395985821509,mostly_inside_reference,pending
+ES067F,37240,Pelabravo,0.9999999999999999,mostly_inside_reference,pending
+ES067F,37274,Salamanca,0.9999999999999998,mostly_inside_reference,pending
+ES067F,37294,Santa Marta de Tormes,1.0,mostly_inside_reference,pending
+ES067F,37354,Villamayor,0.9939047459947014,mostly_inside_reference,pending
+ES024F,38004,Arafo,1.0000000000000002,mostly_inside_reference,pending
+ES024F,38011,Candelaria,0.9959569531145409,mostly_inside_reference,pending
+ES024F,38012,Fasnia,0.9977160038200896,mostly_inside_reference,pending
+ES024F,38020,Güímar,0.9950766954494,mostly_inside_reference,pending
+ES024F,38023,San Cristóbal de La Laguna,0.9931515086425844,mostly_inside_reference,pending
+ES024F,38025,La Matanza de Acentejo,0.9857170349275592,mostly_inside_reference,pending
+ES096F,38026,La Orotava,,no_reference,pending
+ES096F,38028,Puerto de la Cruz,,no_reference,pending
+ES096F,38031,Los Realejos,,no_reference,pending
+ES024F,38032,El Rosario,0.9964266850061143,mostly_inside_reference,pending
+ES015F,39019,Castañeda,0.9999999999999973,mostly_inside_reference,pending
+ES015F,39016,Camargo,0.9967900626407762,mostly_inside_reference,pending
+ES015F,39028,Entrambasaguas,0.9890309979973712,mostly_inside_reference,pending
+ES019F,39030,Guriezo,0.9947978812222448,mostly_inside_reference,pending
+ES015F,39042,Medio Cudeyo,1.0000000000000002,mostly_inside_reference,pending
+ES015F,39061,Ribamontán al Mar,0.9766849546309702,boundary_crosses_reference,pending
+ES015F,39054,Polanco,1.0,mostly_inside_reference,pending
+ES015F,39062,Ribamontán al Monte,0.9949420592289047,mostly_inside_reference,pending
+ES015F,39073,Santa Cruz de Bezana,0.9862877202562504,mostly_inside_reference,pending
+ES015F,39076,Santillana del Mar,0.9951429447875714,mostly_inside_reference,pending
+ES015F,39087,Torrelavega,1.0000000000000004,mostly_inside_reference,pending
+ES015F,39099,Villaescusa,0.9999999999999998,mostly_inside_reference,pending
+ES004F,41003,Albaida del Aljarafe,1.0,mostly_inside_reference,pending
+ES004F,41007,La Algaba,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41010,Almensilla,0.9999999999999999,mostly_inside_reference,pending
+ES004F,41029,Castilleja de la Cuesta,1.0,mostly_inside_reference,pending
+ES004F,41017,Bormujos,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41021,Camas,0.9999999999999999,mostly_inside_reference,pending
+ES004F,41023,Cantillana,0.9999999999999996,mostly_inside_reference,pending
+ES004F,41028,Castilleja de Guzmán,1.0,mostly_inside_reference,pending
+ES004F,41034,Coria del Río,1.0000000000000007,mostly_inside_reference,pending
+ES004F,41047,Gines,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41049,Guillena,0.9999999999999998,mostly_inside_reference,pending
+ES004F,41058,Mairena del Alcor,1.0,mostly_inside_reference,pending
+ES004F,41059,Mairena del Aljarafe,0.9999999999999998,mostly_inside_reference,pending
+ES004F,41086,San Juan de Aznalfarache,1.0,mostly_inside_reference,pending
+ES004F,41092,Tocina,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41070,Palomares del Río,1.0000000000000002,mostly_inside_reference,pending
+ES004F,41089,Santiponce,1.0,mostly_inside_reference,pending
+ES004F,41093,Tomares,1.0,mostly_inside_reference,pending
+ES004F,41101,Villaverde del Río,1.0,mostly_inside_reference,pending
+ES004F,41098,Villanueva del Ariscal,0.9999999999999998,mostly_inside_reference,pending
+ES004F,41102,El Viso del Alcor,1.0000000000000002,mostly_inside_reference,pending
+ES073F,43012,Altafulla,0.9829238035106548,mostly_inside_reference,pending
+ES026F,43011,Almoster,,no_reference,pending
+ES073F,43047,Constantí,1.0000000000000002,mostly_inside_reference,pending
+ES073F,43095,El Morell,0.9811699987606431,mostly_inside_reference,pending
+ES026F,43088,Montbrió del Camp,,no_reference,pending
+ES073F,43100,Els Pallaresos,0.9999999999999998,mostly_inside_reference,pending
+ES073F,43103,Perafort,0.9997323000213789,mostly_inside_reference,pending
+ES073F,43109,La Pobla de Mafumet,1.0000000000000004,mostly_inside_reference,pending
+ES073F,43144,La Secuita,0.9842416576455839,mostly_inside_reference,pending
+ES073F,43907,La Canonja,1.0,mostly_inside_reference,pending
+ES040F,46195,Piles,,no_reference,pending
+ES003F,46135,Godella,0.9999999999999998,mostly_inside_reference,pending
+ES016F,45001,Ajofrín,0.9963368898121594,mostly_inside_reference,pending
+ES001F,45025,Cabañas de la Sagra,0.9903104666386586,mostly_inside_reference,pending
+ES003F,46165,Massanassa,0.9999999999999992,mostly_inside_reference,pending
+ES016F,45016,Argés,0.9924711718213585,mostly_inside_reference,pending
+ES016F,45019,Bargas,0.9925139677614224,mostly_inside_reference,pending
+ES016F,45023,Burguillos de Toledo,1.0000000000000002,mostly_inside_reference,pending
+ES001F,45031,Camarena,1.0,mostly_inside_reference,pending
+ES003F,46178,Nàquera/Náquera,0.9999999999999997,mostly_inside_reference,pending
+ES016F,45052,Cobisa,1.0000000000000004,mostly_inside_reference,pending
+ES001F,45047,Cedillo del Condado,1.0000000000000002,mostly_inside_reference,pending
+ES001F,45056,Chozas de Canales,0.9999999999999999,mostly_inside_reference,pending
+ES016F,45083,Layos,0.9827933497767043,mostly_inside_reference,pending
+ES016F,45067,Gálvez,0.9931754230070807,mostly_inside_reference,pending
+ES016F,45070,Guadamur,0.9988076987043397,mostly_inside_reference,pending
+ES016F,45088,Magán,0.013718314536722115,mostly_outside_reference,pending
+ES035F,45097,Mejorada,1.0,mostly_inside_reference,pending
+ES040F,46055,Beniarjó,,no_reference,pending
+ES016F,45102,Mocejón,0.9908234171087229,mostly_inside_reference,pending
+ES016F,45107,Nambroca,0.9937366547581007,mostly_inside_reference,pending
+ES001F,45119,Numancia de la Sagra,1.0,mostly_inside_reference,pending
+ES016F,45122,Olías del Rey,0.9940992742606508,mostly_inside_reference,pending
+ES001F,45128,Pantoja,1.0,mostly_inside_reference,pending
+ES001F,45123,Ontígola,1.0,mostly_inside_reference,pending
+ES001F,45127,Palomeque,1.0000000000000002,mostly_inside_reference,pending
+ES001F,45129,Paredes de Escalona,0.9917247365782087,mostly_inside_reference,pending
+ES035F,45132,Pepino,0.994400606224824,mostly_inside_reference,pending
+ES001F,45143,Quismondo,0.9692306795179924,boundary_crosses_reference,pending
+ES035F,45160,Segurilla,0.9985218893143174,mostly_inside_reference,pending
+ES001F,45145,Recas,0.9866859871315703,mostly_inside_reference,pending
+ES003F,46136,Godelleta,1.0,mostly_inside_reference,pending
+ES035F,45154,San Román de los Montes,0.9817961918997175,mostly_inside_reference,pending
+ES016F,45163,Sonseca,1.0000000000000002,mostly_inside_reference,pending
+ES001F,45176,Ugena,1.0,mostly_inside_reference,pending
+ES001F,45171,La Torre de Esteban Hambrán,0.9999999999999999,mostly_inside_reference,pending
+ES001F,45188,Villaluenga de la Sagra,0.9995418873910564,mostly_inside_reference,pending
+ES001F,45180,Valmojado,1.0,mostly_inside_reference,pending
+ES001F,45183,Las Ventas de Retamosa,1.0,mostly_inside_reference,pending
+ES003F,46065,Beniparrell,1.0,mostly_inside_reference,pending
+ES001F,45199,El Viso de San Juan,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46015,Alcàsser,1.0000000000000002,mostly_inside_reference,pending
+ES001F,45201,Yeles,1.0,mostly_inside_reference,pending
+ES001F,45202,Yepes,0.9963758740300456,mostly_inside_reference,pending
+ES001F,45203,Yuncler,1.0,mostly_inside_reference,pending
+ES001F,45205,Yuncos,1.0,mostly_inside_reference,pending
+ES003F,46021,Aldaia,1.0000000000000004,mostly_inside_reference,pending
+ES040F,46002,Ador,,no_reference,pending
+ES003F,46009,Albalat dels Sorells,1.0000000000000056,mostly_inside_reference,pending
+ES003F,46013,Alboraia/Alboraya,0.9999999999997125,mostly_inside_reference,pending
+ES003F,46022,Alfafar,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46032,Almàssera,1.0,mostly_inside_reference,pending
+ES003F,46051,Benaguasil,0.9999999999999994,mostly_inside_reference,pending
+ES003F,46054,Benetússer,0.9999999999999998,mostly_inside_reference,pending
+ES003F,46067,Benissanó,0.9999999999999998,mostly_inside_reference,pending
+ES003F,46070,Bétera,0.9999999999999996,mostly_inside_reference,pending
+ES003F,46094,Catarroja,0.9999999999999999,mostly_inside_reference,pending
+ES003F,46110,Xirivella,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46102,Quart de Poblet,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46117,Emperador,1.0,mostly_inside_reference,pending
+ES003F,46111,Chiva,0.9999999999999728,mostly_inside_reference,pending
+ES040F,46113,Daimús,,no_reference,pending
+ES003F,46114,Domeño,0.01419880251563419,mostly_outside_reference,pending
+ES003F,46116,l'Eliana,1.0,mostly_inside_reference,pending
+ES093F,46122,Faura,,no_reference,pending
+ES003F,46126,Foios,0.999999999999663,mostly_inside_reference,pending
+ES040F,46127,la Font d'en Carròs,,no_reference,pending
+ES093F,46134,Gilet,,no_reference,pending
+ES040F,46140,Guardamar de la Safor,,no_reference,pending
+ES003F,46148,Loriguilla,0.9939435981178406,mostly_inside_reference,pending
+ES003F,46159,Manises,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46163,Massalfassar,0.9999999999990433,mostly_inside_reference,pending
+ES003F,46164,Massamagrell,0.9999063718902083,mostly_inside_reference,pending
+ES040F,46168,Miramar,,no_reference,pending
+ES003F,46171,Moncada,1.0,mostly_inside_reference,pending
+ES003F,46172,Montserrat,0.9999999999999999,mostly_inside_reference,pending
+ES003F,46176,Montroi/Montroy,1.0,mostly_inside_reference,pending
+ES003F,46177,Museros,0.9999999999999994,mostly_inside_reference,pending
+ES003F,46182,Olocau,0.9999999999999785,mostly_inside_reference,pending
+ES003F,46193,Picanya,1.0000000000000002,mostly_inside_reference,pending
+ES003F,46194,Picassent,1.0,mostly_inside_reference,pending
+ES040F,46187,Palma de Gandía,,no_reference,pending
+ES040F,46188,Palmera,,no_reference,pending
+ES003F,46190,Paterna,1.0000000000000007,mostly_inside_reference,pending
+ES093F,46192,Petrés,,no_reference,pending
+ES003F,46199,la Pobla de Farnals,0.9994013821713311,mostly_inside_reference,pending
+ES003F,46202,la Pobla de Vallbona,0.9999999999999998,mostly_inside_reference,pending
+ES003F,46205,Puçol,0.9916628159088055,mostly_inside_reference,pending
+ES003F,46204,el Puig de Santa Maria,1.0,mostly_inside_reference,pending
+ES003F,46216,Rocafort,1.0,mostly_inside_reference,pending
+ES003F,46214,Riba-roja de Túria,1.0,mostly_inside_reference,pending
+ES003F,46223,Sedaví,0.9999999999999997,mostly_inside_reference,pending
+ES003F,46228,Serra,0.9958449144183292,mostly_inside_reference,pending
+ES003F,46230,Silla,0.9999999999999999,mostly_inside_reference,pending
+ES003F,46244,Torrent,1.0000000000000004,mostly_inside_reference,pending
+ES040F,46255,Vilallonga/Villalonga,,no_reference,pending
+ES003F,46903,San Antonio de Benagéber,1.0,mostly_inside_reference,pending
+ES009F,47007,Aldeamayor de San Martín,1.0,mostly_inside_reference,pending
+ES009F,47010,Arroyo de la Encomienda,1.0,mostly_inside_reference,pending
+ES009F,47023,Boecillo,0.9999999999999997,mostly_inside_reference,pending
+ES009F,47027,Cabezón de Pisuerga,0.998056409284669,mostly_inside_reference,pending
+ES009F,47050,Cigales,0.9998184918813632,mostly_inside_reference,pending
+ES009F,47052,Cistérniga,1.0000000000000002,mostly_inside_reference,pending
+ES009F,47066,Fuensaldaña,1.0000000000000002,mostly_inside_reference,pending
+ES009F,47076,Laguna de Duero,1.0000000000000002,mostly_inside_reference,pending
+ES009F,47090,Mojados,0.9999999999999997,mostly_inside_reference,pending
+ES009F,47122,Portillo,0.9985053809542602,mostly_inside_reference,pending
+ES009F,47133,Renedo de Esgueva,0.9999999999999999,mostly_inside_reference,pending
+ES009F,47146,San Miguel del Pino,4.809682459913487e-23,mostly_outside_reference,pending
+ES009F,47155,Santovenia de Pisuerga,1.0,mostly_inside_reference,pending
+ES009F,47182,Valdestillas,0.997174775167078,mostly_inside_reference,pending
+ES009F,47161,Simancas,0.9999999999999998,mostly_inside_reference,pending
+ES009F,47165,Tordesillas,0.0032254145125554263,mostly_outside_reference,pending
+ES009F,47175,Tudela de Duero,1.0,mostly_inside_reference,pending
+ES009F,47193,Viana de Cega,0.9999999999999998,mostly_inside_reference,pending
+ES009F,47217,Villanubla,1.0,mostly_inside_reference,pending
+ES009F,47218,Villanueva de Duero,0.982663715199416,mostly_inside_reference,pending
+ES019F,48002,Abanto y Ciérvana-Abanto Zierbena,0.9999999999999996,mostly_inside_reference,pending
+ES019F,48052,Larrabetzu,0.9999999999998676,mostly_inside_reference,pending
+ES019F,48053,Laukiz,1.0,mostly_inside_reference,pending
+ES019F,48011,Arrigorriaga,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48012,Bakio,0.985138654238272,mostly_inside_reference,pending
+ES019F,48013,Barakaldo,1.0,mostly_inside_reference,pending
+ES019F,48014,Barrika,0.9793729592873602,boundary_crosses_reference,pending
+ES019F,48015,Basauri,1.0,mostly_inside_reference,pending
+ES019F,48016,Berango,1.0,mostly_inside_reference,pending
+ES019F,48025,Zeberio,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48029,Etxebarri,1.0,mostly_inside_reference,pending
+ES019F,48036,Galdakao,0.9999999999999999,mostly_inside_reference,pending
+ES019F,48037,Galdames,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48040,Gatika,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48054,Leioa,1.0,mostly_inside_reference,pending
+ES019F,48055,Lemoa,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48056,Lemoiz,0.988181768231138,mostly_inside_reference,pending
+ES019F,48080,Valle de Trápaga-Trapagaran,1.0,mostly_inside_reference,pending
+ES019F,48071,Muskiz,0.9938519502319416,mostly_inside_reference,pending
+ES019F,48078,Portugalete,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48081,Lezama,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48082,Santurtzi,0.9502761407160334,boundary_crosses_reference,pending
+ES019F,48083,Ortuella,1.0,mostly_inside_reference,pending
+ES019F,48085,Sopela,0.9951489973242866,mostly_inside_reference,pending
+ES019F,48912,Alonsotegi,1.0,mostly_inside_reference,pending
+ES019F,48913,Zierbena,0.9618877254101401,boundary_crosses_reference,pending
+ES019F,48089,Urduliz,1.0000000000000002,mostly_inside_reference,pending
+ES019F,48904,Sondika,1.0,mostly_inside_reference,pending
+ES047F,49053,Coreses,0.9851856322809759,mostly_inside_reference,pending
+ES047F,49061,Entrala,1.0000000000000002,mostly_inside_reference,pending
+ES047F,49122,Monfarracinos,0.9905084645891593,mostly_inside_reference,pending
+ES047F,49127,Morales del Vino,0.9933246248728309,mostly_inside_reference,pending
+ES047F,49142,Palacios del Pan,2.238005885562213e-16,mostly_outside_reference,pending
+ES047F,49151,El Perdigón,0.9874465093986693,mostly_inside_reference,pending
+ES005F,50017,Alfajarín,0.9999999999999998,mostly_inside_reference,pending
+ES005F,50056,Botorrita,0.997658382536519,mostly_inside_reference,pending
+ES005F,50062,El Burgo de Ebro,0.9999999999999996,mostly_inside_reference,pending
+ES005F,50066,Cadrete,1.0000000000000002,mostly_inside_reference,pending
+ES005F,50115,Fuentes de Ebro,0.9974469900444402,mostly_inside_reference,pending
+ES005F,50132,La Joyosa,1.0000000000000002,mostly_inside_reference,pending
+ES005F,50180,Mozota,1.0000000000000002,mostly_inside_reference,pending
+ES005F,50193,Nuez de Ebro,0.9999999999999999,mostly_inside_reference,pending
+ES005F,50203,Pastriz,0.9999999999999998,mostly_inside_reference,pending
+ES005F,50206,Perdiguera,0.9960223224058058,mostly_inside_reference,pending
+ES005F,50218,Puebla de Albortón,0.9934069717189588,mostly_inside_reference,pending
+ES005F,50219,La Puebla de Alfindén,1.0,mostly_inside_reference,pending
+ES005F,50247,Sobradiel,1.0000000000000002,mostly_inside_reference,pending
+ES005F,50272,Utebo,0.9999999999999998,mostly_inside_reference,pending
+ES005F,50275,Valmadrid,0.9979131224235154,mostly_inside_reference,pending
+ES045F,52001,Melilla,0.9199035269200072,boundary_crosses_reference,pending
+ES045F,54005,Peñón de Alhucemas,,unmatched_member,pending

@@ -1,0 +1,110 @@
+﻿iso3,geo_level,pk,name_lat,name_or,fuacode,fuaname_en,citycode,cityname_en,member_ine5,province_code,gisco_id,official_name,match_status,name_agrees,geometry_source,geometry_year,exception_reason,evidence_url,review_status
+ESP,Municipalities (Municipios),ESP03011,l'Alfàs del Pi,l'Alfàs del Pi,ES044F,Benidorm,,,03011,03,ES_03011,"Alfàs del Pi, l'",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP03050,el Campello,el Campello,ES021F,Alicante/Alacant,,,03050,03,ES_03050,"Campello, el",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP03903,Los Montesinos,Los Montesinos,ES032F,Torrevieja,,,03903,03,ES_03903,"Montesinos, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP05241,El Tiemblo,El Tiemblo,ES001F,Madrid,,,05241,05,ES_05241,"Tiemblo, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP06058,La Garrovilla,La Garrovilla,ES092F,Mérida,,,06058,06,ES_06058,"Garrovilla, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP06032,El Carrascalejo,El Carrascalejo,ES092F,Mérida,,,06032,06,ES_06032,"Carrascalejo, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08118,El Masnou,El Masnou,ES002F,Barcelona,ES002C,Barcelona,08118,08,ES_08118,"Masnou, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08162,Els Hostalets de Pierola,Els Hostalets de Pierola,ES002F,Barcelona,,,08162,08,ES_08162,"Hostalets de Pierola, Els",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08165,La Pobla de Claramunt,La Pobla de Claramunt,ES097F,Igualada,,,08165,08,ES_08165,"Pobla de Claramunt, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08182,El Pont de Vilomara i Rocafort,El Pont de Vilomara i Rocafort,ES042F,Manresa,,,08182,08,ES_08182,"Pont de Vilomara i Rocafort, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08286,La Torre de Claramunt,La Torre de Claramunt,ES097F,Igualada,,,08286,08,ES_08286,"Torre de Claramunt, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08905,La Palma de Cervelló,La Palma de Cervelló,ES002F,Barcelona,,,08905,08,ES_08905,"Palma de Cervelló, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP11008,Los Barrios,Los Barrios,ES079F,Algeciras,,,11008,11,ES_11008,"Barrios, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP11027,El Puerto de Santa María,El Puerto de Santa María,ES033F,"Puerto de Santa María, El",ES033C,"Puerto de Santa María, El",11027,11,ES_11027,"Puerto de Santa María, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP12094,la Pobla Tornesa,la Pobla Tornesa,ES069F,Castellón de la Plana/Castelló de la Plana,,,12094,12,ES_12094,"Pobla Tornesa, la",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP14065,La Victoria,La Victoria,ES020F,Córdoba,,,14065,14,ES_14065,"Victoria, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP15030,A Coruña,A Coruña,ES025F,A Coruña,ES025C,A Coruña,15030,15,ES_15030,"Coruña, A",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP15041,A Laracha,A Laracha,ES025F,A Coruña,,,15041,15,ES_15041,"Laracha, A",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP15066,O Pino,O Pino,ES011F,Santiago de Compostela,,,15066,15,ES_15066,"Pino, O",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP18193,La Zubia,La Zubia,ES059F,Granada,ES059C,Granada,18193,18,ES_18193,"Zubia, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP19071,El Casar,El Casar,ES001F,Madrid,,,19071,19,ES_19071,"Casar, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP23038,La Guardia de Jaén,La Guardia de Jaén,ES074F,Jaén,,,23038,23,ES_23038,"Guardia de Jaén, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP25004,Els Alamús,Els Alamús,ES075F,Lleida,,,25004,25,ES_25004,"Alamús, Els",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28023,El Boalo,El Boalo,ES001F,Madrid,,,28023,28,ES_28023,"Boalo, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28054,El Escorial,El Escorial,ES001F,Madrid,,,28054,28,ES_28054,"Escorial, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28086,El Molar,El Molar,ES001F,Madrid,,,28086,28,ES_28086,"Molar, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28137,Los Santos de la Humosa,Los Santos de la Humosa,ES001F,Madrid,,,28137,28,ES_28137,"Santos de la Humosa, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP30041,La Unión,La Unión,ES061F,Cartagena,,,30041,30,ES_30041,"Unión, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP32047,A Merca,A Merca,ES076F,Ourense,,,32047,32,ES_32047,"Merca, A",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP38041,El Sauzal,El Sauzal,ES024F,Santa Cruz de Tenerife,,,38041,38,ES_38041,"Sauzal, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP38051,La Victoria de Acentejo,La Victoria de Acentejo,ES024F,Santa Cruz de Tenerife,,,38051,38,ES_38051,"Victoria de Acentejo, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP39008,El Astillero,El Astillero,ES015F,Santander,,,39008,39,ES_39008,"Astillero, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41063,Los Molares,Los Molares,ES004F,Sevilla,,,41063,41,ES_41063,"Molares, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41069,Los Palacios y Villafranca,Los Palacios y Villafranca,ES004F,Sevilla,,,41069,41,ES_41069,"Palacios y Villafranca, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41079,La Puebla del Río,La Puebla del Río,ES004F,Sevilla,,,41079,41,ES_41079,"Puebla del Río, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41081,La Rinconada,La Rinconada,ES004F,Sevilla,,,41081,41,ES_41081,"Rinconada, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41904,El Palmar de Troya,El Palmar de Troya,ES004F,Sevilla,,,41904,41,ES_41904,"Palmar de Troya, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43031,Les Borges del Camp,Les Borges del Camp,ES026F,Reus,,,43031,43,ES_43031,"Borges del Camp, Les",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43043,El Catllar,El Catllar,ES073F,Tarragona,,,43043,43,ES_43043,"Catllar, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP45137,La Pueblanueva,La Pueblanueva,ES035F,Talavera de la Reina,,,45137,45,ES_45137,"Pueblanueva, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46211,el Real de Gandia,el Real de Gandia,ES040F,Gandia,,,46211,46,ES_46211,"Real de Gandia, el",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP50182,La Muela,La Muela,ES005F,Zaragoza,,,50182,50,ES_50182,"Muela, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP01047,Erriberabeitia,Erriberabeitia,ES012F,Vitoria/Gasteiz,,,01047,01,ES_01047,Ribera Baja,exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP02035,La Gineta,La Gineta,ES068F,Albacete,,,02035,02,ES_02035,"Gineta, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP03094,la Nucia,la Nucia,ES044F,Benidorm,,,03094,03,ES_03094,"Nucia, la",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP03139,Villajoyosa/la Vila Joiosa,Villajoyosa/la Vila Joiosa,ES044F,Benidorm,,,03139,03,ES_03139,"Villajoyosa / Vila Joiosa, la",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP05022,El Barraco,El Barraco,ES084F,Ávila,,,05022,05,ES_05022,"Barraco, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP05061,La Colilla,La Colilla,ES084F,Ávila,,,05061,05,ES_05061,"Colilla, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP05232,La Serrada,La Serrada,ES084F,Ávila,,,05232,05,ES_05232,"Serrada, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP06005,La Albuera,La Albuera,ES017F,Badajoz,,,06005,06,ES_06005,"Albuera, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP06090,La Nava de Santiago,La Nava de Santiago,ES092F,Mérida,,,06090,06,ES_06090,"Nava de Santiago, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08088,La Garriga,La Garriga,ES002F,Barcelona,,,08088,08,ES_08088,"Garriga, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP06162,La Zarza,La Zarza,ES092F,Mérida,,,06162,06,ES_06162,"Zarza, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08005,L'Ametlla del Vallès,L'Ametlla del Vallès,ES002F,Barcelona,,,08005,08,ES_08005,"Ametlla del Vallès, L'",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08023,Bigues i Riells,Bigues i Riells,ES002F,Barcelona,,,08023,08,ES_08023,Bigues i Riells del Fai,exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08025,El Bruc,El Bruc,ES002F,Barcelona,,,08025,08,ES_08025,"Bruc, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08086,Les Franqueses del Vallès,Les Franqueses del Vallès,ES002F,Barcelona,,,08086,08,ES_08086,"Franqueses del Vallès, Les",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08101,L'Hospitalet de Llobregat,L'Hospitalet de Llobregat,ES002F,Barcelona,ES002C,Barcelona,08101,08,ES_08101,"Hospitalet de Llobregat, L'",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08105,La Llagosta,La Llagosta,ES002F,Barcelona,,,08105,08,ES_08105,"Llagosta, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08158,El Papiol,El Papiol,ES002F,Barcelona,,,08158,08,ES_08158,"Papiol, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08169,El Prat de Llobregat,El Prat de Llobregat,ES002F,Barcelona,ES002C,Barcelona,08169,08,ES_08169,"Prat de Llobregat, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP08181,La Roca del Vallès,La Roca del Vallès,ES002F,Barcelona,,,08181,08,ES_08181,"Roca del Vallès, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP09030,Los Ausines,Los Ausines,ES066F,Burgos,,,09030,09,ES_09030,"Ausines, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP09276,La Puebla de Arganzón,La Puebla de Arganzón,ES012F,Vitoria/Gasteiz,,,09276,09,ES_09276,"Puebla de Arganzón, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP11022,La Línea de la Concepción,La Línea de la Concepción,ES051F,"Línea de la Concepción, La",ES051C,"Línea de la Concepción, La",11022,11,ES_11022,"Línea de la Concepción, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP14018,El Carpio,El Carpio,ES020F,Córdoba,,,14018,14,ES_14018,"Carpio, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP15007,A Baña,A Baña,ES011F,Santiago de Compostela,,,15007,15,ES_15007,"Baña, A",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP18126,La Malahá,La Malahá,ES059F,Granada,,,18126,18,ES_18126,"Malahá, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP18905,Las Gabias,Las Gabias,ES059F,Granada,ES059C,Granada,18905,18,ES_18905,"Gabias, Las",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP23099,Los Villares,Los Villares,ES074F,Jaén,,,23099,23,ES_23099,"Villares, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP24114,La Pola de Gordón,La Pola de Gordón,ES072F,León,,,24114,24,ES_24114,"Pola de Gordón, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP24134,La Robla,La Robla,ES072F,León,,,24134,24,ES_24134,"Robla, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28004,El Álamo,El Álamo,ES001F,Madrid,,,28004,28,ES_28004,"Álamo, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP27014,O Corgo,O Corgo,ES028F,Lugo,,,27014,27,ES_27014,"Corgo, O",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28030,La Cabrera,La Cabrera,ES001F,Madrid,,,28030,28,ES_28030,"Cabrera, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28087,Los Molinos,Los Molinos,ES001F,Madrid,,,28087,28,ES_28087,"Molinos, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28127,Las Rozas de Madrid,Las Rozas de Madrid,ES001F,Madrid,ES001C,Madrid,28127,28,ES_28127,"Rozas de Madrid, Las",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP28168,El Vellón,El Vellón,ES001F,Madrid,,,28168,28,ES_28168,"Vellón, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP31040,Atez/Atetz,Atez/Atetz,ES014F,Pamplona/Iruña,,,31040,31,ES_31040,Atetz,exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP30038,Las Torres de Cotillas,Las Torres de Cotillas,ES007F,Murcia,,,30038,30,ES_30038,"Torres de Cotillas, Las",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP32058,O Pereiro de Aguiar,O Pereiro de Aguiar,ES076F,Ourense,,,32058,32,ES_32058,"Pereiro de Aguiar, O",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP33054,Les Regueres,Les Regueres,ES013F,Oviedo,,,33054,33,ES_33054,"Regueras, Las",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP33069,Sotu'l Barcu,Sotu'l Barcu,ES034F,Avilés,,,33069,33,ES_33069,Soto del Barco,exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP35016,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,ES008F,"Palmas de Gran Canaria, Las",ES008C,Las Palmas,35016,35,ES_35016,"Palmas de Gran Canaria, Las",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP36039,O Porriño,O Porriño,ES022F,Vigo,,,36039,36,ES_36039,"Porriño, O",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP38025,La Matanza de Acentejo,La Matanza de Acentejo,ES024F,Santa Cruz de Tenerife,,,38025,38,ES_38025,"Matanza de Acentejo, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP38026,La Orotava,La Orotava,ES096F,Puerto de la Cruz,,,38026,38,ES_38026,"Orotava, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP38031,Los Realejos,Los Realejos,ES096F,Puerto de la Cruz,ES096C,Puerto de la Cruz,38031,38,ES_38031,"Realejos, Los",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP38032,El Rosario,El Rosario,ES024F,Santa Cruz de Tenerife,,,38032,38,ES_38032,"Rosario, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41007,La Algaba,La Algaba,ES004F,Sevilla,,,41007,41,ES_41007,"Algaba, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP41102,El Viso del Alcor,El Viso del Alcor,ES004F,Sevilla,,,41102,41,ES_41102,"Viso del Alcor, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43095,El Morell,El Morell,ES073F,Tarragona,,,43095,43,ES_43095,"Morell, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43100,Els Pallaresos,Els Pallaresos,ES073F,Tarragona,,,43100,43,ES_43100,"Pallaresos, Els",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43109,La Pobla de Mafumet,La Pobla de Mafumet,ES073F,Tarragona,,,43109,43,ES_43109,"Pobla de Mafumet, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43144,La Secuita,La Secuita,ES073F,Tarragona,,,43144,43,ES_43144,"Secuita, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP43907,La Canonja,La Canonja,ES073F,Tarragona,,,43907,43,ES_43907,"Canonja, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46178,Nàquera/Náquera,Nàquera/Náquera,ES003F,Valencia,,,46178,46,ES_46178,Nàquera,exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP45171,La Torre de Esteban Hambrán,La Torre de Esteban Hambrán,ES001F,Madrid,,,45171,45,ES_45171,"Torre de Esteban Hambrán, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP45183,Las Ventas de Retamosa,Las Ventas de Retamosa,ES001F,Madrid,,,45183,45,ES_45183,"Ventas de Retamosa, Las",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP45199,El Viso de San Juan,El Viso de San Juan,ES001F,Madrid,,,45199,45,ES_45199,"Viso de San Juan, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46116,l'Eliana,l'Eliana,ES003F,Valencia,,,46116,46,ES_46116,"Eliana, l'",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46127,la Font d'en Carròs,la Font d'en Carròs,ES040F,Gandia,,,46127,46,ES_46127,"Font d'En Carròs, la",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46199,la Pobla de Farnals,la Pobla de Farnals,ES003F,Valencia,,,46199,46,ES_46199,"Pobla de Farnals, la",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46202,la Pobla de Vallbona,la Pobla de Vallbona,ES003F,Valencia,,,46202,46,ES_46202,"Pobla de Vallbona, la",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP46204,el Puig de Santa Maria,el Puig de Santa Maria,ES003F,Valencia,,,46204,46,ES_46204,"Puig de Santa Maria, el",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP49151,El Perdigón,El Perdigón,ES047F,Zamora,,,49151,49,ES_49151,"Perdigón, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP50062,El Burgo de Ebro,El Burgo de Ebro,ES005F,Zaragoza,,,50062,50,ES_50062,"Burgo de Ebro, El",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP50132,La Joyosa,La Joyosa,ES005F,Zaragoza,,,50132,50,ES_50132,"Joyosa, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending
+ESP,Municipalities (Municipios),ESP50219,La Puebla de Alfindén,La Puebla de Alfindén,ES005F,Zaragoza,,,50219,50,ES_50219,"Puebla de Alfindén, La",exact_code,False,Eurostat GISCO LAU 2024 01M,2024,,,pending

@@ -1,0 +1,392 @@
+[
+  {
+    "code": "ES001F",
+    "status": "downloaded",
+    "file": "ES001F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES002F",
+    "status": "downloaded",
+    "file": "ES002F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES003F",
+    "status": "downloaded",
+    "file": "ES003F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES004F",
+    "status": "downloaded",
+    "file": "ES004F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES005F",
+    "status": "downloaded",
+    "file": "ES005F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES006F",
+    "status": "downloaded",
+    "file": "ES006F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES007F",
+    "status": "downloaded",
+    "file": "ES007F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES008F",
+    "status": "downloaded",
+    "file": "ES008F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES009F",
+    "status": "downloaded",
+    "file": "ES009F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES010F",
+    "status": "downloaded",
+    "file": "ES010F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES011F",
+    "status": "downloaded",
+    "file": "ES011F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES012F",
+    "status": "downloaded",
+    "file": "ES012F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES013F",
+    "status": "downloaded",
+    "file": "ES013F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES014F",
+    "status": "downloaded",
+    "file": "ES014F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES015F",
+    "status": "downloaded",
+    "file": "ES015F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES016F",
+    "status": "downloaded",
+    "file": "ES016F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES017F",
+    "status": "downloaded",
+    "file": "ES017F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES018F",
+    "status": "downloaded",
+    "file": "ES018F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES019F",
+    "status": "downloaded",
+    "file": "ES019F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES020F",
+    "status": "downloaded",
+    "file": "ES020F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES021F",
+    "status": "downloaded",
+    "file": "ES021F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES022F",
+    "status": "downloaded",
+    "file": "ES022F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES023F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES024F",
+    "status": "downloaded",
+    "file": "ES024F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES025F",
+    "status": "downloaded",
+    "file": "ES025F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES026F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES028F",
+    "status": "downloaded",
+    "file": "ES028F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES030F",
+    "status": "downloaded",
+    "file": "ES030F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES031F",
+    "status": "downloaded",
+    "file": "ES031F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES032F",
+    "status": "downloaded",
+    "file": "ES032F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES033F",
+    "status": "downloaded",
+    "file": "ES033F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES034F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES035F",
+    "status": "downloaded",
+    "file": "ES035F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES036F",
+    "status": "downloaded",
+    "file": "ES036F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES037F",
+    "status": "downloaded",
+    "file": "ES037F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES038F",
+    "status": "downloaded",
+    "file": "ES038F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES039F",
+    "status": "downloaded",
+    "file": "ES039F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES040F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES041F",
+    "status": "downloaded",
+    "file": "ES041F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES042F",
+    "status": "downloaded",
+    "file": "ES042F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES043F",
+    "status": "downloaded",
+    "file": "ES043F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES044F",
+    "status": "downloaded",
+    "file": "ES044F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES045F",
+    "status": "downloaded",
+    "file": "ES045F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES046F",
+    "status": "downloaded",
+    "file": "ES046F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES047F",
+    "status": "downloaded",
+    "file": "ES047F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES049F",
+    "status": "downloaded",
+    "file": "ES049F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES051F",
+    "status": "downloaded",
+    "file": "ES051F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES053F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES055F",
+    "status": "downloaded",
+    "file": "ES055F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES056F",
+    "status": "downloaded",
+    "file": "ES056F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES057F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES059F",
+    "status": "downloaded",
+    "file": "ES059F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES060F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES061F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES062F",
+    "status": "downloaded",
+    "file": "ES062F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES063F",
+    "status": "downloaded",
+    "file": "ES063F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES065F",
+    "status": "downloaded",
+    "file": "ES065F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES066F",
+    "status": "downloaded",
+    "file": "ES066F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES067F",
+    "status": "downloaded",
+    "file": "ES067F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES068F",
+    "status": "downloaded",
+    "file": "ES068F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES069F",
+    "status": "downloaded",
+    "file": "ES069F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES070F",
+    "status": "downloaded",
+    "file": "ES070F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES071F",
+    "status": "downloaded",
+    "file": "ES071F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES072F",
+    "status": "downloaded",
+    "file": "ES072F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES073F",
+    "status": "downloaded",
+    "file": "ES073F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES074F",
+    "status": "downloaded",
+    "file": "ES074F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES075F",
+    "status": "downloaded",
+    "file": "ES075F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES076F",
+    "status": "downloaded",
+    "file": "ES076F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES079F",
+    "status": "downloaded",
+    "file": "ES079F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES080F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES083F",
+    "status": "downloaded",
+    "file": "ES083F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES084F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES086F",
+    "status": "downloaded",
+    "file": "ES086F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES088F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES089F",
+    "status": "downloaded",
+    "file": "ES089F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES090F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES091F",
+    "status": "downloaded",
+    "file": "ES091F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES092F",
+    "status": "downloaded",
+    "file": "ES092F-region-100k-4326-2024.geojson"
+  },
+  {
+    "code": "ES093F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES096F",
+    "status": "not_in_official_2024_unit_index"
+  },
+  {
+    "code": "ES097F",
+    "status": "not_in_official_2024_unit_index"
+  }
+]

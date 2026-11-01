@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": [
+    "All official source snapshots match pinned SHA256 hashes",
+    "1264 original member records preserved; 1262 exact five-digit joins; two missing special units stay unresolved",
+    "81 valid nonempty FUA geometries; 80 complete-by-code; Melilla explicitly partial with area flag",
+    "Madrid, Barcelona, Santa Cruz de Tenerife and partial Melilla independently reconstructed from original SHP and equal exported boundaries",
+    "GeoPackage integrity, EPSG4326 header, all 81 geometry round trips and partial-coverage attributes pass",
+    "66 reference comparisons, 15 explicit null references, and independently recalculated Madrid/Barcelona IoUs pass"
+  ],
+  "scientific_geography_review": "pending; code completeness is not equivalence to OECD economic indicator geography"
+}
