@@ -1,0 +1,2 @@
+﻿metro_id,metro_name,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method
+EGY004,Suez,Suez,self,L2,AsSuways,AsSuways,EGY.15_1,Muhafazah,metro_whole_l2

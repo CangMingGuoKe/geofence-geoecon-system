@@ -1,0 +1,2 @@
+﻿metro_id,metro_name,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method
+NGA004,Abuja,Abuja,whole_l2,L2,FederalCapitalTerritory,FederalCapitalTerritory,NGA.15_1,State,metro_whole_l2

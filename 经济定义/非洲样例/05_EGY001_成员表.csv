@@ -1,0 +1,47 @@
+﻿metro_id,metro_name,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method
+EGY001,Cairo,15th of May City Kism (fully urban),self,L3,AlQahirah,15Mayu,EGY.11.3_1,Kism,name_exact
+EGY001,Cairo,Abdīn Kism (fully urban),member,L3,AlQahirah,'Abdin,EGY.11.1_1,Kism,name_exact
+EGY001,Cairo,Ad-Darb al-Aḥmar Kism (fully urban),member,L3,AlQahirah,Ad-Darbal-Ahmar,EGY.11.4_1,Kism,name_exact
+EGY001,Cairo,Ain Schams Kism (fully urban),member,L3,AlQahirah,'AinSchams,EGY.11.2_1,Kism,name_exact
+EGY001,Cairo,Azbakeya Kism (fully urban),member,L3,AlQahirah,Al-Azbakiyah,EGY.11.5_1,Kism,name_exact
+EGY001,Cairo,Al-Basātīn Kism (fully urban),member,L3,AlQahirah,Al-Basatin,EGY.11.6_1,Kism,name_exact
+EGY001,Cairo,Al-Jamāliyah Kism (fully urban),member,L3,AlQahirah,Al-Jamaliyah,EGY.11.7_1,Kism,name_exact
+EGY001,Cairo,Al-Khalīfa Kism (fully urban),member,L3,AlQahirah,Al-Khalifa,EGY.11.8_1,Kism,name_exact
+EGY001,Cairo,Maadi Kism (fully urban),member,L3,AlQahirah,Al-Ma'adi,EGY.11.9_1,Kism,name_strip_article
+EGY001,Cairo,El Marg Kism (fully urban),member,L3,AlQahirah,Al-Marj,EGY.11.10_1,Kism,name_exact
+EGY001,Cairo,Matariyyah Kism (fully urban),member,L3,AlQahirah,Al-Matariyah,EGY.11.11_1,Kism,name_exact
+EGY001,Cairo,Al-Mūskī Kism (fully urban),member,L3,AlQahirah,Al-Muski,EGY.11.12_1,Kism,name_exact
+EGY001,Cairo,Al-Wailī Kism (fully urban),member,L3,AlQahirah,Al-Waili,EGY.11.13_1,Kism,name_exact
+EGY001,Cairo,An-Nuzhah Kism (fully urban),member,L3,AlQahirah,An-Nuzhah,EGY.11.14_1,Kism,name_exact
+EGY001,Cairo,Ash-Sharābiyah Kism (fully urban),member,L3,AlQahirah,Ash-Sharabiyah,EGY.11.19_1,Kism,name_exact
+EGY001,Cairo,As-Sājil Kism (fully urban),member,L3,AlQahirah,As-Sajil,EGY.11.16_1,Kism,name_exact
+EGY001,Cairo,As-Salām Kism (fully urban),member,L3,AlQahirah,As-Salam,EGY.11.17_1,Kism,name_exact
+EGY001,Cairo,As-Sayidah Zaynab Kism (fully urban),member,L3,AlQahirah,As-SayidahZaynab,EGY.11.18_1,Kism,name_exact
+EGY001,Cairo,At-Tebīn Kism (fully urban),member,L3,AlQahirah,At-Tebin,EGY.11.21_1,Kism,name_exact
+EGY001,Cairo,Aẓ-Ẓāhir Kism (fully urban),member,L3,AlQahirah,Az-Zahir,EGY.11.22_1,Kism,name_exact
+EGY001,Cairo,Zamalek Kism (fully urban),member,L3,AlQahirah,Zamalik,EGY.11.41_1,Kism,name_exact
+EGY001,Cairo,Az-Zāwiyah al-Ḥamrā Kism (fully urban),member,L3,AlQahirah,ZawiyyaAl-Hamra,EGY.11.42_1,Kism,name_exact
+EGY001,Cairo,Zeitoun Kism (fully urban),member,L3,AlQahirah,Az-Zaytun,EGY.11.23_1,Kism,name_exact
+EGY001,Cairo,Bab ash-Sha'riyah Kism (fully urban),member,L3,AlQahirah,Babash-Sha'riyah,EGY.11.24_1,Kism,name_exact
+EGY001,Cairo,Būlāq Kism (fully urban),member,L3,AlQahirah,Bulaq,EGY.11.26_1,Kism,name_exact
+EGY001,Cairo,Hada'iq al-Qubbah Kism (fully urban),member,L3,AlQahirah,Hada'iqal-Qubbah,EGY.11.27_1,Kism,name_exact
+EGY001,Cairo,Helwan Kism (fully urban),member,L3,AlQahirah,Helwan,EGY.11.29_1,Kism,name_exact
+EGY001,Cairo,Nasr City 1 Kism (fully urban),member,L3,AlQahirah,NasrCity1,EGY.11.31_1,Kism,name_exact
+EGY001,Cairo,Nasr City 2 Kism (fully urban),member,L3,AlQahirah,NasrCity2,EGY.11.32_1,Kism,name_exact
+EGY001,Cairo,Heliopolis Kism (fully urban),member,L3,AlQahirah,Heliopolis,EGY.11.28_1,Kism,name_exact
+EGY001,Cairo,Old Cairo Kism (fully urban),member,L3,AlQahirah,AncientCairo,EGY.11.15_1,Kism,name_exact
+EGY001,Cairo,Manshiyat Naser Kism (fully urban),member,L3,AlQahirah,MonshatNasr,EGY.11.30_1,Kism,name_exact
+EGY001,Cairo,Qaṣr an-Nīl Kism (fully urban),member,L3,AlQahirah,Qasran-Nil,EGY.11.36_1,Kism,name_exact
+EGY001,Cairo,Rod El Farag Kism (fully urban),member,L3,AlQahirah,Rudal-Faraj,EGY.11.37_1,Kism,name_exact
+EGY001,Cairo,Shubrā Kism (fully urban),member,L3,AlQahirah,Shubra,EGY.11.38_1,Kism,name_exact
+EGY001,Cairo,Tura Kism (fully urban),member,L3,AlQahirah,Turah,EGY.11.39_1,Kism,name_exact
+EGY001,Cairo,Shubra el-Kheima 1 Kism (fully urban),member,L3,AlQalyubiyah,Shubraal-Khaymah1,EGY.12.10_1,Kism,name_exact
+EGY001,Cairo,Shubra el-Kheima 2 Kism (fully urban),member,L3,AlQalyubiyah,Shubraal-Khaymah2,EGY.12.11_1,Kism,name_exact
+EGY001,Cairo,Ad-Duqī Kism (fully urban),member,L3,AlJizah,Ad-Duqi,EGY.8.1_1,Kism,name_exact
+EGY001,Cairo,Al-Ahrām Kism (fully urban),member,L3,AlJizah,Al-Ahram,EGY.8.5_1,Kism,name_exact
+EGY001,Cairo,Al-'Ajūzah Kism (fully urban),member,L3,AlJizah,Al-'Ajuzah,EGY.8.2_1,Kism,name_exact
+EGY001,Cairo,Giza Kism (fully urban),member,L3,AlJizah,Giza,EGY.8.13_1,Markaz,name_exact
+EGY001,Cairo,Al-'Umrāniyah Kism (fully urban),member,L3,AlJizah,Al-'Umraniyah,EGY.8.4_1,Kism,name_exact
+EGY001,Cairo,Al-Warrāq Kism (urban parts only),member,L3,AlJizah,Al-Warraq,EGY.8.9_1,Kism,name_exact
+EGY001,Cairo,Būlāq al-Dakrūr Kism (fully urban),member,L3,AlJizah,Bulaqal-Dakrur,EGY.8.12_1,Kism,name_exact
+EGY001,Cairo,Imbaba Kism (fully urban),member,L3,AlJizah,Imbabah,EGY.8.14_1,Kism,name_exact

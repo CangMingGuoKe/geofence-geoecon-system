@@ -1,0 +1,2 @@
+﻿metro_id,metro_name,country,geo_level,oe_city_code,member_level,member_name,member_clean,member_role,source_sheet,source_row,def_version,gid,gadm_name,type,match_method,confidence
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ibadan Central,Ibadan Central,self,Africa,135,Global_Cities_Definitions_Oct19,,,,missing,

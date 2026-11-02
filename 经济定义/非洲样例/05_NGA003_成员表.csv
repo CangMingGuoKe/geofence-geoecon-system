@@ -1,0 +1,11 @@
+﻿metro_id,metro_name,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method
+NGA003,Ibadan,Ibadan Central,self,,,,,,missing
+NGA003,Ibadan,Ibadan North,member,L3,Oyo,IbadanNorth,NGA.31.6_1,LocalAuthority,name_exact
+NGA003,Ibadan,Ibadan North West,member,L3,Oyo,IbadanNorth-West,NGA.31.8_1,LocalAuthority,name_exact
+NGA003,Ibadan,Ibadan South East,member,L3,Oyo,IbadanSouth-East,NGA.31.9_1,LocalAuthority,name_exact
+NGA003,Ibadan,Akinyele,member,L3,Oyo,Akinyele,NGA.31.2_1,LocalAuthority,name_exact
+NGA003,Ibadan,Egbeda,member,L3,Oyo,Egbeda,NGA.31.5_1,LocalAuthority,name_exact
+NGA003,Ibadan,Ido,member,L3,Oyo,Ido,NGA.31.14_1,LocalAuthority,name_exact
+NGA003,Ibadan,Lagelu,member,L3,Oyo,Lagelu,NGA.31.20_1,LocalAuthority,name_exact
+NGA003,Ibadan,Ona Ara,member,L3,Oyo,OnaAra,NGA.31.26_1,LocalAuthority,name_exact
+NGA003,Ibadan,Oluyole,member,L3,Oyo,Oluyole,NGA.31.25_1,LocalAuthority,name_exact

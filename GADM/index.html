@@ -99,7 +99,7 @@
 <div class="wrap">
   <header>
     <h1>地理围栏互动地图 · Geofence Explorer</h1>
-    <div class="sub">数据源 <b>CTAmap</b>（中国层）与 <b>GADM 4.1</b>（其余 19 国） · 全球 GDP Top20 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县）</div>
+    <div class="sub">数据源 <b>CTAmap</b>（中国层）与 <b>GADM 4.1</b>（其余 22 国） · 全球 GDP Top20 与非洲代表三国 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县）</div>
   </header>
 
   <div class="card controls">
@@ -156,9 +156,10 @@
   </div>
 
   <footer>
-    行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 19 国取自 GADM 4.1。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发。<br>
+    行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 22 国取自 GADM 4.1。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发。<br>
     城市标注为示意（中英文可切换），仅用于快速定位重点城市，非本数据集内容。<br>
-    <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）以市域自身充当其区县单元；台湾与香港无区县数据，区县视图下以县市（L3）呈现；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span>
+    <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）以市域自身充当其区县单元；台湾与香港无区县数据，区县视图下以县市（L3）呈现；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span><br>
+    <span class="warn">⚠ 非洲三国：南非四层齐全；埃及、尼日利亚 GADM 仅到县郡（L3）、无区县（L4）数据，区县视图为空。经济都市圈层覆盖三国主要城市（南非 9 城、埃及 7 城、尼日利亚 16 城），南非比勒陀利亚仅为行政首都（另有立法首都开普敦、司法首都布隆方丹）。</span>
   </footer>
 </div>
 
@@ -168,6 +169,9 @@
 <script src="map_data/JPN_metro.js"></script>
 <script src="map_data/BRA_metro.js"></script>
 <script src="map_data/SAU_metro.js"></script>
+<script src="map_data/ZAF_metro.js"></script>
+<script src="map_data/EGY_metro.js"></script>
+<script src="map_data/NGA_metro.js"></script>
 <script>
 const LEVELS = ['1','2','3','4'];
 const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县'};
@@ -180,10 +184,10 @@ let highlight = null;  // 搜索定位的行政区 {iso3, lv, en, zh}
 let showMetro = false;      // 是否显示经济都市圈图层
 let selectedMetro = null;   // 当前选中的都市圈 id
 let metroCache = {};        // preproject 后的都市圈数据，按国家分别缓存
-// 经济图层按国家挂载：有对应 <ISO3>_METRO 的国家才启用（目前是美国、日本、巴西、沙特）
+// 经济图层按国家挂载：有对应 <ISO3>_METRO 的国家才启用（美国、日本、巴西、沙特、南非、埃及、尼日利亚）
 function metroData(iso3){ return window[iso3 + '_METRO'] || null; }
 function hasMetro(iso3){ return !!metroData(iso3); }
-for(const _iso of ['USA','JPN','BRA','SAU']){
+for(const _iso of ['USA','JPN','BRA','SAU','ZAF','EGY','NGA']){
   const _ms = window[_iso + '_METRO_SEARCH'];
   if(_ms) window.SEARCH = (window.SEARCH || []).concat(_ms);
 }
@@ -268,7 +272,8 @@ function buildControls(){
     byContinent[cz].slice().sort((a,b)=>a.gdp_rank-b.gdp_rank).forEach(c => {
       const o = document.createElement('option');
       o.value = c.iso3;
-      o.textContent = c.gdp_rank + '. ' + c.name_zh + ' ' + c.name_en;
+      // 前 20 名是全球 GDP 排名；非洲三国不在这 20 名内，编号只用于排序，不显示，免得把 21 误读成全球第 21
+      o.textContent = (c.gdp_rank <= 20 ? c.gdp_rank + '. ' : '') + c.name_zh + ' ' + c.name_en;
       grp.appendChild(o);
     });
     sel.appendChild(grp);

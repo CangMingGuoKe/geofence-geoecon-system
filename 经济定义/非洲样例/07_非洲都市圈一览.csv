@@ -1,0 +1,33 @@
+﻿metro_id,metro_name,country,n_members,n_matched,n_missing,n_parents,parents,geom_type,n_parts,n_holes,hole_area_km2,is_valid,is_empty,area_km2_epsg6933,dup_gid
+ZAF001,Johannesburg,South Africa,3,3,0,1,Gauteng,Polygon,1,4,0.1,True,False,9192.2,0
+ZAF002,Cape Town,South Africa,1,1,0,1,WesternCape,MultiPolygon,6,0,0.0,True,False,2455.2,0
+ZAF003,Bloemfontein,South Africa,1,1,0,1,FreeState,Polygon,1,0,0.0,True,False,6284.0,0
+ZAF004,Durban,South Africa,1,1,0,1,KwaZulu-Natal,Polygon,1,0,0.0,True,False,2281.4,0
+ZAF005,Pretoria,South Africa,1,1,0,1,Gauteng,Polygon,1,0,0.0,True,False,6298.4,0
+ZAF006,Kimberley,South Africa,1,1,0,1,NorthernCape,Polygon,1,0,0.0,True,False,12834.3,0
+ZAF007,Port Elizabeth,South Africa,1,1,0,1,EasternCape,MultiPolygon,4,0,0.0,True,False,1957.3,0
+ZAF008,Nelspruit,South Africa,1,1,0,1,Mpumalanga,Polygon,1,0,0.0,True,False,27895.1,0
+ZAF009,Polokwane,South Africa,1,1,0,1,Limpopo,Polygon,1,0,0.0,True,False,21704.9,0
+EGY001,Cairo,Egypt,46,46,0,3,AlJizah、AlQahirah、AlQalyubiyah,Polygon,1,17,1.2,True,False,1122.4,0
+EGY002,Alexandria,Egypt,1,1,0,1,AlIskandariyah,MultiPolygon,5,0,0.0,True,False,2550.9,0
+EGY003,Port Said,Egypt,1,1,0,1,BurSa`id,Polygon,1,0,0.0,True,False,1460.2,0
+EGY004,Suez,Egypt,1,1,0,1,AsSuways,Polygon,1,1,0.0,True,False,9406.1,0
+EGY005,Mahalla el-Kubra,Egypt,2,2,0,1,AlGharbiyah,Polygon,1,0,0.0,True,False,21.9,0
+EGY006,El-Mansoura,Egypt,2,2,0,1,AdDaqahliyah,Polygon,1,0,0.0,True,False,31.2,0
+EGY007,Luxor,Egypt,2,2,0,1,AlUqsur,Polygon,1,0,0.0,True,False,238.6,0
+NGA001,Lagos,Nigeria,1,1,0,1,Lagos,Polygon,1,0,0.0,True,False,3782.8,0
+NGA002,Kano,Nigeria,8,8,0,1,Kano,Polygon,1,5,0.0,True,False,493.2,0
+NGA003,Ibadan,Nigeria,10,9,1,1,Oyo,Polygon,1,7,58.2,True,False,3149.7,0
+NGA004,Abuja,Nigeria,1,1,0,1,FederalCapitalTerritory,Polygon,1,0,0.0,True,False,7349.9,0
+NGA005,Port Harcourt,Nigeria,8,8,0,1,Rivers,MultiPolygon,42,11,0.5,True,False,2384.2,0
+NGA006,Kaduna,Nigeria,2,2,0,1,Kaduna,Polygon,1,0,0.0,True,False,147.6,0
+NGA007,Benin City,Nigeria,3,3,0,1,Edo,Polygon,1,2,0.0,True,False,1205.7,0
+NGA008,Ogbomosho,Nigeria,2,2,0,1,Oyo,Polygon,1,0,0.0,True,False,267.8,0
+NGA009,Onitsha,Nigeria,4,4,0,1,Anambra,Polygon,1,2,0.1,True,False,625.1,0
+NGA010,Aba,Nigeria,4,4,0,1,Abia,Polygon,1,0,0.0,True,False,633.7,0
+NGA011,Maiduguri,Nigeria,1,1,0,1,Borno,Polygon,1,0,0.0,True,False,131.2,0
+NGA012,Ilorin,Nigeria,3,3,0,1,Kwara,Polygon,1,0,0.0,True,False,695.9,0
+NGA013,Enugu,Nigeria,3,3,0,1,Enugu,Polygon,1,0,0.0,True,False,557.3,0
+NGA014,Jos,Nigeria,2,2,0,1,Plateau,Polygon,1,0,0.0,True,False,854.0,0
+NGA015,Abeokuta,Nigeria,1,1,0,1,Ogun,Polygon,1,0,0.0,True,False,69.5,0
+NGA016,Zaria,Nigeria,2,2,0,1,Kaduna,Polygon,1,0,0.0,True,False,545.4,0

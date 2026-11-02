@@ -1,0 +1,2 @@
+﻿metro_id,metro_name,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method
+ZAF008,Nelspruit,Ehlanzeni,self,L3,Mpumalanga,Ehlanzeni,ZAF.6.1_1,DistrictMunicipality,name_exact

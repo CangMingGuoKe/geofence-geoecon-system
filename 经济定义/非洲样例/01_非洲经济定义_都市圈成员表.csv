@@ -1,0 +1,122 @@
+﻿metro_id,metro_name,country,geo_level,oe_city_code,member_level,member_name,member_clean,member_role,source_sheet,source_row,def_version
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,15th of May City Kism (fully urban),15th of May City,self,Africa,25,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Abdīn Kism (fully urban),Abdīn,member,Africa,26,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Ad-Darb al-Aḥmar Kism (fully urban),Ad-Darb al-Aḥmar,member,Africa,27,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Ain Schams Kism (fully urban),Ain Schams,member,Africa,28,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Azbakeya Kism (fully urban),Azbakeya,member,Africa,29,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Basātīn Kism (fully urban),Al-Basātīn,member,Africa,30,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Jamāliyah Kism (fully urban),Al-Jamāliyah,member,Africa,31,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Khalīfa Kism (fully urban),Al-Khalīfa,member,Africa,32,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Maadi Kism (fully urban),Maadi,member,Africa,33,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,El Marg Kism (fully urban),El Marg,member,Africa,34,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Matariyyah Kism (fully urban),Matariyyah,member,Africa,35,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Mūskī Kism (fully urban),Al-Mūskī,member,Africa,36,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Wailī Kism (fully urban),Al-Wailī,member,Africa,37,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,An-Nuzhah Kism (fully urban),An-Nuzhah,member,Africa,38,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Ash-Sharābiyah Kism (fully urban),Ash-Sharābiyah,member,Africa,39,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,As-Sājil Kism (fully urban),As-Sājil,member,Africa,40,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,As-Salām Kism (fully urban),As-Salām,member,Africa,41,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,As-Sayidah Zaynab Kism (fully urban),As-Sayidah Zaynab,member,Africa,42,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,At-Tebīn Kism (fully urban),At-Tebīn,member,Africa,43,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Aẓ-Ẓāhir Kism (fully urban),Aẓ-Ẓāhir,member,Africa,44,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Zamalek Kism (fully urban),Zamalek,member,Africa,45,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Az-Zāwiyah al-Ḥamrā Kism (fully urban),Az-Zāwiyah al-Ḥamrā,member,Africa,46,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Zeitoun Kism (fully urban),Zeitoun,member,Africa,47,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Bab ash-Sha'riyah Kism (fully urban),Bab ash-Sha'riyah,member,Africa,48,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Būlāq Kism (fully urban),Būlāq,member,Africa,49,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Hada'iq al-Qubbah Kism (fully urban),Hada'iq al-Qubbah,member,Africa,50,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Helwan Kism (fully urban),Helwan,member,Africa,51,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Nasr City 1 Kism (fully urban),Nasr City 1,member,Africa,52,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Nasr City 2 Kism (fully urban),Nasr City 2,member,Africa,53,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Heliopolis Kism (fully urban),Heliopolis,member,Africa,54,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Old Cairo Kism (fully urban),Old Cairo,member,Africa,55,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Manshiyat Naser Kism (fully urban),Manshiyat Naser,member,Africa,56,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Qaṣr an-Nīl Kism (fully urban),Qaṣr an-Nīl,member,Africa,57,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Rod El Farag Kism (fully urban),Rod El Farag,member,Africa,58,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Shubrā Kism (fully urban),Shubrā,member,Africa,59,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Tura Kism (fully urban),Tura,member,Africa,60,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Shubra el-Kheima 1 Kism (fully urban),Shubra el-Kheima 1,member,Africa,61,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Shubra el-Kheima 2 Kism (fully urban),Shubra el-Kheima 2,member,Africa,62,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Ad-Duqī Kism (fully urban),Ad-Duqī,member,Africa,63,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Ahrām Kism (fully urban),Al-Ahrām,member,Africa,64,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-'Ajūzah Kism (fully urban),Al-'Ajūzah,member,Africa,65,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Giza Kism (fully urban),Giza,member,Africa,66,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-'Umrāniyah Kism (fully urban),Al-'Umrāniyah,member,Africa,67,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Al-Warrāq Kism (urban parts only),Al-Warrāq,member,Africa,68,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Būlāq al-Dakrūr Kism (fully urban),Būlāq al-Dakrūr,member,Africa,69,Global_Cities_Definitions_Oct19
+EGY001,Cairo,Egypt,Metropolitan Area,EGY001,Kism,Imbaba Kism (fully urban),Imbaba,member,Africa,70,Global_Cities_Definitions_Oct19
+EGY002,Alexandria,Egypt,Governorate,EGY002,Governorate,Alexandria,Alexandria,self,Africa,71,Global_Cities_Definitions_Oct19
+EGY003,Port Said,Egypt,Governorate,EGY003,Governorate,Port Said,Port Said,self,Africa,72,Global_Cities_Definitions_Oct19
+EGY004,Suez,Egypt,Governorate,EGY004,Governorate,Suez,Suez,self,Africa,73,Global_Cities_Definitions_Oct19
+EGY005,Mahalla el-Kubra,Egypt,,EGY005,Kism,Mahalla el-Kubra 1 Kism (fully urban),Mahalla el-Kubra 1,self,Africa,74,Global_Cities_Definitions_Oct19
+EGY005,Mahalla el-Kubra,Egypt,,EGY005,Kism,Mahalla el-Kubra 2 Kism (fully urban),Mahalla el-Kubra 2,member,Africa,75,Global_Cities_Definitions_Oct19
+EGY006,El-Mansoura,Egypt,,EGY006,Kism,El Mansurah 1 Kism (fully urban),El Mansurah 1,self,Africa,76,Global_Cities_Definitions_Oct19
+EGY006,El-Mansoura,Egypt,,EGY006,Kism,El Mansurah 2 Kism (fully urban),El Mansurah 2,member,Africa,77,Global_Cities_Definitions_Oct19
+EGY007,Luxor,Egypt,,EGY007,Kism,Al-Uqsur Kism (fully urban),Al-Uqsur,self,Africa,78,Global_Cities_Definitions_Oct19
+EGY007,Luxor,Egypt,,EGY007,Markaz,Shurtah Tibah Markaz,Shurtah Tibah,member,Africa,79,Global_Cities_Definitions_Oct19
+NGA001,Lagos,Nigeria,State,NGA001,State,Lagos,Lagos,whole_l2,Africa,126,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Kano Municipal,Kano Municipal,self,Africa,127,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Fagge,Fagge,member,Africa,128,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Dala,Dala,member,Africa,129,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Gwale,Gwale,member,Africa,130,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Tarauni,Tarauni,member,Africa,131,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Nasarawa,Nasarawa,member,Africa,132,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Ungogo,Ungogo,member,Africa,133,Global_Cities_Definitions_Oct19
+NGA002,Kano,Nigeria,Metropolitan Area,NGA002,Local Government Area,Kumbotso,Kumbotso,member,Africa,134,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ibadan Central,Ibadan Central,self,Africa,135,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ibadan North,Ibadan North,member,Africa,136,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ibadan North West,Ibadan North West,member,Africa,137,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ibadan South East,Ibadan South East,member,Africa,138,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Akinyele,Akinyele,member,Africa,139,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Egbeda,Egbeda,member,Africa,140,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ido,Ido,member,Africa,141,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Lagelu,Lagelu,member,Africa,142,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Ona Ara,Ona Ara,member,Africa,143,Global_Cities_Definitions_Oct19
+NGA003,Ibadan,Nigeria,Metropolitan Area,NGA003,Local Government Area,Oluyole,Oluyole,member,Africa,144,Global_Cities_Definitions_Oct19
+NGA004,Abuja,Nigeria,State,NGA004,State,Abuja,Abuja,whole_l2,Africa,145,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Port Harcourt,Port Harcourt,self,Africa,146,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Obio-Akpor,Obio-Akpor,member,Africa,147,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Oyigbo,Oyigbo,member,Africa,148,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Okirika,Okirika,member,Africa,149,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Ogu Bolo,Ogu Bolo,member,Africa,150,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Ikwerre,Ikwerre,member,Africa,151,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Etche,Etche,member,Africa,152,Global_Cities_Definitions_Oct19
+NGA005,Port Harcourt,Nigeria,Metropolitan Area,NGA005,Local Government Area,Eleme,Eleme,member,Africa,153,Global_Cities_Definitions_Oct19
+NGA006,Kaduna,Nigeria,Metropolitan Area,NGA006,Local Government Area,Kaduna North,Kaduna North,self,Africa,154,Global_Cities_Definitions_Oct19
+NGA006,Kaduna,Nigeria,Metropolitan Area,NGA006,Local Government Area,Kaduna South,Kaduna South,member,Africa,155,Global_Cities_Definitions_Oct19
+NGA007,Benin City,Nigeria,Metropolitan Area,NGA007,Local Government Area,Egor,Egor,self,Africa,156,Global_Cities_Definitions_Oct19
+NGA007,Benin City,Nigeria,Metropolitan Area,NGA007,Local Government Area,Ikpoba-Okha,Ikpoba-Okha,member,Africa,157,Global_Cities_Definitions_Oct19
+NGA007,Benin City,Nigeria,Metropolitan Area,NGA007,Local Government Area,Oredo,Oredo,member,Africa,158,Global_Cities_Definitions_Oct19
+NGA008,Ogbomosho,Nigeria,Metropolitan Area,NGA008,Local Government Area,Ogbomosho North,Ogbomosho North,self,Africa,159,Global_Cities_Definitions_Oct19
+NGA008,Ogbomosho,Nigeria,Metropolitan Area,NGA008,Local Government Area,Ogbomosho South,Ogbomosho South,member,Africa,160,Global_Cities_Definitions_Oct19
+NGA009,Onitsha,Nigeria,Metropolitan Area,NGA009,Local Government Area,Onistsha North,Onistsha North,self,Africa,161,Global_Cities_Definitions_Oct19
+NGA009,Onitsha,Nigeria,Metropolitan Area,NGA009,Local Government Area,Oyi,Oyi,member,Africa,162,Global_Cities_Definitions_Oct19
+NGA009,Onitsha,Nigeria,Metropolitan Area,NGA009,Local Government Area,Idemili North,Idemili North,member,Africa,163,Global_Cities_Definitions_Oct19
+NGA009,Onitsha,Nigeria,Metropolitan Area,NGA009,Local Government Area,Anambra East,Anambra East,member,Africa,164,Global_Cities_Definitions_Oct19
+NGA010,Aba,Nigeria,Metropolitan Area,NGA010,Local Government Area,Aba North,Aba North,self,Africa,165,Global_Cities_Definitions_Oct19
+NGA010,Aba,Nigeria,Metropolitan Area,NGA010,Local Government Area,Aba South,Aba South,member,Africa,166,Global_Cities_Definitions_Oct19
+NGA010,Aba,Nigeria,Metropolitan Area,NGA010,Local Government Area,Osisioma Ngwa,Osisioma Ngwa,member,Africa,167,Global_Cities_Definitions_Oct19
+NGA010,Aba,Nigeria,Metropolitan Area,NGA010,Local Government Area,Obi Ngwa,Obi Ngwa,member,Africa,168,Global_Cities_Definitions_Oct19
+NGA011,Maiduguri,Nigeria,Local Government Area,NGA011,Local Government Area,Madiguri,Madiguri,self,Africa,169,Global_Cities_Definitions_Oct19
+NGA012,Ilorin,Nigeria,Metropolitan Area,NGA012,Local Government Area,Ilorin East,Ilorin East,self,Africa,170,Global_Cities_Definitions_Oct19
+NGA012,Ilorin,Nigeria,Metropolitan Area,NGA012,Local Government Area,Ilorin South,Ilorin South,member,Africa,171,Global_Cities_Definitions_Oct19
+NGA012,Ilorin,Nigeria,Metropolitan Area,NGA012,Local Government Area,Ilorin West,Ilorin West,member,Africa,172,Global_Cities_Definitions_Oct19
+NGA013,Enugu,Nigeria,Metropolitan Area,NGA013,Local Government Area,Enugu East,Enugu East,self,Africa,173,Global_Cities_Definitions_Oct19
+NGA013,Enugu,Nigeria,Metropolitan Area,NGA013,Local Government Area,Enugu North,Enugu North,member,Africa,174,Global_Cities_Definitions_Oct19
+NGA013,Enugu,Nigeria,Metropolitan Area,NGA013,Local Government Area,Enugu South,Enugu South,member,Africa,175,Global_Cities_Definitions_Oct19
+NGA014,Jos,Nigeria,Metropolitan Area,NGA014,Local Government Area,Jos North,Jos North,self,Africa,176,Global_Cities_Definitions_Oct19
+NGA014,Jos,Nigeria,Metropolitan Area,NGA014,Local Government Area,Jos South,Jos South,member,Africa,177,Global_Cities_Definitions_Oct19
+NGA015,Abeokuta,Nigeria,Local Government Area,NGA015,Local Government Area,Abeokuta South,Abeokuta South,self,Africa,178,Global_Cities_Definitions_Oct19
+NGA016,Zaria,Nigeria,Metropolitan Area,NGA016,Local Government Area,Zaria,Zaria,self,Africa,179,Global_Cities_Definitions_Oct19
+NGA016,Zaria,Nigeria,Metropolitan Area,NGA016,Local Government Area,Sabon,Sabon,member,Africa,180,Global_Cities_Definitions_Oct19
+ZAF001,Johannesburg,South Africa,Metropolitan Area,ZAF001,Metropolitan Municipality,City of Johannesburg Metropolitan Municipality,City of Johannesburg,self,Africa,184,Global_Cities_Definitions_Oct19
+ZAF001,Johannesburg,South Africa,Metropolitan Area,ZAF001,Metropolitan Municipality,Ekurhuleni Metropolitan Municipality,Ekurhuleni,member,Africa,185,Global_Cities_Definitions_Oct19
+ZAF001,Johannesburg,South Africa,Metropolitan Area,ZAF001,District Municipality,West Rand,West Rand,member,Africa,186,Global_Cities_Definitions_Oct19
+ZAF002,Cape Town,South Africa,Metropolitan Municipality,ZAF002,Metropolitan Municipality,City of Cape Town Municipality,City of Cape Town,self,Africa,187,Global_Cities_Definitions_Oct19
+ZAF003,Bloemfontein,South Africa,Metropolitan Municipality,ZAF003,Metropolitan Municipality,Mangaung Metropolitan Municipality,Mangaung,self,Africa,188,Global_Cities_Definitions_Oct19
+ZAF004,Durban,South Africa,Metropolitan Municipality,ZAF004,Metropolitan Municipality,eThekwini Metropolitan Municipality,eThekwini,self,Africa,189,Global_Cities_Definitions_Oct19
+ZAF005,Pretoria,South Africa,Metropolitan Municipality,ZAF005,Metropolitan Municipality,City of Tshwane Metropolitan Municipality,City of Tshwane,self,Africa,190,Global_Cities_Definitions_Oct19
+ZAF006,Kimberley,South Africa,District Municipality,ZAF006,District Municipality,Frances Baard,Frances Baard,self,Africa,191,Global_Cities_Definitions_Oct19
+ZAF007,Port Elizabeth,South Africa,Metropolitan Municipality,ZAF007,Metropolitan Municipality,Nelson Mandela Bay Metropolitan Municipality,Nelson Mandela Bay,self,Africa,192,Global_Cities_Definitions_Oct19
+ZAF008,Nelspruit,South Africa,District Municipality,ZAF008,District Municipality,Ehlanzeni,Ehlanzeni,self,Africa,193,Global_Cities_Definitions_Oct19
+ZAF009,Polokwane,South Africa,District Municipality,ZAF009,District Municipality,Capricorn,Capricorn,self,Africa,194,Global_Cities_Definitions_Oct19

@@ -1,0 +1,122 @@
+﻿metro_id,metro_name,country,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method,confidence
+ZAF001,Johannesburg,South Africa,City of Johannesburg Metropolitan Municipality,self,L3,Gauteng,CityofJohannesburg,ZAF.3.1_1,DistrictMunicipality,name_exact,high
+ZAF001,Johannesburg,South Africa,Ekurhuleni Metropolitan Municipality,member,L3,Gauteng,Ekurhuleni,ZAF.3.3_1,DistrictMunicipality,name_exact,high
+ZAF001,Johannesburg,South Africa,West Rand,member,L3,Gauteng,WestRand,ZAF.3.5_1,DistrictMunicipality,name_exact,high
+ZAF002,Cape Town,South Africa,City of Cape Town Municipality,self,L3,WesternCape,CityofCapeTown,ZAF.9.3_1,DistrictMunicipality,name_exact,high
+ZAF003,Bloemfontein,South Africa,Mangaung Metropolitan Municipality,self,L3,FreeState,Mangaung,ZAF.2.3_1,DistrictMunicipality,name_exact,high
+ZAF004,Durban,South Africa,eThekwini Metropolitan Municipality,self,L3,KwaZulu-Natal,eThekwini,ZAF.4.2_1,DistrictMunicipality,name_exact,high
+ZAF005,Pretoria,South Africa,City of Tshwane Metropolitan Municipality,self,L3,Gauteng,CityofTshwane,ZAF.3.2_1,DistrictMunicipality,name_exact,high
+ZAF006,Kimberley,South Africa,Frances Baard,self,L3,NorthernCape,FrancesBaard,ZAF.8.1_1,DistrictMunicipality,name_exact,high
+ZAF007,Port Elizabeth,South Africa,Nelson Mandela Bay Metropolitan Municipality,self,L3,EasternCape,NelsonMandelaBay,ZAF.1.7_1,DistrictMunicipality,name_exact,high
+ZAF008,Nelspruit,South Africa,Ehlanzeni,self,L3,Mpumalanga,Ehlanzeni,ZAF.6.1_1,DistrictMunicipality,name_exact,high
+ZAF009,Polokwane,South Africa,Capricorn,self,L3,Limpopo,Capricorn,ZAF.5.1_1,DistrictMunicipality,name_exact,high
+EGY001,Cairo,Egypt,15th of May City Kism (fully urban),self,L3,AlQahirah,15Mayu,EGY.11.3_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Abdīn Kism (fully urban),member,L3,AlQahirah,'Abdin,EGY.11.1_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Ad-Darb al-Aḥmar Kism (fully urban),member,L3,AlQahirah,Ad-Darbal-Ahmar,EGY.11.4_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Ain Schams Kism (fully urban),member,L3,AlQahirah,'AinSchams,EGY.11.2_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Azbakeya Kism (fully urban),member,L3,AlQahirah,Al-Azbakiyah,EGY.11.5_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Basātīn Kism (fully urban),member,L3,AlQahirah,Al-Basatin,EGY.11.6_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Jamāliyah Kism (fully urban),member,L3,AlQahirah,Al-Jamaliyah,EGY.11.7_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Khalīfa Kism (fully urban),member,L3,AlQahirah,Al-Khalifa,EGY.11.8_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Maadi Kism (fully urban),member,L3,AlQahirah,Al-Ma'adi,EGY.11.9_1,Kism,name_strip_article,high
+EGY001,Cairo,Egypt,El Marg Kism (fully urban),member,L3,AlQahirah,Al-Marj,EGY.11.10_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Matariyyah Kism (fully urban),member,L3,AlQahirah,Al-Matariyah,EGY.11.11_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Mūskī Kism (fully urban),member,L3,AlQahirah,Al-Muski,EGY.11.12_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Wailī Kism (fully urban),member,L3,AlQahirah,Al-Waili,EGY.11.13_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,An-Nuzhah Kism (fully urban),member,L3,AlQahirah,An-Nuzhah,EGY.11.14_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Ash-Sharābiyah Kism (fully urban),member,L3,AlQahirah,Ash-Sharabiyah,EGY.11.19_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,As-Sājil Kism (fully urban),member,L3,AlQahirah,As-Sajil,EGY.11.16_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,As-Salām Kism (fully urban),member,L3,AlQahirah,As-Salam,EGY.11.17_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,As-Sayidah Zaynab Kism (fully urban),member,L3,AlQahirah,As-SayidahZaynab,EGY.11.18_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,At-Tebīn Kism (fully urban),member,L3,AlQahirah,At-Tebin,EGY.11.21_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Aẓ-Ẓāhir Kism (fully urban),member,L3,AlQahirah,Az-Zahir,EGY.11.22_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Zamalek Kism (fully urban),member,L3,AlQahirah,Zamalik,EGY.11.41_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Az-Zāwiyah al-Ḥamrā Kism (fully urban),member,L3,AlQahirah,ZawiyyaAl-Hamra,EGY.11.42_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Zeitoun Kism (fully urban),member,L3,AlQahirah,Az-Zaytun,EGY.11.23_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Bab ash-Sha'riyah Kism (fully urban),member,L3,AlQahirah,Babash-Sha'riyah,EGY.11.24_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Būlāq Kism (fully urban),member,L3,AlQahirah,Bulaq,EGY.11.26_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Hada'iq al-Qubbah Kism (fully urban),member,L3,AlQahirah,Hada'iqal-Qubbah,EGY.11.27_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Helwan Kism (fully urban),member,L3,AlQahirah,Helwan,EGY.11.29_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Nasr City 1 Kism (fully urban),member,L3,AlQahirah,NasrCity1,EGY.11.31_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Nasr City 2 Kism (fully urban),member,L3,AlQahirah,NasrCity2,EGY.11.32_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Heliopolis Kism (fully urban),member,L3,AlQahirah,Heliopolis,EGY.11.28_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Old Cairo Kism (fully urban),member,L3,AlQahirah,AncientCairo,EGY.11.15_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Manshiyat Naser Kism (fully urban),member,L3,AlQahirah,MonshatNasr,EGY.11.30_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Qaṣr an-Nīl Kism (fully urban),member,L3,AlQahirah,Qasran-Nil,EGY.11.36_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Rod El Farag Kism (fully urban),member,L3,AlQahirah,Rudal-Faraj,EGY.11.37_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Shubrā Kism (fully urban),member,L3,AlQahirah,Shubra,EGY.11.38_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Tura Kism (fully urban),member,L3,AlQahirah,Turah,EGY.11.39_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Shubra el-Kheima 1 Kism (fully urban),member,L3,AlQalyubiyah,Shubraal-Khaymah1,EGY.12.10_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Shubra el-Kheima 2 Kism (fully urban),member,L3,AlQalyubiyah,Shubraal-Khaymah2,EGY.12.11_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Ad-Duqī Kism (fully urban),member,L3,AlJizah,Ad-Duqi,EGY.8.1_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Ahrām Kism (fully urban),member,L3,AlJizah,Al-Ahram,EGY.8.5_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-'Ajūzah Kism (fully urban),member,L3,AlJizah,Al-'Ajuzah,EGY.8.2_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Giza Kism (fully urban),member,L3,AlJizah,Giza,EGY.8.13_1,Markaz,name_exact,high
+EGY001,Cairo,Egypt,Al-'Umrāniyah Kism (fully urban),member,L3,AlJizah,Al-'Umraniyah,EGY.8.4_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Al-Warrāq Kism (urban parts only),member,L3,AlJizah,Al-Warraq,EGY.8.9_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Būlāq al-Dakrūr Kism (fully urban),member,L3,AlJizah,Bulaqal-Dakrur,EGY.8.12_1,Kism,name_exact,high
+EGY001,Cairo,Egypt,Imbaba Kism (fully urban),member,L3,AlJizah,Imbabah,EGY.8.14_1,Kism,name_exact,high
+EGY002,Alexandria,Egypt,Alexandria,self,L2,AlIskandariyah,AlIskandariyah,EGY.6_1,Muhafazah,metro_whole_l2,high
+EGY003,Port Said,Egypt,Port Said,self,L2,BurSa`id,BurSa`id,EGY.20_1,Muhafazah,metro_whole_l2,high
+EGY004,Suez,Egypt,Suez,self,L2,AsSuways,AsSuways,EGY.15_1,Muhafazah,metro_whole_l2,high
+EGY005,Mahalla el-Kubra,Egypt,Mahalla el-Kubra 1 Kism (fully urban),self,L3,AlGharbiyah,Al-Mahallahal-Kubra1,EGY.5.2_1,Kism,name_exact,high
+EGY005,Mahalla el-Kubra,Egypt,Mahalla el-Kubra 2 Kism (fully urban),member,L3,AlGharbiyah,Al-Mahallahal-Kubra2,EGY.5.3_1,Kism,name_exact,high
+EGY006,El-Mansoura,Egypt,El Mansurah 1 Kism (fully urban),self,L3,AdDaqahliyah,Al-Mansurah1,EGY.1.4_1,Kism,name_exact,high
+EGY006,El-Mansoura,Egypt,El Mansurah 2 Kism (fully urban),member,L3,AdDaqahliyah,Al-Mansurah2,EGY.1.5_1,Markaz,name_exact,high
+EGY007,Luxor,Egypt,Al-Uqsur Kism (fully urban),self,L3,AlUqsur,Luxor,EGY.13.1_1,Markaz,explicit,high
+EGY007,Luxor,Egypt,Shurtah Tibah Markaz,member,L3,AlUqsur,TibahPoliceDept.,EGY.13.2_1,Markaz,explicit,high
+NGA001,Lagos,Nigeria,Lagos,whole_l2,L2,Lagos,Lagos,NGA.25_1,State,metro_whole_l2,high
+NGA002,Kano,Nigeria,Kano Municipal,self,L3,Kano,Kano,NGA.20.21_1,LocalAuthority,explicit,high
+NGA002,Kano,Nigeria,Fagge,member,L3,Kano,Fagge,NGA.20.12_1,LocalAuthority,name_exact,high
+NGA002,Kano,Nigeria,Dala,member,L3,Kano,Dala,NGA.20.7_1,LocalAuthority,name_exact,high
+NGA002,Kano,Nigeria,Gwale,member,L3,Kano,Gwale,NGA.20.18_1,LocalAuthority,name_exact,high
+NGA002,Kano,Nigeria,Tarauni,member,L3,Kano,Tarauni,NGA.20.38_1,LocalAuthority,name_exact,high
+NGA002,Kano,Nigeria,Nasarawa,member,L3,Kano,Nasarawa,NGA.20.31_1,LocalAuthority,name_exact,high
+NGA002,Kano,Nigeria,Ungogo,member,L3,Kano,Ungogo,NGA.20.42_1,LocalAuthority,name_exact,high
+NGA002,Kano,Nigeria,Kumbotso,member,L3,Kano,Kumbotso,NGA.20.25_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Ibadan Central,self,,,,,,missing,
+NGA003,Ibadan,Nigeria,Ibadan North,member,L3,Oyo,IbadanNorth,NGA.31.6_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Ibadan North West,member,L3,Oyo,IbadanNorth-West,NGA.31.8_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Ibadan South East,member,L3,Oyo,IbadanSouth-East,NGA.31.9_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Akinyele,member,L3,Oyo,Akinyele,NGA.31.2_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Egbeda,member,L3,Oyo,Egbeda,NGA.31.5_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Ido,member,L3,Oyo,Ido,NGA.31.14_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Lagelu,member,L3,Oyo,Lagelu,NGA.31.20_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Ona Ara,member,L3,Oyo,OnaAra,NGA.31.26_1,LocalAuthority,name_exact,high
+NGA003,Ibadan,Nigeria,Oluyole,member,L3,Oyo,Oluyole,NGA.31.25_1,LocalAuthority,name_exact,high
+NGA004,Abuja,Nigeria,Abuja,whole_l2,L2,FederalCapitalTerritory,FederalCapitalTerritory,NGA.15_1,State,metro_whole_l2,high
+NGA005,Port Harcourt,Nigeria,Port Harcourt,self,L3,Rivers,PortHarcourt,NGA.33.22_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Obio-Akpor,member,L3,Rivers,Obio/Akpor,NGA.33.15_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Oyigbo,member,L3,Rivers,Oyigbo,NGA.33.21_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Okirika,member,L3,Rivers,Okrika,NGA.33.18_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Ogu Bolo,member,L3,Rivers,Ogu/Bolo,NGA.33.17_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Ikwerre,member,L3,Rivers,Ikwerre,NGA.33.13_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Etche,member,L3,Rivers,Etche,NGA.33.11_1,LocalAuthority,name_exact,high
+NGA005,Port Harcourt,Nigeria,Eleme,member,L3,Rivers,Eleme,NGA.33.9_1,LocalAuthority,name_exact,high
+NGA006,Kaduna,Nigeria,Kaduna North,self,L3,Kaduna,KadunaNorth,NGA.19.9_1,LocalAuthority,name_exact,high
+NGA006,Kaduna,Nigeria,Kaduna South,member,L3,Kaduna,KadunaSouth,NGA.19.10_1,LocalAuthority,name_exact,high
+NGA007,Benin City,Nigeria,Egor,self,L3,Edo,Egor,NGA.12.2_1,LocalAuthority,name_exact,high
+NGA007,Benin City,Nigeria,Ikpoba-Okha,member,L3,Edo,Ikpoba-Okha,NGA.12.11_1,LocalAuthority,name_exact,high
+NGA007,Benin City,Nigeria,Oredo,member,L3,Edo,Oredo,NGA.12.12_1,LocalAuthority,name_exact,high
+NGA008,Ogbomosho,Nigeria,Ogbomosho North,self,L3,Oyo,OgbomoshoNorth,NGA.31.21_1,LocalAuthority,name_exact,high
+NGA008,Ogbomosho,Nigeria,Ogbomosho South,member,L3,Oyo,OgbomoshoSouth,NGA.31.22_1,LocalAuthority,name_exact,high
+NGA009,Onitsha,Nigeria,Onistsha North,self,L3,Anambra,OnitshaNorth,NGA.4.17_1,LocalAuthority,name_exact,high
+NGA009,Onitsha,Nigeria,Oyi,member,L3,Anambra,Oyi,NGA.4.21_1,LocalAuthority,name_exact,high
+NGA009,Onitsha,Nigeria,Idemili North,member,L3,Anambra,IdemiliNorth,NGA.4.10_1,LocalAuthority,name_exact,high
+NGA009,Onitsha,Nigeria,Anambra East,member,L3,Anambra,AnambraEast,NGA.4.2_1,LocalAuthority,name_exact,high
+NGA010,Aba,Nigeria,Aba North,self,L3,Abia,AbaNorth,NGA.1.1_1,LocalAuthority,name_exact,high
+NGA010,Aba,Nigeria,Aba South,member,L3,Abia,AbaSouth,NGA.1.2_1,LocalAuthority,name_exact,high
+NGA010,Aba,Nigeria,Osisioma Ngwa,member,L3,Abia,OsisiomaNgwa,NGA.1.11_1,LocalAuthority,name_exact,high
+NGA010,Aba,Nigeria,Obi Ngwa,member,L3,Abia,ObiNgwa,NGA.1.9_1,LocalAuthority,name_exact,high
+NGA011,Maiduguri,Nigeria,Madiguri,self,L3,Borno,Maiduguri,NGA.8.22_1,LocalAuthority,name_exact,high
+NGA012,Ilorin,Nigeria,Ilorin East,self,L3,Kwara,IlorinEast,NGA.24.6_1,LocalAuthority,name_exact,high
+NGA012,Ilorin,Nigeria,Ilorin South,member,L3,Kwara,IlorinSouth,NGA.24.7_1,LocalAuthority,name_exact,high
+NGA012,Ilorin,Nigeria,Ilorin West,member,L3,Kwara,IlorinWest,NGA.24.8_1,LocalAuthority,name_exact,high
+NGA013,Enugu,Nigeria,Enugu East,self,L3,Enugu,EnuguEast,NGA.14.3_1,LocalAuthority,name_exact,high
+NGA013,Enugu,Nigeria,Enugu North,member,L3,Enugu,EnuguNorth,NGA.14.4_1,LocalAuthority,name_exact,high
+NGA013,Enugu,Nigeria,Enugu South,member,L3,Enugu,EnuguSouth,NGA.14.5_1,LocalAuthority,name_exact,high
+NGA014,Jos,Nigeria,Jos North,self,L3,Plateau,JosNorth,NGA.32.5_1,LocalAuthority,name_exact,high
+NGA014,Jos,Nigeria,Jos South,member,L3,Plateau,JosSouth,NGA.32.6_1,LocalAuthority,name_exact,high
+NGA015,Abeokuta,Nigeria,Abeokuta South,self,L3,Ogun,AbeokutaSouth,NGA.28.1_1,LocalAuthority,name_exact,high
+NGA016,Zaria,Nigeria,Zaria,self,L3,Kaduna,Zaria,NGA.19.23_1,LocalAuthority,name_exact,high
+NGA016,Zaria,Nigeria,Sabon,member,L3,Kaduna,SabonGari,NGA.19.19_1,LocalAuthority,name_exact,high

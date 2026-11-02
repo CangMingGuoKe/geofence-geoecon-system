@@ -1,0 +1,4 @@
+﻿metro_id,metro_name,member_name,member_role,level,parent_name,gadm_name,gid,type,match_method
+ZAF001,Johannesburg,City of Johannesburg Metropolitan Municipality,self,L3,Gauteng,CityofJohannesburg,ZAF.3.1_1,DistrictMunicipality,name_exact
+ZAF001,Johannesburg,Ekurhuleni Metropolitan Municipality,member,L3,Gauteng,Ekurhuleni,ZAF.3.3_1,DistrictMunicipality,name_exact
+ZAF001,Johannesburg,West Rand,member,L3,Gauteng,WestRand,ZAF.3.5_1,DistrictMunicipality,name_exact
