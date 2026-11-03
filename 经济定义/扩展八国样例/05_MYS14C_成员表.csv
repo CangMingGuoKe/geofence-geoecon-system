@@ -1,0 +1,7 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+MYS14C,Kuala Lumpur,Kuala Lumpur,self,L3,KualaLumpur,KualaLumpur,MYS.4.1_1,WilayahPersekutuan,name_exact
+MYS14C,Kuala Lumpur,Gombak,member,L3,Selangor,Gombak,MYS.15.1_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,Hulu Langat,member,L3,Selangor,HuluLangat,MYS.15.2_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,Klang,member,L3,Selangor,Klang,MYS.15.4_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,Petaling,member,L3,Selangor,Petaling,MYS.15.7_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,Sepang,member,L3,Selangor,Sepang,MYS.15.9_1,Daerah,name_exact

@@ -1,0 +1,14 @@
+﻿metro_id,metro_name,country,iso3,geo_level,member_level,member_name,member_role,def_version,gid,gadm_name,type,parent,gadm_level,method
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Los Polvorines,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Miguel,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,José C. Paz,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Hurlingham,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Ituzaingó,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Ezeiza,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Presidente Perón,member,Global_Cities_Definitions_Oct19,,,,,,missing
+PEREC,Chiclayo,Peru,PER,,District,Pomalca,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR001,Casablanca,Morocco,MAR,Metropolitan Area,Province,Nouaceur,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR001,Casablanca,Morocco,MAR,Metropolitan Area,Province,Mediouna,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR006,Agadir,Morocco,MAR,Metropolitan Area,Commune,Agadir,self,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR006,Agadir,Morocco,MAR,Metropolitan Area,Commune,Inezgane,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR006,Agadir,Morocco,MAR,Metropolitan Area,Commune,AitMelloul,member,Global_Cities_Definitions_Oct19,,,,,,missing

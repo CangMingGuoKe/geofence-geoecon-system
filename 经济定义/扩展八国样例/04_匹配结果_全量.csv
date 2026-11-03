@@ -1,0 +1,110 @@
+﻿metro_id,metro_name,country,iso3,geo_level,member_level,member_name,member_role,def_version,gid,gadm_name,type,parent,gadm_level,method
+MYS9C,Georgetown (Malaysia),Malaysia,MYS,District,District,Timur Laut,self,Global_Cities_Definitions_Oct19,MYS.11.5_1,TimurLaut,Daerah,PulauPinang,L3,name_exact
+MYS7C,Ipoh,Malaysia,MYS,District,District,Kinta,self,Global_Cities_Definitions_Oct19,MYS.9.6_1,Kinta,Daerah,Perak,L3,name_exact
+MYS1C,Johor Bahru,Malaysia,MYS,District,District,Johor Bahru,self,Global_Cities_Definitions_Oct19,MYS.1.2_1,JohorBaharu,Daerah,Johor,L3,name_exact
+MYS3C,Kota Bharu,Malaysia,MYS,District,District,Kota Bharu,self,Global_Cities_Definitions_Oct19,MYS.3.4_1,KotaBharu,Daerah,Kelantan,L3,name_exact
+MYS10C,Kota Kinabalu,Malaysia,MYS,District,District,Kota Kinabalu,self,Global_Cities_Definitions_Oct19,MYS.13.6_1,KotaKinabalu,Daerah,Sabah,L3,name_exact
+MYS14C,Kuala Lumpur,Malaysia,MYS,Metropolitan Area,Federal District,Kuala Lumpur,self,Global_Cities_Definitions_Oct19,MYS.4.1_1,KualaLumpur,WilayahPersekutuan,KualaLumpur,L3,name_exact
+MYS14C,Kuala Lumpur,Malaysia,MYS,Metropolitan Area,District,Gombak,member,Global_Cities_Definitions_Oct19,MYS.15.1_1,Gombak,Daerah,Selangor,L3,name_exact
+MYS14C,Kuala Lumpur,Malaysia,MYS,Metropolitan Area,District,Hulu Langat,member,Global_Cities_Definitions_Oct19,MYS.15.2_1,HuluLangat,Daerah,Selangor,L3,name_exact
+MYS14C,Kuala Lumpur,Malaysia,MYS,Metropolitan Area,District,Klang,member,Global_Cities_Definitions_Oct19,MYS.15.4_1,Klang,Daerah,Selangor,L3,name_exact
+MYS14C,Kuala Lumpur,Malaysia,MYS,Metropolitan Area,District,Petaling,member,Global_Cities_Definitions_Oct19,MYS.15.7_1,Petaling,Daerah,Selangor,L3,name_exact
+MYS14C,Kuala Lumpur,Malaysia,MYS,Metropolitan Area,District,Sepang,member,Global_Cities_Definitions_Oct19,MYS.15.9_1,Sepang,Daerah,Selangor,L3,name_exact
+MYS2C,Kuala Muda,Malaysia,MYS,District,District,Kuala Muda,self,Global_Cities_Definitions_Oct19,MYS.2.4_1,KualaMuda,Daerah,Kedah,L3,name_exact
+MYS6C,Kuantan,Malaysia,MYS,District,District,Kuantan,self,Global_Cities_Definitions_Oct19,MYS.8.5_1,Kuantan,Daerah,Pahang,L3,name_exact
+MYS11C,Kuching,Malaysia,MYS,District,District,Kuching,self,Global_Cities_Definitions_Oct19,MYS.14.11_1,Kuching,Daerah,Sarawak,L3,name_exact
+MYS5C,Malacca,Malaysia,MYS,District,District,Central Malacca,self,Global_Cities_Definitions_Oct19,MYS.6.3_1,MelakaTengah,Daerah,Melaka,L3,name_exact
+MYS4C,Seremban,Malaysia,MYS,District,District,Seremban,self,Global_Cities_Definitions_Oct19,MYS.7.6_1,Seremban,Daerah,NegeriSembilan,L3,name_exact
+THA7,Bangkok,Thailand,THA,Metropolitan Area,Province,Bangkok Metropolis,self,Global_Cities_Definitions_Oct19,THA.3_1,BangkokMetropolis,Changwat,,L2,name_exact
+THA7,Bangkok,Thailand,THA,Metropolitan Area,Province,Samut Prakan,member,Global_Cities_Definitions_Oct19,THA.57_1,SamutPrakan,Changwat,,L2,name_exact
+THA7,Bangkok,Thailand,THA,Metropolitan Area,Province,Pathum Thani,member,Global_Cities_Definitions_Oct19,THA.37_1,PathumThani,Changwat,,L2,name_exact
+THA7,Bangkok,Thailand,THA,Metropolitan Area,Province,Samut Sakhon,member,Global_Cities_Definitions_Oct19,THA.58_1,SamutSakhon,Changwat,,L2,name_exact
+THA7,Bangkok,Thailand,THA,Metropolitan Area,Province,Nakhon Pathom,member,Global_Cities_Definitions_Oct19,THA.27_1,NakhonPathom,Changwat,,L2,name_exact
+THA7,Bangkok,Thailand,THA,Metropolitan Area,Province,Nonthaburi,member,Global_Cities_Definitions_Oct19,THA.36_1,Nonthaburi,Changwat,,L2,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Autonomous City,Buenos Aires,self,Global_Cities_Definitions_Oct19,ARG.5_1,CiudaddeBuenosAires,DistritoFederal,,L2,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Justo,member,Global_Cities_Definitions_Oct19,ARG.1.62_1,LaMatanza,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Lomas de Zamora,member,Global_Cities_Definitions_Oct19,ARG.1.71_1,LomasdeZamora,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Quilmes,member,Global_Cities_Definitions_Oct19,ARG.1.95_1,Quilmes,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Adrogué,member,Global_Cities_Definitions_Oct19,ARG.1.4_1,AlmiranteBrown,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Merlo,member,Global_Cities_Definitions_Oct19,ARG.1.78_1,Merlo,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Lanús,member,Global_Cities_Definitions_Oct19,ARG.1.64_1,Lanús,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Moreno,member,Global_Cities_Definitions_Oct19,ARG.1.81_1,Moreno,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Florencio Varela,member,Global_Cities_Definitions_Oct19,ARG.1.40_1,FlorencioVarela,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Martín,member,Global_Cities_Definitions_Oct19,ARG.1.54_1,GeneralSanMartín,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Tigre,member,Global_Cities_Definitions_Oct19,ARG.1.117_1,Tigre,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Avellaneda,member,Global_Cities_Definitions_Oct19,ARG.1.7_1,Avellaneda,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Caseros,member,Global_Cities_Definitions_Oct19,ARG.1.122_1,TresdeFebrero,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Berazategui,member,Global_Cities_Definitions_Oct19,ARG.1.14_1,Berazategui,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Los Polvorines,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Morón,member,Global_Cities_Definitions_Oct19,ARG.1.82_1,Morón,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Monte Grande,member,Global_Cities_Definitions_Oct19,ARG.1.38_1,EstebanEcheverría,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Isidro,member,Global_Cities_Definitions_Oct19,ARG.1.110_1,SanIsidro,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Miguel,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Olivos,member,Global_Cities_Definitions_Oct19,ARG.1.125_1,VicenteLópez,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,José C. Paz,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Hurlingham,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Ituzaingó,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Ezeiza,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Fernando,member,Global_Cities_Definitions_Oct19,ARG.1.108_1,SanFernando(1),Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Escobar,member,Global_Cities_Definitions_Oct19,ARG.1.37_1,Escobar,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,General Rodríguez,member,Global_Cities_Definitions_Oct19,ARG.1.53_1,GeneralRodríguez,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Marcos Paz,member,Global_Cities_Definitions_Oct19,ARG.1.76_1,MarcosPaz,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Pilar,member,Global_Cities_Definitions_Oct19,ARG.1.92_1,Pilar,Partido,BuenosAires,L3,name_exact
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,Presidente Perón,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARG1C,Buenos Aires,Argentina,ARG,Urban Agglomeration,Department,San Vicente,member,Global_Cities_Definitions_Oct19,ARG.1.113_1,SanVicente,Partido,BuenosAires,L3,name_exact
+ARG2C,La Plata,Argentina,ARG,Urban Agglomeration,Department,La Plata,self,Global_Cities_Definitions_Oct19,ARG.1.63_1,LaPlata,Partido,BuenosAires,L3,name_exact
+ARG2C,La Plata,Argentina,ARG,Urban Agglomeration,Department,Berisso,member,Global_Cities_Definitions_Oct19,ARG.1.15_1,Berisso,Partido,BuenosAires,L3,name_exact
+ARG2C,La Plata,Argentina,ARG,Urban Agglomeration,Department,Ensenada,member,Global_Cities_Definitions_Oct19,ARG.1.36_1,Ensenada,Partido,BuenosAires,L3,name_exact
+PER4C,Arequipa,Peru,PER,,District,Arequipa,self,Global_Cities_Definitions_Oct19,PER.4.1.2_1,Arequipa,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Alto Selva Alegre,member,Global_Cities_Definitions_Oct19,PER.4.1.1_1,AltoSelvaAlegre,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Cayma,member,Global_Cities_Definitions_Oct19,PER.4.1.3_1,Cayma,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Characato,member,Global_Cities_Definitions_Oct19,PER.4.1.5_1,Characato,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Cerra Colorado,member,Global_Cities_Definitions_Oct19,PER.4.1.4_1,CerroColorado,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Jacobo Hunter,member,Global_Cities_Definitions_Oct19,PER.4.1.7_1,JacoboHunter,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Mariano Melgar,member,Global_Cities_Definitions_Oct19,PER.4.1.11_1,MarianoMelgar,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Miraflores,member,Global_Cities_Definitions_Oct19,PER.4.1.12_1,Miraflores,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Paucarpata,member,Global_Cities_Definitions_Oct19,PER.4.1.14_1,Paucarpata,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Sabandia,member,Global_Cities_Definitions_Oct19,PER.4.1.18_1,Sabandia,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Sachaca,member,Global_Cities_Definitions_Oct19,PER.4.1.19_1,Sachaca,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Socabaya,member,Global_Cities_Definitions_Oct19,PER.4.1.24_1,Socabaya,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Tiabaya,member,Global_Cities_Definitions_Oct19,PER.4.1.25_1,Tiabaya,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Uchumayo,member,Global_Cities_Definitions_Oct19,PER.4.1.26_1,Uchumayo,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Yanahuara,member,Global_Cities_Definitions_Oct19,PER.4.1.28_1,Yanahuara,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Yura,member,Global_Cities_Definitions_Oct19,PER.4.1.30_1,Yura,Distrito,Arequipa,L4,name_exact
+PER4C,Arequipa,Peru,PER,,District,Jose L. Bustamante Y Rivero,member,Global_Cities_Definitions_Oct19,PER.4.1.8_1,JoseLuisBustamanteYRivero,Distrito,Arequipa,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Trujillo,self,Global_Cities_Definitions_Oct19,PER.13.11.10_1,Trujillo,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Victor Larco Herrera,member,Global_Cities_Definitions_Oct19,PER.13.11.11_1,VictorLarcoHerrera,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,La Esperanza,member,Global_Cities_Definitions_Oct19,PER.13.11.4_1,LaEsperanza,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,El Porvenir,member,Global_Cities_Definitions_Oct19,PER.13.11.1_1,ElPorvenir,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Florencia de Mora,member,Global_Cities_Definitions_Oct19,PER.13.11.2_1,FlorenciadeMora,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Huanchaco,member,Global_Cities_Definitions_Oct19,PER.13.11.3_1,Huanchaco,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Laredo,member,Global_Cities_Definitions_Oct19,PER.13.11.5_1,Laredo,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Moche,member,Global_Cities_Definitions_Oct19,PER.13.11.6_1,Moche,Distrito,Trujillo,L4,name_exact
+PERDC,Trujillo,Peru,PER,,District,Salaverry,member,Global_Cities_Definitions_Oct19,PER.13.11.8_1,Salaverry,Distrito,Trujillo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Chiclayo,self,Global_Cities_Definitions_Oct19,PER.14.1.1_1,Chiclayo,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Eten,member,Global_Cities_Definitions_Oct19,PER.14.1.3_1,Eten,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Lambayeque,member,Global_Cities_Definitions_Oct19,PER.14.3.4_1,Lambayeque,Distrito,Lambayeque,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,La Victoria,member,Global_Cities_Definitions_Oct19,PER.14.1.6_1,LaVictoria,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Leonardi Ortiz,member,Global_Cities_Definitions_Oct19,PER.14.1.5_1,JoseLeonardoOrtiz,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Monsefú,member,Global_Cities_Definitions_Oct19,PER.14.1.8_1,Monsefu,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Pimentel,member,Global_Cities_Definitions_Oct19,PER.14.1.12_1,Pimentel,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Pomalca,member,Global_Cities_Definitions_Oct19,,,,,,missing
+PEREC,Chiclayo,Peru,PER,,District,Puerto Eten,member,Global_Cities_Definitions_Oct19,PER.14.1.4_1,EtenPuerto,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Reque,member,Global_Cities_Definitions_Oct19,PER.14.1.13_1,Reque,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,Santa Rosa,member,Global_Cities_Definitions_Oct19,PER.14.1.15_1,SantaRosa,Distrito,Chiclayo,L4,name_exact
+PEREC,Chiclayo,Peru,PER,,District,San José,member,Global_Cities_Definitions_Oct19,PER.14.3.11_1,SanJose,Distrito,Lambayeque,L4,name_exact
+MAR001,Casablanca,Morocco,MAR,Metropolitan Area,Province,Casablanca,self,Global_Cities_Definitions_Oct19,MAR.5.1_1,Casablanca,Prefecture,GrandCasablanca,L3,name_exact
+MAR001,Casablanca,Morocco,MAR,Metropolitan Area,Province,Mohammedia,member,Global_Cities_Definitions_Oct19,MAR.5.2_1,Mohammedia,Prefecture,GrandCasablanca,L3,name_exact
+MAR001,Casablanca,Morocco,MAR,Metropolitan Area,Province,Nouaceur,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR001,Casablanca,Morocco,MAR,Metropolitan Area,Province,Mediouna,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR002,Rabat,Morocco,MAR,Metropolitan Area,Province,Rabat Province,self,Global_Cities_Definitions_Oct19,MAR.11.2_1,Rabat,Prefecture,Rabat-Salé-Zemmour-Zaer,L3,name_exact
+MAR002,Rabat,Morocco,MAR,Metropolitan Area,Province,Sale Prefecture,member,Global_Cities_Definitions_Oct19,MAR.11.3_1,Salé,Prefecture,Rabat-Salé-Zemmour-Zaer,L3,name_exact
+MAR002,Rabat,Morocco,MAR,Metropolitan Area,Province,Skhirate-Témara,member,Global_Cities_Definitions_Oct19,MAR.11.4_1,Skhirate-Témara,Prefecture,Rabat-Salé-Zemmour-Zaer,L3,name_exact
+MAR005,Tangier,Morocco,MAR,Province,Province,Tanger-Assilah,self,Global_Cities_Definitions_Oct19,MAR.14.4_1,Tanger-Assilah,Prefecture,Tanger-Tétouan,L3,name_exact
+MAR006,Agadir,Morocco,MAR,Metropolitan Area,Commune,Agadir,self,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR006,Agadir,Morocco,MAR,Metropolitan Area,Commune,Inezgane,member,Global_Cities_Definitions_Oct19,,,,,,missing
+MAR006,Agadir,Morocco,MAR,Metropolitan Area,Commune,AitMelloul,member,Global_Cities_Definitions_Oct19,,,,,,missing
+ARE1C,Abu Dhabi,United Arab Emirates,ARE,Region,Region,Abu Dhabi,self,Global_Cities_Definitions_Oct19,ARE.1_1,AbuDhabi,Emirate,,L2,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,United Arab Emirates,ARE,Urban Agglomeration,Emirate,Dubai (full),self,Global_Cities_Definitions_Oct19,ARE.3_1,Dubai,Emirate,,L2,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,United Arab Emirates,ARE,Urban Agglomeration,Emirate,Sharjah (part),member,Global_Cities_Definitions_Oct19,ARE.6_1,Sharjah,Emirate,,L2,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,United Arab Emirates,ARE,Urban Agglomeration,Emirate,Ajman (part),member,Global_Cities_Definitions_Oct19,ARE.2_1,Ajman,Emirate,,L2,name_exact

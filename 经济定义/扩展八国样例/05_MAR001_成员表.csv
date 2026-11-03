@@ -1,0 +1,5 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+MAR001,Casablanca,Casablanca,self,L3,GrandCasablanca,Casablanca,MAR.5.1_1,Prefecture,name_exact
+MAR001,Casablanca,Mohammedia,member,L3,GrandCasablanca,Mohammedia,MAR.5.2_1,Prefecture,name_exact
+MAR001,Casablanca,Nouaceur,member,,,,,,missing
+MAR001,Casablanca,Mediouna,member,,,,,,missing

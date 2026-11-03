@@ -1,0 +1,4 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+MAR002,Rabat,Rabat Province,self,L3,Rabat-Salé-Zemmour-Zaer,Rabat,MAR.11.2_1,Prefecture,name_exact
+MAR002,Rabat,Sale Prefecture,member,L3,Rabat-Salé-Zemmour-Zaer,Salé,MAR.11.3_1,Prefecture,name_exact
+MAR002,Rabat,Skhirate-Témara,member,L3,Rabat-Salé-Zemmour-Zaer,Skhirate-Témara,MAR.11.4_1,Prefecture,name_exact

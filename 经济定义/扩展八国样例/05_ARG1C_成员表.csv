@@ -1,0 +1,32 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+ARG1C,Buenos Aires,Buenos Aires,self,L2,,CiudaddeBuenosAires,ARG.5_1,DistritoFederal,name_exact
+ARG1C,Buenos Aires,San Justo,member,L3,BuenosAires,LaMatanza,ARG.1.62_1,Partido,name_exact
+ARG1C,Buenos Aires,Lomas de Zamora,member,L3,BuenosAires,LomasdeZamora,ARG.1.71_1,Partido,name_exact
+ARG1C,Buenos Aires,Quilmes,member,L3,BuenosAires,Quilmes,ARG.1.95_1,Partido,name_exact
+ARG1C,Buenos Aires,Adrogué,member,L3,BuenosAires,AlmiranteBrown,ARG.1.4_1,Partido,name_exact
+ARG1C,Buenos Aires,Merlo,member,L3,BuenosAires,Merlo,ARG.1.78_1,Partido,name_exact
+ARG1C,Buenos Aires,Lanús,member,L3,BuenosAires,Lanús,ARG.1.64_1,Partido,name_exact
+ARG1C,Buenos Aires,Moreno,member,L3,BuenosAires,Moreno,ARG.1.81_1,Partido,name_exact
+ARG1C,Buenos Aires,Florencio Varela,member,L3,BuenosAires,FlorencioVarela,ARG.1.40_1,Partido,name_exact
+ARG1C,Buenos Aires,San Martín,member,L3,BuenosAires,GeneralSanMartín,ARG.1.54_1,Partido,name_exact
+ARG1C,Buenos Aires,Tigre,member,L3,BuenosAires,Tigre,ARG.1.117_1,Partido,name_exact
+ARG1C,Buenos Aires,Avellaneda,member,L3,BuenosAires,Avellaneda,ARG.1.7_1,Partido,name_exact
+ARG1C,Buenos Aires,Caseros,member,L3,BuenosAires,TresdeFebrero,ARG.1.122_1,Partido,name_exact
+ARG1C,Buenos Aires,Berazategui,member,L3,BuenosAires,Berazategui,ARG.1.14_1,Partido,name_exact
+ARG1C,Buenos Aires,Los Polvorines,member,,,,,,missing
+ARG1C,Buenos Aires,Morón,member,L3,BuenosAires,Morón,ARG.1.82_1,Partido,name_exact
+ARG1C,Buenos Aires,Monte Grande,member,L3,BuenosAires,EstebanEcheverría,ARG.1.38_1,Partido,name_exact
+ARG1C,Buenos Aires,San Isidro,member,L3,BuenosAires,SanIsidro,ARG.1.110_1,Partido,name_exact
+ARG1C,Buenos Aires,San Miguel,member,,,,,,missing
+ARG1C,Buenos Aires,Olivos,member,L3,BuenosAires,VicenteLópez,ARG.1.125_1,Partido,name_exact
+ARG1C,Buenos Aires,José C. Paz,member,,,,,,missing
+ARG1C,Buenos Aires,Hurlingham,member,,,,,,missing
+ARG1C,Buenos Aires,Ituzaingó,member,,,,,,missing
+ARG1C,Buenos Aires,Ezeiza,member,,,,,,missing
+ARG1C,Buenos Aires,San Fernando,member,L3,BuenosAires,SanFernando(1),ARG.1.108_1,Partido,name_exact
+ARG1C,Buenos Aires,Escobar,member,L3,BuenosAires,Escobar,ARG.1.37_1,Partido,name_exact
+ARG1C,Buenos Aires,General Rodríguez,member,L3,BuenosAires,GeneralRodríguez,ARG.1.53_1,Partido,name_exact
+ARG1C,Buenos Aires,Marcos Paz,member,L3,BuenosAires,MarcosPaz,ARG.1.76_1,Partido,name_exact
+ARG1C,Buenos Aires,Pilar,member,L3,BuenosAires,Pilar,ARG.1.92_1,Partido,name_exact
+ARG1C,Buenos Aires,Presidente Perón,member,,,,,,missing
+ARG1C,Buenos Aires,San Vicente,member,L3,BuenosAires,SanVicente,ARG.1.113_1,Partido,name_exact

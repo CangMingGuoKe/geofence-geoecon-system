@@ -1,0 +1,18 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+PER4C,Arequipa,Arequipa,self,L4,Arequipa,Arequipa,PER.4.1.2_1,Distrito,name_exact
+PER4C,Arequipa,Alto Selva Alegre,member,L4,Arequipa,AltoSelvaAlegre,PER.4.1.1_1,Distrito,name_exact
+PER4C,Arequipa,Cayma,member,L4,Arequipa,Cayma,PER.4.1.3_1,Distrito,name_exact
+PER4C,Arequipa,Characato,member,L4,Arequipa,Characato,PER.4.1.5_1,Distrito,name_exact
+PER4C,Arequipa,Cerra Colorado,member,L4,Arequipa,CerroColorado,PER.4.1.4_1,Distrito,name_exact
+PER4C,Arequipa,Jacobo Hunter,member,L4,Arequipa,JacoboHunter,PER.4.1.7_1,Distrito,name_exact
+PER4C,Arequipa,Mariano Melgar,member,L4,Arequipa,MarianoMelgar,PER.4.1.11_1,Distrito,name_exact
+PER4C,Arequipa,Miraflores,member,L4,Arequipa,Miraflores,PER.4.1.12_1,Distrito,name_exact
+PER4C,Arequipa,Paucarpata,member,L4,Arequipa,Paucarpata,PER.4.1.14_1,Distrito,name_exact
+PER4C,Arequipa,Sabandia,member,L4,Arequipa,Sabandia,PER.4.1.18_1,Distrito,name_exact
+PER4C,Arequipa,Sachaca,member,L4,Arequipa,Sachaca,PER.4.1.19_1,Distrito,name_exact
+PER4C,Arequipa,Socabaya,member,L4,Arequipa,Socabaya,PER.4.1.24_1,Distrito,name_exact
+PER4C,Arequipa,Tiabaya,member,L4,Arequipa,Tiabaya,PER.4.1.25_1,Distrito,name_exact
+PER4C,Arequipa,Uchumayo,member,L4,Arequipa,Uchumayo,PER.4.1.26_1,Distrito,name_exact
+PER4C,Arequipa,Yanahuara,member,L4,Arequipa,Yanahuara,PER.4.1.28_1,Distrito,name_exact
+PER4C,Arequipa,Yura,member,L4,Arequipa,Yura,PER.4.1.30_1,Distrito,name_exact
+PER4C,Arequipa,Jose L. Bustamante Y Rivero,member,L4,Arequipa,JoseLuisBustamanteYRivero,PER.4.1.8_1,Distrito,name_exact

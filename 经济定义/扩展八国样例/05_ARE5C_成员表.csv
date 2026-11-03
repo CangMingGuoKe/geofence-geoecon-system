@@ -1,0 +1,4 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,Dubai (full),self,L2,,Dubai,ARE.3_1,Emirate,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,Sharjah (part),member,L2,,Sharjah,ARE.6_1,Emirate,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,Ajman (part),member,L2,,Ajman,ARE.2_1,Emirate,name_exact

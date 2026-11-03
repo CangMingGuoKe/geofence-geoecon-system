@@ -1,0 +1,107 @@
+﻿metro_id,metro_name,iso3,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+MYS9C,Georgetown (Malaysia),MYS,Timur Laut,self,L3,PulauPinang,TimurLaut,MYS.11.5_1,Daerah,name_exact
+MYS7C,Ipoh,MYS,Kinta,self,L3,Perak,Kinta,MYS.9.6_1,Daerah,name_exact
+MYS1C,Johor Bahru,MYS,Johor Bahru,self,L3,Johor,JohorBaharu,MYS.1.2_1,Daerah,name_exact
+MYS3C,Kota Bharu,MYS,Kota Bharu,self,L3,Kelantan,KotaBharu,MYS.3.4_1,Daerah,name_exact
+MYS10C,Kota Kinabalu,MYS,Kota Kinabalu,self,L3,Sabah,KotaKinabalu,MYS.13.6_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,MYS,Kuala Lumpur,self,L3,KualaLumpur,KualaLumpur,MYS.4.1_1,WilayahPersekutuan,name_exact
+MYS14C,Kuala Lumpur,MYS,Gombak,member,L3,Selangor,Gombak,MYS.15.1_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,MYS,Hulu Langat,member,L3,Selangor,HuluLangat,MYS.15.2_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,MYS,Klang,member,L3,Selangor,Klang,MYS.15.4_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,MYS,Petaling,member,L3,Selangor,Petaling,MYS.15.7_1,Daerah,name_exact
+MYS14C,Kuala Lumpur,MYS,Sepang,member,L3,Selangor,Sepang,MYS.15.9_1,Daerah,name_exact
+MYS2C,Kuala Muda,MYS,Kuala Muda,self,L3,Kedah,KualaMuda,MYS.2.4_1,Daerah,name_exact
+MYS6C,Kuantan,MYS,Kuantan,self,L3,Pahang,Kuantan,MYS.8.5_1,Daerah,name_exact
+MYS11C,Kuching,MYS,Kuching,self,L3,Sarawak,Kuching,MYS.14.11_1,Daerah,name_exact
+MYS5C,Malacca,MYS,Central Malacca,self,L3,Melaka,MelakaTengah,MYS.6.3_1,Daerah,name_exact
+MYS4C,Seremban,MYS,Seremban,self,L3,NegeriSembilan,Seremban,MYS.7.6_1,Daerah,name_exact
+THA7,Bangkok,THA,Bangkok Metropolis,self,L2,,BangkokMetropolis,THA.3_1,Changwat,name_exact
+THA7,Bangkok,THA,Samut Prakan,member,L2,,SamutPrakan,THA.57_1,Changwat,name_exact
+THA7,Bangkok,THA,Pathum Thani,member,L2,,PathumThani,THA.37_1,Changwat,name_exact
+THA7,Bangkok,THA,Samut Sakhon,member,L2,,SamutSakhon,THA.58_1,Changwat,name_exact
+THA7,Bangkok,THA,Nakhon Pathom,member,L2,,NakhonPathom,THA.27_1,Changwat,name_exact
+THA7,Bangkok,THA,Nonthaburi,member,L2,,Nonthaburi,THA.36_1,Changwat,name_exact
+ARG1C,Buenos Aires,ARG,Buenos Aires,self,L2,,CiudaddeBuenosAires,ARG.5_1,DistritoFederal,name_exact
+ARG1C,Buenos Aires,ARG,San Justo,member,L3,BuenosAires,LaMatanza,ARG.1.62_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Lomas de Zamora,member,L3,BuenosAires,LomasdeZamora,ARG.1.71_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Quilmes,member,L3,BuenosAires,Quilmes,ARG.1.95_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Adrogué,member,L3,BuenosAires,AlmiranteBrown,ARG.1.4_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Merlo,member,L3,BuenosAires,Merlo,ARG.1.78_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Lanús,member,L3,BuenosAires,Lanús,ARG.1.64_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Moreno,member,L3,BuenosAires,Moreno,ARG.1.81_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Florencio Varela,member,L3,BuenosAires,FlorencioVarela,ARG.1.40_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,San Martín,member,L3,BuenosAires,GeneralSanMartín,ARG.1.54_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Tigre,member,L3,BuenosAires,Tigre,ARG.1.117_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Avellaneda,member,L3,BuenosAires,Avellaneda,ARG.1.7_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Caseros,member,L3,BuenosAires,TresdeFebrero,ARG.1.122_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Berazategui,member,L3,BuenosAires,Berazategui,ARG.1.14_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Los Polvorines,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,Morón,member,L3,BuenosAires,Morón,ARG.1.82_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Monte Grande,member,L3,BuenosAires,EstebanEcheverría,ARG.1.38_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,San Isidro,member,L3,BuenosAires,SanIsidro,ARG.1.110_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,San Miguel,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,Olivos,member,L3,BuenosAires,VicenteLópez,ARG.1.125_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,José C. Paz,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,Hurlingham,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,Ituzaingó,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,Ezeiza,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,San Fernando,member,L3,BuenosAires,SanFernando(1),ARG.1.108_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Escobar,member,L3,BuenosAires,Escobar,ARG.1.37_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,General Rodríguez,member,L3,BuenosAires,GeneralRodríguez,ARG.1.53_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Marcos Paz,member,L3,BuenosAires,MarcosPaz,ARG.1.76_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Pilar,member,L3,BuenosAires,Pilar,ARG.1.92_1,Partido,name_exact
+ARG1C,Buenos Aires,ARG,Presidente Perón,member,,,,,,missing
+ARG1C,Buenos Aires,ARG,San Vicente,member,L3,BuenosAires,SanVicente,ARG.1.113_1,Partido,name_exact
+ARG2C,La Plata,ARG,La Plata,self,L3,BuenosAires,LaPlata,ARG.1.63_1,Partido,name_exact
+ARG2C,La Plata,ARG,Berisso,member,L3,BuenosAires,Berisso,ARG.1.15_1,Partido,name_exact
+ARG2C,La Plata,ARG,Ensenada,member,L3,BuenosAires,Ensenada,ARG.1.36_1,Partido,name_exact
+PER4C,Arequipa,PER,Arequipa,self,L4,Arequipa,Arequipa,PER.4.1.2_1,Distrito,name_exact
+PER4C,Arequipa,PER,Alto Selva Alegre,member,L4,Arequipa,AltoSelvaAlegre,PER.4.1.1_1,Distrito,name_exact
+PER4C,Arequipa,PER,Cayma,member,L4,Arequipa,Cayma,PER.4.1.3_1,Distrito,name_exact
+PER4C,Arequipa,PER,Characato,member,L4,Arequipa,Characato,PER.4.1.5_1,Distrito,name_exact
+PER4C,Arequipa,PER,Cerra Colorado,member,L4,Arequipa,CerroColorado,PER.4.1.4_1,Distrito,name_exact
+PER4C,Arequipa,PER,Jacobo Hunter,member,L4,Arequipa,JacoboHunter,PER.4.1.7_1,Distrito,name_exact
+PER4C,Arequipa,PER,Mariano Melgar,member,L4,Arequipa,MarianoMelgar,PER.4.1.11_1,Distrito,name_exact
+PER4C,Arequipa,PER,Miraflores,member,L4,Arequipa,Miraflores,PER.4.1.12_1,Distrito,name_exact
+PER4C,Arequipa,PER,Paucarpata,member,L4,Arequipa,Paucarpata,PER.4.1.14_1,Distrito,name_exact
+PER4C,Arequipa,PER,Sabandia,member,L4,Arequipa,Sabandia,PER.4.1.18_1,Distrito,name_exact
+PER4C,Arequipa,PER,Sachaca,member,L4,Arequipa,Sachaca,PER.4.1.19_1,Distrito,name_exact
+PER4C,Arequipa,PER,Socabaya,member,L4,Arequipa,Socabaya,PER.4.1.24_1,Distrito,name_exact
+PER4C,Arequipa,PER,Tiabaya,member,L4,Arequipa,Tiabaya,PER.4.1.25_1,Distrito,name_exact
+PER4C,Arequipa,PER,Uchumayo,member,L4,Arequipa,Uchumayo,PER.4.1.26_1,Distrito,name_exact
+PER4C,Arequipa,PER,Yanahuara,member,L4,Arequipa,Yanahuara,PER.4.1.28_1,Distrito,name_exact
+PER4C,Arequipa,PER,Yura,member,L4,Arequipa,Yura,PER.4.1.30_1,Distrito,name_exact
+PER4C,Arequipa,PER,Jose L. Bustamante Y Rivero,member,L4,Arequipa,JoseLuisBustamanteYRivero,PER.4.1.8_1,Distrito,name_exact
+PERDC,Trujillo,PER,Trujillo,self,L4,Trujillo,Trujillo,PER.13.11.10_1,Distrito,name_exact
+PERDC,Trujillo,PER,Victor Larco Herrera,member,L4,Trujillo,VictorLarcoHerrera,PER.13.11.11_1,Distrito,name_exact
+PERDC,Trujillo,PER,La Esperanza,member,L4,Trujillo,LaEsperanza,PER.13.11.4_1,Distrito,name_exact
+PERDC,Trujillo,PER,El Porvenir,member,L4,Trujillo,ElPorvenir,PER.13.11.1_1,Distrito,name_exact
+PERDC,Trujillo,PER,Florencia de Mora,member,L4,Trujillo,FlorenciadeMora,PER.13.11.2_1,Distrito,name_exact
+PERDC,Trujillo,PER,Huanchaco,member,L4,Trujillo,Huanchaco,PER.13.11.3_1,Distrito,name_exact
+PERDC,Trujillo,PER,Laredo,member,L4,Trujillo,Laredo,PER.13.11.5_1,Distrito,name_exact
+PERDC,Trujillo,PER,Moche,member,L4,Trujillo,Moche,PER.13.11.6_1,Distrito,name_exact
+PERDC,Trujillo,PER,Salaverry,member,L4,Trujillo,Salaverry,PER.13.11.8_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Chiclayo,self,L4,Chiclayo,Chiclayo,PER.14.1.1_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Eten,member,L4,Chiclayo,Eten,PER.14.1.3_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Lambayeque,member,L4,Lambayeque,Lambayeque,PER.14.3.4_1,Distrito,name_exact
+PEREC,Chiclayo,PER,La Victoria,member,L4,Chiclayo,LaVictoria,PER.14.1.6_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Leonardi Ortiz,member,L4,Chiclayo,JoseLeonardoOrtiz,PER.14.1.5_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Monsefú,member,L4,Chiclayo,Monsefu,PER.14.1.8_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Pimentel,member,L4,Chiclayo,Pimentel,PER.14.1.12_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Pomalca,member,,,,,,missing
+PEREC,Chiclayo,PER,Puerto Eten,member,L4,Chiclayo,EtenPuerto,PER.14.1.4_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Reque,member,L4,Chiclayo,Reque,PER.14.1.13_1,Distrito,name_exact
+PEREC,Chiclayo,PER,Santa Rosa,member,L4,Chiclayo,SantaRosa,PER.14.1.15_1,Distrito,name_exact
+PEREC,Chiclayo,PER,San José,member,L4,Lambayeque,SanJose,PER.14.3.11_1,Distrito,name_exact
+MAR001,Casablanca,MAR,Casablanca,self,L3,GrandCasablanca,Casablanca,MAR.5.1_1,Prefecture,name_exact
+MAR001,Casablanca,MAR,Mohammedia,member,L3,GrandCasablanca,Mohammedia,MAR.5.2_1,Prefecture,name_exact
+MAR001,Casablanca,MAR,Nouaceur,member,,,,,,missing
+MAR001,Casablanca,MAR,Mediouna,member,,,,,,missing
+MAR002,Rabat,MAR,Rabat Province,self,L3,Rabat-Salé-Zemmour-Zaer,Rabat,MAR.11.2_1,Prefecture,name_exact
+MAR002,Rabat,MAR,Sale Prefecture,member,L3,Rabat-Salé-Zemmour-Zaer,Salé,MAR.11.3_1,Prefecture,name_exact
+MAR002,Rabat,MAR,Skhirate-Témara,member,L3,Rabat-Salé-Zemmour-Zaer,Skhirate-Témara,MAR.11.4_1,Prefecture,name_exact
+MAR005,Tangier,MAR,Tanger-Assilah,self,L3,Tanger-Tétouan,Tanger-Assilah,MAR.14.4_1,Prefecture,name_exact
+ARE1C,Abu Dhabi,ARE,Abu Dhabi,self,L2,,AbuDhabi,ARE.1_1,Emirate,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,ARE,Dubai (full),self,L2,,Dubai,ARE.3_1,Emirate,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,ARE,Sharjah (part),member,L2,,Sharjah,ARE.6_1,Emirate,name_exact
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,ARE,Ajman (part),member,L2,,Ajman,ARE.2_1,Emirate,name_exact

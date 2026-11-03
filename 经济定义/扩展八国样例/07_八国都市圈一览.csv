@@ -1,0 +1,23 @@
+﻿metro_id,metro_name,iso3,n_members,n_matched,n_missing,parents,geom_type,n_parts,n_holes,hole_area_km2,is_valid,is_empty,area_km2_epsg6933,dup_gid
+MYS9C,Georgetown (Malaysia),MYS,1,1,0,PulauPinang,MultiPolygon,6,0,0.0,True,False,121.5,0
+MYS7C,Ipoh,MYS,1,1,0,Perak,Polygon,1,0,0.0,True,False,1963.0,0
+MYS1C,Johor Bahru,MYS,1,1,0,Johor,Polygon,1,0,0.0,True,False,978.5,0
+MYS3C,Kota Bharu,MYS,1,1,0,Kelantan,Polygon,1,0,0.0,True,False,403.9,0
+MYS10C,Kota Kinabalu,MYS,1,1,0,Sabah,MultiPolygon,10,0,0.0,True,False,369.1,0
+MYS14C,Kuala Lumpur,MYS,6,6,0,KualaLumpur、Selangor,MultiPolygon,13,10,62.4,True,False,3360.5,0
+MYS2C,Kuala Muda,MYS,1,1,0,Kedah,MultiPolygon,2,0,0.0,True,False,921.3,0
+MYS6C,Kuantan,MYS,1,1,0,Pahang,MultiPolygon,5,0,0.0,True,False,3018.8,0
+MYS11C,Kuching,MYS,1,1,0,Sarawak,MultiPolygon,13,0,0.0,True,False,1757.1,0
+MYS5C,Malacca,MYS,1,1,0,Melaka,MultiPolygon,3,0,0.0,True,False,285.9,0
+MYS4C,Seremban,MYS,1,1,0,NegeriSembilan,Polygon,1,0,0.0,True,False,980.3,0
+THA7,Bangkok,THA,6,6,0,,Polygon,1,27,1.2,True,False,7651.8,0
+ARG1C,Buenos Aires,ARG,31,24,7,BuenosAires,MultiPolygon,32,34,228.5,True,False,6083.7,0
+ARG2C,La Plata,ARG,3,3,0,BuenosAires,MultiPolygon,2,2,0.0,True,False,1127.0,0
+PER4C,Arequipa,PER,17,17,0,Arequipa,Polygon,1,37,0.9,True,False,2992.0,0
+PERDC,Trujillo,PER,9,9,0,Trujillo,Polygon,1,22,0.6,True,False,1250.5,0
+PEREC,Chiclayo,PER,12,11,1,Chiclayo、Lambayeque,Polygon,1,12,0.2,True,False,884.7,0
+MAR001,Casablanca,MAR,4,2,2,GrandCasablanca,MultiPolygon,3,0,0.0,True,False,876.9,0
+MAR002,Rabat,MAR,3,3,0,Rabat-Salé-Zemmour-Zaer,MultiPolygon,2,1,0.0,True,False,1937.7,0
+MAR005,Tangier,MAR,1,1,0,Tanger-Tétouan,Polygon,1,0,0.0,True,False,913.5,0
+ARE1C,Abu Dhabi,ARE,1,1,0,,MultiPolygon,128,1,0.0,True,False,59509.0,0
+ARE5C,Dubai-Sharjah-Ajman Metropolitan Area,ARE,3,3,0,,MultiPolygon,184,9,0.6,True,False,6835.0,0

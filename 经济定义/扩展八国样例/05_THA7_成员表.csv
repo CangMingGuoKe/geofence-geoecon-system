@@ -1,0 +1,7 @@
+﻿metro_id,metro_name,member_name,member_role,gadm_level,parent_name,gadm_name,gid,type,method
+THA7,Bangkok,Bangkok Metropolis,self,L2,,BangkokMetropolis,THA.3_1,Changwat,name_exact
+THA7,Bangkok,Samut Prakan,member,L2,,SamutPrakan,THA.57_1,Changwat,name_exact
+THA7,Bangkok,Pathum Thani,member,L2,,PathumThani,THA.37_1,Changwat,name_exact
+THA7,Bangkok,Samut Sakhon,member,L2,,SamutSakhon,THA.58_1,Changwat,name_exact
+THA7,Bangkok,Nakhon Pathom,member,L2,,NakhonPathom,THA.27_1,Changwat,name_exact
+THA7,Bangkok,Nonthaburi,member,L2,,Nonthaburi,THA.36_1,Changwat,name_exact
