@@ -99,7 +99,7 @@
 <div class="wrap">
   <header>
     <h1>地理围栏互动地图 · Geofence Explorer</h1>
-    <div class="sub">数据源 <b>CTAmap</b>（中国层）与 <b>GADM 4.1</b>（其余 30 国） · 全球 GDP 前 20 及非洲、拉美、亚太、中东代表国 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县）</div>
+    <div class="sub">数据源 <b>CTAmap</b>（中国层）、<b>GADM 4.1</b>（其余 30 国），德国与西班牙的 L4 改用 <b>Eurostat LAU 2024</b> · 全球 GDP 前 20 及非洲、拉美、亚太、中东代表国 · 按大洲分组 · 四层行政边界（国家 / 省州 / 县郡 / 区县或市镇）</div>
   </header>
 
   <div class="card controls">
@@ -140,7 +140,7 @@
     <div class="map-meta" id="meta"></div>
     <div class="map-tools"><button id="resetBtn" title="回到全览">重置视图</button></div>
     <div id="tip" class="tip"></div>
-    <div class="hint">滚轮缩放 · 拖拽平移 · 悬停显示区县名 · <span style="color:#1d5a8c">★ 首都</span> · <span style="color:#2a6da3">◆ 省会/副省级市</span></div>
+    <div class="hint">滚轮缩放 · 拖拽平移 · 悬停显示区县 / 市镇名 · <span style="color:#1d5a8c">★ 首都</span> · <span style="color:#2a6da3">◆ 省会/副省级市</span></div>
     <canvas id="map"></canvas>
   </div>
 
@@ -156,7 +156,7 @@
   </div>
 
   <footer>
-    行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 30 国取自 GADM 4.1。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发。<br>
+    行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 30 国取自 GADM 4.1；德国与西班牙的 L4 改用 Eurostat GISCO 的 LAU 2024 市镇边界，分别 10,978 与 8,132 个市镇。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发；LAU 边界署名 © EuroGeographics。城市州在 LAU 里同样是整城一个市镇，柏林看不到 12 个区。<br>
     城市标注为示意（中英文可切换），仅用于快速定位重点城市，非本数据集内容。<br>
     <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）以市域自身充当其区县单元；台湾与香港无区县数据，区县视图下以县市（L3）呈现；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span><br>
     <span class="warn">⚠ 非洲三国：南非四层齐全；埃及、尼日利亚 GADM 仅到县郡（L3）、无区县（L4）数据，区县视图为空。经济都市圈层覆盖三国主要城市（南非 9 城、埃及 7 城、尼日利亚 16 城），南非比勒陀利亚仅为行政首都（另有立法首都开普敦、司法首都布隆方丹）。</span><br>
@@ -181,7 +181,7 @@
 <script src="map_data/ARE_metro.js"></script>
 <script>
 const LEVELS = ['1','2','3','4'];
-const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县'};
+const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县/市镇'};
 
 let country = (window.COUNTRIES && window.COUNTRIES[0]) ? window.COUNTRIES[0].iso3 : '';
 let level = '2';

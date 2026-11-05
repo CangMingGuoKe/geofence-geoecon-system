@@ -61,6 +61,8 @@
 | L3 | 市 / 郡 | ADM2 |
 | L4 | 区县 | ADM3 |
 
+> 德国、西班牙的 L4 不用 GADM ADM3。德国 ADM3 是 4,680 个市镇与联合体混杂的单元，西班牙是 369 个 Comarca 且 79% 的名称是 n.a.(N)，都不能当区县层。两国的 L4 改用 Eurostat GISCO 的 LAU 2024，德国 10,978 个、西班牙 8,132 个市镇，边界署名 © EuroGeographics。整理脚本 `scripts/prepare_lau.py`，加载逻辑见 `scripts/build_interactive_map.py` 的 `extract_lau()`。城市州在 LAU 里仍是整城一个市镇。
+
 每个要素保留 GADM 原始字段，并额外写入两个层级字段：
 
 - `GID_N`：第 N 级唯一编码（如 `FRA.1.1_1`），本体系的空间主键
