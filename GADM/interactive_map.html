@@ -134,6 +134,12 @@
         <label class="switch"><input type="checkbox" id="metroToggle"><span class="slider"></span></label>
       </div>
     </div>
+    <div class="row">
+      <span class="label">城市分区</span>
+      <div class="switch-row">
+        <label class="switch"><input type="checkbox" id="districtToggle"><span class="slider"></span></label>
+      </div>
+    </div>
   </div>
 
   <div class="card map-card">
@@ -157,6 +163,7 @@
 
   <footer>
     行政边界：中国层取自 CTAmap（省市县数据库，断面 2023-12-31），其余 30 国取自 GADM 4.1；德国与西班牙的 L4 改用 Eurostat GISCO 的 LAU 2024 市镇边界，分别 10,978 与 8,132 个市镇。CTAmap 永久免费开放使用但需规范引用，GADM 数据仅限学术 / 非商业使用且不可再分发；LAU 边界署名 © EuroGeographics。城市州在 LAU 里同样是整城一个市镇，柏林看不到 12 个区。<br>
+    <span class="warn">⚠ 城市分区层：柏林 12 个 Bezirk 取自 ALKIS Berlin（GDI Berlin），汉堡 7 个 Bezirk 取自 HH_WFS_Verwaltungsgrenzen。它们是城市内部划分，不属于四层围栏，也不在 LAU 里。</span><br>
     城市标注为示意（中英文可切换），仅用于快速定位重点城市，非本数据集内容。<br>
     <span class="warn">⚠ 中国四层已整体换源至 CTAmap：已含藏南、南海诸岛与三沙市，十段线另作红色线层。四个 2024 至 2026 年新设单元（和康、和安、岑岭、草湖）暂缺；不设区的地级市（东莞、中山、嘉峪关、儋州）以市域自身充当其区县单元；台湾与香港无区县数据，区县视图下以县市（L3）呈现；港澳台的下级单元仍取自 GADM。涉华地图不可作正式出版图，精确边界请改用自然资源部标准地图（带审图号）。</span><br>
     <span class="warn">⚠ 非洲三国：南非四层齐全；埃及、尼日利亚 GADM 仅到县郡（L3）、无区县（L4）数据，区县视图为空。经济都市圈层覆盖三国主要城市（南非 9 城、埃及 7 城、尼日利亚 16 城），南非比勒陀利亚仅为行政首都（另有立法首都开普敦、司法首都布隆方丹）。</span><br>
@@ -179,6 +186,7 @@
 <script src="map_data/PER_metro.js"></script>
 <script src="map_data/MAR_metro.js"></script>
 <script src="map_data/ARE_metro.js"></script>
+<script src="map_data/_city_districts.js"></script>
 <script>
 const LEVELS = ['1','2','3','4'];
 const LEVEL_LABEL = {1:'国家',2:'省州',3:'县郡',4:'区县/市镇'};
@@ -191,9 +199,36 @@ let highlight = null;  // 搜索定位的行政区 {iso3, lv, en, zh}
 let showMetro = false;      // 是否显示经济都市圈图层
 let selectedMetro = null;   // 当前选中的都市圈 id
 let metroCache = {};        // preproject 后的都市圈数据，按国家分别缓存
+let showDistricts = false;  // 柏林 / 汉堡的城市内部分区叠加层
+let districtCache = null;   // preproject 后的分区数据
 // 经济图层按国家挂载：有对应 <ISO3>_METRO 的国家才启用（美国、日本、巴西、沙特、南非、埃及、尼日利亚）
 function metroData(iso3){ return window[iso3 + '_METRO'] || null; }
 function hasMetro(iso3){ return !!metroData(iso3); }
+function districtRaw(){ return window.CITY_DISTRICTS || []; }
+function hasDistricts(iso3){ return districtRaw().some(d => d.iso3 === iso3); }
+function preprojectDistricts(){
+  if(districtCache) return districtCache;
+  districtCache = districtRaw().map(d => {
+    const polys = d.c.map(poly => poly.map(pt => [pt[0], mercY(pt[1])]));
+    let b=[Infinity,Infinity,-Infinity,-Infinity];
+    for(const poly of polys) for(const pt of poly){
+      if(pt[0]<b[0])b[0]=pt[0]; if(pt[0]>b[2])b[2]=pt[0];
+      if(pt[1]<b[1])b[1]=pt[1]; if(pt[1]>b[3])b[3]=pt[1];
+    }
+    return { n:d.n, city:d.city, iso3:d.iso3, gid:d.gid, c:polys, pb:b };
+  });
+  return districtCache;
+}
+function hitTestDistrict(px, py){
+  if(!showDistricts || !hasDistricts(country)) return null;
+  const mx = (px-view.ox)/view.s, my = (py-view.oy)/view.s;
+  for(const d of preprojectDistricts()){
+    if(d.iso3 !== country) continue;
+    if(mx<d.pb[0]||mx>d.pb[2]||my<d.pb[1]||my>d.pb[3]) continue;
+    for(const poly of d.c){ if(pointInPoly([mx,my], poly)) return d; }
+  }
+  return null;
+}
 for(const _iso of ['USA','JPN','BRA','SAU','ZAF','EGY','NGA','MYS','THA','ARG','PER','MAR','ARE']){
   const _ms = window[_iso + '_METRO_SEARCH'];
   if(_ms) window.SEARCH = (window.SEARCH || []).concat(_ms);
@@ -285,7 +320,7 @@ function buildControls(){
     });
     sel.appendChild(grp);
   });
-  sel.onchange = () => { country = sel.value; highlight = null; if(!hasMetro(country)){ showMetro = false; selectedMetro = null; document.getElementById('metroToggle').checked = false; hideMetroDetail(); } syncActive(); ensureCountry(country, () => { fitView(); render(); }); };
+  sel.onchange = () => { country = sel.value; highlight = null; if(!hasMetro(country)){ showMetro = false; selectedMetro = null; document.getElementById('metroToggle').checked = false; hideMetroDetail(); } if(!hasDistricts(country)){ showDistricts = false; document.getElementById('districtToggle').checked = false; } syncActive(); ensureCountry(country, () => { fitView(); render(); }); };
 
   const ls = document.getElementById('levelSeg');
   LEVELS.forEach(lv => {
@@ -307,6 +342,7 @@ function syncActive(){
   document.querySelectorAll('#langSeg button').forEach(b => b.classList.toggle('active', b.dataset.lang===lang));
   document.querySelectorAll('#langSeg button').forEach(b => b.disabled = !showCities);
   document.getElementById('metroToggle').disabled = !hasMetro(country);
+  document.getElementById('districtToggle').disabled = !hasDistricts(country);
 }
 
 function currentFeats(){
@@ -407,6 +443,22 @@ function render(){
     }
   }
 
+  if(showDistricts && hasDistricts(country)){
+    for(const d of preprojectDistricts()){
+      if(d.iso3 !== country) continue;
+      ctx.fillStyle = 'rgba(180,83,9,0.10)';
+      ctx.strokeStyle = '#b45309';
+      ctx.lineWidth = 1.1;
+      ctx.beginPath();
+      for(const poly of d.c){
+        ctx.moveTo(X(poly[0][0]), Y(poly[0][1]));
+        for(let i=1;i<poly.length;i++) ctx.lineTo(X(poly[i][0]), Y(poly[i][1]));
+        ctx.closePath();
+      }
+      ctx.fill('evenodd'); ctx.stroke();
+    }
+  }
+
   if(showCities){
     for(const ct of data.cities){
       const cx=X(ct.x), cy=Y(ct.y);
@@ -486,20 +538,28 @@ window.addEventListener('mousemove', e => {
     lastX=px; lastY=py;
     render();
   } else {
-    const m = hitTestMetro(px, py);
-    if(m){
-      tip.textContent = m.n + ' · ' + m.nm + ' 县 · 匹配 ' + m.nmatch + ' / 缺失 ' + m.nmiss;
+    const d = hitTestDistrict(px, py);
+    if(d){
+      tip.textContent = d.city + ' · ' + d.n + '（城市分区）';
       tip.style.display = 'block';
       tip.style.left = Math.min(px+14, canvas.clientWidth-200) + 'px';
       tip.style.top = (py+14) + 'px';
     } else {
-      const f = hitTest(px,py);
-      if(f){
-        tip.textContent = f.zh ? (f.zh + ' · ' + f.n) : f.n;
+      const m = hitTestMetro(px, py);
+      if(m){
+        tip.textContent = m.n + ' · ' + m.nm + ' 县 · 匹配 ' + m.nmatch + ' / 缺失 ' + m.nmiss;
         tip.style.display = 'block';
-        tip.style.left = Math.min(px+14, canvas.clientWidth-120) + 'px';
+        tip.style.left = Math.min(px+14, canvas.clientWidth-200) + 'px';
         tip.style.top = (py+14) + 'px';
-      } else tip.style.display = 'none';
+      } else {
+        const f = hitTest(px,py);
+        if(f){
+          tip.textContent = f.zh ? (f.zh + ' · ' + f.n) : f.n;
+          tip.style.display = 'block';
+          tip.style.left = Math.min(px+14, canvas.clientWidth-120) + 'px';
+          tip.style.top = (py+14) + 'px';
+        } else tip.style.display = 'none';
+      }
     }
   }
 });
@@ -516,6 +576,10 @@ document.getElementById('metroToggle').addEventListener('change', e => {
   showMetro = e.target.checked;
   if(!showMetro){ selectedMetro = null; hideMetroDetail(); }
   syncActive(); render();
+});
+document.getElementById('districtToggle').addEventListener('change', e => {
+  showDistricts = e.target.checked;
+  render();
 });
 canvas.addEventListener('click', e => {
   if(didDrag) return;

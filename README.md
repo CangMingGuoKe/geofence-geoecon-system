@@ -293,6 +293,8 @@ erDiagram
 
 > **德西区县层已换源**：德国、西班牙的 L4 由 GADM ADM3 改为 Eurostat GISCO 的 LAU 2024 市镇边界。GADM 德国 ADM3 只有 4,680 个市镇与联合体混杂的单元，西班牙是 369 个 Comarca 且 79% 的名称是 n.a.(N)，都不能当区县层。换源后德国 10,978 个市镇、西班牙 8,132 个市镇，检索索引同步增加 14,060 条。柏林、汉堡、不来梅这类城市州在 LAU 中仍是整城一个市镇，12 个区不在官方市镇层里。文本层用 OECD TL2024 与 Eurostat LAU 2024 对应表拼成，构建与核对见本地样例目录 `OECD欧洲数据sample`，地图侧的整理脚本为 `GADM/scripts/prepare_lau.py`。
 
+> **城市分区层**：柏林 12 个 Bezirk 与汉堡 7 个 Bezirk 取自两市官方 WFS（ALKIS Berlin、HH_WFS_Verwaltungsgrenzen），在地图上作为独立叠加层，只在德国下可用。它们是城市内部划分，不属于四层围栏，也不在 LAU 里。构建脚本为 `GADM/scripts/build_city_districts.py`。
+
 ---
 
 ## 二、经济定义层（美国、日本、巴西与沙特四国样例）
