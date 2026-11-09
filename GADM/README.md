@@ -63,7 +63,7 @@
 
 > 德国、西班牙的 L4 不用 GADM ADM3。德国 ADM3 是 4,680 个市镇与联合体混杂的单元，西班牙是 369 个 Comarca 且 79% 的名称是 n.a.(N)，都不能当区县层。两国的 L4 改用 Eurostat GISCO 的 LAU 2024，德国 10,978 个、西班牙 8,132 个市镇，边界署名 © EuroGeographics。整理脚本 `scripts/prepare_lau.py`，加载逻辑见 `scripts/build_interactive_map.py` 的 `extract_lau()`。城市州在 LAU 里仍是整城一个市镇，四层里看不到市内分区。
 
-> 城市分区叠加层共 326 条：德国 95 个（柏林 12、汉堡 7、慕尼黑 25、杜塞尔多夫 10、多特蒙德 12、科隆 9、莱比锡 10、德累斯顿 10），西班牙 20 个主要城市 231 个 distrito。德国取自各市官方开放数据，西班牙取自 INE 普查区。独立叠加层，不并入四层、不进入检索索引。德国其余城市暂无官方分区几何；西班牙全国 8,132 个市镇的完整分区待全国包补齐。构建脚本 `scripts/build_city_districts.py`、`scripts/build_spain_top.py`，数据文件 `map_data/_city_districts.js`，来源写在每条记录的 `src` 字段。
+> 城市分区叠加层共 3,484 条：德国 95 个（柏林 12、汉堡 7、慕尼黑 25、杜塞尔多夫 10、多特蒙德 12、科隆 9、莱比锡 10、德累斯顿 10），西班牙 1,066 个多区市镇 3,389 个 distrito。德国取自各市官方开放数据，西班牙取自 INE 2025 年普查区。独立叠加层，不并入四层、不进入检索索引。德国其余城市暂无官方分区几何。INE 的区数与筛查表在 3 个市镇各差 1 个，数据按几何实际产出保留。构建脚本 `scripts/build_city_districts.py`、`scripts/build_spain_districts.py`，数据文件 `map_data/_city_districts.js`，来源写在每条记录的 `src` 字段。
 
 每个要素保留 GADM 原始字段，并额外写入两个层级字段：
 
